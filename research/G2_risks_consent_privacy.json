@@ -1,0 +1,179 @@
+{
+  "run_id": "trun_3cad0ebea15c480ebe1d914660f8863c",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "Oral History Best Practices - Oral History Association",
+      "url": "https://oralhistory.org/best-practices/"
+    },
+    {
+      "title": "For Participants in Oral History Interviews - Oral History Association",
+      "url": "https://oralhistory.org/for-participants-in-oral-history-interviews/"
+    },
+    {
+      "title": "OHA Principles and Best Practices",
+      "url": "https://oralhistory.org/wp-content/uploads/2022/08/OHA-Principles-and-Best-Practice-Print-Version-Updated-2022.pdf"
+    },
+    {
+      "title": "Release Forms and Agreements - Oral History Toolkit: A How-To and Resource Guide - Guides at University of Pittsburgh",
+      "url": "https://pitt.libguides.com/oralhistorytoolkit/releasesandagreements"
+    },
+    {
+      "title": "OHA Principles and Best Practices",
+      "url": "https://oralhistory.org/wp-content/uploads/2025/12/2025-OHA-PrinciplesBP_For-Participants-in-OH-Interviews.pdf"
+    },
+    {
+      "title": "Archiving Oral History: Manual of Best Practices - Oral History Association",
+      "url": "https://oralhistory.org/archives-principles-and-best-practices-complete-manual/"
+    },
+    {
+      "title": "SAA Core Values Statement and Code of Ethics | Society of American Archivists",
+      "url": "https://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics"
+    },
+    {
+      "title": "Spotlight: Privacy, Academic Freedom, and the Law | Society of American Archivists",
+      "url": "https://www2.archivists.org/groups/oral-history-section/spotlight-privacy-academic-freedom-and-the-law"
+    },
+    {
+      "title": "Privacy and Confidentiality Section | Society of American Archivists",
+      "url": "https://www2.archivists.org/groups/privacy-and-confidentiality-section"
+    },
+    {
+      "title": "The Development of the Oral History Release Form and ...",
+      "url": "https://www2.archivists.org/sites/all/files/SAA%20OHS%20Presentation_David%20Amel%20Olson_Forms,%20Formations,%20and%20Reforms.pdf"
+    },
+    {
+      "title": "Complying with COPPA: Frequently Asked Questions | Federal Trade Commission",
+      "url": "https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions"
+    },
+    {
+      "title": "Children's Privacy | Federal Trade Commission",
+      "url": "https://www.ftc.gov/business-guidance/privacy-security/childrens-privacy"
+    },
+    {
+      "title": "Verifiable Parental Consent and the Children's Online Privacy Rule | Federal Trade Commission",
+      "url": "https://www.ftc.gov/business-guidance/privacy-security/verifiable-parental-consent-childrens-online-privacy-rule"
+    },
+    {
+      "title": "Under COPPA, data deletion isn\u2019t just a good idea. It\u2019s the law. | Federal Trade Commission",
+      "url": "https://www.ftc.gov/business-guidance/blog/2018/05/under-coppa-data-deletion-isnt-just-good-idea-its-law"
+    },
+    {
+      "title": "FTC Posts Blog on Data Deletion Rule under COPPA",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/ftc-posts-blog-data-deletion-rule-coppa"
+    },
+    {
+      "title": "NIST Privacy Framework: Enterprise Privacy Risk Guide (2026)",
+      "url": "https://secureprivacy.ai/blog/nist-privacy-framework"
+    },
+    {
+      "title": "Operational Best Practices for NIST Privacy Framework v1.0",
+      "url": "https://docs.aws.amazon.com/config/latest/developerguide/operational-best-practices-for-nist_privacy_framework.html"
+    },
+    {
+      "title": "Implementing the NIST Privacy Framework \u2013 Control Function | Ankura - JDSupra",
+      "url": "https://www.jdsupra.com/legalnews/implementing-the-nist-privacy-framework-3659265/"
+    },
+    {
+      "title": "CT.DM-P8: Audit/log records are determined, documented, implemented, and reviewed in accordance with policy and incorporating the principle of data minimization - CSF Tools",
+      "url": "https://csf.tools/reference/pf/pf-v1-0/ct-p/ct-dm-p/ct-dm-p8/"
+    },
+    {
+      "title": "SP 800-122, Guide to Protecting the Confidentiality of Personally Identifiable Information (PII) | CSRC",
+      "url": "https://csrc.nist.gov/pubs/sp/800/122/final"
+    },
+    {
+      "title": "Guide to Protecting the Confidentiality of Personally",
+      "url": "https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-122.pdf"
+    },
+    {
+      "title": "(PDF) NIST Special Publication 800-122, Guide to Protecting the Confidentiality of Personally Identifiable Information (PII)",
+      "url": "https://www.researchgate.net/publication/330026479_NIST_Special_Publication_800-122_Guide_to_Protecting_the_Confidentiality_of_Personally_Identifiable_Information_PII"
+    },
+    {
+      "title": "Guide to Protecting the Confidentiality of Personally",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-C13-PURL-LPS114014/pdf/GOVPUB-C13-PURL-LPS114014.pdf"
+    },
+    {
+      "title": "Protecting Personally Identifiable Information",
+      "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=905656"
+    },
+    {
+      "title": "18F Design - TTS Handbook",
+      "url": "https://handbook.tts.gsa.gov/18f/chapters/design/"
+    },
+    {
+      "title": "Privacy policy and procedures guide | GSA",
+      "url": "https://www.gsa.gov/reference/gsa-privacy-program/privacy-policy-and-procedures-guide"
+    },
+    {
+      "title": "Personally Identifiable Information (PII) Processing and ...",
+      "url": "https://www.gsa.gov/system/files/Personally-Identifiable-Information-%28PII%29-Processing-and-Transparency-Controls-%5BCIO-IT-Privacy-24-01.pdf"
+    },
+    {
+      "title": "ux-guide/_pages/research/privacy.md at main \u00b7 18F/ux-guide \u00b7 GitHub",
+      "url": "https://github.com/18F/ux-guide/blob/main/_pages/research/privacy.md"
+    },
+    {
+      "title": "GSA Privacy Program | GSA",
+      "url": "https://www.gsa.gov/reference/gsa-privacy-program"
+    },
+    {
+      "title": "MRSC - Ask MRSC - Public Records & PRA",
+      "url": "https://mrsc.org/research-tools/ask-mrsc-archives/public-records"
+    },
+    {
+      "title": "MRSC - Managing Electronic Records",
+      "url": "https://mrsc.org/explore-topics/public-records/electronic-records/managing-electronic-records"
+    },
+    {
+      "title": "MRSC - Public Records Act FAQs",
+      "url": "https://mrsc.org/explore-topics/public-records/pra/public-records-act-faqs"
+    },
+    {
+      "title": "Public Records Act Basics",
+      "url": "https://mrsc.org/explore-topics/public-records/pra/public-records-act-basics"
+    },
+    {
+      "title": "MRSC - Retention of Email and Other Electronic Records",
+      "url": "https://mrsc.org/explore-topics/public-records/electronic-records/electronic-records-retention"
+    },
+    {
+      "title": "\n  Supplemental Guidance on the Implementation of M-13-13 \u201cOpen Data Policy \u2013 Managing Information as an Asset\u201d  | resources.data.gov\n",
+      "url": "https://resources.data.gov/resources/m-13-13-guidance/"
+    },
+    {
+      "title": "~LJ..f /VL- U.S. ChiefTechnolo~fficer v",
+      "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf"
+    },
+    {
+      "title": "Open Government Data Access and Management Guidance",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/M-25-05-Phase-2-Implementation-of-the-Foundations-for-Evidence-Based-Policymaking-Act-of-2018-Open-Government-Data-Access-and-Management-Guidance.pdf"
+    },
+    {
+      "title": "Open Data Is An Asset! New US Federal Guidance For Reaching Its Full Potential.",
+      "url": "https://www.forrester.com/blogs/13-05-16-open_data_is_an_asset_new_us_federal_guidance_for_reaching_its_full_potential/"
+    },
+    {
+      "title": "Minimizing Disclosure Risk in HHS Open Data Initiatives",
+      "url": "https://aspe.hhs.gov/sites/default/files/private/pdf/77196/rpt_Disclosure.pdf"
+    },
+    {
+      "title": "Ethical reporting guidelines | UNICEF",
+      "url": "https://www.unicef.org/media/reporting-guidelines"
+    },
+    {
+      "title": "Guidelines for journalists reporting on children | UNICEF",
+      "url": "https://www.unicef.org/eca/media/ethical-guidelines"
+    },
+    {
+      "title": "Ethical guidelines for reporting on children | UNICEF Montenegro",
+      "url": "https://www.unicef.org/montenegro/en/ethical-guidelines-reporting-children"
+    },
+    {
+      "title": "UNICEF's Policy on Safeguarding | UNICEF",
+      "url": "https://www.unicef.org/documents/safeguarding-policy"
+    }
+  ]
+}

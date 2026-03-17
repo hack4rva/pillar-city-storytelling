@@ -1,0 +1,191 @@
+{
+  "run_id": "trun_3cad0ebea15c480e83e221d500fa9a2f",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "Breaking Changes - Meta for Developers - Facebook",
+      "url": "https://developers.facebook.com/docs/graph-api/changelog/breaking-changes/%2324-4-2018"
+    },
+    {
+      "title": "v3.0 - Graph API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/graph-api/changelog/version3.0/"
+    },
+    {
+      "title": "Permissions Reference - Graph API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/permissions/"
+    },
+    {
+      "title": "Important Facebook API Changes",
+      "url": "https://theeventscalendar.com/blog/news/important-facebook-api-changes/"
+    },
+    {
+      "title": "Changelog - Graph API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/graph-api/changelog/"
+    },
+    {
+      "title": "Overview - Graph API - Documentation - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/graph-api/overview/"
+    },
+    {
+      "title": "Facebook graph api integration permissions needed for pages_read_engagement while using a test app - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/63844054/facebook-graph-api-integration-permissions-needed-for-pages-read-engagement-whil"
+    },
+    {
+      "title": "facebook graph api - This endpoint requires the 'pages_read_engagement' permission or the 'Page Public Content Access' feature - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/64080287/this-endpoint-requires-the-pages-read-engagement-permission-or-the-page-publi"
+    },
+    {
+      "title": "Is the Meta (Facebook) Graph API /search endpoint for ...",
+      "url": "https://www.reddit.com/r/AskProgramming/comments/1j340tv/is_the_meta_facebook_graph_api_search_endpoint/"
+    },
+    {
+      "title": "App Review - Responsible Platform Initiatives - Documentation - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/resp-plat-initiatives/individual-processes/app-review/"
+    },
+    {
+      "title": "About App Review | Help Center",
+      "url": "https://www.facebook.com/help/1122417471594221"
+    },
+    {
+      "title": "App Review | Developer Documentation",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/solution-providers/app-review/"
+    },
+    {
+      "title": "Navigating the Facebook App Review Process - Dancer's Code",
+      "url": "https://dancerscode.com/posts/navigating-the-facebook-app-review-process/"
+    },
+    {
+      "title": "About app review | Meta Business Help Centre",
+      "url": "https://www.facebook.com/business/help/1122417471594221?locale=en_GB"
+    },
+    {
+      "title": "Upcoming Events - Instagram Platform - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/instagram-platform/instagram-api-with-facebook-login/upcoming-events/"
+    },
+    {
+      "title": "Instagram Graph API: Complete Developer Guide for 2026",
+      "url": "https://elfsight.com/blog/instagram-graph-api-complete-developer-guide-for-2026/"
+    },
+    {
+      "title": "Meta Announces Updates for the Instagram Marketing API | Social Media Today",
+      "url": "https://www.socialmediatoday.com/news/meta-announces-updates-for-the-instagram-marketing-api/807083/"
+    },
+    {
+      "title": "Graph API Reference v25.0: IGUser Upcoming Events",
+      "url": "https://developers.facebook.com/docs/graph-api/reference/shadow-ig-user/upcoming_events/"
+    },
+    {
+      "title": "Instagram APIs | Facebook for Developers",
+      "url": "https://developers.facebook.com/products/instagram/apis/"
+    },
+    {
+      "title": "API Doc Guide | Meetup",
+      "url": "https://www.meetup.com/graphql/guide/"
+    },
+    {
+      "title": "Meetup API Module \u2014 Meetup API  documentation",
+      "url": "http://meetup-api.readthedocs.io/en/latest/meetup_api.html"
+    },
+    {
+      "title": "API Doc Introduction",
+      "url": "https://www.meetup.com/graphql/"
+    },
+    {
+      "title": "API Doc Authentication | Meetup",
+      "url": "https://www.meetup.com/graphql/authentication/"
+    },
+    {
+      "title": "How can I get access to Meetup's API? \u2013 Meetup",
+      "url": "https://help.meetup.com/hc/en-us/articles/41453576628749-How-can-I-get-access-to-Meetup-s-API"
+    },
+    {
+      "title": "What can I achieve through Meetup\u2019s API and what are its limitations? \u2013 Meetup",
+      "url": "https://help.meetup.com/hc/en-us/articles/41455194927373-What-can-I-achieve-through-Meetup-s-API-and-what-are-its-limitations"
+    },
+    {
+      "title": "Are there rate limits when using Meetup\u2019s API? \u2013 Meetup",
+      "url": "https://help.meetup.com/hc/en-us/articles/41467300722061-Are-there-rate-limits-when-using-Meetup-s-API"
+    },
+    {
+      "title": "What is the request url for a Meetup.com API to find all ...",
+      "url": "https://stackoverflow.com/questions/41495142/what-is-the-request-url-for-a-meetup-com-api-to-find-all-events-in-a-particular"
+    },
+    {
+      "title": "Which API authentication should I choose?",
+      "url": "https://help.meetup.com/hc/en-us/articles/41454853218317-Which-API-authentication-should-I-choose"
+    },
+    {
+      "title": "Public Agency Feed API",
+      "url": "https://developer.nextdoor.com/docs/trending-posts-api-copy"
+    },
+    {
+      "title": "Nextdoor for Developers: APIs, Documentation, & Tutorials",
+      "url": "https://developer.nextdoor.com/"
+    },
+    {
+      "title": "Nextdoor Launches Developer Site | Nextdoor",
+      "url": "https://about.nextdoor.com/press-releases/partnerships/nextdoor-launches-developer-site-to-connect-partners-with-the-power-of-local"
+    },
+    {
+      "title": "Nextdoor Launches Ads API Program, Offering Advertisers an Easier Way to Extend Their Campaigns to Nextdoor\u00a0\u00a0 - About Nextdoor",
+      "url": "https://about.nextdoor.com/press-releases/nextdoor-launches-ads-api-program-offering-advertisers-an-easier-way-to-extend-their-campaigns-to-nextdoor"
+    },
+    {
+      "title": "Introduce your public agency on Nextdoor",
+      "url": "https://help.nextdoor.com/s/article/announce-your-nextdoor-partnership"
+    },
+    {
+      "title": "Event - Graph API Reference - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/graph-api/reference/event/"
+    },
+    {
+      "title": "Official Events API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/pages/official-events/"
+    },
+    {
+      "title": "Permission to get events from Facebook Page - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/52640955/permission-to-get-events-from-facebook-page"
+    },
+    {
+      "title": "Graph API Reference /event/attending - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/graph-api/reference/event/attending/"
+    },
+    {
+      "title": "Events Calendar - Richmond CultureWorks",
+      "url": "https://calendar.richmondcultureworks.org/"
+    },
+    {
+      "title": "Calendar of Events in Richmond | Things To Do",
+      "url": "https://www.visitrichmondva.com/events"
+    },
+    {
+      "title": "Arts & Culture Events in Richmond, VA | Entertainment",
+      "url": "https://www.visitrichmondva.com/events/arts-and-culture/"
+    },
+    {
+      "title": "Artsline",
+      "url": "https://www.vpm.org/artsline"
+    },
+    {
+      "title": "Artsline",
+      "url": "https://www.vpm.org/tags/artsline"
+    },
+    {
+      "title": "Page Public Content Access - Graph API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/features-reference/page-public-content-access/"
+    },
+    {
+      "title": "About Business Verification in Meta Business Suite | Meta Business Help Center",
+      "url": "https://www.facebook.com/business/help/1095661473946872"
+    },
+    {
+      "title": "Features Reference - Graph API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/features-reference/"
+    },
+    {
+      "title": "Page Public Metadata Access - Graph API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/features-reference/page-public-metadata-access/"
+    }
+  ]
+}

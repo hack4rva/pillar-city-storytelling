@@ -1,0 +1,175 @@
+{
+  "run_id": "trun_3cad0ebea15c480e9f64718f7580131e",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "API Terms of Use | Eventbrite Help Center",
+      "url": "https://www.eventbrite.com/help/en-us/articles/833731/eventbrite-api-terms-of-use/"
+    },
+    {
+      "title": "Eventbrite Terms of Service | Eventbrite Help Center",
+      "url": "https://www.eventbrite.com/help/en-us/articles/251210/eventbrite-terms-of-service/"
+    },
+    {
+      "title": "Intro to APIs \u2014 Documentation | Eventbrite Platform",
+      "url": "https://www.eventbrite.com/platform/docs/introduction"
+    },
+    {
+      "title": "Rate Limits - Documentation | Eventbrite Platform",
+      "url": "https://www.eventbrite.com/platform/docs/rate-limits"
+    },
+    {
+      "title": "Permissions Reference - Graph API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/permissions/"
+    },
+    {
+      "title": "Facebook Graph API - I suddenly am not getting all events ...",
+      "url": "https://www.reddit.com/r/webdev/comments/16o7yeo/facebook_graph_api_i_suddenly_am_not_getting_all/"
+    },
+    {
+      "title": "Breaking Changes - Meta for Developers - Facebook",
+      "url": "https://developers.facebook.com/docs/graph-api/changelog/breaking-changes/%2324-4-2018"
+    },
+    {
+      "title": "New Facebook Platform Product Changes and Policy Updates",
+      "url": "https://developers.facebook.com/ads/blog/post/v2/2018/04/24/platform-product-changes/"
+    },
+    {
+      "title": "Manage a Page - Facebook Pages API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/pages-api/manage-pages/"
+    },
+    {
+      "title": "How We Collect & Curate - The Valentine Museum",
+      "url": "https://thevalentine.org/learn-and-research/collections/how-we-collect-curate/"
+    },
+    {
+      "title": "Donate an Object FAQ - The Valentine Museum",
+      "url": "https://thevalentine.org/learn-and-research/collections/how-we-collect-curate/donate-an-object-faq/"
+    },
+    {
+      "title": "Deed of Gift",
+      "url": "https://oralhistory.org/deed-of-gift__trashed/"
+    },
+    {
+      "title": "Richmond Stories\u00ae - The Valentine Museum",
+      "url": "https://thevalentine.org/explore/richmond-stories/"
+    },
+    {
+      "title": "Submit a Research Question - The Valentine Museum",
+      "url": "https://thevalentine.org/learn-and-research/research/submit-a-research-question/"
+    },
+    {
+      "title": "Event - Graph API Reference - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/graph-api/reference/event/"
+    },
+    {
+      "title": "Page Public Content Access - Graph API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/features-reference/page-public-content-access/"
+    },
+    {
+      "title": "Page - Graph API Reference - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/graph-api/reference/page/"
+    },
+    {
+      "title": "Facebook pages API: \"Page Public Content Access\" review screencast - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/50455988/facebook-pages-api-page-public-content-access-review-screencast"
+    },
+    {
+      "title": "Guidelines for API Access to Social Media",
+      "url": "https://www.osce.org/files/f/documents/d/b/483644.pdf"
+    },
+    {
+      "title": "Access Levels - Graph API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/graph-api/overview/access-levels/"
+    },
+    {
+      "title": "Features Reference - Graph API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/features-reference/"
+    },
+    {
+      "title": "A Valentine Moment",
+      "url": "https://thevalentine.org/wp-content/uploads/2023/10/annual-report-the-valentine-2019-2020.pdf"
+    },
+    {
+      "title": "The Valentine Museum NAGPRA Procedure Manual",
+      "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Museum-NAGPRA-Procedures-Manual.pdf"
+    },
+    {
+      "title": "StoryCorps General Release Form",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=111985901"
+    },
+    {
+      "title": "StoryCorps Terms of Use",
+      "url": "https://archive.storycorps.org/terms-of-use/"
+    },
+    {
+      "title": "How do I record my story - StoryCorps Help",
+      "url": "https://support.storycorps.me/hc/en-us/articles/115010287467-How-do-I-record-my-story"
+    },
+    {
+      "title": "One Small Step Participant Guide",
+      "url": "https://storycorps.org/discover/onesmallstep/one-small-step-participant-guide/"
+    },
+    {
+      "title": "Terms of Use \u2013 StoryCorps DIY",
+      "url": "https://diy.storycorps.org/terms-of-use/"
+    },
+    {
+      "title": "Terms of Use - coUrbanize",
+      "url": "https://www.courbanize.com/terms-of-use"
+    },
+    {
+      "title": "Community guidelines - coUrbanize",
+      "url": "https://www.courbanize.com/community-guidelines"
+    },
+    {
+      "title": "Privacy Policy - coUrbanize",
+      "url": "https://www.courbanize.com/privacy-policy"
+    },
+    {
+      "title": "2026 Terms of Use Template Generator",
+      "url": "https://www.termsusetemplate.com/"
+    },
+    {
+      "title": "Terms of Use",
+      "url": "https://dc.urbanize.city/tos"
+    },
+    {
+      "title": "\n\tTerms of Use - Esri Community\n",
+      "url": "https://community.esri.com/t5/user/termsofservicepage"
+    },
+    {
+      "title": "Esri Web Site and Service Terms of Use | Esri Legal",
+      "url": "https://www.esri.com/en-us/legal/terms/web-site-service"
+    },
+    {
+      "title": "Untitled",
+      "url": "https://www.arcgis.com/home/termsofuse.html"
+    },
+    {
+      "title": "Online terms of use\u2014ArcGIS Online Help | Documentation",
+      "url": "https://doc.arcgis.com/en/arcgis-online/reference/terms-of-use.htm"
+    },
+    {
+      "title": "Open Data Portal | Richmond",
+      "url": "https://www.rva.gov/information-technology/open-data-portal"
+    },
+    {
+      "title": "Open Data Portal | City of Richmond, Virginia | Open Data Portal | City of Richmond, Virginia",
+      "url": "https://data.richmondgov.com/"
+    },
+    {
+      "title": "Richmond creates FOIA Library, but not all records are eligible | WRIC ABC 8News",
+      "url": "https://www.wric.com/news/local-news/richmond/foia-library-created-restrictions-placed/"
+    },
+    {
+      "title": "Open Data Portal | Richmond",
+      "url": "https://rva.gov/index.php/information-technology/open-data-portal"
+    },
+    {
+      "title": "Business Licenses | Open Data Portal | City of Richmond, Virginia",
+      "url": "https://data.richmondgov.com/Economic-Growth/Business-Licenses/hy5d-7dcv"
+    }
+  ]
+}

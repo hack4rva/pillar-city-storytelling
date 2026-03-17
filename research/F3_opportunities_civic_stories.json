@@ -1,0 +1,227 @@
+{
+  "run_id": "trun_3cad0ebea15c480eac2455a053201c5d",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "Best Practices, Guidelines, and Toolkits - Oral History Association",
+      "url": "https://oralhistory.org/best-practices-guidelines-and-toolkits/"
+    },
+    {
+      "title": "Oral History Best Practices - Oral History Association",
+      "url": "https://oralhistory.org/best-practices/"
+    },
+    {
+      "title": "StoryCorps DIY - StoryCorps",
+      "url": "https://storycorps.org/participate/storycorps-diy/"
+    },
+    {
+      "title": "community Oral History Toolkit - Roberts Library",
+      "url": "https://robertslibrary.org/wp-content/uploads/sites/3/2020/11/Oral-History-Toolkit-final.pdf"
+    },
+    {
+      "title": "Fundamentals \u2013 StoryCorps DIY",
+      "url": "https://diy.storycorps.org/courses/storycorps-diy-fundamental-course/"
+    },
+    {
+      "title": "Release Forms and Agreements - Oral History Toolkit: A How-To and Resource Guide - Guides at University of Pittsburgh",
+      "url": "https://pitt.libguides.com/oralhistorytoolkit/releasesandagreements"
+    },
+    {
+      "title": "OHA Principles and Best Practices",
+      "url": "https://oralhistory.org/wp-content/uploads/2025/12/2025-OHA-PrinciplesBP_Best-Practices.pdf"
+    },
+    {
+      "title": "StoryCorps DIY: Recording the Stories of Your Community",
+      "url": "https://learn.aaslh.org/products/live-webinar-storycorps-diy-recording-the-stories-of-your-community"
+    },
+    {
+      "title": "J.E.B. Stuart Statue Removed From Richmond's Monument Avenue - The New York Times",
+      "url": "https://www.nytimes.com/2020/07/02/us/stonewall-jackson-statue-richmond.html"
+    },
+    {
+      "title": "Witness to Change: The Rise and Fall of Monument Avenue\u2019s Confederate Statues",
+      "url": "https://fairfieldfoundation.org/witness-to-change-the-rise-and-fall-of-monument-avenues-confederate-statues/"
+    },
+    {
+      "title": "A Brief History of Public Housing in the City of Richmond",
+      "url": "https://uncommonwealth.lva.virginia.gov/blog/2025/11/17/a-brief-history-of-public-housing-in-the-city-of-richmond/"
+    },
+    {
+      "title": "Jackson Ward and its Black Wall Street (U.S. National Park Service)",
+      "url": "https://www.nps.gov/articles/000/jackson-ward-and-its-black-wall-street.htm"
+    },
+    {
+      "title": "The Black, Millennial Mayor Who Tore Down His City's ...",
+      "url": "https://www.politico.com/news/magazine/2020/08/09/richmond-mayor-monuments-392706"
+    },
+    {
+      "title": "Maggie L. Walker\u2019s Home Preserves African American Entrepreneurship | National Trust for Historic Preservation",
+      "url": "https://savingplaces.org/stories/maggie-l-walkers-home-preserves-african-american-entrepreneurship"
+    },
+    {
+      "title": "The End of The Confederate Monuments | RVA Unrest",
+      "url": "https://rvaunrest.com/removal-of-richmond-monuments/"
+    },
+    {
+      "title": "Richmond removes final public Confederate statue | PBS News",
+      "url": "https://www.pbs.org/newshour/nation/richmond-removes-final-public-confederate-statue"
+    },
+    {
+      "title": "Consent to Participate in the hear/say Oral History Project ...",
+      "url": "https://oralhistory.org/wp-content/uploads/2022/02/Consent-Form-Hear-Say-project_English.pdf"
+    },
+    {
+      "title": "One Small Step Participant Guide",
+      "url": "https://storycorps.org/discover/onesmallstep/one-small-step-participant-guide/"
+    },
+    {
+      "title": "Forms and templates - Oral History - Methodologies and Sources - LibGuides at Duke University",
+      "url": "https://guides.library.duke.edu/c.php?g=733290&p=5289880"
+    },
+    {
+      "title": "\n        Short Form Consent Template (Spanish) - UW Research    ",
+      "url": "https://www.washington.edu/research/forms-and-templates/short-spanish/"
+    },
+    {
+      "title": "Consent and Assent Form Templates | Human Research Protection Program (HRPP)",
+      "url": "https://irb.ucsf.edu/consent-and-assent-form-templates"
+    },
+    {
+      "title": "MediaRecorder - Web APIs | MDN",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder"
+    },
+    {
+      "title": "Using the MediaStream Recording API - Web APIs | MDN",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API/Using_the_MediaStream_Recording_API"
+    },
+    {
+      "title": "javascript - Media Recorder API browser compatibility - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/76532656/media-recorder-api-browser-compatibility"
+    },
+    {
+      "title": "MediaDevices: getUserMedia() method - Web APIs | MDN",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia"
+    },
+    {
+      "title": "MediaRecorder API | Can I use... Support tables for HTML5, CSS3, etc",
+      "url": "https://caniuse.com/mediarecorder"
+    },
+    {
+      "title": "MediaStream Recording API - MDN Web Docs - Mozilla",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API"
+    },
+    {
+      "title": "MediaRecorder() constructor - Web APIs - MDN - Mozilla",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder/MediaRecorder"
+    },
+    {
+      "title": "MediaDevices - Web APIs | MDN",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices"
+    },
+    {
+      "title": "MediaRecorder: start() method - Web APIs | MDN - Mozilla",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder/start"
+    },
+    {
+      "title": "Fast Facts and Frequently Asked Questions",
+      "url": "https://storycorps.org/discover/the-great-thanksgiving-listen/start-here/"
+    },
+    {
+      "title": "StoryCorps Privacy Policy",
+      "url": "https://archive.storycorps.org/privacy-policy/"
+    },
+    {
+      "title": "\n        How can I access StoryCorps interviews? - Ask a Librarian\n    ",
+      "url": "https://ask.loc.gov/american-folklife/faq/300074"
+    },
+    {
+      "title": "StoryCorps Archiving 101",
+      "url": "https://acf.gov/sites/default/files/documents/otip/StoryCorps_Archiving_101_2.pdf"
+    },
+    {
+      "title": "Privacy and Sharing - StoryCorps Help",
+      "url": "https://support.storycorps.me/hc/en-us/sections/360004509891-Privacy-and-Sharing"
+    },
+    {
+      "title": "Lumpkin's Jail - Encyclopedia Virginia",
+      "url": "https://encyclopediavirginia.org/entries/lumpkins-jail/"
+    },
+    {
+      "title": "Lumpkin's Jail data recovery report ...",
+      "url": "https://www.dhr.virginia.gov/pdf_files/SpecialCollections/Lumpkin's%20Jail%20data%20recovery%20report%20vol.%201%20(research).pdf"
+    },
+    {
+      "title": "Lumpkin's Jail - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lumpkin%27s_Jail"
+    },
+    {
+      "title": "Richmond National Slavery Museum at the Lumpkin's Slave Jail Site | SmithGroup",
+      "url": "https://www.smithgroup.com/projects/richmond-national-slavery-museum-at-the-lumpkins-slave-jail-site"
+    },
+    {
+      "title": "Richmond Slave Trail",
+      "url": "https://www.visitrichmondva.com/listing/richmond-slave-trail/11208/"
+    },
+    {
+      "title": "Richmond Stories\u00ae - The Valentine Museum",
+      "url": "https://thevalentine.org/explore/richmond-stories"
+    },
+    {
+      "title": "Church Hill [Richmond] oral history collection \u2013 Desegregation of Virginia Education (DOVE)",
+      "url": "https://dove.gmu.edu/index.php/2018/10/25/church-hill-richmond-oral-history-collection"
+    },
+    {
+      "title": "\nVCU Oral History Archive Interviews - VCU Libraries Digital Collections - VCU Scholars Compass - Virginia Commonwealth University | VCU Oral History Archive | Virginia Commonwealth University\n",
+      "url": "https://scholarscompass.vcu.edu/ohi_interviews"
+    },
+    {
+      "title": "Oral Histories \u00b7 University of Richmond Race & Racism Project",
+      "url": "https://memory.richmond.edu/exhibits/show/oralhistories"
+    },
+    {
+      "title": "Digital collections - VCU Libraries",
+      "url": "https://www.library.vcu.edu/access/digital-collections"
+    },
+    {
+      "title": "Patrick Henry's Liberty or Death Speech \u2014 Historic St. John's Church, 1741",
+      "url": "https://www.historicstjohnschurch.org/the-speech"
+    },
+    {
+      "title": "250th Anniversary of Patrick Henry's \"Give Me Liberty, Or Give Me Death!\" Speech \u2013 The White House",
+      "url": "https://www.whitehouse.gov/briefings-statements/2025/03/250th-anniversary-of-patrick-henrys-give-me-liberty-or-give-me-death-speech/"
+    },
+    {
+      "title": "Patrick Henry's Speech - Virginia American Revolution 250 Commemoration - VA250",
+      "url": "https://www.va250.org/patrick-henrys-speech/"
+    },
+    {
+      "title": "r. :: ^ : ':' \u2022 - \u2022< \u2022 ; \u2022.. - \u2022 ^ ^-^^^m - NPGallery",
+      "url": "https://npgallery.nps.gov/GetAsset/b36baba0-f262-4053-abe2-eb28c1add53f"
+    },
+    {
+      "title": "Give me liberty or give me death!",
+      "url": "https://en.wikipedia.org/wiki/Give_me_liberty_or_give_me_death!"
+    },
+    {
+      "title": "\"The Greatest Place on Earth\" - Style Weekly",
+      "url": "https://www.styleweekly.com/the-greatest-place-on-earth/"
+    },
+    {
+      "title": "Urban Renewal in Richmond - Encyclopedia Virginia",
+      "url": "https://encyclopediavirginia.org/entries/urban-renewal-in-richmond/"
+    },
+    {
+      "title": "Fulton | Redevelopment in Richmond",
+      "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton"
+    },
+    {
+      "title": "\"Residents Say Fulton Bottom Can Be Saved\"(January 15, 1967) - Encyclopedia Virginia",
+      "url": "https://encyclopediavirginia.org/primary-documents/residents-say-fulton-bottom-can-be-saved-january-15-1967/"
+    },
+    {
+      "title": "Fulton Oral History Project - Encyclopedia Virginia",
+      "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "run_id": "trun_3cad0ebea15c480e9a6aba8c64412f3b",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "Getting Information on Events - Documentation | Eventbrite Platform",
+      "url": "https://www.eventbrite.com/platform/docs/events"
+    },
+    {
+      "title": "API Basics \u2014 Documentation | Eventbrite Platform",
+      "url": "https://www.eventbrite.com/platform/docs/api-basics"
+    },
+    {
+      "title": "Intro to Authentication \u2014 Documentation | Eventbrite Platform",
+      "url": "https://www.eventbrite.com/platform/docs/authentication"
+    },
+    {
+      "title": "\n    Eventbrite for Developers - Eventbrite Platform\n",
+      "url": "https://www.eventbrite.com/platform/api"
+    },
+    {
+      "title": "Get event information using the Eventbrite API",
+      "url": "https://idratherbewriting.com/learnapidoc/docapis_eventbrite_example.html"
+    },
+    {
+      "title": "Calendar - Virginia Museum of Fine Arts",
+      "url": "https://www.vmfa.museum/calendar"
+    },
+    {
+      "title": "Virginia Museum of Fine Arts",
+      "url": "https://www.vmfa.museum/"
+    },
+    {
+      "title": "Program and Event Calendar - Virginia Museum of Fine Arts",
+      "url": "https://www.vmfa.museum/press/program-and-event-calendar"
+    },
+    {
+      "title": "\nG Suite Developers Blog: Calendar API v3 Best Practices: Recurring Events\n",
+      "url": "https://gsuite-developers.googleblog.com/2011/12/calendar-v3-best-practices-recurring.html"
+    },
+    {
+      "title": "Calendar - Institute for Contemporary Art",
+      "url": "https://icavcu.org/calendar/"
+    },
+    {
+      "title": "Institute for Contemporary Art at Virginia Commonwealth University",
+      "url": "https://icavcu.org/"
+    },
+    {
+      "title": "Events Archive - Institute for Contemporary Art",
+      "url": "https://icavcu.org/events/"
+    },
+    {
+      "title": "Events Archive - Page 2 of 50 - Institute for Contemporary Art",
+      "url": "https://icavcu.org/events/page/2/"
+    },
+    {
+      "title": "Redirect - Virginia Commonwealth University",
+      "url": "http://ica.vcu.edu/events/upcoming/"
+    },
+    {
+      "title": "Exploring the API \u2014 Documentation | Eventbrite Platform",
+      "url": "https://www.eventbrite.com/platform/docs/api-explorer"
+    },
+    {
+      "title": "Eventbrite v3 Search API is deprecated. Turning off Feb 20, 2020 \u00b7 Issue #83 \u00b7 Automattic/eventbrite-api \u00b7 GitHub",
+      "url": "https://github.com/Automattic/eventbrite-api/issues/83"
+    },
+    {
+      "title": "\n    Eventbrite for Developers - Eventbrite Platform\n",
+      "url": "https://www.eventbrite.com/developer/v3"
+    },
+    {
+      "title": "Permissions Reference - Graph API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/permissions/"
+    },
+    {
+      "title": "Event - Graph API Reference - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/graph-api/reference/event/"
+    },
+    {
+      "title": "App Review - Responsible Platform Initiatives - Documentation - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/resp-plat-initiatives/individual-processes/app-review/"
+    },
+    {
+      "title": "Access Levels - Graph API - Meta for Developers",
+      "url": "https://developers.facebook.com/docs/graph-api/overview/access-levels/"
+    },
+    {
+      "title": "Facebook events graph API stopped working(Sep 2023)? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/77086231/facebook-events-graph-api-stopped-workingsep-2023"
+    },
+    {
+      "title": "Black History Museum - Richmond",
+      "url": "https://blackhistorymuseum.org/"
+    },
+    {
+      "title": "Events Archive - Black History Museum",
+      "url": "https://blackhistorymuseum.org/event/"
+    },
+    {
+      "title": "Black History Museum & Cultural Center | Richmond VA | Facebook",
+      "url": "https://www.facebook.com/bhmvamuseum"
+    },
+    {
+      "title": "Greg McQuade from... - Black History Museum & Cultural Center | Facebook",
+      "url": "https://www.facebook.com/bhmvamuseum/posts/greg-mcquade-from-cbs6-visited-the-black-history-museum-cultural-center-of-virgi/1172481524608552"
+    },
+    {
+      "title": "\n    Discover Black History Museum Events & Activities in Richmond, VA | Eventbrite\n",
+      "url": "https://www.eventbrite.com/d/va--richmond/black-history-museum/"
+    },
+    {
+      "title": "\n    Eventbrite for Developers - Eventbrite Platform\n",
+      "url": "https://www.eventbrite.com/platform/docs/rate-limits"
+    },
+    {
+      "title": "\n    Eventbrite for Developers - Eventbrite Platform\n",
+      "url": "https://www.eventbrite.com/platform/api#/reference/event-search/list/search-events"
+    },
+    {
+      "title": "Best Caf\u00e9 Event | Thursday Trivia Night - Virginia Museum of Fine Arts",
+      "url": "https://www.vmfa.museum/events/best-cafe-event-thursday-trivia-night-7812"
+    },
+    {
+      "title": "Calendar - Virginia Museum of Fine Arts",
+      "url": "https://www.vmfa.museum/calendar/?ical=1"
+    },
+    {
+      "title": "Calendar - Virginia Museum of Fine Arts",
+      "url": "https://www.vmfa.museum/calendar/exhibitions"
+    },
+    {
+      "title": "2026 VCUarts MFA Thesis Exhibition, Round 1 Opening - Institute for Contemporary Art",
+      "url": "https://icavcu.org/events/2026-vcuarts-mfa-thesis-exhibition-round-1-opening/"
+    },
+    {
+      "title": "Calendar - Institute for Contemporary Art",
+      "url": "https://icavcu.org/calendar/?ical=1"
+    }
+  ]
+}
