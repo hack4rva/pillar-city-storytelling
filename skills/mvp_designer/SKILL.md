@@ -20,5 +20,5 @@ Purpose: Turn an approved opportunity into a concrete MVP plan.
 1) Choose a simple, reliable architecture from build guides.
 2) Define the core user journey and constrain scope to demo essentials.
 3) Map datasets/APIs and note stubs/mocks where needed.
-4) For story collection tools: include consent flow and storage design in the architecture.
-5) Produce acceptance criteria and a day‑by‑day build plan.
+4) Produce acceptance criteria and a day‑by‑day build plan.
+

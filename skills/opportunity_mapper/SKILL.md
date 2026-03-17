@@ -19,5 +19,5 @@ Purpose: Translate research into concrete, buildable solution opportunities.
 1) Synthesize research themes and pain points; cluster into solution patterns.
 2) Outline user outcomes and workflows per pattern.
 3) Identify dependencies, partners, and dataset needs.
-4) Flag consent and representational bias requirements for any story collection pattern.
-5) Compare tradeoffs and recommend a primary direction.
+4) Compare tradeoffs and recommend a primary direction.
+

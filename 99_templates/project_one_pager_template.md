@@ -5,19 +5,19 @@
 ## Team name
 
 ## Pillar
-A City That Tells Its Stories
+Thriving Economy
 
 ## User
-Who is the primary user (Richmond resident seeking arts events, longtime neighborhood resident with stories, arts organization staff, City communications staff)?
+Who is the primary user (contractor, entrepreneur, jobseeker, staff)?
 
 ## Problem
 What exact problem are you solving?
 
 ## Why it matters
-Why does this matter in Richmond? Why now?
+Why does this matter in Richmond?
 
 ## Alignment
-Which A City That Tells Its Stories theme does this align to (arts event discovery, civic storytelling, neighborhood history, oral history access, underrepresented voices)?
+Which Thriving Economy theme does this align to (contracting access, small business navigation, workforce pathways, etc.)?
 
 ## Proposed solution
 What are you building?
@@ -36,22 +36,18 @@ What are you building?
 What will actually work by demo day?
 
 ## What this project does not do
--
--
--
-
-## Consent and accessibility considerations
-- How does consent work for any story or personal data collection?
-- What accessibility barriers did you address (voice input, language, low-digital users)?
-- What representational gaps does this tool have, and where do you acknowledge them?
+- 
+- 
+- 
 
 ## Risks and limitations
--
--
--
+- 
+- 
+- 
 
 ## Demo plan
 What will you show in the live demo?
 
 ## Longer-term potential
-What could this become after the hackathon? Who would own it?
+What could this become after the hackathon?
+

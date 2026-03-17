@@ -1,20 +1,23 @@
-# Perplexity Runner
+# Perplexity Runner (Scaffold)
 
 This folder provides a lightweight scaffold to run the prompts in `05_prompts/research` against the Perplexity API and save results under `05_prompts/research-output`.
 
+You will paste your Perplexity client boilerplate into `px_client.py` (or install your preferred SDK) when ready.
+
 Contents
 - `config.yaml` — central run configuration (model, preset, instructions, search params)
-- `px_client.py` — Perplexity REST client
+- `px_client.py` — placeholder client; paste your boilerplate here
 - `run_one.py` — run a single prompt file and save outputs
 - `run_all.py` — run all prompts in a directory
 - `Makefile` — convenience targets
-- `docs/` — Perplexity prompt/use guidance
+- `docs/` — Perplexity prompt/use guidance (copied to keep usage close to code)
 
-Usage
+Usage (after adding client code)
 1) Copy `.env.example` to `.env` and set `PERPLEXITY_API_KEY`.
-2) Option A: run one prompt
-   - `python 05_prompts/perplexity_runner/run_one.py 05_prompts/research/A1_problem_landscape_arts_discovery.txt`
-3) Option B: run all prompts in a folder
+2) Paste your client boilerplate into `px_client.py` (replace the stub).
+3) Option A: run one prompt
+   - `python 05_prompts/perplexity_runner/run_one.py 05_prompts/research/A1_problem_landscape_mbe_contracting.txt`
+4) Option B: run all prompts in a folder
    - `python 05_prompts/perplexity_runner/run_all.py 05_prompts/research`
 
 Outputs
@@ -34,14 +37,14 @@ Per-prompt configuration
      preset: pro-search
      instructions: |
        You are a Richmond-focused research assistant...
-     search_domain_filter: ["thevalentine.org", "styleweekly.com", "rva.gov"]
+     search_domain_filter: ["mvendor.cgieva.com", "rva.gov"]
      web_search_options:
        search_context_size: high
      ---
      <prompt text continues here>
 
   2) A sibling YAML file with the same basename, e.g.:
-     `A1_problem_landscape_arts_discovery.yaml`
+     `A1_problem_landscape_mbe_contracting.yaml`
      with any subset of the same keys as `config.yaml`.
 
 Precedence
