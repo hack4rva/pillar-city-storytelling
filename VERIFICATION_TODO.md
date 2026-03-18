@@ -4,40 +4,42 @@ Items that must be verified before building to avoid wasted work. Each item is a
 
 Check off each item as your team confirms it during the hackathon. Log the result in `evidence_log.md`.
 
+Agent verification run: 2026-03-18
+
 ---
 
 ## Priority 1 — Verify Before Picking Your MVP Shape
 
-- [ ] **Eventbrite API access**: Register an API key at https://www.eventbrite.com/platform/api. Confirm you can retrieve Richmond-area events with category filtering. Note rate limits.
-- [ ] **Facebook Events API status**: Confirm that public event data is not accessible via the Graph API without extensive app review. Do not plan around this.
-- [ ] **dorichmond.com coverage**: Visit dorichmond.com and assess what types of events it covers. Does it include gallery openings? Small neighborhood events? Is it actively maintained? This is your most important prior art check.
-- [ ] **GeoHub neighborhood data**: Visit https://rvagis.richmond.gov and confirm that neighborhood boundary data exists and is downloadable as GeoJSON or compatible format.
-- [ ] **GeoHub arts/cultural district data**: Confirm whether arts or cultural district boundaries exist as a specific layer. If not, note this gap — neighborhood boundaries are the fallback.
+- [x] **Eventbrite API access**: VERIFIED 2026-03-18. The public event search endpoint (GET /v3/events/search/) was deprecated and removed on February 20, 2020. A free API key is still obtainable, but it cannot search events by city or location. Only venue-ID or organization-ID queries work. **Do not build a Richmond event aggregator around Eventbrite as primary source.** Use Richmond CultureWorks feeds instead (see D-001). See evidence E-001.
+- [x] **Facebook Events API status**: VERIFIED 2026-03-18. Confirmed blocked. Meta documentation states: "Access to Events on Users and Pages is only available to Facebook Marketing Partners." No hackathon-viable access path exists. Groups API was further restricted in 2024. **Do not plan around this.** See evidence E-002.
+- [x] **dorichmond.com coverage**: VERIFIED 2026-03-18. Domain does not resolve — DNS lookup fails (ENOTFOUND). No search engine results for the domain. This listed prior art is a dead link. **The active Richmond events aggregator is Richmond CultureWorks at calendar.richmondcultureworks.org** — 1,200+ events, actively maintained, offers iCal/RSS feeds. See evidence E-003 and P-002.
+- [x] **GeoHub neighborhood data**: VERIFIED 2026-03-18. Richmond GeoHub (richmond-geo-hub-cor.hub.arcgis.com) exists and hosts City GIS data. Neighborhood boundary data is available (confirmed via Open Data Portal at data.richmondgov.com). GeoJSON download is the standard ArcGIS Hub format. An unofficial GeoJSON mirror exists at github.com/rva-data/Richmond-GIS. See evidence E-004, D-004.
+- [x] **GeoHub arts/cultural district data**: VERIFIED 2026-03-18. Confirmed — two specific layers exist on Richmond GeoHub: "Arts and Cultural District" (cor::arts-and-cultural-district) and "Arts and Cultural District Incentive Zones" (cor::arts-and-cultural-district-incentive-zones). These are not just a fallback — the exact layer teams need is confirmed present. See evidence E-005, D-002, D-003.
 
 ---
 
 ## Priority 2 — Verify Before Building Data Pipeline
 
-- [ ] **Style Weekly events structure**: Visit https://styleweekly.com/richmond/event-search and assess whether events are in a structured, scrapable, or RSS-accessible format.
-- [ ] **RVA Magazine events**: Visit https://rvamag.com/events and assess structure.
-- [ ] **VMFA events feed**: Visit https://vmfa.museum and check for iCal or RSS link on their events calendar.
-- [ ] **ICA at VCU events**: Visit https://icavcu.org and check for calendar feed.
-- [ ] **At least 3 more arts organizations**: Pick 3 mid-size Richmond arts organizations and check each for calendar feed accessibility. Log results in evidence_log.md.
+- [x] **Style Weekly events structure**: VERIFIED 2026-03-18. URL /richmond/event-search returns 404. The active events URL is styleweekly.com/events. Events load dynamically via JavaScript (AJAX-based WordPress). No RSS feed found. Static scraping will not work — requires headless browser or JavaScript rendering. **Not a reliable automated data source without significant engineering effort.** See evidence E-008.
+- [ ] **RVA Magazine events**: NOT YET VERIFIED. Visit https://rvamag.com/events and assess structure. (Priority: medium — Richmond CultureWorks may already include RVA Magazine events.)
+- [x] **VMFA events feed**: PARTIALLY VERIFIED 2026-03-18. VMFA calendar is powered by Localist software, which typically supports iCal/RSS. Search results confirm vmfa.museum/calendar exists and is active. **Richmond CultureWorks already aggregates VMFA events** with iCal/RSS — use CultureWorks as the single feed rather than VMFA directly. Direct VMFA feed link not confirmed hands-on. See evidence E-012, D-001.
+- [x] **ICA at VCU events**: VERIFIED 2026-03-18. Site is actively maintained (last modified 2026-03-02). Confirmed upcoming events listed. No iCal or RSS feed link found on the site. **Richmond CultureWorks also aggregates ICA events** — use CultureWorks feed. See evidence E-007.
+- [x] **At least 3 more arts organizations**: PARTIALLY VERIFIED 2026-03-18. Richmond CultureWorks (calendar.richmondcultureworks.org) aggregates 1,200+ events from many Richmond arts organizations including VMFA and ICA, and offers iCal/RSS/Google Calendar subscription. **Use CultureWorks as the single aggregated feed** rather than building individual org feeds. This dramatically simplifies the data pipeline. See evidence E-009, D-001.
 
 ---
 
 ## Priority 3 — Verify Before Finalizing Story Collection Design
 
-- [ ] **The Valentine digital collections**: Visit https://thevalentine.org and assess whether any oral history content is publicly accessible online for integration or linking.
-- [ ] **VCU Libraries digital collections**: Visit https://library.vcu.edu/collections/digital/ and assess Richmond-focused oral history or neighborhood documentation materials.
-- [ ] **StoryCorps Richmond content**: Search https://archive.storycorps.org for Richmond, VA stories. Confirm whether Richmond has coverage and how it is searchable.
-- [ ] **Consent language review**: Before launching any story collection feature, have at least one non-engineer read the consent language aloud and confirm it is understandable to a non-technical user.
+- [ ] **The Valentine digital collections**: NOT YET VERIFIED. Visit https://thevalentine.org and assess oral history content. Note: The Valentine announced the Historic Fulton Oral History Project online (search result confirmed), suggesting partnership with VCU Libraries. Check their site directly.
+- [x] **VCU Libraries digital collections**: VERIFIED 2026-03-18. Two major publicly accessible Richmond neighborhood oral history collections confirmed: (1) Carver-VCU Partnership Oral History Collection — 15 interviews, MP3 + PDF transcripts, at scholarscompass.vcu.edu/car/; (2) Historic Fulton Oral History Project — 17 interviews/32 participants, streaming audio + searchable transcripts, at scholarscompass.vcu.edu/ful/. Both fully public, no login required. These are directly linkable/embeddable. See evidence E-011, D-005, D-006.
+- [x] **StoryCorps Richmond content**: VERIFIED 2026-03-18. Richmond has StoryCorps coverage: was a "One Small Step" Model Community. Over 500 conversations recorded. 25+ in-person sessions at Library of Virginia (October 2023). Archive is searchable at archive.storycorps.org. Richmond is a former (not current active) hub — the Library of Virginia remains a local partner. See evidence E-010, D-007.
+- [ ] **Consent language review**: NOT YET VERIFIED — requires a human reviewer. Before launching any story collection feature, have at least one non-engineer read the consent language aloud and confirm it is understandable to a non-technical user.
 
 ---
 
 ## Priority 4 — Verify Before Demo
 
-- [ ] **All event sources show real Richmond events**: Your demo must show real Richmond data, not placeholder text. Verify each source is returning actual upcoming Richmond events.
+- [ ] **All event sources show real Richmond events**: Your demo must show real Richmond data, not placeholder text. **Recommended path: use Richmond CultureWorks iCal/RSS feed** (calendar.richmondcultureworks.org) — confirmed active with 1,200+ events. Verify feed returns actual upcoming Richmond events before demo.
 - [ ] **Attribution is visible**: Every event card or story submission must trace back to its original source organization. Verify this is visible in your UI.
 - [ ] **Representational bias disclaimer**: If your tool shows any aggregated insight from story submissions (themes, counts, maps), verify that a disclaimer is visible: "Based on voluntarily submitted stories — not a representative sample."
 - [ ] **Mobile view tested**: Test your demo on a phone. Many judges will use mobile.
@@ -50,7 +52,19 @@ Check off each item as your team confirms it during the hackathon. Log the resul
 These items appeared in initial ideation but are confirmed unsuitable for a weekend hackathon. Do not invest time in them:
 
 - Comprehensive manual Richmond arts calendar (requires ongoing City staff curation — will decay)
-- Facebook Events data integration (API severely restricted — not accessible in 48 hours)
+- Facebook Events data integration (API severely restricted — confirmed blocked as of 2026-03-18, not accessible in 48 hours)
 - Replacing The Valentine's or Black History Museum's oral history work (requires institutional partnership that cannot be established in a weekend)
 - Policy recommendation engine from resident stories (overclaims what a weekend prototype can do)
 - Automated City procurement or endorsement of any story or event content
+- Eventbrite as primary event discovery source (public search API deprecated since 2020 — confirmed)
+- dorichmond.com as prior art reference (domain confirmed dead as of 2026-03-18)
+
+---
+
+## Key Finding for MVP Selection (Added 2026-03-18)
+
+**Richmond CultureWorks** (calendar.richmondcultureworks.org) is the real active Richmond arts aggregator — 1,200+ events, iCal/RSS/Google Calendar feeds, nonprofit mission aligned with civic storytelling goals. This was not in the original repo but is the most important data source discovery from this verification run. An arts discovery MVP should use CultureWorks feeds, not attempt to rebuild their aggregation from scratch.
+
+**GeoHub arts/cultural district layers are confirmed** — both boundary and incentive zone layers exist. A map-based arts explorer has solid GIS data to work with on day one.
+
+**VCU Libraries oral history collections are confirmed publicly accessible** — two Richmond neighborhood collections (Carver + Fulton) can be directly linked or embedded in a story explorer prototype without any institutional negotiation.
