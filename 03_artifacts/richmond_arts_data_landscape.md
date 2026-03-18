@@ -8,16 +8,23 @@ Status: All items below are [Unverified] until confirmed during the hackathon. T
 
 ## What Is Likely Accessible
 
-### Eventbrite API — Most Reliable Starting Point
-Eventbrite provides a public REST API for searching events by location. Richmond-area events can be queried by bounding box or city name. The API returns structured JSON with event names, dates, venues, descriptions, categories, and direct URLs.
+### Richmond CultureWorks — Primary Recommended Source (corrected 2026-03-18)
+Richmond CultureWorks (https://calendar.richmondcultureworks.org) is the active Richmond arts event aggregator maintained by a nonprofit. It aggregates 1,200+ events from across Richmond arts organizations.
 
-**Realistic coverage:** Eventbrite is used by many mid-size arts organizations and independent event organizers in Richmond. However, smaller galleries, community arts spaces, and individual artists typically do not list on Eventbrite. Coverage will be uneven — skewing toward ticketed events at established venues.
+**Realistic coverage:** Broad coverage of Richmond arts events including gallery openings, performances, and community events from established organizations. More comprehensive than any single organization feed.
 
-**Access:** API key registration required; free tier available. Rate limits apply. Teams should register an API key before the hackathon starts.
+**Access:** Public iCal feed at `/calendar/1.ics`; RSS feed at `/calendar/1.xml`. No authentication required. Confirmed live and actively maintained.
 
-**What to expect:** Events from venues like Richmond Symphony, some performing arts organizations, and community event organizers. Not comprehensive for visual arts openings or small neighborhood events.
+**What to expect:** Events from VMFA, ICA at VCU, performing arts organizations, galleries, and community events. The most reliable single starting point for a hackathon aggregator.
 
-**Reference:** https://www.eventbrite.com/platform/api
+**Reference:** https://calendar.richmondcultureworks.org
+
+---
+
+### ~~Eventbrite API~~ — Deprecated; Do Not Use as Primary Source (corrected 2026-03-18)
+Eventbrite's public location-based event search API was deprecated and removed on February 20, 2020. There is no public endpoint for searching events by city or bounding box.
+
+**Recommendation:** Do not plan your hackathon MVP around Eventbrite as a data source. Use Richmond CultureWorks as the primary backbone instead.
 
 ---
 
@@ -42,9 +49,11 @@ Many established arts organizations maintain calendar pages with RSS or iCal fee
 ### Style Weekly Events Listings
 Style Weekly is Richmond's alternative weekly with comprehensive arts and entertainment coverage. They maintain event listings on their website.
 
-**What to expect:** Broad coverage of Richmond arts events including gallery openings, performances, and community events. Likely more comprehensive than Eventbrite for small and independent events.
+**What to expect:** Broad coverage of Richmond arts events including gallery openings, performances, and community events.
 
-**Data accessibility:** Unknown. The website is public but whether structured data (RSS, API, or clean HTML) is available for scraping requires direct investigation.
+**Data accessibility:** Not accessible for automated ingestion. Events load via JavaScript (AJAX) — static scraping will not work. No RSS feed is available. (corrected 2026-03-18)
+
+**Recommendation:** Do not plan automated ingestion from Style Weekly. Use as a manual reference or direct users to the site for supplemental browsing.
 
 **Reference:** https://www.styleweekly.com/richmond/event-search
 
@@ -64,10 +73,7 @@ RVA Magazine covers Richmond arts, culture, music, and food. They maintain event
 ## What Is Difficult or Inaccessible
 
 ### Facebook Events
-Facebook's Graph API was severely restricted after the 2018 Cambridge Analytica scandal. Public event data is no longer freely accessible via API for third-party applications. Accessing event data now requires:
-- App registration and review by Meta
-- User authentication for any personal event data
-- Manual browsing for most public event pages
+Facebook's Graph API was severely restricted after the 2018 Cambridge Analytica scandal. Public event data is no longer freely accessible via API for third-party applications. Accessing event data now requires Facebook Marketing Partner status — a formal business relationship not achievable in a hackathon context. (corrected 2026-03-18)
 
 **Recommendation:** Do not plan your hackathon MVP around Facebook Events data. Treat any Facebook event data as inaccessible within a 48-hour window. Note this as a gap in your demo.
 
@@ -87,8 +93,8 @@ The long tail of Richmond's arts scene — individual artists, pop-up events, co
 
 Given the above landscape, a realistic Richmond arts event aggregator built in 48 hours would:
 
-1. **Cover:** Eventbrite events (most reliable); 3-6 RSS/iCal feeds from major arts organizations; Style Weekly or RVA Magazine events if structured access is confirmed
-2. **Miss:** Facebook Events (inaccessible); small gallery and independent artist events (no structured data); word-of-mouth events
+1. **Cover:** Richmond CultureWorks iCal/RSS feed (1,200+ events, the most reliable starting point — corrected 2026-03-18); 2-4 additional RSS/iCal feeds from major arts organizations not already covered by CultureWorks
+2. **Miss:** Facebook Events (Marketing Partner status required — inaccessible); Style Weekly (JavaScript-loaded, no RSS — corrected 2026-03-18); RVA Magazine (no discoverable automated feeds); small gallery and independent artist events (no structured data); word-of-mouth events
 3. **Present:** A unified view with filtering by date, neighborhood (if geocoded), and event type
 4. **Acknowledge:** "This aggregator surfaces events from [specific sources]. It does not cover all Richmond arts events. To add your organization's events, [contact info]."
 

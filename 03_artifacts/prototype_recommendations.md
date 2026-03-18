@@ -10,10 +10,10 @@ Six concept directions across both problem statements. Rated for weekend viabili
 **Viability:** H | **Impact:** H
 
 ### What it is
-A web application that pulls arts and cultural events from multiple public sources (Eventbrite API, RSS feeds from arts organization websites, iCal feeds) and presents them in a single unified, filterable view.
+A web application that pulls arts and cultural events from multiple public sources (Richmond CultureWorks iCal/RSS feed, RSS feeds from arts organization websites) and presents them in a single unified, filterable view.
 
 ### Why it scores well
-- Real APIs and feeds exist today (Eventbrite at minimum)
+- Real feeds exist today — Richmond CultureWorks (calendar.richmondcultureworks.org) aggregates 1,200+ events with stable iCal and RSS feeds (corrected 2026-03-18)
 - Addresses the core pain point from Journey 1 directly
 - No custom content creation required — purely aggregation
 - Sustainable without City staff involvement if sources maintain their own listings
@@ -26,14 +26,15 @@ A web application that pulls arts and cultural events from multiple public sourc
 4. Clicks through to the originating organization's page to get tickets or details
 
 ### Key risks
-- Eventbrite does not cover all Richmond arts events (many galleries do not list there)
-- Facebook Events API is heavily restricted — cannot rely on it
+- Eventbrite public location-search API was deprecated February 2020 — do not use as a data source (corrected 2026-03-18)
+- Facebook Events API requires Facebook Marketing Partner status — not hackathon-viable (corrected 2026-03-18)
+- CultureWorks covers major arts organizations well but may miss hyperlocal or pop-up events
 - RSS feed quality from smaller organizations may be inconsistent
 - Attribution to source organizations is important — do not strip away the originating org
 
 ### Weekend scope
-- Friday: confirm Eventbrite API access; identify 3-5 additional RSS/iCal sources; scaffold basic frontend
-- Saturday: integrate 2-3 data sources; build filter UI; handle edge cases
+- Friday: parse and cache CultureWorks iCal/RSS feed; identify 2-3 additional RSS/iCal sources for organizations not already in CultureWorks; scaffold basic frontend
+- Saturday: integrate data sources; build filter UI; handle edge cases
 - Sunday: polish, demo data seeded, pitch prep
 
 ---
@@ -65,7 +66,7 @@ A simple, mobile-friendly feed of arts and cultural events organized by Richmond
 
 ### Weekend scope
 - Subset of Concept 1 with neighborhood filter; add geocoding of venue addresses to neighborhood polygons
-- Achievable with GeoHub data + Eventbrite API + 2-3 additional sources
+- Achievable with GeoHub data + CultureWorks iCal/RSS feed + 2-3 additional organization feeds (corrected 2026-03-18; Eventbrite public location search API deprecated Feb 2020)
 
 ---
 

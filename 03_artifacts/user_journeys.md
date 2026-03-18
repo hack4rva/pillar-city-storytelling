@@ -34,7 +34,7 @@ Note: Journeys are constructed from the problem statements and rubric context. T
 - What are the "right" local sources to follow?
 
 ### Prototype opportunities
-- Unified Richmond arts event aggregator pulling from Eventbrite + RSS + gallery calendars
+- Unified Richmond arts event aggregator pulling from Richmond CultureWorks iCal/RSS feed (calendar.richmondcultureworks.org) + additional organization RSS/iCal feeds (corrected 2026-03-18; Eventbrite public location search API deprecated Feb 2020)
 - Neighborhood-filtered discovery feed
 - "Arts scene 101" onboarding for new residents (which sources to follow, which districts to explore)
 
