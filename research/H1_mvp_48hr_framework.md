@@ -1,3 +1,25 @@
+---
+title: "Thin-Slice Wins: 48-Hour MVPs for Richmond Arts & Stories"
+pillar: city-storytelling
+section: H
+problem_statement: general
+tags:
+  - 48-hour-framework
+  - demo-path
+  - thin-slice
+  - scope-discipline
+  - failure-patterns
+  - Sunday-2pm
+summary: "Forcing function framework for 48-hour MVP design anchored to demo day: defines the realistic arts discovery demo (5-10 real events, one live source, one filter) and the fundamental split between story collection and story insight scopes."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - H2_mvp_arts_aggregator
+  - H3_mvp_story_collection
+  - F1_opportunities_ranked
+---
+
 # Thin-Slice Wins: 48-Hour MVPs for Richmond Arts & Stories
 
 ## Executive Summary

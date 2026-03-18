@@ -1,3 +1,25 @@
+---
+title: "Richmond Arts Discovery: Fragmented Channels, Missed Audiences, Fixable Gaps"
+pillar: city-storytelling
+section: A
+problem_statement: arts-discovery
+tags:
+  - fragmentation
+  - arts-calendars
+  - Visit-Richmond
+  - Venture-Richmond
+  - CultureWorks
+  - discovery-gaps
+summary: "Detailed mapping of Richmond's fragmented arts discovery ecosystem showing how official channels systematically exclude grassroots and neighborhood events, forcing residents to rely on Reddit for comprehensive event information."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - A4_problem_landscape_cultural_equity
+  - C1_services_arts_orgs_landscape
+  - C2_services_existing_aggregators
+---
+
 # Richmond Arts Discovery: Fragmented Channels, Missed Audiences, Fixable Gaps
 
 ## Executive Summary

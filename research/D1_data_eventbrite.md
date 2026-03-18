@@ -1,3 +1,25 @@
+---
+title: "Eventbrite API for Richmond Arts: Capabilities, Gaps, and a Multi-Source Strategy"
+pillar: city-storytelling
+section: D
+problem_statement: arts-discovery
+tags:
+  - Eventbrite
+  - API
+  - OAuth
+  - arts-aggregation
+  - multi-source-architecture
+  - data-access
+summary: "Technical assessment of Eventbrite API for Richmond arts aggregation: authentication requirements, search endpoint capabilities, pagination limits, and the critical coverage gap where flagship institutions use independent ticketing platforms."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - D2_data_social_media_events
+  - D3_data_rss_calendar_feeds
+  - H2_mvp_arts_aggregator
+---
+
 # Eventbrite API for Richmond Arts: Capabilities, Gaps, and a Multi-Source Strategy
 
 ## Executive Summary

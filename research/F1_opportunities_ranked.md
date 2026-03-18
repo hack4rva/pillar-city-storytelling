@@ -1,3 +1,25 @@
+---
+title: "Richmond Pillar 7 Hackathon: Data-Ready, Demo-Ready Wins in 48 Hours"
+pillar: city-storytelling
+section: F
+problem_statement: general
+tags:
+  - opportunity-ranking
+  - arts-culture-map
+  - neighborhood-history-explorer
+  - story-collection-portal
+  - viability-scoring
+  - GeoHub
+summary: "Ranked viability assessment of seven Pillar 7 opportunity spaces using data availability, technical complexity, demo quality, civic impact, and continuation potential. Arts & culture map leads at 23/25."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - H1_mvp_48hr_framework
+  - D5_data_gis_arts_districts
+  - F2_opportunities_arts_discovery
+---
+
 # Richmond Pillar 7 Hackathon: Data-Ready, Demo-Ready Wins in 48 Hours
 
 ## Executive Summary

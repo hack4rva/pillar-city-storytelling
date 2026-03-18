@@ -53,19 +53,29 @@ Do these first 15–30 minutes to get moving:
 
 ## Repo Map
 
-- Research hub: `research_notes.md`
-- Evidence tracker: `evidence_log.md`
-- Data index: `02_data/00_index.md`
-- Source inventory (CSV): `02_data/source_inventory.csv`
-- Artifacts: `03_artifacts/`
-  - Journeys: `03_artifacts/user_journeys.md`
-  - Prototype recommendations: `03_artifacts/prototype_recommendations.md`
-  - Benchmark scan: `03_artifacts/benchmark_scan.md`
-  - Continuation plan: `03_artifacts/continuation_plan.md`
-  - Arts data landscape: `03_artifacts/richmond_arts_data_landscape.md`
-- Build guides: `04_build_guides/`
-- Prompts + runners: `05_prompts/`
-- Templates: `99_templates/`
+| Directory / File | Purpose |
+|-----------------|---------|
+| `research/` | 51 deep research reports (the core corpus) |
+| `00_core/` | Pillar overview and MAP alignment |
+| `01_problem_space/` | Problem statements (scored) |
+| `02_data/` | Data source inventory and index |
+| `03_artifacts/` | Synthesized artifacts (journeys, recommendations, data landscape) |
+| `04_build_guides/` | MVP shapes, architectures, demo advice |
+| `05_prompts/` | Prompts and runners |
+| `skills/` | Agent skill definitions |
+| `99_templates/` | Team and project templates |
+| `research_notes.md` | Research hub — promoted findings |
+| `evidence_log.md` | Evidence tracker — verified claims |
+
+### Navigation files
+
+| File | Purpose |
+|------|---------|
+| `CORPUS_GUIDE.md` | Canonical orientation for corpus navigation (humans and AI agents) |
+| `manifest.json` | Machine-readable index of all significant files |
+| `research/index.json` | Machine-readable index of all 51 research reports |
+| `research/INDEX.md` | Human-readable table of contents for the research directory |
+| `MAINTENANCE.md` | How to add, update, and synchronize reports and metadata |
 
 ---
 
@@ -257,8 +267,30 @@ Demo:
 You can use Hackbot to reconstruct context, run research, and shape an MVP.
 
 - Boot prompt: `HACKBOT_BOOT_PROMPT.md`
-- Skills: `skills/**/SKILL.md` (repo_memory, problem_scoping, research_runner, dataset_mapper, opportunity_mapper, mvp_designer, risk_review, demo_coach, repo_librarian, continuity_planner)
 - Team profile (recommended): `99_templates/team_profile_template.md`
+
+**Team skills:**
+- `repo_memory` — reconstruct repository state
+- `problem_scoping` — help choose a strong problem
+- `research_runner` — execute research prompts and collect findings
+- `dataset_mapper` — identify usable datasets
+- `opportunity_mapper` — translate research into buildable solutions
+- `mvp_designer` — turn an opportunity into a concrete MVP
+- `risk_review` — prevent civic-tech mistakes (consent, bias, overclaim)
+- `demo_coach` — help teams present effectively
+- `repo_librarian` — navigate repository knowledge
+- `continuity_planner` — identify post-hackathon opportunities
+
+**Research corpus skills:**
+- `research_corpus_navigation` — map a question to the correct section and files
+- `cross_report_synthesis` — synthesize findings with source traceability
+- `evidence_grounded_answering` — answer only from corpus content with uncertainty marking
+- `report_update_protocol` — safely add/update reports and keep indexes in sync
+
+**Hackbot resources:**
+- Corpus guide: `CORPUS_GUIDE.md`
+- Full file manifest: `manifest.json`
+- Research index: `research/index.json`
 
 Notes:
 - Hackbot never invents government programs or civic partnerships. It cites official sources and encourages verification.

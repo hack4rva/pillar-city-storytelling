@@ -1,3 +1,25 @@
+---
+title: "Guardrails That Prevent Harm in Civic Arts & Story Tech"
+pillar: city-storytelling
+section: G
+problem_statement: general
+tags:
+  - guardrails
+  - stale-data
+  - adversarial-content
+  - moderation
+  - anonymity-by-design
+  - harm-prevention
+summary: "Mandatory guardrails for Pillar 7 prototypes covering stale event data handling, adversarial story submissions, consent requirements, and anonymity-by-design. Based on documented failure modes and StoryCorps standards."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - G2_risks_consent_privacy
+  - G1_risks_representational_bias
+  - F5_opportunities_do_not_build
+---
+
 # Guardrails That Prevent Harm in Civic Arts & Story Tech
 
 ## Executive Summary

@@ -1,3 +1,23 @@
+---
+title: "Richmond Stories, Real Tools: Weekend Builds That Last"
+pillar: city-storytelling
+section: context
+problem_statement: general
+tags:
+  - pillar-overview
+  - MAP-2025
+  - arts-discovery
+  - civic-storytelling
+  - hackathon-framing
+summary: "Overview of Pillar 7 framing two core hackathon challenges — arts event discovery and resident civic storytelling — and the MAP 2025 priorities that anchor viable prototypes."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - A1_problem_landscape_arts_discovery
+  - A2_problem_landscape_civic_storytelling
+---
+
 # Richmond Stories, Real Tools: Weekend Builds That Last
 
 ## Executive Summary
