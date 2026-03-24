@@ -72,7 +72,7 @@ The file catalogs the most critical data-holes identified across our 2025-2026 a
 | Risk | Why it matters | Mitigation |
 |------|----------------|------------|
 | **Incomplete remediation** (e.g., missing version tags) | Can cause roll-back failures and security exposure. | Enforce tag-creation policy via pre-merge hook. |
-| **Over-reliance on placeholder text** | Leads to ambiguous ownership and compliance gaps. | Integrate a CI lint rule that flags "REPLACEME", "INSERT", "TBD", "LOREM". |
+| **Over-reliance on placeholder text** | Leads to ambiguous ownership and compliance gaps. | Integrate a CI lint rule that flags `REPLACEME`, `INSERT`, `TBD`, `LOREM`. |
 | **Stale documentation** | New contributors may misinterpret project intent. | Schedule quarterly documentation audits. |
 | **Unresolved "AI disclaimer"** | May undermine confidence in the document's authority. | Replace with a formal reviewer sign-off block. |
 
