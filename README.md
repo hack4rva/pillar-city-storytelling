@@ -19,8 +19,56 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 ---
 
+## The Challenge
+
+**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else — it defines the two problems, the top blue sky vision, data constraints, and exactly how judges will score your solution.
+
+### Problem 1: Discovering and Participating in Richmond's Arts & Cultural Events — 25/32 — Strong
+
+> How might we use technology to improve how residents discover and engage with Richmond's local arts and cultural events so that locally produced creative work is easier to find, support, and experience — while minimizing manual curation?
+
+Build toward: Richmond Arts Aggregator (Eventbrite API, RSS, gallery feeds) · "What's On in RVA" discovery feed · Arts & Cultural District map linked to original sources
+
+⚠ No arts/cultural event data exists in Richmond's open data catalog. Aggregation from existing sources is the only viable path.
+
+---
+
+### Problem 2: Resident Stories as Civic Insight — 25/32 — Strong
+
+> How might we use technology to improve how Richmond gathers and learns from residents' lived experiences so that community stories help inform City decisions, preserve Richmond's social history, and amplify underrepresented voices?
+
+Build toward: Voice-to-Story Portal with guided prompts + consent mechanism · Story-to-Insight Dashboard surfacing themes from submitted narratives · Mobile-friendly guided story interface
+
+⚠ Privacy and consent are non-negotiable. Any story collection tool must be consent-first.
+
+---
+
+### Top Blue Sky: Exploring Richmond Through Its Stories — 24/27 — Exceptional ★ HIGHEST ACROSS ALL 7 PILLARS
+
+> How might we use technology to help residents and visitors explore Richmond's neighborhoods, history, and culture through the stories of the people who shaped them?
+
+Scope to one neighborhood or one story type — not all of Richmond. Jackson Ward jazz history, Church Hill community change, or a story layer on a map are weekend-viable.
+
+---
+
+### Pillar Award Rubric
+
+| Category | Weight | Dominant question |
+|----------|--------|-------------------|
+| **Impact** | **5** | Does this directly address one of the two problems above? |
+| User Value | 4 | Is there a specific real user? Does the prototype improve their experience? |
+| Feasibility | 3 | Could this be piloted by a City or cultural partner within a year? |
+| Innovation | 3 | Fresh thinking on storytelling, discovery, or civic engagement? |
+| Execution | 3 | Does a working demo exist? Is the flow coherent? |
+| Equity | 3 | Does it reach underrepresented voices, not just digitally comfortable users? |
+
+Full rubric with scoring anchors and judge instructions: [`../RUBRIC.md`](../RUBRIC.md)
+
+---
+
 ## Table of Contents
 
+0. [The Challenge](#the-challenge)
 1. Quick Start
 2. Repo Map
 3. Guardrails
@@ -42,7 +90,8 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 Do these first 15–30 minutes to get moving:
 
-1) Read: `QUICKSTART.md`
+1) Read: `CHALLENGE.md` — the two problems, top blue sky, and rubric (start here, not QUICKSTART.md)
+2) Read: `QUICKSTART.md`
 2) Skim: `00_core/00_pillar_overview.md` and `01_problem_space/02_targeted_problem_statements.md`
 3) Capture a 5‑bullet "Working Direction" using `99_templates/working_direction_note.md`
 4) Decide your path:
