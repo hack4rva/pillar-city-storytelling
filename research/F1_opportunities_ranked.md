@@ -20,6 +20,8 @@ related_reports:
   - F2_opportunities_arts_discovery
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Pillar 7 Hackathon: Data-Ready, Demo-Ready Wins in 48 Hours
 
 ## Executive Summary

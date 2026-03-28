@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 
 # RVA Arts Events, Fast: A Practical Map to RSS and iCal Sources
 

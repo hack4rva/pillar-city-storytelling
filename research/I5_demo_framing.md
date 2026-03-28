@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Win the First 15 Seconds: Richmond-Proven Framing That Converts Skeptical Civic Judges
 
 ## Executive Summary

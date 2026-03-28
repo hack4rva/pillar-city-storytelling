@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Verification Research Results
 
 Pillar: City Storytelling (civic narrative, events, oral history, Richmond, VA)

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Benchmark Scan — A City That Tells Its Stories
 
 National and international comparables across both problem statements. Use these for inspiration and for demonstrating credibility to judges ("tools like this have worked in other cities").

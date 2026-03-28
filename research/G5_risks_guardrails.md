@@ -20,6 +20,8 @@ related_reports:
   - F5_opportunities_do_not_build
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Guardrails That Prevent Harm in Civic Arts & Story Tech
 
 ## Executive Summary

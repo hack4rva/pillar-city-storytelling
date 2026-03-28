@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Arts Data Landscape
 
 An assessment of what arts and cultural event data is actually accessible in Richmond and what the realistic options are for a hackathon team building an aggregator.

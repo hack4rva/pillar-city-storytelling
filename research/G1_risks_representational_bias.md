@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Mind the Megaphone: Designing Arts Dashboards that Don't Drown Out Richmond's Quiet Voices
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 # Verification TODO — A City That Tells Its Stories
 
 Items that must be verified before building to avoid wasted work. Each item is a known gap from the rubric working session or a plausible assumption that has not been confirmed.

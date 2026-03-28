@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Blue Sky Problem Statements — A City That Tells Its Stories
 
 These statements were developed before the targeted problem statements. They represent broader, more ambitious framings of the pillar's challenge. They are useful for inspiration and pitch language, but are not the primary focus for weekend MVP development.

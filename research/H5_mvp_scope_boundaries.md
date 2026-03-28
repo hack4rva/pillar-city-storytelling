@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Ship Small, Win Big — 48-Hour MVP Scope That Survives Demo Day
 
 ## Executive Summary

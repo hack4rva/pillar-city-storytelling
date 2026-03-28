@@ -1,8 +1,10 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 <div align="center">
 
-# A City That Tells Its Stories — Decision Funnel
+# A City That Tells Its Stories: Decision Funnel
 
-Richmond Civic Hackathon • March 27–29, 2026
+Richmond Civic Hackathon • March 27-29, 2026
 
 [![Pillar](https://img.shields.io/badge/Pillar-A_City_That_Tells_Its_Stories-8b5cf6)](#)
 [![Stage](https://img.shields.io/badge/Stage-Decision_Funnel-00a38f)](#)
@@ -11,7 +13,7 @@ Richmond Civic Hackathon • March 27–29, 2026
 
 </div>
 
-This is a guided decision environment for teams working on the A City That Tells Its Stories pillar. It's designed to help you quickly choose a credible, source‑linked, weekend‑buildable MVP — and avoid fantasy software.
+This is a guided decision environment for teams working on the A City That Tells Its Stories pillar. It's designed to help you quickly choose a credible, source‑linked, weekend‑buildable MVP and avoid fantasy software.
 
 Journey stages: Land → Orient → Choose → Research → Compare MVPs → Lock Scope → Build → Validate → Demo → Hand‑off
 
@@ -21,11 +23,11 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 ## The Challenge
 
-**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else — it defines the two problems, the top blue sky vision, data constraints, how Pillar Award weights use the shared rubric, and optional per-problem prompts to help your team think about the categories (not a second judge rubric).
+**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else. It covers the two problems, the top blue sky vision, data constraints, and optional per-problem prompts that relate to [`RUBRIC.md`](../RUBRIC.md) for teams preparing their pitch (those prompts are not judge instructions).
 
-### Problem 1: Discovering and Participating in Richmond's Arts & Cultural Events — 25/32 — Strong
+### Problem 1: Discovering and Participating in Richmond's Arts & Cultural Events
 
-> How might we use technology to improve how residents discover and engage with Richmond's local arts and cultural events so that locally produced creative work is easier to find, support, and experience — while minimizing manual curation?
+> How might we use technology to improve how residents discover and engage with Richmond's local arts and cultural events so that locally produced creative work is easier to find, support, and experience ,  while minimizing manual curation?
 
 Build toward: Richmond Arts Aggregator (Eventbrite API, RSS, gallery feeds) · "What's On in RVA" discovery feed · Arts & Cultural District map linked to original sources
 
@@ -33,7 +35,7 @@ Build toward: Richmond Arts Aggregator (Eventbrite API, RSS, gallery feeds) · "
 
 ---
 
-### Problem 2: Resident Stories as Civic Insight — 25/32 — Strong
+### Problem 2: Resident Stories as Civic Insight
 
 > How might we use technology to improve how Richmond gathers and learns from residents' lived experiences so that community stories help inform City decisions, preserve Richmond's social history, and amplify underrepresented voices?
 
@@ -43,26 +45,19 @@ Build toward: Voice-to-Story Portal with guided prompts + consent mechanism · S
 
 ---
 
-### Top Blue Sky: Exploring Richmond Through Its Stories — 24/27 — Exceptional ★ HIGHEST ACROSS ALL 7 PILLARS
+### Top Blue Sky: Exploring Richmond Through Its Stories
 
 > How might we use technology to help residents and visitors explore Richmond's neighborhoods, history, and culture through the stories of the people who shaped them?
 
-Scope to one neighborhood or one story type — not all of Richmond. Jackson Ward jazz history, Church Hill community change, or a story layer on a map are weekend-viable.
+Scope to one neighborhood or one story type ,  not all of Richmond. Jackson Ward jazz history, Church Hill community change, or a story layer on a map are weekend-viable.
 
 ---
 
-### Pillar Award Rubric
+### Rubric reference
 
-| Category | Weight | Dominant question |
-|----------|--------|-------------------|
-| **Impact** | **5** | Does this directly address one of the two problems above? |
-| User Value | 4 | Is there a specific real user? Does the prototype improve their experience? |
-| Feasibility | 3 | Could this be piloted by a City or cultural partner within a year? |
-| Innovation | 3 | Fresh thinking on storytelling, discovery, or civic engagement? |
-| Execution | 3 | Does a working demo exist? Is the flow coherent? |
-| Equity | 3 | Does it reach underrepresented voices, not just digitally comfortable users? |
+Hackathon judges use the category framework in [`../RUBRIC.md`](../RUBRIC.md). Optional prompts in [`CHALLENGE.md`](CHALLENGE.md) help teams prepare their story; they are not instructions to judges.
 
-Official rubric — category definitions, scoring anchors, and judge-facing guidance: [`../RUBRIC.md`](../RUBRIC.md)
+A single-file Markdown handout (same content as `CHALLENGE.md` plus a short cover note) is at [`docs/PARTICIPANT_HANDOUT.md`](docs/PARTICIPANT_HANDOUT.md).
 
 ---
 
@@ -79,7 +74,7 @@ Official rubric — category definitions, scoring anchors, and judge-facing guid
    - Phase 3: Research Spin‑Up
    - Phase 4: Opportunity Framing
    - Phase 5: Scope Lock
-   - Phases 6–9: Build → Validate → Demo
+   - Phases 6-9: Build → Validate → Demo
 5. Verification Workflow
 6. Hackbot Helper
 7. Appendix: Pillar Context & Rubric
@@ -88,15 +83,15 @@ Official rubric — category definitions, scoring anchors, and judge-facing guid
 
 ## Quick Start
 
-Do these first 15–30 minutes to get moving:
+Do these first 15-30 minutes to get moving:
 
-1) Read: `CHALLENGE.md` — the two problems, top blue sky, Pillar Award weights, and optional per-problem rubric prompts (start here, not QUICKSTART.md)
+1) Read: `CHALLENGE.md`  -  the two problems, top blue sky, Pillar Award weights, and optional per-problem rubric prompts (start here, not QUICKSTART.md)
 2) Read: `QUICKSTART.md`
 2) Skim: `00_core/00_pillar_overview.md` and `01_problem_space/02_targeted_problem_statements.md`
 3) Capture a 5‑bullet "Working Direction" using `99_templates/working_direction_note.md`
 4) Decide your path:
-   - Path A — already have a rough problem: jump to Phase 2 and Phase 4
-   - Path B — need help choosing: start at Phase 1 and proceed in order
+   - Path A  -  already have a rough problem: jump to Phase 2 and Phase 4
+   - Path B  -  need help choosing: start at Phase 1 and proceed in order
 
 ---
 
@@ -113,8 +108,8 @@ Do these first 15–30 minutes to get moving:
 | `05_prompts/` | Prompts and runners |
 | `skills/` | Agent skill definitions |
 | `99_templates/` | Team and project templates |
-| `research_notes.md` | Research hub — promoted findings |
-| `evidence_log.md` | Evidence tracker — verified claims |
+| `research_notes.md` | Research hub  -  promoted findings |
+| `evidence_log.md` | Evidence tracker  -  verified claims |
 
 ### Navigation files
 
@@ -131,7 +126,7 @@ Do these first 15–30 minutes to get moving:
 ## Guardrails
 
 - Pick one user, one workflow, and one credible data/doc base.
-- Avoid claiming to collect or represent all Richmond stories — be honest about participation gaps.
+- Avoid claiming to collect or represent all Richmond stories  -  be honest about participation gaps.
 - Always include consent mechanisms for any story collection tool.
 - Always cite official sources. Log every claim in `evidence_log.md`.
 - Keep AI constrained to aggregation, discovery, guided prompting, and theme surfacing.
@@ -141,7 +136,7 @@ Do these first 15–30 minutes to get moving:
 ## Decision Phases
 
 <details open>
-<summary><strong>Phase 0 — Landing & Framing</strong></summary>
+<summary><strong>Phase 0  -  Landing & Framing</strong></summary>
 
 Goal: understand what this repo is and how to use it without "exploring" for two hours.
 
@@ -165,7 +160,7 @@ Call to action: choose Path A or Path B.
 </details>
 
 <details open>
-<summary><strong>Phase 1 — Rapid Orientation (20–30 min)</strong></summary>
+<summary><strong>Phase 1  -  Rapid Orientation (20-30 min)</strong></summary>
 
 Read just enough to build a shared mental model:
 - `QUICKSTART.md`
@@ -178,7 +173,7 @@ Filter for:
 - problems that are software‑shaped vs policy‑shaped
 - where consent and representation risks appear
 
-Team checkpoint — Working Direction (use `99_templates/working_direction_note.md`):
+Team checkpoint  -  Working Direction (use `99_templates/working_direction_note.md`):
 
 ```
 ## Working Direction
@@ -193,7 +188,7 @@ Team checkpoint — Working Direction (use `99_templates/working_direction_note.
 </details>
 
 <details>
-<summary><strong>Phase 2 — Problem Selection (30–45 min)</strong></summary>
+<summary><strong>Phase 2  -  Problem Selection (30-45 min)</strong></summary>
 
 Files:
 - `01_problem_space/01_bluesky_problem_statements.md`
@@ -201,7 +196,7 @@ Files:
 - `00_core/04_solution_patterns.md`
 - `05_prompts/01_problem_selection_prompt.md`
 
-Decision rule — choose only if the problem has:
+Decision rule  -  choose only if the problem has:
 - a real user and understandable workflow
 - a plausible public data/document base
 - a demoable artifact by Sunday
@@ -220,7 +215,7 @@ Output: Decision Memo (`99_templates/decision_memo.md`)
 </details>
 
 <details>
-<summary><strong>Phase 3 — Research Spin‑Up (60–90 min)</strong></summary>
+<summary><strong>Phase 3  -  Research Spin‑Up (60-90 min)</strong></summary>
 
 Goal: gather just enough evidence to avoid fantasy software.
 
@@ -247,7 +242,7 @@ Tip: parse URLs from API metadata; don't ask for URLs in prompt text.
 </details>
 
 <details>
-<summary><strong>Phase 4 — Opportunity Framing (45–60 min)</strong></summary>
+<summary><strong>Phase 4  -  Opportunity Framing (45-60 min)</strong></summary>
 
 Compare at least two MVP shapes before choosing.
 
@@ -273,7 +268,7 @@ Output:
 </details>
 
 <details>
-<summary><strong>Phase 5 — Scope Lock (45–60 min)</strong></summary>
+<summary><strong>Phase 5  -  Scope Lock (45-60 min)</strong></summary>
 
 Pin down must‑haves, mockables, data, AI role, limits, and demo path.
 
@@ -287,7 +282,7 @@ Key sentence:
 </details>
 
 <details>
-<summary><strong>Phases 6–9 — Build → Validate → Demo</strong></summary>
+<summary><strong>Phases 6-9  -  Build → Validate → Demo</strong></summary>
 
 Build:
 - Break work into FE/BE/data/content; assign source verification and demo owner.
@@ -319,22 +314,22 @@ You can use Hackbot to reconstruct context, run research, and shape an MVP.
 - Team profile (recommended): `99_templates/team_profile_template.md`
 
 **Team skills:**
-- `repo_memory` — reconstruct repository state
-- `problem_scoping` — help choose a strong problem
-- `research_runner` — execute research prompts and collect findings
-- `dataset_mapper` — identify usable datasets
-- `opportunity_mapper` — translate research into buildable solutions
-- `mvp_designer` — turn an opportunity into a concrete MVP
-- `risk_review` — prevent civic-tech mistakes (consent, bias, overclaim)
-- `demo_coach` — help teams present effectively
-- `repo_librarian` — navigate repository knowledge
-- `continuity_planner` — identify post-hackathon opportunities
+- `repo_memory`  -  reconstruct repository state
+- `problem_scoping`  -  help choose a strong problem
+- `research_runner`  -  execute research prompts and collect findings
+- `dataset_mapper`  -  identify usable datasets
+- `opportunity_mapper`  -  translate research into buildable solutions
+- `mvp_designer`  -  turn an opportunity into a concrete MVP
+- `risk_review`  -  prevent civic-tech mistakes (consent, bias, overclaim)
+- `demo_coach`  -  help teams present effectively
+- `repo_librarian`  -  navigate repository knowledge
+- `continuity_planner`  -  identify post-hackathon opportunities
 
 **Research corpus skills:**
-- `research_corpus_navigation` — map a question to the correct section and files
-- `cross_report_synthesis` — synthesize findings with source traceability
-- `evidence_grounded_answering` — answer only from corpus content with uncertainty marking
-- `report_update_protocol` — safely add/update reports and keep indexes in sync
+- `research_corpus_navigation`  -  map a question to the correct section and files
+- `cross_report_synthesis`  -  synthesize findings with source traceability
+- `evidence_grounded_answering`  -  answer only from corpus content with uncertainty marking
+- `report_update_protocol`  -  safely add/update reports and keep indexes in sync
 
 **Hackbot resources:**
 - Corpus guide: `CORPUS_GUIDE.md`
@@ -353,31 +348,22 @@ Notes:
 <details>
 <summary>Open context from the Pillar Committee session (March 2, 2026)</summary>
 
-Working Session: March 2, 2026, 9:00 AM – 11:00 AM
+Working Session: March 2, 2026, 9:00 AM - 11:00 AM
 
 Named potential champions: Todd B. Waldo (Shockoe Institute), Meg Hughes (The Valentine), Sylvio Lynch III (History & Culture Commission), Chaya Braxton (Office of Strategic Communications). This pillar has the most natural champions of any pillar.
 
-Rubric Score Summary
-| Statement                                | D1 | D2 | D3 | D4 | D5 | D6 | D7 | D8 | Total | Band   |
-|------------------------------------------|----|----|----|----|----|----|----|----|-------|--------|
-| Arts & Cultural Event Discovery          | 4  | 3  | 2  | 3  | 4  | 3  | 4  | 4  | 27    | Strong |
-| Resident Stories as Civic Insight        | 4  | 3  | 2  | 3  | 4  | 3  | 3  | 4  | 26    | Strong |
+**Workshop comparison (internal):** Committee notes referenced dimensions such as clarity, scope, data readiness, champions, population impact, operating environment, success criteria, and accessibility. See `CHALLENGE.md` and `01_problem_space/` for wording teams should use.
 
-Note: Both statements score 25/32 per rubric document. D8 (Accessibility) = 4 for both — **highest accessibility scores across all seven pillars**.
+Quick-kill flags: both targeted statements lack a continuation pathway.
 
-Dimension key: D1 Clarity | D2 Scope | D3 Data readiness | D4 Champion | D5 Population & impact | D6 Operating environment | D7 Success criteria | D8 Accessibility
-
-Quick‑kill flags: both targeted statements lack a continuation pathway.
-
-Targeted Statement 1: Discovering and Participating in Richmond's Arts & Cultural Events (Score 25/32 — Strong)
+Targeted Statement 1: Discovering and Participating in Richmond's Arts & Cultural Events
 - Problem, context, constraints, success, and gaps are in `01_problem_space/02_targeted_problem_statements.md`.
 
-Targeted Statement 2: Resident Stories as Civic Insight (Score 25/32 — Strong)
+Targeted Statement 2: Resident Stories as Civic Insight
 - Problem, context, constraints, success, and gaps are in `01_problem_space/02_targeted_problem_statements.md`.
 
 Blue Sky Statements
 - See `01_problem_space/01_bluesky_problem_statements.md`.
-- "Exploring Richmond Through Its Stories" scored 24/27 — **highest-scoring blue sky statement across all pillars**.
 
 Prioritized Actions Before March 27, 2026
 1) Name departmental champion (Todd Waldo, Meg Hughes, Sylvio Lynch III, or Chaya Braxton)

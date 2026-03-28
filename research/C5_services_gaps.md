@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Where Richmond's Arts Ecosystem Loses Residents: Crack Points and Fast Fixes
 
 ## Executive Summary

@@ -20,6 +20,8 @@ related_reports:
   - C2_services_existing_aggregators
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Arts Discovery: Fragmented Channels, Missed Audiences, Fixable Gaps
 
 ## Executive Summary

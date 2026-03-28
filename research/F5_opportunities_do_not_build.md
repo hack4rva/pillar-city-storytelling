@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # F5 Opportunities Do Not Build: Strategic Priorities 2025-2026
 
 *Why F5 is consciously stepping back from select product categories and what that means for partners, investors, and customers.*

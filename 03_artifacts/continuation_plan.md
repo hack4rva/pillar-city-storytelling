@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Continuation Plan — A City That Tells Its Stories
 
 Post-hackathon continuation opportunities, potential partners, and next steps. This pillar has more natural champions than any other pillar in the hackathon.

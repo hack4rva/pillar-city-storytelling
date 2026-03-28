@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Targeted Problem Statements — A City That Tells Its Stories
 
 ## 1) Discovering and Participating in Richmond's Arts & Cultural Events

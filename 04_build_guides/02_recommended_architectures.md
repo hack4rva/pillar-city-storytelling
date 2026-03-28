@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Recommended Architectures — A City That Tells Its Stories
 
 Lightweight, weekend-buildable architectures for each MVP shape. All architectures prioritize: fast setup, real data, no infrastructure that requires approval or credentials the team does not already have.

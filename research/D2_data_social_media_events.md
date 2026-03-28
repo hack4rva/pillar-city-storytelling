@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Arts Aggregation in 2026: What Social Event Data You Can Actually Use
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Prototype Recommendations — A City That Tells Its Stories
 
 Six concept directions across both problem statements. Rated for weekend viability (H = high, M = medium, L = low) and civic impact (H = high, M = medium).

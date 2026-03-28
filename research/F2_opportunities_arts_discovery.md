@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 
 # 60-Second Arts Discovery for Richmond — A Judge-Ready Hackathon Blueprint
 

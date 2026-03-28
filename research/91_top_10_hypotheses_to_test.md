@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Building Richmond's Living Arts & Memory Network: What's Viable Now, What's Not
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Unlocking Church Hill’s Living Memory — A trust-first, offline-ready path to engage longtime residents
 
 ## Executive Summary

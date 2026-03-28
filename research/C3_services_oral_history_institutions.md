@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond's Oral Histories, Mapped: Where Stories Live, Who Can Hear Them, What to Build Next
 
 ## Executive Summary

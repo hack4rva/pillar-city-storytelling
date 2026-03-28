@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Data Index — A City That Tells Its Stories
 
 This index covers known and potential data sources for both targeted problem statements in this pillar. Entries are organized by source type. Verification status is marked where known.

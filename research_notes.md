@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 # Research Notes — A City That Tells Its Stories
 
 Use this file to capture findings as your team runs the research prompts in `05_prompts/research/`.

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Cultural Equity in U.S. Arts Sector – Problem Landscape (2022-2026)
 
 *Prepared 26 Mar 2026*

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 # Evidence Log — A City That Tells Its Stories
 
 Log all sources here. Every factual claim in your project should trace back to an entry in this log. Add rows as you research. Flip status from Unverified to Verified when you have personally confirmed the source.

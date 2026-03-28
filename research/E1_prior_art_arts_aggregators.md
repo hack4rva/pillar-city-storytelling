@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Prior-Art Arts Aggregators Landscape
 *An up-to-date reference guide to the most prominent online platforms that aggregate, catalogue or sell visual-arts information and works.*
 

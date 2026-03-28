@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Civic Storytelling MVP: A Credible, Trust-First Demo Blueprint
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Arts B2 Persona: Low-Burden Visibility via Smart Aggregation
 
 ## Executive Summary

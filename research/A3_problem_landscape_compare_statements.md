@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Pillar 7, Right-Now ROI: Choosing Between Arts Discovery and Resident Stories in Richmond
 
 ## Executive Summary

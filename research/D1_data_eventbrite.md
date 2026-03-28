@@ -20,6 +20,8 @@ related_reports:
   - H2_mvp_arts_aggregator
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Eventbrite API for Richmond Arts: Capabilities, Gaps, and a Multi-Source Strategy
 
 ## Executive Summary

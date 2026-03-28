@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # User Journey Maps — A City That Tells Its Stories
 
 Note: Journeys are constructed from the problem statements and rubric context. They are working hypotheses pending verification. Each friction point should reference an `evidence_log.md` id when verified.
