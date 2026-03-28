@@ -32,6 +32,23 @@ Richmond's arts community is vibrant but invisible from the outside. Event infor
 - Arts district boundary data not confirmed in GeoHub — verify before building on it
 - Richmond.com, Style Weekly, or RVA Magazine may have accessible feeds — check before assuming
 
+#### Participant guide: connecting to the rubric (if you chose this problem)
+
+Optional prompts — judges use [`RUBRIC.md`](../../RUBRIC.md).
+
+- **Impact:** Make **local arts/culture events** easier to find and support by aggregating what already exists — not manual City curation fantasy.
+- **User Value:** Resident or visitor who discovers something happening this week with clear links to sources.
+- **Feasibility:** Real APIs/feeds or documented scraping limits; respect partner preferences for how listings appear.
+- **Innovation:** Neighborhood filters, feeds, or map discovery beyond a single static list.
+- **Execution:** Live or sampled aggregation with attribution.
+- **Equity and inclusion:** Surface grassroots and smaller venues, not only big institutions.
+
+**What often works well:** Aggregator with filters, map of districts, clear “source” links.
+
+**What to avoid:** Copying events without attribution or violating partner terms.
+
+*Try asking yourself:* Could someone new to RVA find something to do tonight from **real** feeds?
+
 ---
 
 ### Problem 2: Resident Stories as Civic Insight
@@ -59,6 +76,23 @@ Richmond is experiencing rapid neighborhood change. Long-time residents — espe
 - No existing compiled oral history collection is accessible for weekend use
 - Community storytelling channels for target populations are undocumented — do not assume digital-only
 
+#### Participant guide: connecting to the rubric (if you chose this problem)
+
+Optional prompts — [`RUBRIC.md`](../../RUBRIC.md) is authoritative for judges.
+
+- **Impact:** Capture or structure **resident voice** for insight or preservation with **consent-first** design — not a replacement for museums’ oral history programs.
+- **User Value:** Resident telling a story OR City/partner learning themes — with explicit consent and privacy story.
+- **Feasibility:** Lightweight capture (prompts, mobile); honest about transcription/scale limits.
+- **Innovation:** Consent UX, theme surfacing, or structured narrative without claiming “all Richmond.”
+- **Execution:** Working submit + consent flow or dashboard on sample narratives.
+- **Equity and inclusion:** Underrepresented voices; participation bias called out.
+
+**What often works well:** Guided story capture, consent-first portal, theme dashboard on anonymized/approved samples.
+
+**What to avoid:** No consent, claiming representativeness, or heavy manual pipeline you can’t sustain even as a demo story.
+
+*Try asking yourself:* Would I submit my own story through this flow?
+
 ---
 
 ## The Blue Sky Vision (Highest-Rated Across All 7 Pillars)
@@ -79,25 +113,29 @@ Scope to one neighborhood or one story type — do not try to cover all of Richm
 
 The blue sky is the ceiling. The targeted problem statements above are the floor. A team that builds one of the targeted statements with the blue sky framing in mind will have a compelling pitch for both the Pillar Award and the Moonshot Award.
 
+**Rubric connection (blue sky):** Blends **Problem 2** (stories, place, history) with optional **Problem 1** energy (events/discovery). Use Problem 2’s guide if you lead with narrative; add Problem 1 only where you actually aggregate real event sources.
+
 ---
 
-## How Your Solution Will Be Judged (Pillar Award)
+## Pillar Award: official scoring mechanics
 
-The Pillar Award uses the following weights. For full category definitions and scoring anchors, see [`/RUBRIC.md`](../../RUBRIC.md) at the hackathon root.
+**Authoritative rubric:** [`RUBRIC.md`](../../RUBRIC.md) at the hackathon root.
 
-| Category | Weight | What judges are asking |
-|----------|--------|------------------------|
-| **Impact** | **5** | Does this directly address one of the two problem statements above? |
-| **User Value** | 4 | Is there a specific, real user? Does the prototype improve their experience? |
-| **Feasibility** | 3 | Could this be piloted by a City department or cultural partner within a year? |
-| **Innovation** | 3 | Does the team bring fresh thinking to storytelling, discovery, or civic engagement? |
-| **Execution** | 3 | Does a working demo exist? Is the flow coherent? |
-| **Equity** | 3 | Does the solution reach underrepresented voices, not just digitally comfortable users? |
+**Participant guides** under each problem are optional — **not** binding on judges.
+
+| Category | Weight |
+|----------|--------|
+| **Impact** (targeted civic problem) | **5** |
+| **User Value** | 4 |
+| **Feasibility** / implementability | 3 |
+| **Innovation** / originality | 3 |
+| **Execution** / prototype quality | 3 |
+| **Equity and inclusion** | 3 |
+
+Read **`RUBRIC.md`** for full definitions and anchors.
 
 **Score formula:** Sum of (category score 1–5 × weight). Maximum 105.
 
 **Tiebreaker:** User Value score.
 
-**What wins here:** A prototype that makes Richmond's stories more findable or more useful to the City, built on real sources, scoped to something demonstrable in a weekend.
-
-**What loses here:** Tools claiming to represent "all" Richmond stories, platforms with no consent mechanism, solutions requiring official City endorsement or museum system integration.
+**General tips** (full detail in `RUBRIC.md`): Civic usefulness over complexity; flag fragile assumptions; slides-only → low Execution.
