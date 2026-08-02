@@ -78,5 +78,753 @@
     "excerpt": "Comfortable storytelling channels for older/non-digital residents"
    }
   ]
+ },
+ {
+  "id": "q:community-story-popup-kit-open-questions-0",
+  "question": "Data",
+  "category": "open",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:data",
+   "n:proposal:community-story-popup-kit"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/community-story-popup-kit/jtbd_analysis.md",
+    "sourceLocation": "lines 32-32",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-data-questions-0",
+  "question": "What personally identifiable information (PII) and sensitive narrative elements must be redacted or consent-gated to comply with City privacy policy and minimize risk to residents using the archive?",
+  "category": "data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-personally-identifiable-information-pii-and-sensitive-narrative-elements-mu",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 90-90",
+    "excerpt": "What personally identifiable information (PII) and sensitive narrative elements must be redacted or consent-gated to comply with City privacy policy and minimize risk to residents using the archive?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-data-questions-1",
+  "question": "How will qualitative stories be structured (tags for TPV/PBV pathway, relocation milestone, unit conditions) to align with RRHA ACOP relocation processes and Mosby/Gilpin/Creighton timelines?",
+  "category": "data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-will-qualitative-stories-be-structured-tags-for-tpv-pbv-pathway-relocation-m",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 90-90",
+    "excerpt": "How will qualitative stories be structured (tags for TPV/PBV pathway, relocation milestone, unit conditions) to align with RRHA ACOP relocation processes and Mosby/Gilpin/Creighton timelines?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-data-questions-2",
+  "question": "What is the retention policy, public access level, and appeals/removal process for resident-submitted materials given City open data standards and FOIA considerations?",
+  "category": "data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-is-the-retention-policy-public-access-level-and-appeals-removal-process-for",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 90-90",
+    "excerpt": "What is the retention policy, public access level, and appeals/removal process for resident-submitted materials given City open data standards and FOIA considerations?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-data-questions-3",
+  "question": "Can we technically route anonymized summaries to RRHA Board packets or City Council materials without exposing PII while preserving equity signals?",
+  "category": "data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:can-we-technically-route-anonymized-summaries-to-rrha-board-packets-or-city-coun",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 90-90",
+    "excerpt": "Can we technically route anonymized summaries to RRHA Board packets or City Council materials without exposing PII while preserving equity signals?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-user-questions-0",
+  "question": "What multilingual, low-bandwidth, and assisted-capture options are needed for elders and caregivers in Gilpin/Creighton/Mosby to submit voice/photo/text stories during hectic moves?",
+  "category": "user",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-multilingual-low-bandwidth-and-assisted-capture-options-are-needed-for-elde",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 141-141",
+    "excerpt": "What multilingual, low-bandwidth, and assisted-capture options are needed for elders and caregivers in Gilpin/Creighton/Mosby to submit voice/photo/text stories during hectic moves?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-user-questions-1",
+  "question": "How will we convey no-retaliation guarantees and consent choices (public, restricted, staff-only) to build trust with residents already concerned about lease compliance and privatization risks?",
+  "category": "user",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-will-we-convey-no-retaliation-guarantees-and-consent-choices-public-restrict",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 141-141",
+    "excerpt": "How will we convey no-retaliation guarantees and consent choices (public, restricted, staff-only) to build trust with residents already concerned about lease compliance and privatization risks?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-user-questions-2",
+  "question": "What training and workflows do RRHA relocation counselors need to integrate story capture during relocation assessments without adding burden?",
+  "category": "user",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-training-and-workflows-do-rrha-relocation-counselors-need-to-integrate-stor",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 141-141",
+    "excerpt": "What training and workflows do RRHA relocation counselors need to integrate story capture during relocation assessments without adding burden?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-integration-questions-0",
+  "question": "How will the archive feed the Jackson Ward Community Plan governance and any Joint Gilpin Transformation/Steering Group, RRHA Board citizen comment, and City Council oversight so stories demonstrably affect decisions (timelines, replacement unit commitments, supports)?",
+  "category": "integration",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-will-the-archive-feed-the-jackson-ward-community-plan-governance-and-any-joi",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 180-180",
+    "excerpt": "How will the archive feed the Jackson Ward Community Plan governance and any Joint Gilpin Transformation/Steering Group, RRHA Board citizen comment, and City Council oversight so stories demonstrably affect decisions (timelines, replacement unit commitments, supports)?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-integration-questions-1",
+  "question": "What fields must align with RRHA’s relocation intake and project phasing (e.g., Creighton Phase A lease-up, Mosby relocation assessments, Gilpin unit replacement planning) to produce actionable dashboards?",
+  "category": "integration",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-fields-must-align-with-rrha-s-relocation-intake-and-project-phasing-e-g-cre",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 180-180",
+    "excerpt": "What fields must align with RRHA’s relocation intake and project phasing (e.g., Creighton Phase A lease-up, Mosby relocation assessments, Gilpin unit replacement planning) to produce actionable dashboards?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-integration-questions-2",
+  "question": "Can the platform produce meeting-ready briefs mapped to HUD Section 18 application requirements (unit replacement, services) to satisfy mayoral support conditions?",
+  "category": "integration",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:can-the-platform-produce-meeting-ready-briefs-mapped-to-hud-section-18-applicati",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 180-180",
+    "excerpt": "Can the platform produce meeting-ready briefs mapped to HUD Section 18 application requirements (unit replacement, services) to satisfy mayoral support conditions?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-equity-questions-0",
+  "question": "How will we ensure right-to-return and on/off-site replacement commitments are tracked in stories, highlighting barriers (voucher acceptance, eligibility) faced by specific households?",
+  "category": "equity",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-will-we-ensure-right-to-return-and-on-off-site-replacement-commitments-are-t",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 219-219",
+    "excerpt": "How will we ensure right-to-return and on/off-site replacement commitments are tracked in stories, highlighting barriers (voucher acceptance, eligibility) faced by specific households?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-equity-questions-1",
+  "question": "What safeguards protect residents who report poor conditions or service gaps from adverse housing consequences, and who enforces them across RRHA/RDC/City partners?",
+  "category": "equity",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-safeguards-protect-residents-who-report-poor-conditions-or-service-gaps-fro",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 219-219",
+    "excerpt": "What safeguards protect residents who report poor conditions or service gaps from adverse housing consequences, and who enforces them across RRHA/RDC/City partners?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-equity-questions-2",
+  "question": "How do we ensure participation from residents least likely to be heard (non-leaseholders, youth, disabled residents) and from each site cluster, not just organized tenant leaders?",
+  "category": "equity",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-do-we-ensure-participation-from-residents-least-likely-to-be-heard-non-lease",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 219-219",
+    "excerpt": "How do we ensure participation from residents least likely to be heard (non-leaseholders, youth, disabled residents) and from each site cluster, not just organized tenant leaders?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-prior-art-questions-0",
+  "question": "Which Richmond storytelling efforts (e.g., JXN Project, Valentine collaborations) offer models for reparative history, consent, and community governance that we can adapt for displacement memory?",
+  "category": "prior_art",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:which-richmond-storytelling-efforts-e-g-jxn-project-valentine-collaborations-off",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 258-258",
+    "excerpt": "Which Richmond storytelling efforts (e.g., JXN Project, Valentine collaborations) offer models for reparative history, consent, and community governance that we can adapt for displacement memory?"
+   }
+  ]
+ },
+ {
+  "id": "q:displacement-memory-archive-prior-art-questions-1",
+  "question": "Which external displacement/oral-history archives provide applicable intake schemas and governance for integrating qualitative narratives into planning decisions without harming participants?",
+  "category": "prior_art",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:which-external-displacement-oral-history-archives-provide-applicable-intake-sche",
+   "n:proposal:displacement-memory-archive"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+    "sourceLocation": "lines 258-258",
+    "excerpt": "Which external displacement/oral-history archives provide applicable intake schemas and governance for integrating qualitative narratives into planning decisions without harming participants?"
+   }
+  ]
+ },
+ {
+  "id": "q:fulton-oral-history-data-questions-0",
+  "question": "What descriptive and rights metadata standard will we use (e.g., Dublin Core + local fields for displacement context, interviewer, location, consent scope), and can it align with VCU Libraries/Valentine practices for interoperability? How will consent be captured (tiered/public, time-bound, withdrawal, sensitive-topics flags), and how will FOIA in Virginia impact access to recordings stored on city infrastructure? What are our preservation and redundancy plans (formats like WAV/FLAC masters + MP3/MP4 derivatives, checksums, cloud + local, deposit with VCU/Valentine/Library of Virginia)? How will we geolocate or otherwise situate stories when original streets/structures were demolished or renamed in Historic Fulton? Can we tag stories with policy-relevant themes (housing, schools, churches, displacement dates, RRHA interactions) without distorting narratives?",
+  "category": "data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-descriptive-and-rights-metadata-standard-will-we-use-e-g-dublin-core-local-",
+   "n:proposal:fulton-oral-history"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/fulton-oral-history/jtbd_analysis.md",
+    "sourceLocation": "lines 86-86",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:fulton-oral-history-user-questions-0",
+  "question": "What support do Fulton elders need to participate (phone hotlines, in-home/onsite recording, transportation, stipends, trauma-informed facilitation)? What multilingual or accessibility accommodations are needed (captions/transcripts, large-print, screen-reader compatibility, TTY relay)? How will we recruit beyond well-connected networks (church rosters, school alumni, the Historic Fulton Reunion, Neighborhood Resource Center) to reach quieter or displaced voices living outside Richmond? What feedback loop will show residents how their stories influenced a specific decision (e.g., citations in staff reports, StoryMap embeds in Council presentations)?",
+  "category": "user",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-support-do-fulton-elders-need-to-participate-phone-hotlines-in-home-onsite-",
+   "n:proposal:fulton-oral-history"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/fulton-oral-history/jtbd_analysis.md",
+    "sourceLocation": "lines 93-93",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:fulton-oral-history-integration-questions-0",
+  "question": "Which partners will hold long-term stewardship: VCU Libraries (Scholars Compass), The Valentine, Library of Virginia, and how will deposits/ingest be automated from the tool? How will the city surface stories in public engagement tools (RVA.gov pages, ArcGIS StoryMaps, planning portals) with clear rights/attribution and without tokenizing content? Can we cross-link to existing Historic Fulton interviews in VCU/Encyclopedia Virginia so users see prior testimonies alongside new ones? What internal city workflows (planning, housing, arts/culture) will regularly consume and reference stories, and who owns maintenance?",
+  "category": "integration",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:which-partners-will-hold-long-term-stewardship-vcu-libraries-scholars-compass-th",
+   "n:proposal:fulton-oral-history"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/fulton-oral-history/jtbd_analysis.md",
+    "sourceLocation": "lines 100-100",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:fulton-oral-history-equity-questions-0",
+  "question": "What governance model ensures community control (advisory board of Fulton residents/descendants) over policies like access tiers, takedown requests, and use in contentious projects? How will we compensate interviewees and community interviewers fairly and transparently? How do we prevent harm when stories reference traumatic events or individuals (content warnings, anonymization options, redaction workflows)? How will we avoid privileging polished narratives over quiet voices—e.g., allowing low-bandwidth phone submissions, text-to-voice, or facilitated sessions?",
+  "category": "equity",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-governance-model-ensures-community-control-advisory-board-of-fulton-residen",
+   "n:proposal:fulton-oral-history"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/fulton-oral-history/jtbd_analysis.md",
+    "sourceLocation": "lines 107-107",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:fulton-oral-history-prior-art-questions-0",
+  "question": "How will we build on VCU’s Historic Fulton Oral History Project (2011–2012) and related Encyclopedia Virginia excerpts to avoid duplication and provide continuity (shared identifiers, cross-collection search)? What lessons from Richmond’s prior urban-renewal documentation (Jackson Ward, 17th Street, Carver) inform Fulton tagging, timelines, and context panels? Which local exhibits/initiatives (Valentine programs, Library of Virginia’s Virginia Memory, VPM history series) can host or amplify outputs under the city’s “tells its stories” pillar?",
+  "category": "prior_art",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-will-we-build-on-vcu-s-historic-fulton-oral-history-project-2011-2012-and-re",
+   "n:proposal:fulton-oral-history"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/fulton-oral-history/jtbd_analysis.md",
+    "sourceLocation": "lines 114-114",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:vecina-data-questions-0",
+  "question": "Which sources provide bulk or structured feeds/APIs (e.g., CultureWorks, Venture Richmond, VisitRichmondVA, VPM/Style Weekly, Richmond.com), and what are their terms for reuse/scraping?",
+  "category": "data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:which-sources-provide-bulk-or-structured-feeds-apis-e-g-cultureworks-venture-ric",
+   "n:proposal:vecina"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/vecina/jtbd_analysis.md",
+    "sourceLocation": "lines 105-105",
+    "excerpt": "Which sources provide bulk or structured feeds/APIs (e.g., CultureWorks, Venture Richmond, VisitRichmondVA, VPM/Style Weekly, Richmond.com), and what are their terms for reuse/scraping?"
+   }
+  ]
+ },
+ {
+  "id": "q:vecina-user-questions-0",
+  "question": "Which neighborhoods and demographics are currently underserved by existing calendars (e.g., Southside vs. Downtown/Scott’s Addition), and what are their preferred channels for discovering information?",
+  "category": "user",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:which-neighborhoods-and-demographics-are-currently-underserved-by-existing-calen",
+   "n:proposal:vecina"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/vecina/jtbd_analysis.md",
+    "sourceLocation": "lines 116-116",
+    "excerpt": "Which neighborhoods and demographics are currently underserved by existing calendars (e.g., Southside vs. Downtown/Scott’s Addition), and what are their preferred channels for discovering information?"
+   }
+  ]
+ },
+ {
+  "id": "q:vecina-integration-questions-0",
+  "question": "Can vecina offer a single submission that syndicates to Style Weekly (feeding VPM Artsline), CultureWorks, Venture Richmond, and VisitRichmondVA via APIs or email bridges?",
+  "category": "integration",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:can-vecina-offer-a-single-submission-that-syndicates-to-style-weekly-feeding-vpm",
+   "n:proposal:vecina"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/vecina/jtbd_analysis.md",
+    "sourceLocation": "lines 127-127",
+    "excerpt": "Can vecina offer a single submission that syndicates to Style Weekly (feeding VPM Artsline), CultureWorks, Venture Richmond, and VisitRichmondVA via APIs or email bridges?"
+   }
+  ]
+ },
+ {
+  "id": "q:vecina-equity-questions-0",
+  "question": "How will vecina remain usable for residents with slower internet or mobile-only access, and can it incorporate low-bandwidth or SMS options to serve the ~9.7% of Richmond households without an internet subscription?",
+  "category": "equity",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-will-vecina-remain-usable-for-residents-with-slower-internet-or-mobile-only-",
+   "n:proposal:vecina"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/vecina/jtbd_analysis.md",
+    "sourceLocation": "lines 138-138",
+    "excerpt": "How will vecina remain usable for residents with slower internet or mobile-only access, and can it incorporate low-bandwidth or SMS options to serve the ~9.7% of Richmond households without an internet subscription?"
+   }
+  ]
+ },
+ {
+  "id": "q:vecina-prior-art-questions-0",
+  "question": "Where do current calendars excel vs. fall short: CultureWorks’ broad arts coverage, Venture Richmond’s downtown focus, Style Weekly/VPM’s media reach, VisitRichmondVA’s visitor lens, and The Richmond Experience’s curation? What unique gap will vecina own (hyperlocal, equity-first, permit-to-calendar automation, transit-aware recommendations)?",
+  "category": "prior_art",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:where-do-current-calendars-excel-vs-fall-short-cultureworks-broad-arts-coverage-",
+   "n:proposal:vecina"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/vecina/jtbd_analysis.md",
+    "sourceLocation": "lines 149-149",
+    "excerpt": "Where do current calendars excel vs. fall short: CultureWorks’ broad arts coverage, Venture Richmond’s downtown focus, Style Weekly/VPM’s media reach, VisitRichmondVA’s visitor lens, and The Richmond Experience’s curation? What unique gap will vecina own (hyperlocal, equity-first, permit-to-calendar automation, transit-aware recommendations)?"
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-data-questions-0",
+  "question": "Which canonical sources reliably cover the metro (City of Richmond plus Henrico, Chesterfield, Hanover) for arts/culture, and do they offer feeds/APIs (e.g., Style Weekly/Artsline, VisitRichmond, CultureWorks/artoberVA, VMFA, ICA at VCU, Dominion Energy Center, Richmond Public Library/LibCal)?",
+  "category": "data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:which-canonical-sources-reliably-cover-the-metro-city-of-richmond-plus-henrico-c",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 101-101",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-data-questions-1",
+  "question": "Can we legally/ethically scrape/ingest event data from each source (terms, rate limits, copyright) or secure data-sharing MOUs? Who owns the canonical record for updates/cancellations?",
+  "category": "data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:can-we-legally-ethically-scrape-ingest-event-data-from-each-source-terms-rate-li",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 101-101",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-data-questions-2",
+  "question": "What taxonomy should we standardize (genre, neighborhood/districts like Jackson Ward, Scott’s Addition, Manchester, Church Hill; price; accessibility features; family-friendly; transit) and can we map source fields reliably?",
+  "category": "data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-taxonomy-should-we-standardize-genre-neighborhood-districts-like-jackson-wa",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 101-101",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-data-questions-3",
+  "question": "How will we de-duplicate identical events syndicated to Style Weekly, Artsline, VisitRichmond, Eventbrite, Facebook, and venue pages?",
+  "category": "data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-will-we-de-duplicate-identical-events-syndicated-to-style-weekly-artsline-vi",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 101-101",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-user-questions-0",
+  "question": "Which primary user segments in RVA will we optimize for first (city residents; VCU/UR students; families; visitors; older adults; new arrivals; neighborhood connectors; arts workers)?",
+  "category": "user",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:which-primary-user-segments-in-rva-will-we-optimize-for-first-city-residents-vcu",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 152-152",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-user-questions-1",
+  "question": "What decision filters matter most locally (date/time, free/low-cost, kid-friendly, bus-accessible via GRTC Pulse, parking, ADA details, neighborhood safety/lighting)?",
+  "category": "user",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-decision-filters-matter-most-locally-date-time-free-low-cost-kid-friendly-b",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 152-152",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-user-questions-2",
+  "question": "How do Richmonders prefer discovery: weekly curated lists, map view by neighborhood, “this weekend,” First Fridays highlights, or push alerts for last-minute plans?",
+  "category": "user",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-do-richmonders-prefer-discovery-weekly-curated-lists-map-view-by-neighborhoo",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 152-152",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-user-questions-3",
+  "question": "What trust signals do Richmond users need (source-of-truth badge, verified organizer, ticket availability, weather/venue change alerts, cancellation timestamp)?",
+  "category": "user",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-trust-signals-do-richmond-users-need-source-of-truth-badge-verified-organiz",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 152-152",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-integration-questions-0",
+  "question": "Which partners will provide or accept syndicated feeds: Style Weekly (feeding VPM Artsline), VisitRichmond, RVAHub, CultureWorks, libraries, major venues (Dominion Energy Center/Carpenter Theatre, VMFA, ICA at VCU), and university arts calendars (UR Modlin Center, VCUarts)?",
+  "category": "integration",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:which-partners-will-provide-or-accept-syndicated-feeds-style-weekly-feeding-vpm-",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 203-203",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-integration-questions-1",
+  "question": "Can we support both ingest (iCal, RSS, JSON, HTML scraping) and publish/syndicate out (embeddable widgets for neighborhood orgs, libraries, and venues)?",
+  "category": "integration",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:can-we-support-both-ingest-ical-rss-json-html-scraping-and-publish-syndicate-out",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 203-203",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-integration-questions-2",
+  "question": "What is the minimal single-submission flow for organizers (accept Style Weekly/Artsline form as input; accept Eventbrite/Facebook/Google Calendar links; or provide a Richmond-standard form with auto-post to partners)?",
+  "category": "integration",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-is-the-minimal-single-submission-flow-for-organizers-accept-style-weekly-ar",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 203-203",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-equity-questions-0",
+  "question": "How will we reach and surface events from Black- and Brown-led orgs, immigrant communities, Southside/East End venues, and non-traditional spaces that don’t post to mainstream calendars?",
+  "category": "equity",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-will-we-reach-and-surface-events-from-black-and-brown-led-orgs-immigrant-com",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 242-242",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-equity-questions-1",
+  "question": "What access features will we capture and display (ASL, captions, scent-free, mobility access, sliding-scale/pay-what-you-will) and how do we keep that data fresh?",
+  "category": "equity",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-access-features-will-we-capture-and-display-asl-captions-scent-free-mobilit",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 242-242",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-equity-questions-2",
+  "question": "How do we ensure mobile-first, low-bandwidth performance and offline-friendly lists for residents impacted by the digital divide; can we partner with libraries/community centers for kiosks or printed guides?",
+  "category": "equity",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-do-we-ensure-mobile-first-low-bandwidth-performance-and-offline-friendly-lis",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 242-242",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-equity-questions-3",
+  "question": "How can the project actively support the 'telling the truth about its past' aspect of the city's pillar, for instance by highlighting events related to Black history and cultural storytelling?",
+  "category": "equity",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-can-the-project-actively-support-the-telling-the-truth-about-its-past-aspect",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 242-242",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-prior-art-questions-0",
+  "question": "What is the exact workflow link between Style Weekly submissions and VPM Artsline syndication; can we integrate with that pipeline instead of duplicating it?",
+  "category": "prior_art",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-is-the-exact-workflow-link-between-style-weekly-submissions-and-vpm-artslin",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 293-293",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-prior-art-questions-1",
+  "question": "How comprehensive are VisitRichmond and RVAHub calendars for arts (vs sports/food/festivals) and can we fill gaps (smaller galleries, DIY spaces like Gallery5, Studio Two Three, neighborhood churches, community centers)?",
+  "category": "prior_art",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:how-comprehensive-are-visitrichmond-and-rvahub-calendars-for-arts-vs-sports-food",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 293-293",
+    "excerpt": ""
+   }
+  ]
+ },
+ {
+  "id": "q:whats-on-rva-prior-art-questions-2",
+  "question": "What did CultureWorks/artoberVA build for seasonal discovery (calendar or partner feeds) that we can reuse or align with year-round?",
+  "category": "prior_art",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:what-did-cultureworks-artoberva-build-for-seasonal-discovery-calendar-or-partner",
+   "n:proposal:whats-on-rva"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/whats-on-rva/jtbd_analysis.md",
+    "sourceLocation": "lines 293-293",
+    "excerpt": ""
+   }
+  ]
  }
 ]
