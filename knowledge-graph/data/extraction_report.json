@@ -1,9 +1,24 @@
 {
- "generatedAt": "2026-08-02T10:53:13.393Z",
+ "generatedAt": "2026-08-02T14:50:55.919Z",
  "repo": "pillar-city-storytelling",
  "filesExamined": [
   "admin/evidence_log.md",
-  "data/source_inventory.csv"
+  "data/source_inventory.csv",
+  "post-event-research/community-story-popup-kit/jtbd_analysis.md",
+  "post-event-research/community-story-popup-kit/pain_points.md",
+  "post-event-research/displacement-memory-archive/jtbd_analysis.md",
+  "post-event-research/explorerva/jtbd_analysis.md",
+  "post-event-research/explorerva/pain_points.md",
+  "post-event-research/fulton-oral-history/jtbd_analysis.md",
+  "post-event-research/fulton-oral-history/pain_points.md",
+  "post-event-research/planning-commission-story-feed/jtbd_analysis.md",
+  "post-event-research/planning-commission-story-feed/pain_points.md",
+  "post-event-research/richmond-stories-online/jtbd_analysis.md",
+  "post-event-research/richmond-stories-online/pain_points.md",
+  "post-event-research/vecina/jtbd_analysis.md",
+  "post-event-research/vecina/pain_points.md",
+  "post-event-research/whats-on-rva/jtbd_analysis.md",
+  "post-event-research/whats-on-rva/pain_points.md"
  ],
  "provenanceVerification": {
   "exact": 0,

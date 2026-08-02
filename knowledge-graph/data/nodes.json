@@ -23,7 +23,7 @@
    "keyFields": "story;subject;date;medium;access_level",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:dorichmond-com",
@@ -49,7 +49,7 @@
    "keyFields": "event;date;venue;category;neighborhood",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:eventbrite-api",
@@ -75,7 +75,7 @@
    "keyFields": "event_id;title;date;time;venue;description;category;url;organizer",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:facebook-events-graph-api",
@@ -101,7 +101,7 @@
    "keyFields": "event_id;name;start_time;venue;description",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:ica-at-vcu-events",
@@ -127,7 +127,7 @@
    "keyFields": "title;date;type;description",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:richmond-com-events",
@@ -153,7 +153,7 @@
    "keyFields": "title;date;venue;description",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:richmond-geohub",
@@ -179,7 +179,7 @@
    "keyFields": "geometry;name;description;layer_type",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:richmond-open-data-catalog",
@@ -205,7 +205,7 @@
    "keyFields": "varies",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:rva-magazine",
@@ -231,7 +231,7 @@
    "keyFields": "title;date;venue;description",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:storycorps-archive",
@@ -257,7 +257,7 @@
    "keyFields": "story_id;title;speakers;date;transcript;audio_url",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:style-weekly-events",
@@ -283,7 +283,7 @@
    "keyFields": "title;date;venue;description;category",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:the-valentine-oral-history",
@@ -309,7 +309,7 @@
    "keyFields": "story;subject;date;medium;access_level",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:vcu-libraries-digital-collections",
@@ -335,7 +335,7 @@
    "keyFields": "collection;item;subject;date;format",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:virginia-museum-of-history-and-culture",
@@ -361,7 +361,7 @@
    "keyFields": "collection;item;subject;date",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:dataset:vmfa-events-calendar",
@@ -387,7 +387,7 @@
    "keyFields": "title;date;time;type;description",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-001",
@@ -409,7 +409,7 @@
    "url": "https://www.eventbrite.com/platform/docs/by-location",
    "source": "Eventbrite developer changelog + GitHub issue #83 on automattic/eventbrite-api"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-002",
@@ -431,7 +431,7 @@
    "url": "https://developers.facebook.com/docs/graph-api/reference/event/",
    "source": "Meta for Developers — Graph API Event reference"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-003",
@@ -453,7 +453,7 @@
    "url": "https://dorichmond.com",
    "source": "DNS lookup failure"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-004",
@@ -475,7 +475,7 @@
    "url": "https://richmond-geo-hub-cor.hub.arcgis.com/",
    "source": "Richmond GeoHub ArcGIS Online"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-005",
@@ -497,7 +497,7 @@
    "url": "https://richmond-geo-hub-cor.hub.arcgis.com/datasets/cor::arts-and-cultural-district/about",
    "source": "Search engine results linking to ArcGIS Online dataset pages"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-006",
@@ -519,7 +519,7 @@
    "url": "https://data.richmondgov.com/Unique-and-Inclusive-Neighborhoods/Neighborhoods/e9k6-65id",
    "source": "City of Richmond Open Data Portal"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-007",
@@ -541,7 +541,7 @@
    "url": "https://icavcu.org",
    "source": "WebFetch of icavcu.org"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-008",
@@ -563,7 +563,7 @@
    "url": "https://www.styleweekly.com/events/",
    "source": "WebFetch of styleweekly.com/events"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-009",
@@ -585,7 +585,7 @@
    "url": "https://calendar.richmondcultureworks.org",
    "source": "WebFetch of calendar.richmondcultureworks.org"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-010",
@@ -607,7 +607,7 @@
    "url": "https://storycorps.org/richmond/",
    "source": "StoryCorps Richmond page + RVAHub article + Virginia Tech News"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-011",
@@ -629,7 +629,7 @@
    "url": "https://scholarscompass.vcu.edu/car/ and https://scholarscompass.vcu.edu/ful/",
    "source": "VCU Libraries search results + VCU News + The Valentine announcement"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-012",
@@ -651,7 +651,7 @@
    "url": "https://thevalentine.org/collections/",
    "source": "Parallel.ai verification 2026-03-18 citing VCU Scholars Compass and The Valentine website"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-013",
@@ -673,7 +673,7 @@
    "url": "https://oralhistory.org/informed-consent/",
    "source": "Oral History Association — Informed Consent guidelines"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-014",
@@ -695,7 +695,7 @@
    "url": "https://aapor.org/standards-and-ethics/disclosure-standards/",
    "source": "AAPOR Disclosure Standards"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-015",
@@ -717,7 +717,7 @@
    "url": null,
    "source": "Search result snippet mentioning Localist; Localist is known to support these feeds"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:e-016",
@@ -739,7 +739,7 @@
    "url": null,
    "source": "ArcGIS Hub standard behavior for public datasets"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:pittsburgh",
@@ -777,7 +777,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:evidence:raleigh-nc",
@@ -810,7 +810,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:group:digital-divide",
@@ -826,7 +826,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:group:organizer-and-historian",
@@ -842,7 +842,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:group:resident-and-descendant",
@@ -858,7 +858,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:group:summary-of-key",
@@ -874,7 +874,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:editorial-and-selective-inclusion-criteria-can-skew-what-is-listed-creating-a-bi",
@@ -912,7 +912,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:event-sources-are-fragmented-by-publisher-and-geography-preventing-a-comprehensi",
@@ -950,7 +950,7 @@
    "confidence": "high",
    "citationCount": 11
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:filtering-capabilities-and-event-metadata-are-inconsistent-across-platforms-espe",
@@ -988,7 +988,7 @@
    "confidence": "medium",
    "citationCount": 11
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:the-community-s-reliance-on-multiple-sources-and-social-proof-to-find-cool-or-au",
@@ -1026,7 +1026,7 @@
    "confidence": "low",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:the-existence-of-multiple-independent-submission-portals-leads-to-a-high-likelih",
@@ -1064,7 +1064,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:there-is-a-lack-of-transparency-regarding-the-origin-of-event-listings-making-it",
@@ -1102,7 +1102,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:users-are-forced-to-rely-on-a-patchwork-of-social-media-feeds-and-email-newslett",
@@ -1140,7 +1140,7 @@
    "confidence": "medium",
    "citationCount": 10
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-a-city-department-is-exploring-policy-or-capital-project-impacts-in-specifi",
@@ -1178,7 +1178,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-a-community-group-in-church-hill-shares-a-last-minute-arts-pop-up",
@@ -1216,7 +1216,7 @@
    "confidence": "high",
    "citationCount": 10
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-a-rezoning-case-is-docketed-for-a-planning-commission-meeting",
@@ -1254,7 +1254,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-coordinating-across-pdr-clerk-and-code-refresh-zac-timelines",
@@ -1292,7 +1292,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-demolition-and-relocation-phases-begin-at-my-public-housing-community-gilpi",
@@ -1330,7 +1330,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-i-m-a-small-arts-organizer-on-the-southside-with-limited-capacity",
@@ -1368,7 +1368,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-i-m-asked-to-relocate-or-decide-among-tpv-pbv-return-options",
@@ -1406,7 +1406,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-i-m-deciding-whether-and-how-to-speak-on-a-rezoning-near-me",
@@ -1439,7 +1439,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-i-m-inviting-friends-from-out-of-town",
@@ -1477,7 +1477,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-i-m-planning-my-weekend-in-richmond-and-want-to-find-arts-events-near-churc",
@@ -1515,7 +1515,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-i-m-programming-or-marketing-an-event",
@@ -1553,7 +1553,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-i-m-taking-friends-or-family-to-an-event-that-reflects-richmond-s-culture",
@@ -1591,7 +1591,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-i-ve-experienced-harm-or-neglect-tied-to-richmond-s-historical-inequities",
@@ -1629,7 +1629,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-it-s-the-middle-of-the-week",
@@ -1667,7 +1667,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-it-s-thursday-afternoon-and-i-m-planning-my-weekend-in-richmond",
@@ -1705,7 +1705,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-multiple-richmond-agencies-planners-and-community-partners-need-qualitative",
@@ -1743,7 +1743,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-planning-a-small-neighborhood-arts-market-in-scott-s-addition",
@@ -1781,7 +1781,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:need:when-relocation-assessments-and-construction-phases-are-scheduled",
@@ -1819,7 +1819,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:aapor-disclosure-standards",
@@ -1835,7 +1835,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:arcgis-hub-standard-behavior-for-public-datasets",
@@ -1851,7 +1851,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:black-history-museum-and-cultural-center-of-virginia",
@@ -1867,7 +1867,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:city-of-richmond",
@@ -1883,7 +1883,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:city-of-richmond-open-data-portal",
@@ -1899,7 +1899,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:dns-lookup-failure",
@@ -1915,7 +1915,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:do-richmond",
@@ -1931,7 +1931,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:eventbrite-developer-changelog-github-issue-83-on-automattic-eventbrite-api",
@@ -1947,7 +1947,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:eventbrite-inc",
@@ -1963,7 +1963,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:institute-for-contemporary-art-vcu",
@@ -1979,7 +1979,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:meta",
@@ -1995,7 +1995,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:meta-for-developers-graph-api-event-reference",
@@ -2011,7 +2011,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:oral-history-association-informed-consent-guidelines",
@@ -2027,7 +2027,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:parallel-ai-verification-2026-03-18-citing-vcu-scholars-compass-and-the-valentin",
@@ -2043,7 +2043,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:richmond-com",
@@ -2059,7 +2059,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:richmond-geohub-arcgis-online",
@@ -2075,7 +2075,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:rva-magazine",
@@ -2091,7 +2091,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:search-engine-results-linking-to-arcgis-online-dataset-pages",
@@ -2107,7 +2107,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:search-result-snippet-mentioning-localist-localist-is-known-to-support-these-fee",
@@ -2123,7 +2123,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:storycorps",
@@ -2139,7 +2139,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:storycorps-richmond-page-rvahub-article-virginia-tech-news",
@@ -2155,7 +2155,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:style-weekly-media",
@@ -2171,7 +2171,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:the-valentine",
@@ -2187,7 +2187,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:vcu-libraries-search-results-vcu-news-the-valentine-announcement",
@@ -2203,7 +2203,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:virginia-commonwealth-university",
@@ -2219,7 +2219,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:virginia-historical-society",
@@ -2235,7 +2235,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:virginia-museum-of-fine-arts",
@@ -2251,7 +2251,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:webfetch-of-calendar-richmondcultureworks-org",
@@ -2267,7 +2267,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:webfetch-of-icavcu-org",
@@ -2283,7 +2283,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:org:webfetch-of-styleweekly-com-events",
@@ -2299,7 +2299,7 @@
    }
   ],
   "description": "Named in the evidence log as the source of one or more claims.",
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:event-information-is-primarily-disseminated-through-online-platforms-and-social-",
@@ -2337,7 +2337,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:for-the-vecina-project-to-succeed-it-must-address-several-critical-richmond-spec",
@@ -2375,7 +2375,7 @@
    "confidence": "medium",
    "citationCount": 10
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:hurdles-in-the-public-comment-process-are-significant-and-include-strict-registr",
@@ -2413,7 +2413,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:key-filtering-options-are-consistently-missing-or-not-standardized-across-differ",
@@ -2451,7 +2451,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:process-complexity-and-jargon",
@@ -2489,7 +2489,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:public-transit-limitations",
@@ -2527,7 +2527,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:system-integration-and-data-standardization",
@@ -2565,7 +2565,7 @@
    "confidence": "high",
    "citationCount": 10
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:the-construction-of-the-i-95-i-64-highway-in-the-1950s",
@@ -2603,7 +2603,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:the-core-pain-point-for-the-city-s-community-storytelling-efforts-is-the-fragmen",
@@ -2636,7 +2636,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:the-equity-dimensions-of-this-project-are-centered-on-addressing-the-digital-div",
@@ -2674,7 +2674,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:the-groups-most-negatively-impacted-are-black-fulton-elders-and-their-descendant",
@@ -2712,7 +2712,7 @@
    "confidence": "high",
    "citationCount": 31
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:the-reliance-on-web-based-platforms-for-event-discovery-excludes-a-significant-p",
@@ -2750,7 +2750,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:the-rva311-system-while-useful-for-its-intended-purpose-presents-significant-pai",
@@ -2788,7 +2788,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:problem:users-face-considerable-challenges-in-planning-transportation-and-logistics-for-",
@@ -2826,7 +2826,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:proposal:community-story-popup-kit",
@@ -2845,7 +2845,7 @@
    "origin": "post-event research",
    "project": "community-story-popup-kit"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:proposal:displacement-memory-archive",
@@ -2865,7 +2865,7 @@
    "origin": "post-event research",
    "project": "displacement-memory-archive"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:proposal:explorerva",
@@ -2884,7 +2884,7 @@
    "origin": "post-event research",
    "project": "explorerva"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:proposal:fulton-oral-history",
@@ -2903,7 +2903,7 @@
    "origin": "post-event research",
    "project": "fulton-oral-history"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:proposal:planning-commission-story-feed",
@@ -2923,7 +2923,7 @@
    "origin": "post-event research",
    "project": "planning-commission-story-feed"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:proposal:richmond-stories-online",
@@ -2943,7 +2943,7 @@
    "origin": "post-event research",
    "project": "richmond-stories-online"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:proposal:vecina",
@@ -2963,7 +2963,7 @@
    "origin": "post-event research",
    "project": "vecina"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:proposal:whats-on-rva",
@@ -2983,7 +2983,7 @@
    "origin": "post-event research",
    "project": "whats-on-rva"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:can-the-platform-produce-meeting-ready-briefs-mapped-to-hud-section-18-applicati",
@@ -3021,7 +3021,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:can-vecina-offer-a-single-submission-that-syndicates-to-style-weekly-feeding-vpm",
@@ -3059,7 +3059,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:can-we-legally-ethically-scrape-ingest-event-data-from-each-source-terms-rate-li",
@@ -3097,7 +3097,7 @@
    "confidence": "medium",
    "citationCount": 9
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:can-we-support-both-ingest-ical-rss-json-html-scraping-and-publish-syndicate-out",
@@ -3135,7 +3135,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:can-we-technically-route-anonymized-summaries-to-rrha-board-packets-or-city-coun",
@@ -3173,7 +3173,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:data",
@@ -3211,7 +3211,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-can-the-project-actively-support-the-telling-the-truth-about-its-past-aspect",
@@ -3249,7 +3249,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-comprehensive-are-visitrichmond-and-rvahub-calendars-for-arts-vs-sports-food",
@@ -3287,7 +3287,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-do-richmonders-prefer-discovery-weekly-curated-lists-map-view-by-neighborhoo",
@@ -3325,7 +3325,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-do-we-ensure-mobile-first-low-bandwidth-performance-and-offline-friendly-lis",
@@ -3363,7 +3363,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-do-we-ensure-participation-from-residents-least-likely-to-be-heard-non-lease",
@@ -3401,7 +3401,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-will-qualitative-stories-be-structured-tags-for-tpv-pbv-pathway-relocation-m",
@@ -3429,7 +3429,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-will-the-archive-feed-the-jackson-ward-community-plan-governance-and-any-joi",
@@ -3467,7 +3467,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-will-vecina-remain-usable-for-residents-with-slower-internet-or-mobile-only-",
@@ -3505,7 +3505,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-will-we-build-on-vcu-s-historic-fulton-oral-history-project-2011-2012-and-re",
@@ -3543,7 +3543,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-will-we-convey-no-retaliation-guarantees-and-consent-choices-public-restrict",
@@ -3581,7 +3581,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-will-we-de-duplicate-identical-events-syndicated-to-style-weekly-artsline-vi",
@@ -3619,7 +3619,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-will-we-ensure-right-to-return-and-on-off-site-replacement-commitments-are-t",
@@ -3657,7 +3657,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:how-will-we-reach-and-surface-events-from-black-and-brown-led-orgs-immigrant-com",
@@ -3695,7 +3695,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:m-001",
@@ -3716,7 +3716,7 @@
    "impact": "Essential for aggregator data pipeline",
    "howToGet": "Richmond CultureWorks iCal feed may already aggregate these — check their feed coverage. Otherwise visit each org site."
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:m-002",
@@ -3737,7 +3737,7 @@
    "impact": "Validates the problem statement",
    "howToGet": "User interviews or survey (1-2 hours of quick research)"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:m-003",
@@ -3758,7 +3758,7 @@
    "impact": "Web-verified 2026-03-18 (Parallel.ai). See E-012.",
    "howToGet": "Black History Museum site still needs direct review."
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:m-004",
@@ -3779,7 +3779,7 @@
    "impact": "Parallel.ai verification 2026-03-18",
    "howToGet": "Do not attempt automated ingestion during hackathon. Rely on CultureWorks; use manual curation only if RVA Magazine-specific events are strictly required."
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:m-005",
@@ -3800,7 +3800,7 @@
    "impact": "Critical for story collection tool design",
    "howToGet": "Research on accessible civic tech patterns; brief user research if possible"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-access-features-will-we-capture-and-display-asl-captions-scent-free-mobilit",
@@ -3838,7 +3838,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-decision-filters-matter-most-locally-date-time-free-low-cost-kid-friendly-b",
@@ -3876,7 +3876,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-descriptive-and-rights-metadata-standard-will-we-use-e-g-dublin-core-local-",
@@ -3914,7 +3914,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-did-cultureworks-artoberva-build-for-seasonal-discovery-calendar-or-partner",
@@ -3952,7 +3952,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-fields-must-align-with-rrha-s-relocation-intake-and-project-phasing-e-g-cre",
@@ -3990,7 +3990,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-governance-model-ensures-community-control-advisory-board-of-fulton-residen",
@@ -4028,7 +4028,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-is-the-exact-workflow-link-between-style-weekly-submissions-and-vpm-artslin",
@@ -4066,7 +4066,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-is-the-minimal-single-submission-flow-for-organizers-accept-style-weekly-ar",
@@ -4104,7 +4104,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-is-the-retention-policy-public-access-level-and-appeals-removal-process-for",
@@ -4142,7 +4142,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-multilingual-low-bandwidth-and-assisted-capture-options-are-needed-for-elde",
@@ -4180,7 +4180,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-personally-identifiable-information-pii-and-sensitive-narrative-elements-mu",
@@ -4218,7 +4218,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-safeguards-protect-residents-who-report-poor-conditions-or-service-gaps-fro",
@@ -4256,7 +4256,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-support-do-fulton-elders-need-to-participate-phone-hotlines-in-home-onsite-",
@@ -4294,7 +4294,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-taxonomy-should-we-standardize-genre-neighborhood-districts-like-jackson-wa",
@@ -4332,7 +4332,7 @@
    "confidence": "medium",
    "citationCount": 9
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-training-and-workflows-do-rrha-relocation-counselors-need-to-integrate-stor",
@@ -4370,7 +4370,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:what-trust-signals-do-richmond-users-need-source-of-truth-badge-verified-organiz",
@@ -4408,7 +4408,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:where-do-current-calendars-excel-vs-fall-short-cultureworks-broad-arts-coverage-",
@@ -4446,7 +4446,7 @@
    "confidence": "high",
    "citationCount": 9
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:which-canonical-sources-reliably-cover-the-metro-city-of-richmond-plus-henrico-c",
@@ -4484,7 +4484,7 @@
    "confidence": "high",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:which-external-displacement-oral-history-archives-provide-applicable-intake-sche",
@@ -4522,7 +4522,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:which-neighborhoods-and-demographics-are-currently-underserved-by-existing-calen",
@@ -4560,7 +4560,7 @@
    "confidence": "high",
    "citationCount": 10
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:which-partners-will-hold-long-term-stewardship-vcu-libraries-scholars-compass-th",
@@ -4593,7 +4593,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:which-partners-will-provide-or-accept-syndicated-feeds-style-weekly-feeding-vpm-",
@@ -4631,7 +4631,7 @@
    "confidence": "low",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:which-primary-user-segments-in-rva-will-we-optimize-for-first-city-residents-vcu",
@@ -4669,7 +4669,7 @@
    "confidence": "low",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:which-richmond-storytelling-efforts-e-g-jxn-project-valentine-collaborations-off",
@@ -4707,7 +4707,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:question:which-sources-provide-bulk-or-structured-feeds-apis-e-g-cultureworks-venture-ric",
@@ -4745,7 +4745,7 @@
    "confidence": "medium",
    "citationCount": 19
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:risk:r-001",
@@ -4766,7 +4766,7 @@
    "severity": "High",
    "mitigation": "Confirmed blocked — do not plan MVP around Facebook data"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:risk:r-002",
@@ -4787,7 +4787,7 @@
    "severity": "High",
    "mitigation": "Require consent screen before any story submission"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:risk:r-003",
@@ -4808,7 +4808,7 @@
    "severity": "High",
    "mitigation": "Explicit disclaimer on any insight or aggregate view"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:risk:r-004",
@@ -4829,7 +4829,7 @@
    "severity": "Medium",
    "mitigation": "Use Richmond CultureWorks iCal/RSS feeds for automation; no human curation dependencies"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:risk:r-005",
@@ -4850,7 +4850,7 @@
    "severity": "Medium",
    "mitigation": "Always link to original source; do not copy content wholesale"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:risk:r-006",
@@ -4871,7 +4871,7 @@
    "severity": "High",
    "mitigation": "Do not plan MVP around Eventbrite as primary event discovery source. Use Richmond CultureWorks feeds instead."
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  },
  {
   "id": "n:risk:r-007",
@@ -4892,6 +4892,6 @@
    "severity": "Low",
    "mitigation": "Removed from active prior art list; replaced by Richmond CultureWorks as the real incumbent"
   },
-  "extractedAt": "2026-08-02T10:53:13.393Z"
+  "extractedAt": "2026-08-02T14:50:55.919Z"
  }
 ]
