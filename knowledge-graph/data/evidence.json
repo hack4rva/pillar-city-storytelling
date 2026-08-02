@@ -1,0 +1,722 @@
+[
+ {
+  "id": "ev:E-001",
+  "claim": "Eventbrite public event search API (GET /v3/events/search/) was deprecated and removed as of February 20, 2020. No public location-based event search is available via the official API.",
+  "status": "confirmed",
+  "source": "Eventbrite developer changelog + GitHub issue #83 on automattic/eventbrite-api",
+  "url": "https://www.eventbrite.com/platform/docs/by-location",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 16-16",
+    "excerpt": "Eventbrite public event search API (GET /v3/events/search/) was deprecated and removed as of February 20, 2020. No public location-based event search is available via the official API."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-002",
+  "claim": "Facebook Graph API does NOT allow public event access for third-party apps without Facebook Marketing Partner status or admin-level approval.",
+  "status": "confirmed",
+  "source": "Meta for Developers — Graph API Event reference",
+  "url": "https://developers.facebook.com/docs/graph-api/reference/event/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 17-17",
+    "excerpt": "Facebook Graph API does NOT allow public event access for third-party apps without Facebook Marketing Partner status or admin-level approval."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-003",
+  "claim": "dorichmond.com does not resolve — domain appears inactive or non-existent as of March 2026.",
+  "status": "confirmed",
+  "source": "DNS lookup failure",
+  "url": "https://dorichmond.com",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 18-18",
+    "excerpt": "dorichmond.com does not resolve — domain appears inactive or non-existent as of March 2026."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-004",
+  "claim": "Richmond GeoHub (richmond-geo-hub-cor.hub.arcgis.com) exists and hosts downloadable City GIS data organized by category including Neighborhood Planning, Economic Development, and Historic Preservation.",
+  "status": "confirmed",
+  "source": "Richmond GeoHub ArcGIS Online",
+  "url": "https://richmond-geo-hub-cor.hub.arcgis.com/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 19-19",
+    "excerpt": "Richmond GeoHub (richmond-geo-hub-cor.hub.arcgis.com) exists and hosts downloadable City GIS data organized by category including Neighborhood Planning, Economic Development, and Historic Preservation."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-005",
+  "claim": "Richmond GeoHub has a dedicated Arts and Cultural District boundary layer AND an Arts and Cultural District Incentive Zones layer, both specific to the City of Richmond.",
+  "status": "confirmed",
+  "source": "Search engine results linking to ArcGIS Online dataset pages",
+  "url": "https://richmond-geo-hub-cor.hub.arcgis.com/datasets/cor::arts-and-cultural-district/about",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 20-20",
+    "excerpt": "Richmond GeoHub has a dedicated Arts and Cultural District boundary layer AND an Arts and Cultural District Incentive Zones layer, both specific to the City of Richmond."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-006",
+  "claim": "Richmond's Open Data Portal (data.richmondgov.com) has a Neighborhoods dataset with polygon boundaries for all community neighborhoods, coterminous with Planning Districts.",
+  "status": "confirmed",
+  "source": "City of Richmond Open Data Portal",
+  "url": "https://data.richmondgov.com/Unique-and-Inclusive-Neighborhoods/Neighborhoods/e9k6-65id",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 21-21",
+    "excerpt": "Richmond's Open Data Portal (data.richmondgov.com) has a Neighborhoods dataset with polygon boundaries for all community neighborhoods, coterminous with Planning Districts."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-007",
+  "claim": "ICA at VCU (icavcu.org) is actively maintained as of March 2026, with upcoming events including MFA thesis exhibitions, Mindful Mornings sessions, and film screenings. No iCal or RSS feed link was found on the site.",
+  "status": "confirmed",
+  "source": "WebFetch of icavcu.org",
+  "url": "https://icavcu.org",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 22-22",
+    "excerpt": "ICA at VCU (icavcu.org) is actively maintained as of March 2026, with upcoming events including MFA thesis exhibitions, Mindful Mornings sessions, and film screenings. No iCal or RSS feed link was found on the site."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-008",
+  "claim": "Style Weekly events page (styleweekly.com/events) loads events dynamically via JavaScript (AJAX), making static HTML scraping unreliable. JSON-LD schema markup is present but event data is not in the static HTML. No RSS feed link was found.",
+  "status": "confirmed",
+  "source": "WebFetch of styleweekly.com/events",
+  "url": "https://www.styleweekly.com/events/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 23-23",
+    "excerpt": "Style Weekly events page (styleweekly.com/events) loads events dynamically via JavaScript (AJAX), making static HTML scraping unreliable. JSON-LD schema markup is present but event data is not in the static HTML. No RSS feed link was found."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-009",
+  "claim": "Richmond CultureWorks (calendar.richmondcultureworks.org) is an active Richmond arts calendar aggregating 1,200+ events. It offers subscription options including Google Calendar, iCal, Outlook, and RSS feeds.",
+  "status": "confirmed",
+  "source": "WebFetch of calendar.richmondcultureworks.org",
+  "url": "https://calendar.richmondcultureworks.org",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 24-24",
+    "excerpt": "Richmond CultureWorks (calendar.richmondcultureworks.org) is an active Richmond arts calendar aggregating 1,200+ events. It offers subscription options including Google Calendar, iCal, Outlook, and RSS feeds."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-010",
+  "claim": "StoryCorps has recorded stories in Richmond, VA. Richmond was a \"One Small Step\" model community. Over 500 conversations were recorded through the initiative; 25+ in-person sessions at the Library of Virginia in October 2023. The archive.storycorps.org is searchable.",
+  "status": "confirmed",
+  "source": "StoryCorps Richmond page + RVAHub article + Virginia Tech News",
+  "url": "https://storycorps.org/richmond/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 25-25",
+    "excerpt": "StoryCorps has recorded stories in Richmond, VA. Richmond was a \"One Small Step\" model community. Over 500 conversations were recorded through the initiative; 25+ in-person sessions at the Library of Virginia in October 2023. The archive.storycorps.org is searchable."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-011",
+  "claim": "VCU Libraries hosts two major publicly accessible Richmond neighborhood oral history collections: (1) Carver-VCU Partnership Oral History Collection — 15 interviews (1999-2000), MP3 + PDF transcripts; (2) Historic Fulton Oral History Project — 17 interviews with 32 participants, streaming audio + searchable transcripts.",
+  "status": "confirmed",
+  "source": "VCU Libraries search results + VCU News + The Valentine announcement",
+  "url": "https://scholarscompass.vcu.edu/car/ and https://scholarscompass.vcu.edu/ful/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 26-26",
+    "excerpt": "VCU Libraries hosts two major publicly accessible Richmond neighborhood oral history collections: (1) Carver-VCU Partnership Oral History Collection — 15 interviews (1999-2000), MP3 + PDF transcripts; (2) Historic Fulton Oral History Project — 17 interviews with 32 participants, streaming audio + searchable transcripts."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-012",
+  "claim": "The Valentine holds the copyright for the Historic Fulton Oral History Project material hosted on VCU Libraries. The Valentine has an online collection database at thevalentine.org/collections/. The streaming digital collection is hosted by VCU Libraries, not The Valentine's own site.",
+  "status": "confirmed",
+  "source": "Parallel.ai verification 2026-03-18 citing VCU Scholars Compass and The Valentine website",
+  "url": "https://thevalentine.org/collections/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 27-27",
+    "excerpt": "The Valentine holds the copyright for the Historic Fulton Oral History Project material hosted on VCU Libraries. The Valentine has an online collection database at thevalentine.org/collections/. The streaming digital collection is hosted by VCU Libraries, not The Valentine's own site."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-013",
+  "claim": "The Oral History Association (OHA) defines informed consent as an agreement documenting that the narrator has been given all information necessary to make a decision. Participating in an oral history interview may involve signing a formal release form assigning intellectual property rights.",
+  "status": "confirmed",
+  "source": "Oral History Association — Informed Consent guidelines",
+  "url": "https://oralhistory.org/informed-consent/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 28-28",
+    "excerpt": "The Oral History Association (OHA) defines informed consent as an agreement documenting that the narrator has been given all information necessary to make a decision. Participating in an oral history interview may involve signing a formal release form assigning intellectual property rights."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-014",
+  "claim": "AAPOR (American Association for Public Opinion Research) disclosure standards require that all research includes a general statement acknowledging limitations of the design and data collection. All aggregated insights from voluntarily submitted stories must display a non-representative sample disclaimer.",
+  "status": "confirmed",
+  "source": "AAPOR Disclosure Standards",
+  "url": "https://aapor.org/standards-and-ethics/disclosure-standards/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 29-29",
+    "excerpt": "AAPOR (American Association for Public Opinion Research) disclosure standards require that all research includes a general statement acknowledging limitations of the design and data collection. All aggregated insights from voluntarily submitted stories must display a non-representative sample disclaimer."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-015",
+  "claim": "VMFA events calendar (vmfa.museum/calendar) is powered by Localist Event Calendar Software, which typically supports iCal/RSS subscription.",
+  "status": "likely",
+  "source": "Search result snippet mentioning Localist; Localist is known to support these feeds",
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 34-34",
+    "excerpt": "VMFA events calendar (vmfa.museum/calendar) is powered by Localist Event Calendar Software, which typically supports iCal/RSS subscription."
+   }
+  ]
+ },
+ {
+  "id": "ev:E-016",
+  "claim": "The arts and cultural district GeoJSON from Richmond GeoHub is downloadable without authentication",
+  "status": "likely",
+  "source": "ArcGIS Hub standard behavior for public datasets",
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 35-35",
+    "excerpt": "The arts and cultural district GeoJSON from Richmond GeoHub is downloadable without authentication"
+   }
+  ]
+ },
+ {
+  "id": "ev:M-001",
+  "claim": "MISSING: Full list of Richmond arts organizations with confirmed iCal/RSS feeds beyond ICA and VMFA",
+  "status": "missing",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 40-40",
+    "excerpt": "Full list of Richmond arts organizations with confirmed iCal/RSS feeds beyond ICA and VMFA"
+   }
+  ],
+  "notes": "Impact: Essential for aggregator data pipeline. How to get it: Richmond CultureWorks iCal feed may already aggregate these — check their feed coverage. Otherwise visit each org site."
+ },
+ {
+  "id": "ev:M-002",
+  "claim": "MISSING: Documentation of how Richmond residents currently discover arts events",
+  "status": "missing",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 41-41",
+    "excerpt": "Documentation of how Richmond residents currently discover arts events"
+   }
+  ],
+  "notes": "Impact: Validates the problem statement. How to get it: User interviews or survey (1-2 hours of quick research)"
+ },
+ {
+  "id": "ev:M-003",
+  "claim": "MISSING: ~~Scope and format of oral history collections at The Valentine~~ PARTIALLY RESOLVED 2026-03-18: The Valentine holds copyright for Fulton collection; streaming is via VCU Libraries. Black History Museum oral history scope remains unverified.",
+  "status": "missing",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 42-42",
+    "excerpt": "~~Scope and format of oral history collections at The Valentine~~ PARTIALLY RESOLVED 2026-03-18: The Valentine holds copyright for Fulton collection; streaming is via VCU Libraries. Black History Museum oral history scope remains unverified."
+   }
+  ],
+  "notes": "Impact: Web-verified 2026-03-18 (Parallel.ai). See E-012.. How to get it: Black History Museum site still needs direct review."
+ },
+ {
+  "id": "ev:M-004",
+  "claim": "MISSING: Whether Richmond's RVA Magazine (rvamag.com/events) provides structured data or a feed — CANNOT VERIFY. Endpoints `/events/feed/` and `/?ical=1` were tested; no usable RSS or iCal feeds discovered. Treat as high-lift scrape.",
+  "status": "missing",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 43-43",
+    "excerpt": "Whether Richmond's RVA Magazine (rvamag.com/events) provides structured data or a feed — CANNOT VERIFY. Endpoints `/events/feed/` and `/?ical=1` were tested; no usable RSS or iCal feeds discovered. Treat as high-lift scrape."
+   }
+  ],
+  "notes": "Impact: Parallel.ai verification 2026-03-18. How to get it: Do not attempt automated ingestion during hackathon. Rely on CultureWorks; use manual curation only if RVA Magazine-specific events are strictly required."
+ },
+ {
+  "id": "ev:M-005",
+  "claim": "MISSING: Comfortable storytelling channels for older/non-digital residents",
+  "status": "missing",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 44-44",
+    "excerpt": "Comfortable storytelling channels for older/non-digital residents"
+   }
+  ],
+  "notes": "Impact: Critical for story collection tool design. How to get it: Research on accessible civic tech patterns; brief user research if possible"
+ },
+ {
+  "id": "ev:D-001",
+  "claim": "DATASET: Richmond CultureWorks events calendar (iCal/RSS)",
+  "status": "dataset",
+  "source": null,
+  "url": "https://calendar.richmondcultureworks.org",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 49-49",
+    "excerpt": "Richmond CultureWorks events calendar (iCal/RSS)"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:D-002",
+  "claim": "DATASET: Richmond GeoHub — Arts and Cultural District boundary",
+  "status": "dataset",
+  "source": null,
+  "url": "https://richmond-geo-hub-cor.hub.arcgis.com/datasets/cor::arts-and-cultural-district/about",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 50-50",
+    "excerpt": "Richmond GeoHub — Arts and Cultural District boundary"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:D-003",
+  "claim": "DATASET: Richmond GeoHub — Arts and Cultural District Incentive Zones",
+  "status": "dataset",
+  "source": null,
+  "url": "https://richmond-geo-hub-cor.hub.arcgis.com/datasets/cor::arts-and-cultural-district-incentive-zones/about",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 51-51",
+    "excerpt": "Richmond GeoHub — Arts and Cultural District Incentive Zones"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:D-004",
+  "claim": "DATASET: Richmond Open Data Portal — Neighborhoods",
+  "status": "dataset",
+  "source": null,
+  "url": "https://data.richmondgov.com/Unique-and-Inclusive-Neighborhoods/Neighborhoods/e9k6-65id",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 52-52",
+    "excerpt": "Richmond Open Data Portal — Neighborhoods"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:D-005",
+  "claim": "DATASET: VCU Libraries — Carver Oral History Collection",
+  "status": "dataset",
+  "source": null,
+  "url": "https://scholarscompass.vcu.edu/car/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 53-53",
+    "excerpt": "VCU Libraries — Carver Oral History Collection"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:D-006",
+  "claim": "DATASET: VCU Libraries — Historic Fulton Oral History Project",
+  "status": "dataset",
+  "source": null,
+  "url": "https://scholarscompass.vcu.edu/ful/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 54-54",
+    "excerpt": "VCU Libraries — Historic Fulton Oral History Project"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:D-007",
+  "claim": "DATASET: StoryCorps Archive — Richmond, VA stories",
+  "status": "dataset",
+  "source": null,
+  "url": "https://archive.storycorps.org/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 55-55",
+    "excerpt": "StoryCorps Archive — Richmond, VA stories"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:D-008",
+  "claim": "DATASET: Eventbrite Richmond events (by venue/org ID only)",
+  "status": "dataset",
+  "source": null,
+  "url": "https://www.eventbrite.com/platform/api",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 56-56",
+    "excerpt": "Eventbrite Richmond events (by venue/org ID only)"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:D-009",
+  "claim": "DATASET: Richmond GeoHub — unofficial GeoJSON mirror",
+  "status": "dataset",
+  "source": null,
+  "url": "https://github.com/rva-data/Richmond-GIS",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 57-57",
+    "excerpt": "Richmond GeoHub — unofficial GeoJSON mirror"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:S-001",
+  "claim": "DOCUMENT: Richmond Civic Hackathon Pillar 7 rubric",
+  "status": "dataset",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 62-62",
+    "excerpt": "Richmond Civic Hackathon Pillar 7 rubric"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:S-002",
+  "claim": "DOCUMENT: Perplexity Prompting Guide",
+  "status": "dataset",
+  "source": null,
+  "url": "https://docs.perplexity.ai",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 63-63",
+    "excerpt": "Perplexity Prompting Guide"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:S-003",
+  "claim": "DOCUMENT: Eventbrite search deprecation notice",
+  "status": "dataset",
+  "source": null,
+  "url": "https://www.eventbrite.com/platform/docs/by-location",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 64-64",
+    "excerpt": "Eventbrite search deprecation notice"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:S-004",
+  "claim": "DOCUMENT: Facebook Graph API Event reference",
+  "status": "dataset",
+  "source": null,
+  "url": "https://developers.facebook.com/docs/graph-api/reference/event/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 65-65",
+    "excerpt": "Facebook Graph API Event reference"
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "ev:P-001",
+  "claim": "PRIORART: dorichmond.com",
+  "status": "dataset",
+  "source": "Richmond VA",
+  "url": "https://dorichmond.com",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 70-70",
+    "excerpt": "dorichmond.com"
+   }
+  ],
+  "notes": "DEAD LINK — domain does not resolve as of 2026-03-18. Cannot be treated as active prior art."
+ },
+ {
+  "id": "ev:P-002",
+  "claim": "PRIORART: Richmond CultureWorks",
+  "status": "dataset",
+  "source": "Richmond VA",
+  "url": "https://calendar.richmondcultureworks.org",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 71-71",
+    "excerpt": "Richmond CultureWorks"
+   }
+  ],
+  "notes": "NEW — active Richmond arts aggregator with 1,200+ events and iCal/RSS feeds. Strongest local prior art."
+ },
+ {
+  "id": "ev:P-003",
+  "claim": "PRIORART: Historypin",
+  "status": "dataset",
+  "source": "International",
+  "url": "https://historypin.org",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 72-72",
+    "excerpt": "Historypin"
+   }
+  ],
+  "notes": "Model for neighborhood history explorer"
+ },
+ {
+  "id": "ev:P-004",
+  "claim": "PRIORART: StoryCorps",
+  "status": "dataset",
+  "source": "National",
+  "url": "https://storycorps.org",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 73-73",
+    "excerpt": "StoryCorps"
+   }
+  ],
+  "notes": "Model for oral history collection with consent"
+ },
+ {
+  "id": "ev:P-005",
+  "claim": "PRIORART: visitrichmondva.com events",
+  "status": "dataset",
+  "source": "Richmond VA",
+  "url": "https://www.visitrichmondva.com/events/",
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 74-74",
+    "excerpt": "visitrichmondva.com events"
+   }
+  ],
+  "notes": "Active Richmond events calendar — tourism-focused"
+ },
+ {
+  "id": "ev:R-001",
+  "claim": "RISK: Facebook Events API inaccessibility",
+  "status": "risk",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 79-79",
+    "excerpt": "Facebook Events API inaccessibility"
+   }
+  ],
+  "notes": "Severity: High. Mitigation: Confirmed blocked — do not plan MVP around Facebook data"
+ },
+ {
+  "id": "ev:R-002",
+  "claim": "RISK: Story tool without consent mechanism",
+  "status": "risk",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 80-80",
+    "excerpt": "Story tool without consent mechanism"
+   }
+  ],
+  "notes": "Severity: High. Mitigation: Require consent screen before any story submission"
+ },
+ {
+  "id": "ev:R-003",
+  "claim": "RISK: Claiming to represent \"all\" Richmond voices",
+  "status": "risk",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 81-81",
+    "excerpt": "Claiming to represent \"all\" Richmond voices"
+   }
+  ],
+  "notes": "Severity: High. Mitigation: Explicit disclaimer on any insight or aggregate view"
+ },
+ {
+  "id": "ev:R-004",
+  "claim": "RISK: Manual curation decay",
+  "status": "risk",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 82-82",
+    "excerpt": "Manual curation decay"
+   }
+  ],
+  "notes": "Severity: Medium. Mitigation: Use Richmond CultureWorks iCal/RSS feeds for automation; no human curation dependencies"
+ },
+ {
+  "id": "ev:R-005",
+  "claim": "RISK: Copyright of arts event content",
+  "status": "risk",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 83-83",
+    "excerpt": "Copyright of arts event content"
+   }
+  ],
+  "notes": "Severity: Medium. Mitigation: Always link to original source; do not copy content wholesale"
+ },
+ {
+  "id": "ev:R-006",
+  "claim": "RISK: Eventbrite location search unavailable",
+  "status": "risk",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 84-84",
+    "excerpt": "Eventbrite location search unavailable"
+   }
+  ],
+  "notes": "Severity: High. Mitigation: Do not plan MVP around Eventbrite as primary event discovery source. Use Richmond CultureWorks feeds instead."
+ },
+ {
+  "id": "ev:R-007",
+  "claim": "RISK: dorichmond.com listed as prior art is dead",
+  "status": "risk",
+  "source": null,
+  "url": null,
+  "repo": "pillar-city-storytelling",
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 85-85",
+    "excerpt": "dorichmond.com listed as prior art is dead"
+   }
+  ],
+  "notes": "Severity: Low. Mitigation: Removed from active prior art list; replaced by Richmond CultureWorks as the real incumbent"
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "id": "q:m-001",
+  "question": "Full list of Richmond arts organizations with confirmed iCal/RSS feeds beyond ICA and VMFA",
+  "category": "missing-data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:m-001"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 40-40",
+    "excerpt": "Full list of Richmond arts organizations with confirmed iCal/RSS feeds beyond ICA and VMFA"
+   }
+  ]
+ },
+ {
+  "id": "q:m-002",
+  "question": "Documentation of how Richmond residents currently discover arts events",
+  "category": "missing-data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:m-002"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 41-41",
+    "excerpt": "Documentation of how Richmond residents currently discover arts events"
+   }
+  ]
+ },
+ {
+  "id": "q:m-003",
+  "question": "~~Scope and format of oral history collections at The Valentine~~ PARTIALLY RESOLVED 2026-03-18: The Valentine holds copyright for Fulton collection; streaming is via VCU Libraries. Black History Museum oral history scope remains unverified.",
+  "category": "missing-data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:m-003"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 42-42",
+    "excerpt": "~~Scope and format of oral history collections at The Valentine~~ PARTIALLY RESOLVED 2026-03-18: The Valentine holds copyright for Fulton collection; streaming is via VCU Libraries. Black History Museum oral history scope remains unverified."
+   }
+  ]
+ },
+ {
+  "id": "q:m-004",
+  "question": "Whether Richmond's RVA Magazine (rvamag.com/events) provides structured data or a feed — CANNOT VERIFY. Endpoints `/events/feed/` and `/?ical=1` were tested; no usable RSS or iCal feeds discovered. Treat as high-lift scrape.",
+  "category": "missing-data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:m-004"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 43-43",
+    "excerpt": "Whether Richmond's RVA Magazine (rvamag.com/events) provides structured data or a feed — CANNOT VERIFY. Endpoints `/events/feed/` and `/?ical=1` were tested; no usable RSS or iCal feeds discovered. Treat as high-lift scrape."
+   }
+  ]
+ },
+ {
+  "id": "q:m-005",
+  "question": "Comfortable storytelling channels for older/non-digital residents",
+  "category": "missing-data",
+  "repo": "pillar-city-storytelling",
+  "relatedNodeIds": [
+   "n:question:m-005"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 44-44",
+    "excerpt": "Comfortable storytelling channels for older/non-digital residents"
+   }
+  ]
+ }
+]

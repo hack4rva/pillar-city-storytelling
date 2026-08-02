@@ -1,0 +1,16 @@
+[
+ {
+  "id": "r:dup-rva-magazine",
+  "itemType": "node",
+  "proposed": "n:dataset:rva-magazine vs n:org:rva-magazine",
+  "sourceExcerpt": "RVA Magazine",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ }
+]
