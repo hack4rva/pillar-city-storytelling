@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-02T14:50:55.919Z",
+ "generatedAt": "2026-08-02T19:59:49.350Z",
  "repo": "pillar-city-storytelling",
  "filesExamined": [
   "admin/evidence_log.md",
@@ -27,10 +27,12 @@
   "missing": 0,
   "external": 0
  },
- "warnings": [],
+ "warnings": [
+  "[merge] duplicate node id n:org:the-valentine: provenance merged"
+ ],
  "metrics": {
-  "totalNodes": 170,
-  "totalEdges": 126,
+  "totalNodes": 165,
+  "totalEdges": 122,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
