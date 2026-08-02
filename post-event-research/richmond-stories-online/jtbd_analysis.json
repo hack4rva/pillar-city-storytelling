@@ -1,0 +1,1938 @@
+{
+  "run_id": "trun_1848795af0f24b808ab7af10141e8667",
+  "interaction_id": "trun_1848795af0f24b808ab7af10141e8667",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b808ab7af10141e8667",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "data_questions",
+        "reasoning": "The field focuses on metadata standardization aligned with the Open Data portal, governance for storing and sharing resident stories (including privacy and equity considerations), and technical questions about exporting geo-tagged, anonymized data without exposing PII. The excerpt about the Richmond Open Data Portal directly addresses a city-wide data portal with a governance promise of well-managed government, which supports metadata standardization and data-sharing practices. The excerpt about Stories & Dashboards within the Virginia Open Data Portal demonstrates how city storytelling content can be surfaced through dashboards, implying data formats and interoperability approaches relevant to exporting or integrating data with public dashboards. The excerpt citing theVirginia Open Data Portal datasets (e.g., drug overdose data) illustrates concrete data types and openness practices that can inform retention, redaction, and export considerations. Excerpts pertaining to equity and inclusion outline policy and governance contexts that shape privacy and moderation considerations, which in turn influence how data and narratives should be stored and shared (e.g., respecting privacy guidelines and preventing harm). The equity agenda excerpt further grounds the need for inclusive, transparent data practices in the city\u2019s strategy. Together, these excerpts support the need to define metadata standards, data storage governance, exportability with PII safeguards, retention/redaction policies, and moderation frameworks for a data/story platform in Richmond.\n",
+        "citations": [
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://data.virginia.gov/pages/stories-dashboards",
+            "excerpts": [
+              "Locality Spotlights zoom in on cities and towns to tell place-based stories using local datasets, maps, and charts. They surface neighborhood-level trends,"
+            ],
+            "title": "Stories & Dashboards - Virginia Open Data Portal"
+          },
+          {
+            "url": "https://data.virginia.gov/",
+            "excerpts": [
+              "This dataset includes the number and rate of drug overdose deaths among Virginians by y... Popular Datasets \u00b7 Community Policing Data July 1, 2020 to Present."
+            ],
+            "title": "Virginia Open Data Portal: Welcome"
+          },
+          {
+            "url": "https://www.rva.gov/human-services/office-equity-and-inclusion",
+            "excerpts": [
+              "The City of Richmond's Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness.",
+              "The City of Richmond\u2019s Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness around critical concepts such as racial equity, inclusion, belonging, cultural competency, why these concepts matter and the role that local government plays in advancing equity and inclusion on a daily basis in Richmond."
+            ],
+            "title": "Office of Equity and Inclusion | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Our roadmap to a more inclusive and thriving city is the Equity Agenda, which will be formally introduced to Richmond City Council as a resolution. But before"
+            ],
+            "title": "Richmond's Equity Agenda"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "project_summary",
+        "reasoning": "The excerpt describing the RVA Voices \u2014 Richmond Stories Project directly aligns with the project\u2019s core idea of a civic storytelling platform connecting residents with historians and city planners, which matches the project_summary description of a web platform for collecting and sharing resident stories as civic insight. The pillars excerpts articulate the governing pillar 'A City That Tells Its Stories (and tells the truth about its past)', which is the overarching context driving the project and its emphasis on truthful storytelling in Richmond. The set of excerpts about Richmond Stories from the Valentine and related resources reinforces the broader narrative of storytelling initiatives in Richmond and the aim to surface local stories and perspectives, which supports the project\u2019s intention to collect lived experiences for civic decision-making. Together, these excerpts establish the project\u2019s purpose, governance framing, and contextual backdrop for storytelling in Richmond, VA.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "prior_art_questions",
+        "reasoning": "The most directly relevant excerpts discuss Richmond Stories as curated by The Valentine and their use for exploring sensitive histories and community perspectives, which aligns with learning from the Valentine\u2019s Richmond Stories curation regarding trust and historical sensitivity. Excerpts detailing The Valentine\u2019s Richmond Stories context emphasize how storytelling can illuminate difficult histories and engage communities, providing concrete precedent for the first question. Next, excerpts about public engagement and how the city engages residents (PlanRVA and PublicInput) directly address the second question about existing government engagement tools worth replicating or integrating, rather than rebuilding. The PlanRVA/public engagement plan text and the explicit reference to PublicInput offer concrete features and platforms that could be considered for integration, matching the user\u2019s focus on tools to leverage. Background context about pillars and the city\u2019s storytelling initiatives (e.g., pillars around telling stories and truth) provides supporting context but is less central to the specific comparison with The Valentine\u2019s Richmond Stories and named engagement tools. The mayoral action plan mentioning the notion of a city that tells its stories further reinforces the strategic alignment but is not as directly evidentiary for the two stated questions as the Valentine content and explicit engagement tools. ",
+        "citations": [
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our"
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://planrva.org/transportation/public-engagement-plan/",
+            "excerpts": [
+              "The Public Engagement Plan (PEP) guides public involvement and serves as a blueprint to gather public comments on the study process, recommendations and"
+            ],
+            "title": "Public Engagement Plan"
+          },
+          {
+            "url": "https://publicinput.com/",
+            "excerpts": [
+              "From planning to public meetings, PublicInput unites your departments and tools in one platform\u2014making it simple to collaborate, share insights, and keep"
+            ],
+            "title": "PublicInput | Community Engagement Software for Government"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "emotional_trust_job_to_be_done",
+        "reasoning": "- The most directly relevant excerpt describes RVA311 privacy protections, noting that personal information is visible only to the City\u2019s internal teams and that anonymous submissions are an option. This directly aligns with the user\u2019s need for control over privacy and a safe way to share experiences without unwanted disclosure or backlash. It supports the core requirement of privacy and trusted handling of personal information in a civic context. - A platform for civic storytelling that connects residents, historians, and city planners illustrates an existing avenue for residents to share lived experiences in a structured civic setting, which supports the motivation of having a trusted channel to share stories. - References to the city telling its stories and telling the truth about its past reinforce the belief that the city will acknowledge past harms and act on insights, addressing the outcome goal of being heard and believing the city will tell the truth. - Additional pillars and program descriptions about \u201cA city that tells its stories\u201d frame the cultural and institutional commitment to narrative transparency, which underpins trust when residents share stories. - Specific mention of \u201cRichmond Stories\u201d and related programs that aim to explore the region\u2019s history through resident and change-maker voices further supports the concept of sharing lived experiences as civic insight, reinforcing both trust and the potential impact on civic decisions. - The combination of a platform for storytelling, privacy assurances, and institutional commitment to narratives and truth collectively map to the emotional/trust JTBD: residents want a trusted, safe way to share stories with privacy controls, to be heard, and to trust that the city will tell the truth about the past and act on it.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "user_questions",
+        "reasoning": "The most directly supportive content centers on equity, inclusion, and the ethical, inclusive design of civic engagement processes. The excerpts from the Office of Equity and Inclusion emphasize guidance and tools to increase awareness and operationalize equity, inclusion, and justice in city policies and practices, which directly aligns with questions about language access, accessibility features, and consent options to build trust with diverse communities. Related pillar and storytelling-focused excerpts discuss Richmond\u2019s commitment to telling its stories and engaging residents through civic storytelling initiatives, which support onboarding residents through trusted partners and capturing lived experiences for civic insight. Excerpts about resident storytelling efforts, such as Richmond Stories and related platforms, provide practical precedent for how resident narratives can be collected and shared. The RVA311 references touch on accessibility, privacy, and multiple submission channels, illustrating concrete mechanisms for inclusive participation, anonymity options, and multi-channel engagement, all of which map to consent options and accessibility questions. Open data and public engagement platform references provide context for how data and feedback loops can be operationalized, informing questions about how residents see the influence of their stories on policies, budgets, or capital projects, and how offline capture might be implemented through libraries, centers, or partnerships. In summary, the most relevant threads connect: equity-informed design for language and accessibility, established storytelling-centric civic engagement in Richmond, and practical participation channels and privacy considerations that shape consent and trust.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/human-services/office-equity-and-inclusion",
+            "excerpts": [
+              "The City of Richmond\u2019s Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness around critical concepts such as racial equity, inclusion, belonging, cultural competency, why these concepts matter and the role that local government plays in advancing equity and inclusion on a daily basis in Richmond.",
+              "The Office of Equity and Inclusion aims to increase the collective understanding of the City\u2019s role and responsibility in advancing equity within and across all city offices and departments in order to dismantle institutional racism and other oppressive elements that have been historically engrained within city policies, practices and culture and that have led to generations-long disparities along racial and socioeconomic lines within the City of Richmond.",
+              "The goal: to purposefully and intentionally institutionalize equity, inclusion and justice in ways that will lead to meaningful, long-term, population-level outcomes across all issue areas for the City\u2019s most historically marginalized, overlooked and underserved communities."
+            ],
+            "title": "Office of Equity and Inclusion | Richmond"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously.",
+              "Multiple Ways to Submit\nWe strive to make access to non-emergency information, care and services as easy as possible for all Richmond residents and visitors. Requests may be submitted by telephone, online or by mobile. Our self-serve web portal and mobile apps are available 24 hours a day, 7 days a week."
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://play.google.com/store/apps/details?id=com.richmondgov.com.rva311&hl=en_US",
+            "excerpts": [
+              "This app is designed to improve our service delivery efforts as well as our citizen engagement by providing citizens a way to report non-emergency incidents."
+            ],
+            "title": "RVA311 - Apps on Google Play"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "equity_questions",
+        "reasoning": "The finegrained field value concerns three equity-related questions for a citizen storytelling JTBD: safeguards for reporters (especially around race, immigration status, housing precarity, or interactions with public safety), equity outcomes to be measured and publicly reported (participation by historically marginalized communities, geographic distribution, and resulting actions), and how the city compensates or recognizes community partners and narrators for time and emotional labor. Excerpts from the Office of Equity and Inclusion repeatedly describe intent, guiding principles, and mechanisms for advancing equity, inclusion, and justice across city operations and programs, which directly informs safeguards and measurable equity outcomes. The Equity Agenda outlines a roadmap toward a more inclusive city, reinforcing what equity outcomes should be tracked and publicly shared, and what policy aims should guide community storytelling initiatives. Privacy-related safeguards are addressed in the RVA311 privacy discussion, which speaks to safeguarding personal information and anonymized submission, aligning with the need for protections for contributors reporting sensitive experiences. Finally, a Public Engagement Plan signals how public involvement should be structured, which can influence how equity considerations are embedded in engagement tactics and transparency. Collectively, these excerpts provide a solid basis to address safeguards for contributors and to frame equity outcomes; however, there is no explicit guidance in these excerpts about financial compensation or recognition of narrators, so that aspect remains insufficiently evidenced.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/human-services/office-equity-and-inclusion",
+            "excerpts": [
+              "The City of Richmond's Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness.",
+              "The City of Richmond\u2019s Office of Equity and Inclusion was established in 2021 and aims to work alongside city leadership and staff, community members and partners to build a strong foundation for the collective work of advancing equity, inclusion and justice within the City\u2019s internal and external facing policies, practices, operations and overall culture.",
+              "The City of Richmond\u2019s Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness around critical concepts such as racial equity, inclusion, belonging, cultural competency, why these concepts matter and the role that local government plays in advancing equity and inclusion on a daily basis in Richmond.",
+              "The Office of Equity and Inclusion aims to increase the collective understanding of the City\u2019s role and responsibility in advancing equity within and across all city offices and departments in order to dismantle institutional racism and other oppressive elements that have been historically engrained within city policies, practices and culture and that have led to generations-long disparities along racial and socioeconomic lines within the City of Richmond.",
+              "The goal: to purposefully and intentionally institutionalize equity, inclusion and justice in ways that will lead to meaningful, long-term, population-level outcomes across all issue areas for the City\u2019s most historically marginalized, overlooked and underserved communities."
+            ],
+            "title": "Office of Equity and Inclusion | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Our roadmap to a more inclusive and thriving city is the Equity Agenda, which will be formally introduced to Richmond City Council as a resolution. But before"
+            ],
+            "title": "Richmond's Equity Agenda"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://planrva.org/transportation/public-engagement-plan/",
+            "excerpts": [
+              "The Public Engagement Plan (PEP) guides public involvement and serves as a blueprint to gather public comments on the study process, recommendations and"
+            ],
+            "title": "Public Engagement Plan"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "integration_questions",
+        "reasoning": "RVA311 interoperability is central to the integration_questions: excerpts describing how RVA311 handles non-emergency requests, multi-channel submission, privacy controls, and inter-agency collaboration directly inform how a resident storytelling platform could route issues or insights to City services while distinguishing between service tickets and narrative insights. Public comment processes connected to City Clerk/Council workflows provide a model for feedback channels and governance around resident input. The Open Data Portal excerpts show where data dissemination and accessibility live, which is essential for reporting and pulsing storytelling insights into city data ecosystems. A Public Engagement Plan excerpt provides a framework for engaging residents in planning studies, which could be extended to corridor/safety and small area planning with story overlays. Pillar and mayoral action plan excerpts illuminate branding and thematic alignment (e.g., a city that tells its stories) that would guide internal tagging and reporting against department programs like Community Wealth Building and Human Services. Finally, excerpts about Richmond-stories-related projects demonstrate existing platforms and storytelling initiatives that could be leveraged or integrated with planning and data portals, informing interoperability design and cross-channel storytelling.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "We partner with over 20 different City agencies within the City and in 2024, RVA311 provided assistance or supported our City partners in responding to over 83,000 requests.",
+              "Multiple Ways to Submit\nWe strive to make access to non-emergency information, care and services as easy as possible for all Richmond residents and visitors. Requests may be submitted by telephone, online or by mobile. Our self-serve web portal and mobile apps are available 24 hours a day, 7 days a week.",
+              "We assist residents by getting their non-emergency concerns or questions answered - or delivered to the correct team for investigation - so services or assistance can be provided. Our highly trained call center agents, and our intelligent self-service website and mobile apps handle requests for potholes, sidewalks, stormwater, tax billing, streetlights, social services programs, and more.",
+              "Enter the address or intersection for the concern in RVA311.com or on your RVA311 mobile app. Icons will appear on the map showing other requests within 1/10 of a mile of that location. Click on the icon to see more details and confirm whether your issue has already been brought to our attention."
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://planrva.org/transportation/public-engagement-plan/",
+            "excerpts": [
+              "The Public Engagement Plan (PEP) guides public involvement and serves as a blueprint to gather public comments on the study process, recommendations and"
+            ],
+            "title": "Public Engagement Plan"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_coordination_job_to_be_done",
+        "reasoning": "The most relevant content describes an implementable coordination-oriented ecosystem for resident stories and civic insight. A civic storytelling platform that connects residents, historians, and city planners indicates a shared, multi-stakeholder repository and collaborative workflow beyond siloed efforts, directly supporting the idea of a coordinated repository that tags and aggregates stories by neighborhood, topic, and demographics. A city data/open data portal exemplifies a centralized, accessible data infrastructure that can augment qualitative narratives with quantitative context, aligning with the goal of synthesizing themes with data and reporting back to community and leadership. Dashboards and story dashboards emphasize place-based storytelling and data-driven insights, which bolster the systemic view of coordinating narratives with measurable indicators. Public engagement software that unites departments and tools in one platform demonstrates an operational mechanism to coordinate across agencies and channels, which is essential for a unified, scalable JTBD solution. Finally, pillars or framing about a city that tells its stories provide the governance and narrative context that makes a coordinated repository feel legitimate and aligned with city-wide goals. Taken together, these excerpts map a path from a storytelling-centric platform to an integrated, data-informed, cross-department coordination system that supports the requested JTBD outcomes and reporting needs.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://data.virginia.gov/pages/stories-dashboards",
+            "excerpts": [
+              "Locality Spotlights zoom in on cities and towns to tell place-based stories using local datasets, maps, and charts. They surface neighborhood-level trends,"
+            ],
+            "title": "Stories & Dashboards - Virginia Open Data Portal"
+          },
+          {
+            "url": "https://publicinput.com/",
+            "excerpts": [
+              "From planning to public meetings, PublicInput unites your departments and tools in one platform\u2014making it simple to collaborate, share insights, and keep"
+            ],
+            "title": "PublicInput | Community Engagement Software for Government"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "data_questions.2",
+        "reasoning": "The field value concerns exporting geo-tagged, anonymized data for public dashboards in alignment with a city data portal. Excerpts describing an open data portal for Richmond provide the exact venue where data would be shared publicly, suggesting potential capabilities for exporting or exporting-ready datasets and for building dashboards. Excerpts about Stories & Dashboards highlight the use of local datasets, maps, and charts to tell place-based stories, which aligns with the idea of dashboards and data exports for public consumption. While none of the excerpts explicitly confirm PII handling or geotag export formats, they establish the context that the city maintains open data portals and dashboard-ready datasets, which are the setting where such an export feature would occur. Other excerpts focus on equity and inclusion programs and do not address data export or PII concerns directly, making them less relevant to the specific field value but still informative about the broader governance context.",
+        "citations": [
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://data.virginia.gov/pages/stories-dashboards",
+            "excerpts": [
+              "Locality Spotlights zoom in on cities and towns to tell place-based stories using local datasets, maps, and charts. They surface neighborhood-level trends,"
+            ],
+            "title": "Stories & Dashboards - Virginia Open Data Portal"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "functional_job_to_be_done",
+        "reasoning": "The most relevant excerpts describe explicit civic storytelling initiatives and institutional commitments to telling Richmond\u2019s stories. A dedicated storytelling platform connecting residents with planners signals a clear target for a JTBD that enables residents to capture and share lived experiences with location and topic metadata, aligning with the motivation to easily record and submit stories for civic insight. The pillars and mayoral action plan frame the city\u2019s emphasis on telling stories and using narrative work as a vehicle for civic engagement, which supports the desired outcome that neighborhood realities inform decisions rather than just aggregated data. This policy context validates the need for a structured, accessible channel for narrative submissions that can be analyzed by location or topic, addressing the core pain that current methods do not reliably capture nuanced narratives or support asynchronous access. Concrete examples of Richmond Stories initiatives and the Valentine\u2019s educational resources illustrate practical manifestations of resident storytelling and dialogue, reinforcing the feasibility and relevance of a platform aligned with the JTBD\u2019s situation, persona, motivation, and outcome. In sum, the combination of a named civic storytelling platform, official pillars emphasizing narrative truth, and existing story-driven civic programs provides direct, aligned support for the JTBD formulation and substantiates the proposed functionality and value proposition.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://www.wric.com/news/local-news/richmond/avula-lays-out-his-plan-for-a-thriving-richmond/",
+            "excerpts": [
+              "Oct 15, 2025 \u2014 7. \u201cA City that Tells its Stories (and tells the truth about its past)\u201d. The seventh and final pillar, \u201cA City that Tells"
+            ],
+            "title": "Avula lays out his plan for a 'thriving' Richmond"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "data_questions.4",
+        "reasoning": "The finegrained field value asks how moderation will handle defamation, harassment, or sensitive content while preserving truth-telling. None of the excerpts explicitly describe moderation policies, flagging, or content-approval workflows. However, excerpts focused on equity and inclusion in Richmond (the Office of Equity and Inclusion and the Equity Agenda) touch on principles that may influence moderation goals (e.g., advancing equity, inclusion, belonging) and governance guidance, which could shape how moderation policies are framed to balance protection of individuals with truthful civic storytelling. These excerpts therefore are the most relevant for providing contextual backdrop that could influence moderation design, even though they do not supply concrete moderation rules. Subsequent excerpts describe data portals and open data initiatives ( Richmond Open Data Portal, Virginia Open Data Portal ) and surface more general civic-data contexts; they are less directly connected to moderation policies and more about data access and storytelling through datasets. Overall, no excerpt provides explicit moderation mechanics, but governance/equity-oriented excerpts offer contextual relevance for principled moderation.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/human-services/office-equity-and-inclusion",
+            "excerpts": [
+              "The City of Richmond's Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness.",
+              "The City of Richmond\u2019s Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness around critical concepts such as racial equity, inclusion, belonging, cultural competency, why these concepts matter and the role that local government plays in advancing equity and inclusion on a daily basis in Richmond."
+            ],
+            "title": "Office of Equity and Inclusion | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Our roadmap to a more inclusive and thriving city is the Equity Agenda, which will be formally introduced to Richmond City Council as a resolution. But before"
+            ],
+            "title": "Richmond's Equity Agenda"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://data.virginia.gov/pages/stories-dashboards",
+            "excerpts": [
+              "Locality Spotlights zoom in on cities and towns to tell place-based stories using local datasets, maps, and charts. They surface neighborhood-level trends,"
+            ],
+            "title": "Stories & Dashboards - Virginia Open Data Portal"
+          },
+          {
+            "url": "https://data.virginia.gov/",
+            "excerpts": [
+              "This dataset includes the number and rate of drug overdose deaths among Virginians by y... Popular Datasets \u00b7 Community Policing Data July 1, 2020 to Present."
+            ],
+            "title": "Virginia Open Data Portal: Welcome"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "data_questions.1",
+        "reasoning": "The finegrained field value asks how stories are stored, governed, and shared (open vs. protected) in a way that aligns with the Office of Equity & Inclusion\u2019s guidance on racial equity and privacy. Excerpts from the City of Richmond\u2019s equity office emphasize guidance, facilitation, tools, and resources to increase awareness of equity concepts and the government\u2019s role in advancing equity and inclusion. This directly informs governance and privacy considerations, since equitable governance of stories implies clear policies around who can access (open vs protected), how stories are stored, and how privacy and cultural considerations are handled. Additionally, references to equity agendas and official offices provide a governance context within which data/story sharing policies would be formulated, making these excerpts highly relevant to the field value. Supporting context about data portals and place-based storytelling portals from the Open Data and Virginia Open Data portals further informs the mechanics of storage and sharing (e.g., how stories or datasets might be published, accessed, and visualized), though they are less specific to equity governance and privacy; they still help situate the technical and access considerations that would accompany any policy alignment. Therefore, the most directly relevant excerpts are those detailing equity guidance and organizational responsibilities, followed by excerpts that describe data storytelling platforms that could constrain or enable storage and access patterns, with governance documents and agendas providing the overarching legitimacy and framework for these decisions.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/human-services/office-equity-and-inclusion",
+            "excerpts": [
+              "The City of Richmond's Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness.",
+              "The City of Richmond\u2019s Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness around critical concepts such as racial equity, inclusion, belonging, cultural competency, why these concepts matter and the role that local government plays in advancing equity and inclusion on a daily basis in Richmond."
+            ],
+            "title": "Office of Equity and Inclusion | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Our roadmap to a more inclusive and thriving city is the Equity Agenda, which will be formally introduced to Richmond City Council as a resolution. But before"
+            ],
+            "title": "Richmond's Equity Agenda"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://data.virginia.gov/pages/stories-dashboards",
+            "excerpts": [
+              "Locality Spotlights zoom in on cities and towns to tell place-based stories using local datasets, maps, and charts. They surface neighborhood-level trends,"
+            ],
+            "title": "Stories & Dashboards - Virginia Open Data Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "project_summary.project_description",
+        "reasoning": "The most directly relevant excerpt describes a civic storytelling platform that connects residents, historians, and city planners for neighborhood stories, which aligns with a platform designed to collect and share resident stories and connect them with stakeholders involved in policy and planning. The language indicates a systemic goal of civic storytelling that informs planning processes, which matches the finegrained field value\u2019s emphasis on a repository of qualitative insights used to inform city decisions. Excerpts that discuss a city pillar about telling its stories and assembling a national model for truthful historical storytelling provide thematic alignment with the platform\u2019s purpose\u2014capturing lived experiences to inform decisions and strengthen community connections. Additional excerpts describe Richmond-related storytelling initiatives and collections that document regional history and facilitate conversations with change-makers and residents; these offer contextual support about the ecosystem in which such a platform would operate, reinforcing relevance to the goal of collecting and presenting resident narratives for civic insight. Taken together, the strongest support comes from the explicit platform description and its stated stakeholders and use in decision-making; the surrounding context about Richmond storytelling traditions and institutions complements the core description by illustrating the broader environment in which the platform would exist and be leveraged for policy and planning.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our"
+            ],
+            "title": "Richmond Stories"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "prior_art_questions.1",
+        "reasoning": "The request is to determine which existing government engagement tools offer features we should replicate or integrate with rather than rebuilding. The most directly relevant excerpt describes PublicInput as a public engagement platform that unites departments and tools to plan, public meetings, collaborate, share insights, and maintain an integrated workflow. This provides a concrete, feature-rich example of a government-focused engagement tool that the project could replicate or integrate with. Another relevant excerpt outlines the Public Engagement Plan, which acts as a blueprint for gathering public comments on study processes, recommendations, and public involvement activities\u2014capturing the planning, governance, and process-level aspects that a JTBD analysis might want to mirror or interface with. A third relevant excerpt mentions RVA Voices / Richmond Stories Project as a civic storytelling platform connecting residents, historians, and city planners, illustrating another existing government-adjacent engagement channel that could inform integration options or feature sets. Collectively these excerpts map to tools and processes (a dedicated engagement platform, a formal engagement blueprint, and a civic storytelling portal) that could be replicated or integrated rather than building anew, aligning with the goal of leveraging proven government engagement mechanisms for the Richmond context.",
+        "citations": [
+          {
+            "url": "https://publicinput.com/",
+            "excerpts": [
+              "From planning to public meetings, PublicInput unites your departments and tools in one platform\u2014making it simple to collaborate, share insights, and keep"
+            ],
+            "title": "PublicInput | Community Engagement Software for Government"
+          },
+          {
+            "url": "https://planrva.org/transportation/public-engagement-plan/",
+            "excerpts": [
+              "The Public Engagement Plan (PEP) guides public involvement and serves as a blueprint to gather public comments on the study process, recommendations and"
+            ],
+            "title": "Public Engagement Plan"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "emotional_trust_job_to_be_done.core_pain_point",
+        "reasoning": "The most relevant content directly addresses privacy and safety around sharing personal stories, which ties to the fear of retaliation or stigma. It notes that privacy is taken seriously and provides an option to submit requests anonymously, highlighting a mechanism to mitigate fear of exposure. Text that discusses the city\u2019s history and truth-telling about past practices aligns with the core pain of distrust in government processes and institutions, suggesting a deep-seated barrier to residents sharing stories due to historical reasons. References to telling the city\u2019s stories as a civic practice, including collaborations with arts and culture communities, provide context for how storytelling may influence decisions and public trust, though they do not alone resolve the pain points. Content about a broader storytelling platform and civic conversations informs the platform\u2019s purpose and potential for impact, while plan-level goals offer context but are less directly connected to the individual- and system-level fears described. Taken together, the privacy/privacy-by-design angle and the distrust/history angle most strongly support the stated finegrained field value, with storytelling impact discussions providing supportive context about how narratives could influence civic decisions.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "equity_questions.0",
+        "reasoning": "To address safeguards for contributors reporting sensitive experiences, the most pertinent content is about privacy protections in civic platforms. The excerpt describes how RVA311 handles user privacy: personal information may be collected for requests, but is not visible to other users, and is only visible to internal city teams handling the concern. Importantly, it notes an option to submit requests anonymously. These points directly map to safeguards you\u2019d want when contributors report experiences tied to race, immigration status, housing precarity, or interactions with public safety, offering anonymity and restricted visibility of personal data. Other excerpts discuss equity and inclusion goals at a high level, which provide important context but do not specify concrete safeguards for reporter privacy or data handling, so they are less directly supportive of the exact field value. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "project_summary.problem_statement",
+        "reasoning": "The finegrained field value emphasizes the need for a trusted, accessible, and structured way for residents to share lived experiences to inform civic decisions, and notes current channels are insufficient for capturing nuanced narratives and serving historically marginalized communities. Excerpt describing a civic storytelling platform in Richmond directly aligns with the core idea of enabling resident narratives for civic insight. Excerpts about Richmond Stories and educational/heritage resources illustrate established channels and platforms that publish or curate resident or community narratives, which provide concrete context for how such storytelling could be structured and accessed. Excerpts about the city\u2019s pillars and commitment to telling truth about its past offer supportive framing for the importance of trustworthy storytelling in governance and inclusivity, reinforcing why a reliable mechanism is necessary. Taken together, these excerpts show a landscape of storytelling initiatives and civic storytelling emphasis in Richmond that relate to the need for a trusted, accessible, and potentially structured approach to capturing lived experiences for civic decision-making. The most directly supporting pieces describe actual platforms or projects that collect or present stories from residents, while the others provide contextual backing on the city\u2019s emphasis on telling stories and historical truth to build trust and engagement in governance.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history."
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "user_questions.2",
+        "reasoning": "To support the fine-grained field value about consent options needed to build trust, the most relevant information is a privacy-oriented statement from a civic platform (RVA311) that emphasizes privacy protections and explicitly mentions anonymous submission as an option. This directly informs how consent and privacy controls can be framed in a Richmond civic tech context. Other excerpts discuss equity initiatives, storytelling programs, and data portals, which provide helpful background but do not address consent mechanics or trust-building mechanisms as directly.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "integration_questions.1",
+        "reasoning": "The strongest support comes from excerpts that explicitly mention the pillar 'A City That Tells Its Stories' or tie storytelling to city branding and reporting. The pillar page articulates the exact phrase used for tagging and narrative framing, which directly informs alignment decisions for internal reporting tags. The Mayoral Action Plan explicitly includes this pillar as a goal area, reinforcing that tagging should reflect the city\u2019s commitment to storytelling and cultural reporting within governance documents. The RVA Voices/Richmond Stories Project excerpt describes a civic storytelling platform that embodies the pillar in practice, providing a concrete usage context for tags around resident narratives, storytelling, and civic insight. Supporting context from RVA311-related excerpts contributes to understanding how city services are organized and reported, which helps ensure that the tagging scheme also maps to department-facing reporting structures, though it is less about the narrative pillar itself. Together, these excerpts collectively justify tagging schemes that mirror the pillar language and align with storytelling-oriented programs while also accommodating department-focused programs and reporting needs.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "We partner with over 20 different City agencies within the City and in 2024, RVA311 provided assistance or supported our City partners in responding to over 83,000 requests.",
+              "We assist residents by getting their non-emergency concerns or questions answered - or delivered to the correct team for investigation - so services or assistance can be provided. Our highly trained call center agents, and our intelligent self-service website and mobile apps handle requests for potholes, sidewalks, stormwater, tax billing, streetlights, social services programs, and more.",
+              "Enter the address or intersection for the concern in RVA311.com or on your RVA311 mobile app. Icons will appear on the map showing other requests within 1/10 of a mile of that location. Click on the icon to see more details and confirm whether your issue has already been brought to our attention."
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "user_questions.0",
+        "reasoning": "To support a decision about which Richmond neighborhoods and communities to prioritize for onboarding through trusted partners, it is important to ground the approach in the city\u2019s equity and inclusion context. Excerpts describing the Office of Equity and Inclusion in Richmond emphasize dismantling institutional disparities, advancing equity and inclusion across city offices, and pursuing meaningful outcomes for historically marginalized communities. This context supports the principle that onboarding priorities should focus on areas with historic disparities and where equity-focused initiatives are already being pursued. Additional excerpts highlight privacy and access considerations (RVA311) and data portals, which are relevant to how a civic tech platform might ensure inclusive access and trustworthy data practices for diverse neighborhoods. While none of the excerpts specify particular neighborhoods for onboarding, they collectively inform a framework for prioritizing underserved communities and ensuring equitable access and trusted collaboration with local partners. Therefore, the strongest support comes from the equity-focused excerpts, with remaining excerpts providing contextual civil data and access considerations that could influence implementation and partnerships in onboarding across communities.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/human-services/office-equity-and-inclusion",
+            "excerpts": [
+              "The City of Richmond\u2019s Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness around critical concepts such as racial equity, inclusion, belonging, cultural competency, why these concepts matter and the role that local government plays in advancing equity and inclusion on a daily basis in Richmond.",
+              "The Office of Equity and Inclusion aims to increase the collective understanding of the City\u2019s role and responsibility in advancing equity within and across all city offices and departments in order to dismantle institutional racism and other oppressive elements that have been historically engrained within city policies, practices and culture and that have led to generations-long disparities along racial and socioeconomic lines within the City of Richmond.",
+              "The goal: to purposefully and intentionally institutionalize equity, inclusion and justice in ways that will lead to meaningful, long-term, population-level outcomes across all issue areas for the City\u2019s most historically marginalized, overlooked and underserved communities."
+            ],
+            "title": "Office of Equity and Inclusion | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously.",
+              "Multiple Ways to Submit\nWe strive to make access to non-emergency information, care and services as easy as possible for all Richmond residents and visitors. Requests may be submitted by telephone, online or by mobile. Our self-serve web portal and mobile apps are available 24 hours a day, 7 days a week."
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "prior_art_questions.0",
+        "reasoning": "The most directly relevant excerpt describes Richmond Stories as a project that uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of Richmond, highlighting how storytelling surfaces lived experiences and civic insight. This supports learning how curated resident stories can handle tough histories in a trust-building way. Another highly relevant excerpt explicitly states a goal to tell the truth about Richmond\u2019s history, including slavery, racism, and Black empowerment, and to use the arts to strengthen cross-cultural connections, which directly informs how sensitive histories are framed and embedded in trust-building storytelling. A related excerpt highlights a civic storytelling platform that connects residents, historians, and city planners, illustrating a practical mechanism for involving community voices in governance and decision-making, which is pertinent to assessing trust dynamics and platform design. Additional items describe educational resources and general public engagement approaches around Richmond Stories and public input processes, offering context on how such curation is presented to the public and how engagement is structured. Collectively, these excerpts provide evidence on (a) methods of presenting sensitive histories through resident voices, (b) aspirations to build trust through truthful storytelling and arts-based engagement, and (c) practical platforms for citizen-driven civic insight, all of which are relevant to what can be learned from The Valentine\u2019s curation about sensitive histories and community trust.",
+        "citations": [
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our"
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          },
+          {
+            "url": "https://publicinput.com/",
+            "excerpts": [
+              "From planning to public meetings, PublicInput unites your departments and tools in one platform\u2014making it simple to collaborate, share insights, and keep"
+            ],
+            "title": "PublicInput | Community Engagement Software for Government"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "emotional_trust_job_to_be_done.motivation",
+        "reasoning": "The core emotional/trust motivation requires a trusted, safe mechanism to share personal stories with privacy controls. The first excerpt explicitly emphasizes privacy protections: no personally identifiable information visible to other users, visibility limited to internal teams when contacting the user, and an option to submit anonymously for requests where direct contact is unlikely. This directly maps to the desired outcome of having control over privacy and a trusted environment for storytelling. The second excerpt describes a civic storytelling platform that connects residents, historians, and city planners through neighborhood stories, which supports the existence and legitimacy of a trusted conduit for sharing stories within the civic ecosystem. Together, these excerpts corroborate the need for a trusted, privacy-conscious sharing medium and a platform that legitimizes resident storytelling within the civic context.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "emotional_trust_job_to_be_done.persona",
+        "reasoning": "Trust and emotional connection for a resident from a historically marginalized community are reinforced by privacy considerations and inclusive storytelling. The excerpt describing RVA311 emphasizes privacy protections and the option for anonymous submissions, addressing concerns about surveillance and exposure that historically marginalized residents may have when sharing sensitive lived experiences. This directly informs the trust dimension of the persona. Excerpts highlighting pillars that aim to tell the truth about Richmond\u2019s history, including slavery and racial struggles, and to use the arts to connect diverse cultures, establish a civic frame where such residents feel their stories can be told honestly and respectfully, which strengthens trust and belonging. Platforms dedicated to civic storytelling and connecting residents with historians, city planners, and community voices illustrate concrete avenues for residents to share lived experiences and contribute to civic decisions, reinforcing the emotional and relational trust aspect of the persona. A dedicated storytelling initiative like Richmond Stories, as presented by the Valentine, underscores a venue focused on challenging history and inclusive dialogue, which aligns with the needs of historically marginalized communities to see their narratives represented in public discourse. A broader civic program or action plan that champions arts and culture signals institutional support for storytelling as a civic practice, further supporting the systems/coordination facet by describing how storytelling can be integrated into governance and community engagement. Taken together, these excerpts collectively support a persona that requires privacy, truthful representation, inclusive platforms, and organizational backing to share lived experiences for civic insights in Richmond.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "integration_questions.2",
+        "reasoning": "The most relevant excerpt directly describes a civic storytelling platform in Richmond, which aligns with the concept of using resident narratives as civic insight within planning processes. It demonstrates the city\u2019s interest in connected storytelling ecosystems that can inform decision-making. Excerpts that reference the city\u2019s pillar about telling stories and the mayoral plan that champions arts and culture to tell stories provide strategic alignment between narrative platforms and planning goals, suggesting that stories could be integrated into corridor or small-area planning efforts. Excerpts about public engagement plans are relevant because they outline structured methods for collecting public input, a necessary mechanism for incorporating resident stories into planning and overlays. The open data portal excerpt is relevant as it signals a data-access layer that could support overlays and integration of narrative data with geographic information. An excerpt describing map-based citizen service interactions illustrates a practical precedent for location-aware information that could be extended to overlays for planning. Related entries about Richmond\u2019s storytelling initiatives and history-focused storytelling projects provide contextual support for the value and use of narrative content in public decision-making, even if they are not explicit about planning overlays. Collectively, these excerpts support the notion that a storytelling platform, public engagement, and data/mapping capabilities could be leveraged in planning corridors and small-area plans with location overlays. The remaining excerpts offer broader context but do not directly address the integration of resident stories into corridor/safety plans with overlays, making them less immediately applicable.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          },
+          {
+            "url": "https://planrva.org/transportation/public-engagement-plan/",
+            "excerpts": [
+              "The Public Engagement Plan (PEP) guides public involvement and serves as a blueprint to gather public comments on the study process, recommendations and"
+            ],
+            "title": "Public Engagement Plan"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Enter the address or intersection for the concern in RVA311.com or on your RVA311 mobile app. Icons will appear on the map showing other requests within 1/10 of a mile of that location. Click on the icon to see more details and confirm whether your issue has already been brought to our attention.",
+              "We partner with over 20 different City agencies within the City and in 2024, RVA311 provided assistance or supported our City partners in responding to over 83,000 requests.",
+              "Multiple Ways to Submit\nWe strive to make access to non-emergency information, care and services as easy as possible for all Richmond residents and visitors. Requests may be submitted by telephone, online or by mobile. Our self-serve web portal and mobile apps are available 24 hours a day, 7 days a week.",
+              "We assist residents by getting their non-emergency concerns or questions answered - or delivered to the correct team for investigation - so services or assistance can be provided. Our highly trained call center agents, and our intelligent self-service website and mobile apps handle requests for potholes, sidewalks, stormwater, tax billing, streetlights, social services programs, and more."
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history."
+            ],
+            "title": "Richmond Stories"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "equity_questions.1",
+        "reasoning": "The most relevant content emphasizes formal equity initiatives and agendas in Richmond, which frame the environment in which outcomes would be defined and measured. In particular, a statement about institutionalizing equity, inclusion and justice to achieve meaningful, long-term, population-level outcomes signals that measurable results would be sought across governance and community impact, aligning with the idea of equity outcomes being tracked and publicly reported. The discussion of an Equity Agenda as a formal roadmap further underlines planned accountability and public-facing goals, which is where measurement and reporting would be embedded. Additional excerpts describe the City\u2019s commitment to advancing equity, reducing disparities, and coordinating with multiple stakeholders, which provides the rationale for measuring outcomes like participation by historically marginalized communities and neighborhood-level distribution. Other excerpts discuss guiding principles around equity concepts (racial equity, belonging, cultural competency) and public engagement planning, which supply supportive context for what kinds of outcomes might be relevant to measure, even if they do not specify the exact metrics. While these excerpts establish a framework for equity and public engagement in Richmond, none of them explicitly list the exact metrics or confirm public reporting details for the specific field value. In sum, the strongest support is for the existence of equity-focused goals and public engagement structures that would reasonably include outcome measurement and public reporting, followed by excerpts that contextualize these aims within Richmond\u2019s governance and equity initiatives, with the remaining excerpts offering contextual background rather than direct measurement specifics.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Our roadmap to a more inclusive and thriving city is the Equity Agenda, which will be formally introduced to Richmond City Council as a resolution. But before"
+            ],
+            "title": "Richmond's Equity Agenda"
+          },
+          {
+            "url": "https://www.rva.gov/human-services/office-equity-and-inclusion",
+            "excerpts": [
+              "The goal: to purposefully and intentionally institutionalize equity, inclusion and justice in ways that will lead to meaningful, long-term, population-level outcomes across all issue areas for the City\u2019s most historically marginalized, overlooked and underserved communities.",
+              "The Office of Equity and Inclusion aims to increase the collective understanding of the City\u2019s role and responsibility in advancing equity within and across all city offices and departments in order to dismantle institutional racism and other oppressive elements that have been historically engrained within city policies, practices and culture and that have led to generations-long disparities along racial and socioeconomic lines within the City of Richmond.",
+              "The City of Richmond's Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness.",
+              "The City of Richmond\u2019s Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness around critical concepts such as racial equity, inclusion, belonging, cultural competency, why these concepts matter and the role that local government plays in advancing equity and inclusion on a daily basis in Richmond.",
+              "The City of Richmond\u2019s Office of Equity and Inclusion was established in 2021 and aims to work alongside city leadership and staff, community members and partners to build a strong foundation for the collective work of advancing equity, inclusion and justice within the City\u2019s internal and external facing policies, practices, operations and overall culture."
+            ],
+            "title": "Office of Equity and Inclusion | Richmond"
+          },
+          {
+            "url": "https://planrva.org/transportation/public-engagement-plan/",
+            "excerpts": [
+              "The Public Engagement Plan (PEP) guides public involvement and serves as a blueprint to gather public comments on the study process, recommendations and"
+            ],
+            "title": "Public Engagement Plan"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "project_summary.governing_pillar",
+        "reasoning": "The target field is the governance pillar phrasing that defines the project\u2019s core principle: a city that tells its stories and tells the truth about its past. An excerpt that explicitly frames this pillar and references making Richmond a national model for truth-telling about its history clearly supports the field value. It also notes including difficult histories like slavery and racism, which strengthens the alignment with the \u2018tells the truth about its past\u2019 component. A second excerpt repeats the pillar framing with the same core idea and adds the intent to use storytelling as a vehicle to strengthen connections across cultures, further corroborating the pillar\u2019s emphasis on transparent, story-driven civic narrative. Together, these excerpts directly support the finegrained field value, with the first providing the strongest direct match and the second reinforcing the pillar\u2019s governance intent.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "systems_coordination_job_to_be_done.situation",
+        "reasoning": "The field value centers on systems and coordination among multiple city actors to obtain qualitative insight. Excerpts describing a public engagement platform that unites departments and tools for collaboration directly support this need for cross-agency and community coordination for insight generation. The excerpt about a civic storytelling platform that connects residents, historians, and city planners aligns with the idea of shared qualitative knowledge across stakeholders, which is essential for coordinated civic insight. Excerpts that discuss dashboards or open data portals add context about how qualitative insights can be surfaced to various actors through organized data stories, reinforcing the systemic coordination theme, even though they focus more on data access or presentation than on collaboration per se. Therefore, the most relevant content centers on cross-agency collaboration tools, followed by platforms that enable storytelling among stakeholders, and then data-centric dashboards that support the broader coordination ecosystem.",
+        "citations": [
+          {
+            "url": "https://publicinput.com/",
+            "excerpts": [
+              "From planning to public meetings, PublicInput unites your departments and tools in one platform\u2014making it simple to collaborate, share insights, and keep"
+            ],
+            "title": "PublicInput | Community Engagement Software for Government"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://data.virginia.gov/pages/stories-dashboards",
+            "excerpts": [
+              "Locality Spotlights zoom in on cities and towns to tell place-based stories using local datasets, maps, and charts. They surface neighborhood-level trends,"
+            ],
+            "title": "Stories & Dashboards - Virginia Open Data Portal"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "user_questions.3",
+        "reasoning": "The most relevant content directly ties resident narratives and stakeholder conversations to governance outcomes. Excerpts describing Richmond Stories as a mechanism to surface resident voices and to inform future decisions\u2014through conversations with change-makers and residents about past, present, and future of the community\u2014are highly relevant, as they map a pathway from lived experiences to civic insight and potential policy consideration. Content about open data portals and accessible data for citizens supports the existence of a feedback loop by outlining how residents can see, use, and interpret data related to city actions, which complements a narrative-driven approach to influence budgets and capital projects. Discussions about equity and inclusion establish the governance context in which feedback loops should operate, highlighting the importance of inclusive processes and transparency. References to privacy and multiple submission channels are relevant to implementing a responsible engagement workflow, albeit more as operational enablers than direct evidence of how stories influence policy outcomes. Generic descriptions of storytelling collections or museum programming provide contextual background on engaging residents but do not themselves demonstrate a direct mechanism linking stories to policy or budget decisions. Overall, the most persuasive support comes from passages that describe resident conversations shaping understanding of regional history and civic conditions, paired with data access mechanisms that enable transparent follow-through on resident input.",
+        "citations": [
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our"
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.rva.gov/human-services/office-equity-and-inclusion",
+            "excerpts": [
+              "The City of Richmond\u2019s Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness around critical concepts such as racial equity, inclusion, belonging, cultural competency, why these concepts matter and the role that local government plays in advancing equity and inclusion on a daily basis in Richmond.",
+              "The Office of Equity and Inclusion aims to increase the collective understanding of the City\u2019s role and responsibility in advancing equity within and across all city offices and departments in order to dismantle institutional racism and other oppressive elements that have been historically engrained within city policies, practices and culture and that have led to generations-long disparities along racial and socioeconomic lines within the City of Richmond.",
+              "The goal: to purposefully and intentionally institutionalize equity, inclusion and justice in ways that will lead to meaningful, long-term, population-level outcomes across all issue areas for the City\u2019s most historically marginalized, overlooked and underserved communities."
+            ],
+            "title": "Office of Equity and Inclusion | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Multiple Ways to Submit\nWe strive to make access to non-emergency information, care and services as easy as possible for all Richmond residents and visitors. Requests may be submitted by telephone, online or by mobile. Our self-serve web portal and mobile apps are available 24 hours a day, 7 days a week.",
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://play.google.com/store/apps/details?id=com.richmondgov.com.rva311&hl=en_US",
+            "excerpts": [
+              "This app is designed to improve our service delivery efforts as well as our citizen engagement by providing citizens a way to report non-emergency incidents."
+            ],
+            "title": "RVA311 - Apps on Google Play"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_coordination_job_to_be_done.persona",
+        "reasoning": "The specified field value identifies a persona that operates within city-level coordination and partnerships. Excerpt describing a public engagement platform that unites departments and tools directly supports the idea of a city staffer or partner coordinating across governmental bodies. Excerpt detailing a civic storytelling platform that connects residents, historians, and city planners further reinforces the ecosystem in which a city staffer or partner would coordinate between civic actors and stakeholders. Excerpts about open data portals and story dashboards illustrate the data and storytelling layers these coordinators might leverage, providing broader context for systems-level collaboration, while the pillar statement about a city that tells its stories aligns with the governance and partnership orientation of the persona. Together, these excerpts collectively substantiate a persona who is embedded in city processes, interdepartmental collaboration, and external partnerships to enable civic storytelling and insight.",
+        "citations": [
+          {
+            "url": "https://publicinput.com/",
+            "excerpts": [
+              "From planning to public meetings, PublicInput unites your departments and tools in one platform\u2014making it simple to collaborate, share insights, and keep"
+            ],
+            "title": "PublicInput | Community Engagement Software for Government"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://data.virginia.gov/pages/stories-dashboards",
+            "excerpts": [
+              "Locality Spotlights zoom in on cities and towns to tell place-based stories using local datasets, maps, and charts. They surface neighborhood-level trends,"
+            ],
+            "title": "Stories & Dashboards - Virginia Open Data Portal"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "integration_questions.0",
+        "reasoning": "RVA311 is described as handling non-emergency concerns through multiple submission channels, with requests delivered to the correct team for investigation and support. This provides a clear basis for integration points where richmond-stories-online could route resident-reported issues or civic insights to RVA311\u2019s workflow without creating duplicate tickets, leveraging RVA311\u2019s routing logic. The description also notes that entering a location shows nearby requests on a map, which suggests an opportunity for geospatial interoperability or contextual sharing between the storytelling platform and RVA311\u2019s location-aware display. The statement that requests can be submitted via online or mobile self-serve portals indicates compatible channels for integration with richmond-stories-online\u2019s user-facing experience. Additional excerpts describe RVA311\u2019s scope of services and their handling of a broad set of city concerns, reinforcing the idea that integration could reuse RVA311\u2019s intake and triage capabilities rather than building separate municipal pathways. The Open Data Portal excerpt points to a public-facing data access platform, which implies that sharing aggregated or de-identified civic stories or metadata could be aligned with the city\u2019s data-sharing practices. The Public Engagement Plan excerpt suggests a framework for gathering public input, which can guide how richmond-stories-online participates in official engagement processes and potentially feeds into open data or decision-making pipelines. Taken together, these excerpts provide concrete touchpoints for interoperability: input channels (submission methods), routing logic (correct team assignment), geospatial context (map of issues), data portal access (open data alignment), and engagement processes (public participation frameworks).",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "We assist residents by getting their non-emergency concerns or questions answered - or delivered to the correct team for investigation - so services or assistance can be provided. Our highly trained call center agents, and our intelligent self-service website and mobile apps handle requests for potholes, sidewalks, stormwater, tax billing, streetlights, social services programs, and more.",
+              "We partner with over 20 different City agencies within the City and in 2024, RVA311 provided assistance or supported our City partners in responding to over 83,000 requests.",
+              "Enter the address or intersection for the concern in RVA311.com or on your RVA311 mobile app. Icons will appear on the map showing other requests within 1/10 of a mile of that location. Click on the icon to see more details and confirm whether your issue has already been brought to our attention.",
+              "Multiple Ways to Submit\nWe strive to make access to non-emergency information, care and services as easy as possible for all Richmond residents and visitors. Requests may be submitted by telephone, online or by mobile. Our self-serve web portal and mobile apps are available 24 hours a day, 7 days a week."
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://planrva.org/transportation/public-engagement-plan/",
+            "excerpts": [
+              "The Public Engagement Plan (PEP) guides public involvement and serves as a blueprint to gather public comments on the study process, recommendations and"
+            ],
+            "title": "Public Engagement Plan"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "equity_questions.2",
+        "reasoning": "The field value seeks explicit guidance on compensating or recognizing community partners and resident narrators for their time and emotional labor. The most relevant excerpts are those that articulate the City of Richmond\u2019s broader equity, inclusion, and public engagement ethos, since compensation practices often align with an equity-centered approach and with how civic projects engage residents. Excerpts describing the Office of Equity and Inclusion and its mission to build a foundation for advancing equity, inclusion, and justice provide the governance and value framework in which compensation policies would be developed. Excerpts about the Equity Agenda and public engagement planning offer procedural and strategic context for engaging residents in an inclusive manner, which could imply or influence how compensation and recognition are considered, even though they do not specify concrete mechanisms. Excerpt addressing RVA311 privacy highlights how resident data is handled in a civic context, which can affect how contributions are recognized while protecting privacy, but it does not address compensation either. Overall, there is thematic support for the importance of fair engagement and acknowledgment of community voices, but no direct statements about compensation or recognition for time or emotional labor. The strongest support comes from the equity-focused and engagement-oriented excerpts, while explicit compensation details are absent.\n",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/human-services/office-equity-and-inclusion",
+            "excerpts": [
+              "The City of Richmond's Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness.",
+              "The City of Richmond\u2019s Office of Equity and Inclusion was established in 2021 and aims to work alongside city leadership and staff, community members and partners to build a strong foundation for the collective work of advancing equity, inclusion and justice within the City\u2019s internal and external facing policies, practices, operations and overall culture.",
+              "The City of Richmond\u2019s Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness around critical concepts such as racial equity, inclusion, belonging, cultural competency, why these concepts matter and the role that local government plays in advancing equity and inclusion on a daily basis in Richmond.",
+              "The Office of Equity and Inclusion aims to increase the collective understanding of the City\u2019s role and responsibility in advancing equity within and across all city offices and departments in order to dismantle institutional racism and other oppressive elements that have been historically engrained within city policies, practices and culture and that have led to generations-long disparities along racial and socioeconomic lines within the City of Richmond.",
+              "The goal: to purposefully and intentionally institutionalize equity, inclusion and justice in ways that will lead to meaningful, long-term, population-level outcomes across all issue areas for the City\u2019s most historically marginalized, overlooked and underserved communities."
+            ],
+            "title": "Office of Equity and Inclusion | Richmond"
+          },
+          {
+            "url": "https://planrva.org/transportation/public-engagement-plan/",
+            "excerpts": [
+              "The Public Engagement Plan (PEP) guides public involvement and serves as a blueprint to gather public comments on the study process, recommendations and"
+            ],
+            "title": "Public Engagement Plan"
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Our roadmap to a more inclusive and thriving city is the Equity Agenda, which will be formally introduced to Richmond City Council as a resolution. But before"
+            ],
+            "title": "Richmond's Equity Agenda"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "emotional_trust_job_to_be_done.situation",
+        "reasoning": "The finegrained field value describes a situation where the user has experienced harm or neglect related to Richmond\u2019s historical inequities. Excerpts that articulate Richmond\u2019s aim to tell the truth about its history, including slavery, racism, and Black empowerment, directly support the need for a trusted platform to acknowledge and share lived experiences as civic insight. The assertion that the city should be a national model for telling the truth about its past provides context for why residents\u2019 stories are vital and why trust is essential in collecting and sharing those experiences. Additionally, discussions of Richmond Stories and civic storytelling initiatives illustrate existing efforts to surface resident perspectives and civic narratives, reinforcing why a JTBD focused on trust-enabled storytelling is relevant. A broader framing around championing arts and culture to tell stories complements the emotional/trust motivation by situating storytelling within civic identity and reconciliation, further linking to the need for a trusted channel for resident experiences. Excerpt describing RVA311 privacy, while tangentially related to user data handling, does not directly address the harm/injustice narrative and is therefore less supportive of the specific finegrained field value. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_coordination_job_to_be_done.motivation",
+        "reasoning": "The core field value describes a motivation to access a coordinated repository that tags and aggregates resident stories by neighborhood, topic, and demographics. Evidence from the excerpts supports this in several ways: a civic storytelling platform is described as connecting residents and city planners through neighborhood stories, which implies a coordinated system for collecting and sharing stories across stakeholders. Another excerpt discusses stories and dashboards built from local datasets, maps, and charts, which aligns with the idea of organizing information by place-based and topical dimensions (neighborhoods and other categories). A third excerpt highlights an open data portal designed to give citizens access to city data, reinforcing the user-access aspect of a repository and the notion of an accessible, centralized source. While the other excerpts emphasize engagement and city narratives more broadly rather than explicit tagging/aggregation mechanics, they still provide contextual support for a system that coordinates storytelling with city insights. Taken together, these excerpts collectively support the feasibility and components of the stated motivation, particularly the coordination of stories and the ability to access structured, neighborhood- and topic-aware information.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://data.virginia.gov/pages/stories-dashboards",
+            "excerpts": [
+              "Locality Spotlights zoom in on cities and towns to tell place-based stories using local datasets, maps, and charts. They surface neighborhood-level trends,"
+            ],
+            "title": "Stories & Dashboards - Virginia Open Data Portal"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://publicinput.com/",
+            "excerpts": [
+              "From planning to public meetings, PublicInput unites your departments and tools in one platform\u2014making it simple to collaborate, share insights, and keep"
+            ],
+            "title": "PublicInput | Community Engagement Software for Government"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "user_questions.4",
+        "reasoning": "To support offline capture workflows, excerpts that describe non-digital or multi-channel submission options are most relevant. A statement that requests can be submitted by telephone, in addition to online or mobile options, directly aligns with the need to accommodate residents with limited internet or phone minutes by enabling a voice-based submission path. The privacy note about not exposing personal information publicly and directing access to city staff can reinforce trust in offline channels and specify data handling considerations for low-connectivity contexts. Additional context about a broader \u201copen data\u201d portal and the city\u2019s equity and inclusion work helps frame why inclusive, accessible data collection methods are important for Richmond residents and why partnerships with community organizations (CBOs) could be beneficial, even if not explicitly stated as mechanisms in the excerpts. Taken together, these pieces support the concept of mixed, offline-capable capture workflows (phone line, in-person or partner-facilitated touchpoints) as part of a civic tech project aimed at inclusive resident storytelling and civic insight. The most directly supportive content is the explicit mention of submission by telephone as an alternative to online channels, followed by references to multiple submission avenues (online/mobile) and privacy considerations that enable broader participation. The remaining excerpts provide contextual backing about equity-focused governance and data access in Richmond, which underlines the rationale for inclusive data collection approaches but are less directly about offline capture mechanics. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Multiple Ways to Submit\nWe strive to make access to non-emergency information, care and services as easy as possible for all Richmond residents and visitors. Requests may be submitted by telephone, online or by mobile. Our self-serve web portal and mobile apps are available 24 hours a day, 7 days a week.",
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://play.google.com/store/apps/details?id=com.richmondgov.com.rva311&hl=en_US",
+            "excerpts": [
+              "This app is designed to improve our service delivery efforts as well as our citizen engagement by providing citizens a way to report non-emergency incidents."
+            ],
+            "title": "RVA311 - Apps on Google Play"
+          },
+          {
+            "url": "https://www.rva.gov/human-services/office-equity-and-inclusion",
+            "excerpts": [
+              "The City of Richmond\u2019s Office of Equity and Inclusion seeks to provide guidance, facilitation, tools and resources to city staff that will increase awareness around critical concepts such as racial equity, inclusion, belonging, cultural competency, why these concepts matter and the role that local government plays in advancing equity and inclusion on a daily basis in Richmond.",
+              "The Office of Equity and Inclusion aims to increase the collective understanding of the City\u2019s role and responsibility in advancing equity within and across all city offices and departments in order to dismantle institutional racism and other oppressive elements that have been historically engrained within city policies, practices and culture and that have led to generations-long disparities along racial and socioeconomic lines within the City of Richmond.",
+              "The goal: to purposefully and intentionally institutionalize equity, inclusion and justice in ways that will lead to meaningful, long-term, population-level outcomes across all issue areas for the City\u2019s most historically marginalized, overlooked and underserved communities."
+            ],
+            "title": "Office of Equity and Inclusion | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_coordination_job_to_be_done.core_pain_point",
+        "reasoning": "The core pain emphasizes duplicative engagement efforts, inaccessible qualitative data for broad analysis, and weak feedback loops across departments, which hinder discovering patterns and insights citywide. The most relevant excerpts point to ecosystems that address these coordination and engagement issues: a civic storytelling platform that connects residents with historians and city planners, suggesting a multi-stakeholder workflow and potential consolidation of engagement channels; a public engagement software solution that unites departments and tools to simplify collaboration and insight sharing, indicating a path to reduce duplication and strengthen feedback loops; and open data/data portal initiatives that surface city data and stories, which can improve access to qualitative and quantitative information for cross-department analysis. The remaining excerpt about city pillars, while contextual to the overarching mission of truthful storytelling, does not directly illustrate the operational pains in coordinating systems or data flows. Taken together, these excerpts imply that a unified platform and data ecosystem could mitigate duplicative efforts, improve accessibility of qualitative data, and bolster cross-department feedback and pattern discovery.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://publicinput.com/",
+            "excerpts": [
+              "From planning to public meetings, PublicInput unites your departments and tools in one platform\u2014making it simple to collaborate, share insights, and keep"
+            ],
+            "title": "PublicInput | Community Engagement Software for Government"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://data.virginia.gov/pages/stories-dashboards",
+            "excerpts": [
+              "Locality Spotlights zoom in on cities and towns to tell place-based stories using local datasets, maps, and charts. They surface neighborhood-level trends,"
+            ],
+            "title": "Stories & Dashboards - Virginia Open Data Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "functional_job_to_be_done.persona",
+        "reasoning": "To support the field value of a Richmond resident as the persona for the JTBD, we need evidence that the project targets residents as active participants and beneficiaries in sharing lived experiences for civic decisions. The strongest support comes from language describing a civic storytelling platform that connects residents with historians and city planners to share neighborhood stories, indicating residents are central to the platform\u2019s purpose. Another strong source describes conversations with residents and change-makers to explore Richmond\u2019s past, present, and future, which aligns with residents as the core user group contributing to civic narratives. Additional context shows educational resources and broader commitments to tell Richmond\u2019s stories, which reinforces the resident-centric goal of engaging the public in sharing lived experiences as civic insight. Supporting context about pillars and plans framing a City That Tells Its Stories further anchors the civic storytelling initiative in Richmond, even if these sources don\u2019t name a specific resident persona, they describe the environment in which residents participate. Collectively, these excerpts corroborate the notion that the target user is a Richmond resident who shares lived experiences to inform civic decisions and story-driven governance.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our"
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://www.wric.com/news/local-news/richmond/avula-lays-out-his-plan-for-a-thriving-richmond/",
+            "excerpts": [
+              "Oct 15, 2025 \u2014 7. \u201cA City that Tells its Stories (and tells the truth about its past)\u201d. The seventh and final pillar, \u201cA City that Tells"
+            ],
+            "title": "Avula lays out his plan for a 'thriving' Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "functional_job_to_be_done.situation",
+        "reasoning": "The most relevant excerpt describes a civic storytelling platform that directly connects residents, historians, and city planners through neighborhood stories, which aligns with a city department exploring policy or capital project impacts in specific neighborhoods by gathering grounded, place-based insights from residents and planners. This supports the idea of a structured channel for civic insight to inform decisions affecting neighborhoods. Excerpts that emphasize a broader commitment to telling the city\u2019s stories or history (\u201cA City That Tells Its Stories\u201d and the pillar-focused language) reinforce the value of narrative-driven transparency and stakeholder engagement, which are important when departments assess policy and capital impacts but are more abstract than the direct platform description. References to policy-oriented plans or action agendas in city materials indicate an official context in which neighborhood-storytelling and civic narratives could feed decision-making, further supporting the relevance of neighborhood-focused insight to policy and capital projects. Other excerpts describe Richmond\u2019s storytelling initiatives or resources tied to museums and collections; these illustrate the ecosystem of storytelling around civic life but are less directly tied to department-level policy or capital-project impact assessment, though they provide contextual support for the broader narrative approach. Taken together, the most supportive evidence shows an explicit platform that bridges residents and city planners around neighborhood narratives, while adjacent sources demonstrate the policy and storytelling context in which a department would operate.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          },
+          {
+            "url": "https://www.wric.com/news/local-news/richmond/avula-lays-out-his-plan-for-a-thriving-richmond/",
+            "excerpts": [
+              "Oct 15, 2025 \u2014 7. \u201cA City that Tells its Stories (and tells the truth about its past)\u201d. The seventh and final pillar, \u201cA City that Tells"
+            ],
+            "title": "Avula lays out his plan for a 'thriving' Richmond"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history."
+            ],
+            "title": "Richmond Stories"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_coordination_job_to_be_done.outcome",
+        "reasoning": "To support the specified JTBD outcome of synthesizing themes with quantitative data and effectively reporting outcomes to the community and leadership, the most relevant excerpts describe cross-stakeholder storytelling platforms and integrated dashboards. The excerpt about a civic storytelling platform connecting residents, historians, and city planners shows direct cross-stakeholder coordination around neighborhood stories, which aligns with coordinating insights across departments and community groups for reporting. The excerpt about stories and dashboards emphasizes surfacing neighborhood-level trends through local datasets, maps, and charts, which directly supports synthesizing quantitative themes and communicating results through dashboards. The excerpt describing a public engagement software that unites departments and tools to collaborate and share insights further reinforces the systems/coordination angle by illustrating a unified platform for collaboration and insight sharing. An excerpt that frames data as a portal for citizens to access city information provides important context for data availability but is slightly less about the reporting of outcomes to leadership; it nonetheless supports the data-access prerequisite for synthesis and reporting. Finally, the pillar page about telling Richmond\u2019s stories gives mission context but is the least directly about the act of coordinating and reporting outcomes, though it underpins the narrative goal of transparent storytelling.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://data.virginia.gov/pages/stories-dashboards",
+            "excerpts": [
+              "Locality Spotlights zoom in on cities and towns to tell place-based stories using local datasets, maps, and charts. They surface neighborhood-level trends,"
+            ],
+            "title": "Stories & Dashboards - Virginia Open Data Portal"
+          },
+          {
+            "url": "https://publicinput.com/",
+            "excerpts": [
+              "From planning to public meetings, PublicInput unites your departments and tools in one platform\u2014making it simple to collaborate, share insights, and keep"
+            ],
+            "title": "PublicInput | Community Engagement Software for Government"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "functional_job_to_be_done.outcome",
+        "reasoning": "The strongest support comes from statements describing a civic storytelling platform that connects residents with planners and civic decision-makers, explicitly positioning resident stories as a channel for civic insight. This aligns with the goal of grounding decisions in residents\u2019 lived realities rather than only relying on numbers. Additional support comes from references to city pillars and plans that frame storytelling as a mechanism to tell truth about community history and inform policy, suggesting a structured approach where residents\u2019 experiences influence governance. References to collaborative storytelling initiatives emphasize conversations with community members to explore past, present, and future, reinforcing the premise that residents\u2019 realities should inform decisions. Contextual mentions of Richmond Stories and educational resources documenting the region\u2019s history further illustrate the value placed on local narratives as a foundation for informed civic work, even if the direct link to decision-making is implicit rather than explicit in every excerpt. Overall, the excerpts collectively support the idea that resident narratives and storytelling channels are intended to inform civic decisions and counteract reliance on aggregated data alone.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history."
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.wric.com/news/local-news/richmond/avula-lays-out-his-plan-for-a-thriving-richmond/",
+            "excerpts": [
+              "Oct 15, 2025 \u2014 7. \u201cA City that Tells its Stories (and tells the truth about its past)\u201d. The seventh and final pillar, \u201cA City that Tells"
+            ],
+            "title": "Avula lays out his plan for a 'thriving' Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "project_summary.project_name",
+        "reasoning": "The target value describes a named online platform in Richmond for collecting and sharing resident stories as civic insight. The strongest relevant information identifies a civic storytelling platform focused on Richmond storytelling\u2014connecting residents, historians, and city planners through neighborhood stories\u2014indicating a formal online project with civic storytelling goals in Richmond. Related excerpts reinforce the same theme by presenting Richmond Stories as a digital or online-centric initiative (e.g., educational resources and a platform hosted or presented by local institutions), and by framing the overarching mission around telling Richmond\u2019s stories and sharing challenging aspects of its history. The pillar reference to 'a city that tells its stories' further corroborates the intended aim of an online, story-driven civic project that documents and communicates local experiences to inform decisions, governance, and community dialogue.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "emotional_trust_job_to_be_done.outcome",
+        "reasoning": "The most relevant content directly engages with the city\u2019s duty to tell the truth about its history and to include experiences of marginalized groups. One excerpt states a goal to make Richmond a national model for telling the truth about its own history, including slavery and racism, which aligns with the desired outcome of residents feeling heard and trusting that the city will address past wrongs. Another excerpt discusses Richmond Stories as a platform for exploring the past, present, and future through conversations with change-makers, reinforcing the notion that residents can share lived experiences in a manner that supports civic insight and accountability. A closely related excerpt reiterates the pillar aim of telling the truth about the city\u2019s past, underscoring a continued commitment to transparent storytelling. A fourth excerpt frames a city action plan focused on championing arts and culture to tell stories, which supports trust through an explicit institutional commitment to storytelling as a civic practice. Supporting context comes from a platform-oriented excerpt describing a civic storytelling platform that connects residents, historians, and city planners, highlighting a structured ecosystem for sharing stories responsibly. Finally, although privacy and data handling are not central to truth-telling, a privacy-focused excerpt demonstrates safeguards that can reduce fear of backlash when sharing stories, contributing to a more trustworthy environment.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "emotional_trust_job_to_be_done.current_workaround",
+        "reasoning": "The most directly relevant content relates to how residents engage with civic storytelling in trusted contexts. Excerpt about RVA Voices describes a platform that connects residents with historians and city planners, illustrating a trusted channel through which residents might share stories or gain legitimacy for their participation. Excerpt about Richmond Stories presented by a museum (the Valentine) shows engagement through established cultural institutions and programs, which aligns with using trusted, organized avenues to share lived experiences. The Mayoral Action Plan highlights official support for arts and culture as a vehicle for telling stories, suggesting institutional pathways that residents might leverage or prefer when engaging in civic storytelling. Excerpts discussing the Pillars of telling truthful histories reinforce the importance of credible, trusted storytelling frameworks that residents might rely on instead of informal networks. The privacy/anonymous option excerpt (RVA311) touches on safeguarding privacy to encourage participation, which is a trust-building mechanism that could be part of a current workaround, including the option to submit without exposing identify information. Collectively, these excerpts map to a spectrum of workarounds: relying on credible platforms and intermediaries (CBOs, museums, cultural institutions) for trusted storytelling and participation, leveraging privacy-friendly submission options, and, less directly, engaging through official or culturally sanctioned programs. While none of the excerpts state the exact workaround described in the field value verbatim, they collectively support the idea that residents lean on trusted, organized channels and privacy-conscious pathways to participate in civic storytelling, aligning with the concept of whisper networks and trusted intermediaries as a mode of engagement.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "RVA311 and Your Privacy\nAt RVA311, we take your privacy seriously. While we may collect name and contact details for your request, we make sure no personally identifiable information is visible to other users of our web portal or mobile app. Your personal information is only visible to the City's internal teams addressing your concern in case they need to contact you for more information. For requests where the need to contact you directly is unlikely, we offer the option to submit your request anonymously."
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_coordination_job_to_be_done.current_workaround",
+        "reasoning": "The field value describes existing coordination workarounds across multiple systems: ad-hoc listening sessions, separate project-specific surveys, manual sifting of emails, and reviewing transcripts scattered across systems. Excerpt describing a public input platform emphasizes uniting departments and tools to streamline collaboration, which aligns with the need to reduce ad-hoc coordination friction. Excerpt about a civic storytelling platform connects residents, historians, and city planners, illustrating cross-stakeholder collaboration and the flow of qualitative insights across systems, which is highly relevant to how systems coordinate civic data and stories. The pillar excerpt about telling the city\u2019s stories frames a narrative and historical context that influences how coordination platforms might be used to share stories and insights across the city, contributing to understanding the current workflow of storytelling and reporting. Data portals and dashboards (city/open data portals) imply governance and data access across departments, which is part of the broader coordination ecosystem but less directly tied to the immediate workflow described (listening sessions, surveys, transcripts). The most relevant content thus centers on platforms or solutions that explicitly aim to unify or facilitate cross-department collaboration (public input tools) and resident storytelling platforms, as these closest map to the described coordination workarounds. The remaining excerpts provide supportive context about the environment in which coordination occurs (storytelling and data portals) but do not directly address the exact current workaround steps listed in the field value.)",
+        "citations": [
+          {
+            "url": "https://publicinput.com/",
+            "excerpts": [
+              "From planning to public meetings, PublicInput unites your departments and tools in one platform\u2014making it simple to collaborate, share insights, and keep"
+            ],
+            "title": "PublicInput | Community Engagement Software for Government"
+          },
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://data.virginia.gov/pages/stories-dashboards",
+            "excerpts": [
+              "Locality Spotlights zoom in on cities and towns to tell place-based stories using local datasets, maps, and charts. They surface neighborhood-level trends,"
+            ],
+            "title": "Stories & Dashboards - Virginia Open Data Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "functional_job_to_be_done.core_pain_point",
+        "reasoning": "The core field value emphasizes the need for better capture of nuanced narratives, asynchronous accessibility, and structured organization by location or topic. Supporting content shows active efforts to build platforms and programs for resident storytelling and civic insight: a civic storytelling platform explicitly connects residents with historians and city planners to capture neighborhood stories, indicating an infrastructure designed to collect and share narratives across stakeholders. Additionally, the description of Richmond Stories as a format that engages residents and change-makers to explore past, present, and future underscores a multi-party, narrative-driven approach that aligns with improving capture and accessibility of lived experiences. Pillars and mayoral plans repeatedly frame storytelling as a civic objective, including aims to tell the truth about history (including sensitive topics like slavery) through arts and culture, which supports the need for structured, location- and topic-aware storytelling to inform decisions. Together, these excerpts illustrate a real-world ecosystem of narrative capture and civic storytelling in Richmond that directly relates to the described core pain points and the JTBD focus on functional improvements in capturing and organizing stories for civic insight.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our"
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.wric.com/news/local-news/richmond/avula-lays-out-his-plan-for-a-thriving-richmond/",
+            "excerpts": [
+              "Oct 15, 2025 \u2014 7. \u201cA City that Tells its Stories (and tells the truth about its past)\u201d. The seventh and final pillar, \u201cA City that Tells"
+            ],
+            "title": "Avula lays out his plan for a 'thriving' Richmond"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "functional_job_to_be_done.current_workaround",
+        "reasoning": "The finegrained field seeks the current workaround for executing a Jobs To Be Done analysis focused on how residents currently address functional needs in a civic storytelling context. None of the excerpts provide a direct description of a \u2018current workaround\u2019 for JTBD execution (e.g., a specific tool, process, or platform residents habitually use to share experiences or gather insights in Richmond today). The most relevant excerpts are those that discuss Richmond\u2019s civic storytelling concepts and platforms related to telling local stories and engaging residents, since the workaround would likely relate to existing channels or systems used for story-sharing in the city. For instance, excerpts describing a civic storytelling platform that connects residents and city planners, and excerpts describing initiatives to tell Richmond\u2019s stories through museums or city pillars, are closest to the topic of how residents currently share or could share lived experiences about civic issues. These sources establish the domain context (civic storytelling and resident narratives in Richmond) but do not specify a concrete, current practice used as a workaround for the JTBD statement provided. As such, the strongest support these excerpts offer is contextual alignment with the project\u2019s focus (resident stories as civic insight and platforms for sharing stories), rather than a direct confirmation of the stated workaround. The rest of the excerpts elaborate on the broader narrative goals and governance around telling Richmond\u2019s stories, which helps frame the problem space but does not address the exact workaround in use today. Overall, there is partial contextual relevance but no explicit evidence of the exact current workaround described in the field value. Therefore, the connection is indirect and the evidentiary support is limited to framing context rather than confirming the precise workaround.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our"
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.wric.com/news/local-news/richmond/avula-lays-out-his-plan-for-a-thriving-richmond/",
+            "excerpts": [
+              "Oct 15, 2025 \u2014 7. \u201cA City that Tells its Stories (and tells the truth about its past)\u201d. The seventh and final pillar, \u201cA City that Tells"
+            ],
+            "title": "Avula lays out his plan for a 'thriving' Richmond"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-10/2025-MAP-Oct15_F.pdf",
+            "excerpts": [
+              "Mayoral Action Plan | 2025. MAYORAL ACTION PLAN. A City That Tells its Stories ... Goal B: Champion our arts and culture communities in their efforts to tell."
+            ],
+            "title": "Mayoral Action Plan | 2025"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "functional_job_to_be_done.motivation",
+        "reasoning": "The platform is described as a civic storytelling platform connecting Richmond residents through neighborhood stories, which aligns with the idea of submitting lived-experience stories. Another excerpt mentions using conversations with residents to explore the past, present, and future of Richmond, implying a method of collecting and sharing stories.",
+        "citations": [
+          {
+            "url": "https://www.richmondstories.online/",
+            "excerpts": [
+              "A civic storytelling platform connecting Richmond residents, historians, and city planners through neighborhood stories."
+            ],
+            "title": "RVA Voices \u2014 Richmond Stories Project"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home."
+            ],
+            "title": "Richmond Stories"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "project_summary": {
+          "type": "object",
+          "properties": {
+            "project_name": {
+              "type": "string",
+              "description": "The name of the civic tech project."
+            },
+            "governing_pillar": {
+              "type": "string",
+              "description": "The strategic pillar of the city's plan that the project falls under."
+            },
+            "problem_statement": {
+              "type": "string",
+              "description": "The core problem the project aims to solve."
+            },
+            "project_description": {
+              "type": "string",
+              "description": "A brief description of the project."
+            }
+          },
+          "required": [
+            "project_name",
+            "governing_pillar",
+            "problem_statement",
+            "project_description"
+          ],
+          "additionalProperties": false
+        },
+        "functional_job_to_be_done": {
+          "type": "object",
+          "properties": {
+            "situation": {
+              "type": "string",
+              "description": "The 'When...' part of the JTBD statement, describing the context."
+            },
+            "persona": {
+              "type": "string",
+              "description": "The 'I...' part of the JTBD statement, describing the user."
+            },
+            "motivation": {
+              "type": "string",
+              "description": "The 'want to...' part of the JTBD statement, describing the user's goal."
+            },
+            "outcome": {
+              "type": "string",
+              "description": "The 'so I can...' part of the JTBD statement, describing the desired result."
+            },
+            "current_workaround": {
+              "type": "string",
+              "description": "The current method the user employs to achieve the outcome."
+            },
+            "core_pain_point": {
+              "type": "string",
+              "description": "The primary difficulty or frustration with the current workaround."
+            }
+          },
+          "required": [
+            "situation",
+            "persona",
+            "motivation",
+            "outcome",
+            "current_workaround",
+            "core_pain_point"
+          ],
+          "additionalProperties": false
+        },
+        "emotional_trust_job_to_be_done": {
+          "type": "object",
+          "properties": {
+            "situation": {
+              "type": "string",
+              "description": "The 'When...' part of the JTBD statement, describing the context."
+            },
+            "persona": {
+              "type": "string",
+              "description": "The 'I...' part of the JTBD statement, describing the user."
+            },
+            "motivation": {
+              "type": "string",
+              "description": "The 'want to...' part of the JTBD statement, describing the user's goal."
+            },
+            "outcome": {
+              "type": "string",
+              "description": "The 'so I can...' part of the JTBD statement, describing the desired result."
+            },
+            "current_workaround": {
+              "type": "string",
+              "description": "The current method the user employs to achieve the outcome."
+            },
+            "core_pain_point": {
+              "type": "string",
+              "description": "The primary difficulty or frustration with the current workaround."
+            }
+          },
+          "required": [
+            "situation",
+            "persona",
+            "motivation",
+            "outcome",
+            "current_workaround",
+            "core_pain_point"
+          ],
+          "additionalProperties": false
+        },
+        "systems_coordination_job_to_be_done": {
+          "type": "object",
+          "properties": {
+            "situation": {
+              "type": "string",
+              "description": "The 'When...' part of the JTBD statement, describing the context."
+            },
+            "persona": {
+              "type": "string",
+              "description": "The 'I...' part of the JTBD statement, describing the user."
+            },
+            "motivation": {
+              "type": "string",
+              "description": "The 'want to...' part of the JTBD statement, describing the user's goal."
+            },
+            "outcome": {
+              "type": "string",
+              "description": "The 'so I can...' part of the JTBD statement, describing the desired result."
+            },
+            "current_workaround": {
+              "type": "string",
+              "description": "The current method the user employs to achieve the outcome."
+            },
+            "core_pain_point": {
+              "type": "string",
+              "description": "The primary difficulty or frustration with the current workaround."
+            }
+          },
+          "required": [
+            "situation",
+            "persona",
+            "motivation",
+            "outcome",
+            "current_workaround",
+            "core_pain_point"
+          ],
+          "additionalProperties": false
+        },
+        "data_questions": {
+          "type": "array",
+          "description": "A list of open questions related to data collection, storage, privacy, analysis, and ownership for the project, with a specific focus on Richmond, VA.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "user_questions": {
+          "type": "array",
+          "description": "A list of open questions related to user personas, user experience (UX), accessibility, and resident engagement strategies for the Richmond community.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "integration_questions": {
+          "type": "array",
+          "description": "A list of open questions about how the 'richmond-stories-online' platform will integrate with existing City of Richmond systems (e.g., RVA311, eComments) and internal decision-making workflows.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "equity_questions": {
+          "type": "array",
+          "description": "A list of open questions focused on ensuring equitable access, representation, and impact. These questions should consider Richmond's diverse communities, digital literacy, and the goals of the city's Office of Equity and Inclusion.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "prior_art_questions": {
+          "type": "array",
+          "description": "A list of open questions about learning from similar civic storytelling projects and public input platforms, both within Richmond (e.g., The Valentine's 'Richmond Stories', RVA311) and in other municipalities.",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "project_summary",
+        "functional_job_to_be_done",
+        "emotional_trust_job_to_be_done",
+        "systems_coordination_job_to_be_done",
+        "data_questions",
+        "user_questions",
+        "integration_questions",
+        "equity_questions",
+        "prior_art_questions"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "jtbd_analysis.md"
+  }
+}

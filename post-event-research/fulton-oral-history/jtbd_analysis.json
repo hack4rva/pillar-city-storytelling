@@ -1,0 +1,1491 @@
+{
+  "run_id": "trun_1848795af0f24b8087e3096964302580",
+  "interaction_id": "trun_1848795af0f24b8087e3096964302580",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b8087e3096964302580",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "equity_questions",
+        "reasoning": "The most relevant content directly references the Fulton Oral History Project, its aim to educate, raise awareness, and document life in the Fulton community, and the involvement of residents and interviewees. These passages establish a foundation for governance and equity considerations by showing that the project centers community voices and lived experiences. Context about who was interviewed (teachers, activists, clergy, community leaders) and about accessibility of materials suggests practical pathways for inclusive engagement and fair treatment of contributors, which informs questions about governance models, compensation, and safeguarding content. Historical notes on urban renewal and displacement provide critical equity context\u2014why governance controls, community consent, and harm mitigation are essential, as past projects significantly affected residents. Together, these excerpts support the need to discuss governance structures (who controls access and decisions about use), fair compensation for participants, safeguards around sensitive content (trauma, privacy, redaction), and accessibility considerations (inclusive submission channels and accessible formats). While the excerpts do not spell out concrete governance frameworks or compensation scales, they establish a context in which such governance and ethical considerations are both necessary and meaningful for a Richmond-focused equity approach to the Fulton Oral History Project.",
+        "citations": [
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk",
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community.",
+              "May 23, 2024 \u2014 ... Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond's Fulton Bottom"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "In an effort to document the 20th century history of the neighborhood and its residents, the project collected the oral histories of numerous members of the Historic Fulton community, particularly those with strong ties to neighborhood prior to the city of Richmond's 1970s urban renewal project.",
+              "These interviews allow the members of the community to speak for and about themselves, and therefore they represent a unique perspective on this period in the neighborhood's history",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012",
+              "Historic Fulton Oral History Project",
+              "The interviewees are teachers, activists, clergy, and community leaders who grew up in the predominantly African American Historic Fulton community from the 1930s through the 1950s.",
+              "The interviewees were also witness to the City of Richmond's 1970s urban renewal plan that permanently changed the landscape of Historic Fulton."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "data_questions",
+        "reasoning": "The most directly relevant excerpts describe the Historic Fulton Oral History Project\u2019s scope, with explicit mentions of the collection containing interviews and the purpose of documenting life in Fulton. These pieces support the idea that a structured metadata scheme would be needed to describe who is in the interviews, what topics are covered, and how materials are preserved and accessed. Additional excerpts discuss archival practices, the existence of guides and partnerships, and the distribution of physical copies and transcriptions to institutions, which aligns with concerns about preservation formats, duplication, and access control. Contextual excerpts about urban renewal in Fulton provide background on why such metadata and careful documentation would be important for future civic use and policy analysis, including potential tagging around displacement, housing, schools, and community institutions. Taken together, the strongest support centers on collection scope, archival preservation practices, and institutional partnerships, with secondary support from historical context and distribution of materials. These sources collectively illustrate practical parallels to the metadata standards, consent considerations, and access controls described in the finegrained field value. The weaker, but still relevant, pieces are those that describe broader urban renewal narratives or the existence of related projects, which provide context but do not directly address metadata schemas or consent mechanics.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012",
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team.",
+              "In an effort to document the 20th century history of the neighborhood and its residents, the project collected the oral histories of numerous members of the Historic Fulton community, particularly those with strong ties to neighborhood prior to the city of Richmond's 1970s urban renewal project.",
+              "These interviews allow the members of the community to speak for and about themselves, and therefore they represent a unique perspective on this period in the neighborhood's history",
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants.",
+              "Historic Fulton Oral History Project",
+              "The interviewees are teachers, activists, clergy, and community leaders who grew up in the predominantly African American Historic Fulton community from the 1930s through the 1950s.",
+              "The interviewees were also witness to the City of Richmond's 1970s urban renewal plan that permanently changed the landscape of Historic Fulton.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk",
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community.",
+              "May 23, 2024 \u2014 ... Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond's Fulton Bottom"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Make Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city's",
+              "Section Title: RVA Burger Menu > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond"
+          },
+          {
+            "url": "https://rva.gov/press-releases-and-announcements/news/mayor-avula-announces-reforms-build-more-transparent",
+            "excerpts": [
+              "The MAP is built around seven pillars for a thriving Richmond and will guide the administration's approach to policy-making and daily operations"
+            ],
+            "title": "Mayor Avula Announces Reforms to Build a More Transparent ..."
+          },
+          {
+            "url": "https://encyclopediavirginia.org/entries/urban-renewal-in-richmond/",
+            "excerpts": [
+              "al-history-project/) in the city\u2019s east end, one of the last intact Black neighborhoods in Richmond, was designated a \u201cslum\u201d in a study sponsored by the RRHA. Established in 1853, the 200-acre neighborhood was adjacent to downtown Richmond and consisted of approximately 850 homes, churches, schools, and stores. T",
+              "The Fulton Urban Renewal Plan that was unveiled in 1970 would displace approximately 785 households comprising nearly 3,000 individuals.",
+              "The last homes on Denny Street in Fulton were demolished in the late 1980s.",
+              "Richmond carried out several large-scale urban renewal projects between 1941 and the 1970s propelled by the federal Housing Law of 1937 and the Housing Act of"
+            ],
+            "title": "Urban Renewal in Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_jtbd",
+        "reasoning": "The most directly relevant content describes concrete oral history initiatives and how they are organized and accessed. The Historic Fulton Oral History Project aims to educate, raise awareness, and document life in the Historic Fulton community, which aligns with building a trusted, discoverable repository of resident experiences for civic use. Several excerpts detail the purpose, scope, and reach of the Fulton project, including the number of interviews and participants, which supports the notion of a structured, authoritative collection to ground policy decisions in lived experience. Other excerpts discuss how interviews were collected, distributed to multiple local institutions, and made accessible, illustrating practical precedents for storage, access, and sharing rights\u2014key components of a usable civic data pipeline. Additional content notes the urban renewal context and its effects, which underscores the need for equitable, broad-based access to histories beyond the most connected voices and highlights why a standard, rights-cleared repository would be valuable for policy work. These elements collectively support the need for a centralized, consent-driven, and well-governed JTBD-oriented system that collects, preserves, and makes resident narratives discoverable and usable in planning and decision-making. The included materials about Fulton\u2019s redevelopment context and related projects offer essential background for understanding system requirements like governance partnerships (e.g., libraries, universities, archives), provenance, and broad accessibility, which are critical for a reliable civic data workflow.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community.",
+              "Historic Fulton Oral History Project",
+              "The interviewees are teachers, activists, clergy, and community leaders who grew up in the predominantly African American Historic Fulton community from the 1930s through the 1950s.",
+              "The interviewees were also witness to the City of Richmond's 1970s urban renewal plan that permanently changed the landscape of Historic Fulton.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "In an effort to document the 20th century history of the neighborhood and its residents, the project collected the oral histories of numerous members of the Historic Fulton community, particularly those with strong ties to neighborhood prior to the city of Richmond's 1970s urban renewal project.",
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants.",
+              "These interviews allow the members of the community to speak for and about themselves, and therefore they represent a unique perspective on this period in the neighborhood's history",
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012",
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk",
+              "May 23, 2024 \u2014 ... Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond's Fulton Bottom",
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community."
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "functional_jtbd",
+        "reasoning": "The most relevant excerpts collectively establish the core of the JTBD: a formal project designed to educate and preserve life histories from the Historic Fulton community for broader civic impact. The excerpt describing the purpose of the project as educating, raising awareness, and documenting life directly supports the notion of capturing lived experiences to inform public understanding and planning. Details about the collection containing a defined number of interviews and the emphasis on presenting unique perspectives of Historic Fulton residents reinforce the motivation to preserve and describe these narratives for future accessibility and civic use. Information on physical copies and wide access demonstrates the intended outcome of making the histories usable by various stakeholders and institutions, aligning with the need for accessible formats and long-term preservation. Additional excerpts referencing urban renewal and the displacement context provide the situational backdrop that makes the JTBD concrete for Richmond\u2019s historic neighborhood, and the interviews conducted in those contexts illustrate how consent, metadata, and dissemination considerations might play into the current workaround and core pain described in the JTBD. Overall, these excerpts map onto the elements of the JTBD by detailing the project\u2019s purpose, the content it collects, its audience, and its role in informing civic decisions.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community.",
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "user_questions",
+        "reasoning": "The most directly relevant material describes the Historic Fulton Oral History Project as a collection effort with a defined scope (17 interviews with 32 named participants) and emphasizes that the project seeks to educate, raise awareness, and document life in the Historic Fulton community. This supports understanding the existence and scale of capturing elder narratives and the need to organize and share those narratives, which underpins questions about participation support, accessibility, and dissemination/feedback in a civic context. Additional excerpts that discuss Linda Braxton, Pamala Rogers, and Sheila Smith recalling life in Fulton Bottom further illustrate the lived-experience angle and the types of voices such a project aims to include, informing considerations of who to recruit and how stories emerge from a community. Excerpts that explicitly describe the Fulton Urban Renewal context help frame the environment in which a storytelling project operates, highlighting the community impact and potential trust-building considerations, which are relevant when considering accessibility and equitable participation. Finally, mentions of Fulton-related collections and dissemination (e.g., distribution of physical copies and institutional access) provide context for how outputs may be shared, aligning with the need for a feedback loop and accessible formats. Taken together, these excerpts support a conceptual basis for conducting a jobs-to-be-done style analysis around participation support, accessibility accommodations, recruitment channels, and feedback mechanisms, though they do not explicitly detail the exact accommodations or processes requested in the field value.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk",
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community."
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "analysis_introduction",
+        "reasoning": "The most directly relevant pieces describe the Fulton Oral History Project and its purpose to educate, raise awareness, and document life in the Historic Fulton community, which aligns with the JTBD goal of preserving resident stories as civic insight. These excerpts establish that the project collects oral histories from Fulton residents, including specifics about interviewees and the contexts of those histories, which supports the JTBD framing of when a resident storyteller engages with the tool to preserve lived experiences for civic decisions. Additional excerpts discuss the urban renewal history that shaped Fulton Bottom and East End, providing essential context for user needs and pain points (e.g., displacement, community fragmentation) that the JTBD analysis would address. This background informs the desired outcomes of the JTBD statements (functional, emotional/trust, systems/coordination) by highlighting why residents may seek a trusted, accessible platform to share experiences and how historical displacement creates expectations around accuracy, representation, and accessibility of narratives. The inclusion of archival collection efforts and partnerships underscores the need for reliable data stewardship, which directly feeds into the systems/coordination JTBD category. Overall, these excerpts collectively support the premise that Fulton\u2019s oral histories are central to civic storytelling and that a tool to preserve and share these narratives would fulfill both functional and trust-based needs, while also requiring coordination with existing institutions and collections.",
+        "citations": [
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk",
+              "May 23, 2024 \u2014 ... Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond's Fulton Bottom",
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community."
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants.",
+              "These interviews allow the members of the community to speak for and about themselves, and therefore they represent a unique perspective on this period in the neighborhood's history",
+              "Historic Fulton Oral History Project",
+              "The interviewees are teachers, activists, clergy, and community leaders who grew up in the predominantly African American Historic Fulton community from the 1930s through the 1950s.",
+              "The interviewees were also witness to the City of Richmond's 1970s urban renewal plan that permanently changed the landscape of Historic Fulton.",
+              "In an effort to document the 20th century history of the neighborhood and its residents, the project collected the oral histories of numerous members of the Historic Fulton community, particularly those with strong ties to neighborhood prior to the city of Richmond's 1970s urban renewal project.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012",
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "integration_questions",
+        "reasoning": "The integration-focused questions ask who will hold long-term stewardship, how deposits and ingests can be automated, how stories surface in public engagement tools with proper attribution, cross-linking with existing interviews, and which city workflows will consume the stories. Excerpts describing partnerships at the origin of the Fulton Oral History Project show that it was developed in partnership among multiple organizations, which directly informs governance and stewardship arrangements. For example, a passage notes that the project was developed in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team, illustrating a collaborative governance model and potential stewardship responsibilities across institutions. Additional excerpts describe how the collection exists to educate, raise awareness, and document life in the Historic Fulton community, indicating a foundational purpose that stewardship arrangements should preserve and promote. Other excerpts discuss that physical copies of audio recordings and transcriptions were distributed to local institutions to ensure wide access, which supports considerations for long-term preservation, access, and cross-institutional hosting. The collection\u2019s describing language about interviews presenting diverse community perspectives reinforces the value of inclusive surface exposure in public-facing tools and the potential need to surface multiple voices with proper attribution. Together, these excerpts imply a collaborative, multi-organization stewardship model, clear availability and access pathways through distributing materials to institutions, and a mission that supports public-facing documentation with appropriate context and attribution, all of which are relevant to the integration-focused field value. While these excerpts provide strong contextual cues about partnerships, purposes, and access, they do not detail concrete automated ingest pipelines or the exact internal city workflows, so some aspects of the field value would require additional forward-looking design considerations beyond what is stated here.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012"
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "emotional_jtbd",
+        "reasoning": "The emotional JTBD centers on ensuring residents\u2019 voices are heard with accuracy and respect, and that stories are used ethically to influence civic decisions without retraumatization. Excerpts describing the Fulton Oral History Project and its purpose to educate, raise awareness, and document life in the Fulton community directly support the need for community-controlled storytelling and credible context. The statements about projects that allow communities to speak for themselves and about themselves reinforce the trust and voice aspects of the JTBD. References that emphasize telling the truth about history and using storytelling to strengthen inter-cultural connections provide a basis for the trust and ethical framing desired by residents when sharing lived experiences for civic decisions. Additional details about accessibility of collected histories and distributions to institutions illustrate mechanisms to prevent exploitation and ensure voices are used transparently, aligning with the outcome of meaningful influence on decisions. Taken together, these excerpts substantiate the core need for a trusted, respectful, and controlled sharing process around Fulton\u2019s past and urban renewal, which is central to the emotional JTBD described.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community.",
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: RVA Burger Menu > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "functional_jtbd.current_workaround",
+        "reasoning": "The finegrained field value describes current workaround practices for capturing and preserving JTBD data in the Fulton Oral History context, highlighting ad hoc recordings at reunions and churches, scattered uploads, and limited metadata/preservation. Among the excerpts, the most directly relevant item discusses how physical copies and transcriptions were distributed to local institutions to ensure access, which aligns with a workaround-oriented approach to dissemination and preservation (rather than a single centralized, well-structured repository). Other excerpts describe the project\u2019s broader aims (educating, documenting life, and enabling the community to speak for itself) and historical interviews, which provide contextual background about how the collection has been accessed and represented over time but do not detail current workaround practices. There is no explicit description of the exact current workaround as stated in the finegrained field value (ad hoc recordings at reunions/churches, scattered uploads to YouTube/Google Drive, and referrals to specific projects), so the supporting evidence is indirect and provides broader project context rather than a precise match to the stated workaround mechanisms.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community.",
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "systems_jtbd.situation",
+        "reasoning": "The most relevant content directly ties the Fulton neighborhood to policy-driven redevelopment and its consequences, which informs the 'When shaping policies and projects that affect Fulton' situation. Excerpts describing urban renewal processes, demolition of structures, and displacement of families illuminate the policy and planning context that a civic tech project in Richmond must contend with. Additional excerpts describe the purpose and scope of the Fulton Oral History Project, highlighting efforts to educate, document, and preserve community narratives, which provide essential ground truth for understanding resident experiences and trustworthy storytelling in policy decisions. Other excerpts illustrate the neighborhood's location within Richmond and the long-term impact of past planning decisions on community life, reinforcing the importance of historical context in shaping modern civic interventions. Collectively, these excerpts support the notion of shaping policies and projects in Fulton by outlining past policy actions, community memory, and institutional partnerships involved in documenting and addressing the neighborhood\u2019s needs.",
+        "citations": [
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk",
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community.",
+              "May 23, 2024 \u2014 ... Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond's Fulton Bottom"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community.",
+              "The interviewees were also witness to the City of Richmond's 1970s urban renewal plan that permanently changed the landscape of Historic Fulton.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "systems_jtbd.motivation",
+        "reasoning": "The target field value describes a trustworthy, searchable pipeline of resident oral histories with consent for civic use, which is best served by evidence of collaborative development, clear governance, accessibility, and authentic community voices. Excerpts noting partnerships and structured development demonstrate how a system is formed and governed, which supports trust and coordination in the pipeline. Excerpts that emphasize the purpose to educate, raise awareness, or document community life show the system\u2019s broader civic intent and the emphasis on authentic resident voices. Excerpts highlighting distribution to local institutions illustrate distribution and access across the civic ecosystem, a proxy for a searchable, widely accessible repository. Specifically: - A description of the Historic Fulton Oral History Project being developed in partnership among local organizations indicates coordinated, multi-stakeholder design of the project, aligning with a coordinated systems approach. - Statements that the interviews allow the community to speak for themselves demonstrate trust and resident agency, which are core to a trustworthy pipeline. - Notes that physical copies and transcriptions were distributed to local institutions to ensure broad access reflect the intended accessibility and potential searchability across civic anchors. - General purpose descriptions that the project aims to educate, raise awareness, and document life in the Fulton community provide civic relevance and legitimacy for using residents\u2019 narrations in civic decisions. - The emphasis on a set of interviews (17 interviews with 32 participants) and the focus on residents with strong neighborhood ties reinforce authenticity and representativeness, supporting the trustworthy aspect. - Additional snippets stressing that the project enables residents to speak about themselves further underscore autonomy and credibility within the pipeline. Overall, the collected excerpts collectively support the idea of a coordinated, credible, and accessible oral history pipeline designed for civic use, even if explicit consent language or a fully searchable digital pipeline is not verbatim stated across excerpts. ",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "These interviews allow the members of the community to speak for and about themselves, and therefore they represent a unique perspective on this period in the neighborhood's history",
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "functional_jtbd.motivation",
+        "reasoning": "The finegrained field value specifies the motivation to capture, describe, and safely preserve oral histories in accessible formats. Excerpts that discuss distributing preserved histories so they can be accessed by many institutions and people directly support the \u2018accessible formats\u2019 element. Excerpts describing the project\u2019s purpose to educate, document life, or gain understanding of life in the community establish the preservation and documentation intent behind the JTBD. Excerpts that emphasize the community voices and interviews underpin authenticity and the data source for preservation, though they are more contextual. By extracting the strongest alignment to preservation and accessibility (excerpt describing access to preserved histories) and layering in the explicit preservation purpose and community voice, we connect the finegrained field value to the content of these excerpts. The result is a prioritized set where the most directly relevant items show preservation and broad access, followed by general preservation aims and community-driven aspects.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community."
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "data_questions.question_text",
+        "reasoning": "The most relevant content describes how the Historic Fulton project aims to document life in the community and to educate and raise awareness, which informs how descriptive metadata and context might be captured to preserve meaning (describing scope, subjects, and purposes). It also notes that the interviews were collected to document 20th-century history and that the collection is made accessible through partnerships and distributed physical copies to multiple institutions, which relates to access, interoperability, and preservation considerations. Additional excerpts describe the project\u2019s development in collaboration with local organizations, which informs governance and standardization contexts that would influence metadata schema choices and interoperability with partner institutions. Other excerpts emphasize that interviews allow community members to speak for themselves, informing ethical considerations around consent scope and representation, which tie to rights metadata and consent concepts in the field value. However, while these excerpts touch on access, collection, and purpose, they do not explicitly specify Dublin Core, consent tiering, FOIA considerations, or exact preservation formats, but they provide contextual grounding that supports the need for descriptive metadata, access controls, and preservation planning described in the field value.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "These interviews allow the members of the community to speak for and about themselves, and therefore they represent a unique perspective on this period in the neighborhood's history",
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "functional_jtbd.outcome",
+        "reasoning": "Direct statements of purpose are the most relevant to the target JTBD outcome. Excerpt describing the project as a purpose to educate, raise awareness, and document life in the Historic Fulton community aligns with informing public understanding and education. When the collection emphasizes that the community can speak for and about themselves, it reinforces that residents\u2019 lived experiences are being captured and presented for public interpretation and decision-making. Descriptions of wide access and dissemination (physical copies distributed to multiple institutions to ensure broad access) further support the outcome by enabling neighborhoods to be informed and engaged in planning, education, and civic decisions. Additional excerpts that reference the breadth of interviews and the aim to gain understanding of life in the community provide context that these lived experiences are representative inputs for informing public understanding and neighborhood planning. Collectively, these excerpts map closely to the JTBD outcome by asserting purpose, inclusivity of resident voices, and accessible preservation of narratives for civic use.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community.",
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "equity_questions.question_text",
+        "reasoning": "The idea of letting the community speak for themselves is directly connected to granting governance and agency to Fulton residents, which supports the notion of a governance model that centers community control. Statements that describe distributing physical copies of interviews to various local institutions illustrate concrete, equitable access to the collected histories, aligning with a system that avoids gatekeeping and ensures widespread availability. The stated purpose to educate, raise awareness, and document life in the Historic Fulton community reinforces the commitment to inclusive representation and public benefit, which is essential for equitable project governance and transparent workflows. Descriptions of the collection\u2019s breadth (numerous interviewees and strong community ties) further support a broad, representative sample, which is important for fair compensation and preventing harm by ensuring diverse voices are captured. Together, these excerpts provide evidence that the project has components of community self-representation, accessible dissemination, and educational aims that collectively inform a governance and equity-oriented approach to handling sensitive narratives. They corroborate the need for inclusive participation, transparent processes, and broad access rather than exclusive control by a limited set of stakeholders.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "In an effort to document the 20th century history of the neighborhood and its residents, the project collected the oral histories of numerous members of the Historic Fulton community, particularly those with strong ties to neighborhood prior to the city of Richmond's 1970s urban renewal project."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_jtbd.core_pain",
+        "reasoning": "The finegrained field value points to systemic pains around discovery/usage rights, limited integration into planning processes, and ensuring inclusive surfacing of stories. The most directly relevant excerpt notes that physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely, which aligns with addressing access and distribution challenges in a system-level sense. Several excerpts describe the project\u2019s purpose to educate, raise awareness, and document community life, which provides context for why a standardized, discoverable, and rights-aware repository would be valuable in a civic process. Other excerpts emphasize accessibility and representation: interviews allow community members to speak for themselves, and the project includes multiple interviewees with ties to the neighborhood, supporting the need to surface diverse voices rather than just the most connected. References to partnerships in developing the project and to guides or documentation suggest an ongoing attempt to structure and share the material, which relates to how a systemic solution could be designed. Context about urban renewal and its impact helps explain why equitable access to resident stories matters for planning decisions, reinforcing the need for a standard, discoverable, rights-aware repository. Taken together, these excerpts support the idea that a system-level pain exists around how stories are stored, discovered, shared, and equitably surfaced, and they illustrate current efforts to broaden access and representation, which are the core concerns of the finegrained field value.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants.",
+              "These interviews allow the members of the community to speak for and about themselves, and therefore they represent a unique perspective on this period in the neighborhood's history",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "In an effort to document the 20th century history of the neighborhood and its residents, the project collected the oral histories of numerous members of the Historic Fulton community, particularly those with strong ties to neighborhood prior to the city of Richmond's 1970s urban renewal project.",
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012",
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team.",
+              "The interviewees were also witness to the City of Richmond's 1970s urban renewal plan that permanently changed the landscape of Historic Fulton.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community.",
+              "Historic Fulton Oral History Project",
+              "The interviewees are teachers, activists, clergy, and community leaders who grew up in the predominantly African American Historic Fulton community from the 1930s through the 1950s."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk",
+              "May 23, 2024 \u2014 ... Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond's Fulton Bottom",
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community."
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "functional_jtbd.situation",
+        "reasoning": "The finegrained field value centers on community memory-holders who are willing to share stories about Historic Fulton and its displacement. Excerpts describing the Fulton Oral History Project emphasize collecting interviews from Fulton residents, preserving their memories, and documenting life in the Fulton community. One excerpt notes that interviews recall what it was like living in Fulton Bottom before urban renewal and the effects of redevelopment, directly illustrating displacement and the lived experience the JTBD aims to surface. Another excerpt explains that the purpose of collecting these histories is to educate, raise awareness, and gain understanding of life in the historic community, aligning with the motivation of sharing stories for civic insight. Additional excerpts indicate that the collection comprises multiple interviews and that physical copies were distributed to institutions to ensure broad access, underscoring the persistence and dissemination of residents\u2019 narratives. Together, these pieces of information support the notion that community memory-holders share stories to inform civic decisions about the Historic Fulton area and its displacement, which is precisely the JTBD situation described.",
+        "citations": [
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community.",
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "emotional_jtbd.outcome",
+        "reasoning": "The most relevant content directly supports the idea of a city or project that centers truthful storytelling and giving a platform to residents to share lived experiences. The Pillars commitment to a city that tells its stories and to tell the truth about past and present aligns with reducing fear of exploitation by promising transparent, honest use of narratives. Additional excerpts describe the collection and presentation of residents\u2019 perspectives, ensuring community voices are heard through accessible archives, which supports the emotional motivation of contributing without retraumatization and seeing that input influence civic decisions. The purpose of these collections to educate, raise awareness, and document life in a defined community further reinforces that residents\u2019 stories can meaningfully shape understanding and decisions. Collectively, these passages provide explicit or implicit support for a safe, respectful sharing process and for channeling resident experiences into informed civic outcomes. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: RVA Burger Menu > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community."
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "functional_jtbd.core_pain",
+        "reasoning": "- The most directly relevant excerpt notes that physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure wide access, which directly speaks to fragmentation of storage across institutions, a key pain point. It also implies a need for preservation and access through institutions, aligning with risk of loss and access/distribution concerns. - Excerpts describing the project\u2019s purpose to educate, raise awareness, and document life in the Fulton community establish the project\u2019s goal of preserving and sharing narratives, which contextualizes why reliable storage and reuse are important. They also imply reliance on institutions or platforms to maintain accessibility, touching on reuse potential. - An excerpt detailing that the collection contains multiple interviews with numerous participants highlights the scope of data that would need consistent metadata and consent tracking to enable future civic use, suggesting potential metadata and consent challenges, even if not stated explicitly. - Additional context from entries discussing the location and focus of the Fulton community provides backdrop for targeted Richmond-area civic use, reinforcing the need for organized storage and discoverability to support local decision-making. - Other excerpts emphasize voices and perspectives of residents and the act of community members speaking for themselves, which underscores the importance of preserving authentic narratives in a reusable, well-annotated form to prevent loss of meaning during reuse. - Supporting statements about access through the VCU library and digital collections, along with mentions of national or encyclopedic references, further imply reliance on centralized or curated repositories to ensure long-term preservation and discoverability, which relates to fragmentation and reuse risks. - While some excerpts focus on purpose or historical recall, they collectively frame the necessity for a robust archival strategy to address core pains: fragmented storage, inconsistent metadata/consent traces, risk of loss, and the challenge of reusing stories for civic decision-making. ",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community.",
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "integration_questions.question_text",
+        "reasoning": "The field value centers on governance of long-term stewardship by specific institutions, automated deposits/ingest, surface of stories in public engagement tools with clear attribution, cross-linking to existing interviews, and internal city workflows ownership. The excerpts provide clear information about who partnered on the Fulton project and where materials live, which supports the stewardship and access aspects: authoritative partners include VCU Libraries and The Valentine, with distribution to local institutions to ensure access. These excerpts also show that the collection exists digitally (Scholars Compass) and contains multiple interviews, indicating possible cross-linking opportunities and the potential for exposing stories alongside new ones. The excerpts describe the project\u2019s purpose (to educate, raise awareness, and understand life in Historic Fulton) and its geographic focus (East End of Richmond), which helps frame the context for public-facing surfaces and integration with civic tools, even though they do not specify RVA.gov pages, ArcGIS StoryMaps, or exact internal city workflows. Taken together, these excerpts substantiate the notions of long-term stewardship through named partners, and the existence and accessibility of the interviews that could be cross-linked or surfaced in public engagement platforms. They also establish a basis for discussing how deposits/ingest could be handled via institutional repositories, even if the excerpts do not describe automation details. Overall, the strongest support relates to long-term stewardship through named partners and the digital accessibility of the collection, with secondary support for the general purpose and accessibility across institutions to enable broader civic storytelling.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012"
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_jtbd.outcome",
+        "reasoning": "The most directly relevant elements are: a multi-organization partnership during development, which demonstrates cross-entity coordination; the explicit involvement of named partners such as The Valentine, the Neighborhood Resource Center, and the Greater Fulton Future Legacy Work Team, which shows coordinated efforts across entities; and the distribution of physical copies to multiple institutions including VCU, indicating ongoing coordination and dissemination across partners. Additionally, the project\u2019s core mechanism\u2014collecting and elevating residents\u2019 voices through interviews\u2014directly supports grounding decisions in lived experiences and honoring truth-telling, which aligns with the JTBD outcome of making decisions rooted in authentic community narratives. These excerpts collectively substantiate the field value by linking the JTBD outcome (systems/coordination) with lived-experience grounding and cross-institution collaboration. ",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_jtbd.current_workaround",
+        "reasoning": "The most relevant excerpt describes distributing physical copies of audio recordings and written transcriptions to a variety of local institutions to ensure wide access. This directly points to a workaround: items exist outside a single centralized city workflow, and access is achieved through multiple independent institutions rather than integrated into normal city processes. Other closely related excerpts emphasize the project\u2019s educational purpose and community-facing goals, which provide necessary context but do not directly illustrate how current information flows are managed or integrated. An excerpt mentioning the project\u2019s location and the collaboration with partners also hints at a networked approach to dissemination, which supports the interpretation of a non-integrated, multi-institutional workaround rather than a single-system workflow.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "functional_jtbd.persona",
+        "reasoning": "The persona of a community organizer or local historian/librarian in Richmond is most supported by excerpts that frame the project as a means to let the community speak for themselves and to educate and document life in the Historic Fulton community. The statement that the interviews enable the community to speak for and about themselves directly aligns with roles concerned with organizing community voices, curating cultural narratives, or maintaining archival records. Additionally, descriptions of the project\u2019s purpose to educate, raise awareness, and gain understanding about life in Fulton provide clear justification for a person who coordinates community storytelling, archivists, or librarians curating a historical collection. The excerpts noting that physical copies and transcriptions are distributed to local institutions further reinforce the involvement of librarians or archivists who manage access to records and ensure wide dissemination. Other excerpts that describe the collection's scope (interviews, number of participants) and the emphasis on residents\u2019 perspectives support the overall context of a community-centered archival effort, which is relevant to the proposed persona but less directly naming it. Taken together, the most relevant content confirms a nexus where community storytelling, archival curation, and institutional access intersect, aligning well with the target persona. The less direct elements\u2014while still informative\u2014primarily establish the ecosystem (institutions involved, interview scope) rather than explicitly defining the persona, so they are considered supplementary rather than core support.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community.",
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "user_questions.question_text",
+        "reasoning": "The finegrained field value concerns practical support for participants (phone hotlines, in-home or on-site recording, transportation, stipends, trauma-informed facilitation), accessibility accommodations (captions, transcripts, large-print, screen-reader compatibility, TTY), broadened recruitment beyond existing networks, and a transparent feedback loop showing how stories influence decisions. Excerpt describing distribution of physical copies and ensuring access to the oral histories indicates a concrete mechanism for broad access, which aligns with accessibility and participation goals. Excerpts that state the purpose of the Historic Fulton Oral History Project as educating, raising awareness, and understanding life in the Fulton community establish the project\u2019s intent to engage residents and share their stories, which supports the need for credible participation pathways and trust. Additional excerpts that frame the project as allowing the community to speak for themselves and preserving community narratives reinforce the importance of inclusive, trusted mechanisms for collecting voices. Collectively, these excerpts provide context for designing or evaluating support structures (access, outreach, and dissemination) even though they do not enumerate all specific support items listed in the field value. The references to accessibility and broad access practices imply directions for implementing the requested support and recruitment strategies, while the project\u2019s historical and community-focused framing supports a feedback loop to show impact on decisions.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community."
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "emotional_jtbd.motivation",
+        "reasoning": "The motivation asserts three core desires: (a) the resident\u2019s voice is respected, (b) the contextual truth of experiences is preserved, and (c) some control over how the story is used. The most relevant passages assert a explicit commitment to truth-telling and storytelling as a civic practice: the pillar statement emphasizes a city that tells its stories and tells the truth about its past. This aligns with the requester\u2019s desire for truthful context and respect for lived experiences. Another excerpt reinforces this by stating the city should be a national model for telling the truth about its own history, including sensitive topics like slavery and racism, which dovetails with preserving truthful context and dignity for storytellers. Additional passages highlight that the interviews allow the community to speak for and about themselves, supporting the notion that residents\u2019 voices are central and respected. Further context comes from noting that the collection contains interviews and is intended to educate, raise awareness, and document life, underscoring the value placed on accurate representation and civic use of narratives. Taken together, these excerpts collectively support the emotional/trust motivation by demonstrating institutional alignment with truthful storytelling, resident-led voice, and responsible presentation of histories.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: RVA Burger Menu > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "emotional_jtbd.persona",
+        "reasoning": "The most directly relevant information demonstrates that Historic Fulton Oral History contains numerous resident interviews and is designed to allow the community to speak for and about themselves, which aligns with the emotional/trust aspect of the JTBD: a Fulton resident/elder or descendant would seek a platform that preserves and conveys authentic lived experiences from community members themselves. Specifically, the excerpt describing that the collection contains multiple interviews with residents and that these interviews present the unique perspectives of Fulton residents supports the idea of residents or their descendants sharing trusted narratives. Additional excerpts emphasize the purpose of the collection to educate, raise awareness, and document life in Fulton, which reinforces the value of a trusted, community-centered storytelling approach for civic decisions. Supporting excerpts also note how physical copies are distributed to ensure access by local institutions, illustrating a broad, trustworthy dissemination mechanism that would matter to someone in the resident/elder/descendant role who wants their stories preserved and accessible. Contextual references to pre- and post-renewal changes and the community\u2019s framing within Richmond\u2019s broader narrative further support the relevance by situating the resident storytelling within historical civic discourse. Collectively, these excerpts provide clear evidence that the Fulton resident/elder or descendant persona exists within the project\u2019s scope and that the project actively centers residents\u2019 voices and lived experiences for civic insight.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk",
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community."
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012"
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: RVA Burger Menu > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "emotional_jtbd.core_pain",
+        "reasoning": "To support the emotional JTBD of residents who want a trusted way to share lived experiences that could influence civic decisions, the most relevant excerpts demonstrate: (a) the history of urban renewal causing displacement and long-term harm to the Fulton community, which directly underpins distrust and the fear that stories will not lead to action; (b) discussion of how stories and histories were collected and disseminated, highlighting the existence of structured archives and channels for sharing experiences; (c) explicit recognition that the city or institutions have a role in acknowledging past harms and telling the truth about history, which relates to the trust and privacy concerns of residents; (d) the documented aims of education, awareness, and accessibility of oral histories to the public, which touches on ownership, access, and potential impact on broader civic decisions; (e) contextual statements about the purpose and accessibility of the Fulton Oral History collection, which informs residents about who controls the narratives and how decisions might be influenced by these narratives; (f) statements about the city\u2019s pillars and commitment to telling truth about its history, which frames the potential for stories to drive accountability and action. Collectively, these excerpts support the core pain points of historical distrust due to past harms, concerns about whether stories will influence outcomes, and the need for trustworthy, accessible avenues for residents to share experiences that may affect civic decisions.",
+        "citations": [
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk",
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community."
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: RVA Burger Menu > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_jtbd.persona",
+        "reasoning": "The most relevant excerpt directly notes the City of Richmond's urban renewal plans in the 1970s, which would be a core concern for engagement/planning staff in examining how civic decisions reshape neighborhoods like Historic Fulton. This provides concrete evidence of municipal-level planning activity and its long-term impact on a community, aligning with the persona's focus on civic processes and stakeholder engagement. Other highly relevant excerpts discuss the purpose and scope of the Historic Fulton Oral History Project, the emphasis on educating and documenting life in the Fulton community, and the involvement of multiple local institutions and partnerships in developing the project. These underscore how municipal or affiliated staff might approach civic storytelling projects, partnerships, and data collection to inform decisions. Excerpts that describe the geographic location (East End of Richmond) and the neighborhood-wide distribution of resources or access provide context for engagement strategies and equity considerations that city staff would care about. Less directly relevant but still supportive are excerpts detailing partnerships (e.g., LISC, The Valentine) and the existence of guides or catalogs related to the project, which illustrate collaboration patterns and knowledge dissemination practices city staff may value when planning similar initiatives. Overall, the strongest support comes from lines that tie municipal urban renewal to the Fulton area, followed by lines describing project purpose and institutional collaboration, with neighborhood context adding useful background for engagement strategies.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The interviewees were also witness to the City of Richmond's 1970s urban renewal plan that permanently changed the landscape of Historic Fulton.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012",
+              "In an effort to document the 20th century history of the neighborhood and its residents, the project collected the oral histories of numerous members of the Historic Fulton community, particularly those with strong ties to neighborhood prior to the city of Richmond's 1970s urban renewal project.",
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants.",
+              "These interviews allow the members of the community to speak for and about themselves, and therefore they represent a unique perspective on this period in the neighborhood's history",
+              "Historic Fulton Oral History Project",
+              "The interviewees are teachers, activists, clergy, and community leaders who grew up in the predominantly African American Historic Fulton community from the 1930s through the 1950s."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk",
+              "May 23, 2024 \u2014 ... Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond's Fulton Bottom",
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community."
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "emotional_jtbd.situation",
+        "reasoning": "The most relevant content directly supports the idea of residents sharing lived experiences as part of a formal collection that centers their voice. One excerpt notes that interviews present the unique perspectives of Historic Fulton residents by allowing the community to speak for and about themselves, which aligns with the emotional JTBD of sharing stories for trust and civic insight. Another excerpt emphasizes that the purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and document life in the Fulton community, reinforcing the value of residents\u2019 stories for civic understanding. Additional excerpts describe how the project collects and preserves oral histories, ensuring access and visibility of residents\u2019 narratives, which complements the desired outcome of trusted storytelling for civic decisions. Contextual references to the urban renewal and displacement processes provide the motivation behind telling these stories, highlighting why residents would want to share their past to inform current civic decisions. Other excerpts mention the broader goal of telling Richmond\u2019s history truthfully through stories, which supports the trust and authenticity aspect of sharing personal narratives. Taken together, these excerpts substantiate the emotional JTBD by showing a structured, community-centered effort to collect, preserve, and publicly share lived experiences related to Fulton\u2019s past and the effects of urban renewal. ",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community.",
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: RVA Burger Menu > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "prior_art_questions",
+        "reasoning": "The question specifically asks about leveraging VCU's Historic Fulton Oral History Project and related Encyclopedia Virginia excerpts. Multiple excerpts directly reference the Historic Fulton Oral History Project, detailing its purpose, the number of interviews, the types of interviewees, and its connection to urban renewal in Richmond. These excerpts provide the foundational information about the project that the question seeks to build upon. Additionally, excerpts discussing Richmond's 'A city that tells its stories' pillar are relevant as the question asks how to amplify outputs under this initiative. Excerpts detailing Richmond's urban renewal efforts, particularly in the Fulton neighborhood, are also pertinent as the question seeks to learn from prior documentation of these events.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community.",
+              "Historic Fulton Oral History Project",
+              "The interviewees are teachers, activists, clergy, and community leaders who grew up in the predominantly African American Historic Fulton community from the 1930s through the 1950s.",
+              "The interviewees were also witness to the City of Richmond's 1970s urban renewal plan that permanently changed the landscape of Historic Fulton.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "In an effort to document the 20th century history of the neighborhood and its residents, the project collected the oral histories of numerous members of the Historic Fulton community, particularly those with strong ties to neighborhood prior to the city of Richmond's 1970s urban renewal project.",
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants.",
+              "These interviews allow the members of the community to speak for and about themselves, and therefore they represent a unique perspective on this period in the neighborhood's history",
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012",
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk",
+              "May 23, 2024 \u2014 ... Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond's Fulton Bottom",
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community."
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/entries/urban-renewal-in-richmond/",
+            "excerpts": [
+              "al-history-project/) in the city\u2019s east end, one of the last intact Black neighborhoods in Richmond, was designated a \u201cslum\u201d in a study sponsored by the RRHA. Established in 1853, the 200-acre neighborhood was adjacent to downtown Richmond and consisted of approximately 850 homes, churches, schools, and stores. T",
+              "The Fulton Urban Renewal Plan that was unveiled in 1970 would displace approximately 785 households comprising nearly 3,000 individuals."
+            ],
+            "title": "Urban Renewal in Richmond"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: RVA Burger Menu > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "Make Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city's"
+            ],
+            "title": "Pillars | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "emotional_jtbd.current_workaround",
+        "reasoning": "The most relevant content explicitly states that the oral histories were distributed to local institutions to enable access (for example, the statement that physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions, with VCU identified as one of them). This directly corroborates a trusted-institution channel as part of the sharing mechanism. Further, the description of the collection as allowing the community to speak for and about themselves reinforces a trusted, community-centered context for sharing stories, which aligns with sharing within trusted spaces or through known partners. Additional excerpts describe the purpose of documenting life in the Fulton community and making these histories accessible through institutions, which supports the idea of mediated access via trusted venues rather than broad, city-led outreach. These pieces together establish a consistent pattern: stories are preserved and shared through established, trusted institutions and community-access points, matching the provided workaround description. Direct references to the collection containing interviews and perspectives from residents further anchor the relevance by showing the kind of content that would be shared within those trusted channels. In summary, the excerpts collectively support the notion that sharing happens through trusted community spaces and recognized institutions, rather than open-city dissemination, which matches the finegrained field value about current workaround.",
+        "citations": [
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012"
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community.",
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk"
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: RVA Burger Menu > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "prior_art_questions.question_text",
+        "reasoning": "Direct references to the Pillars initiative and framing of Richmond as a model for telling truth about its history provide the strongest support for leveraging existing projects under the City That Tells Its Stories pillar. The excerpts describing the Fulton Oral History Project establish a concrete, real-world example of collecting and sharing community narratives, which is the core asset to build upon and avoid duplication. Mentions of related programs and institutions (Valentine, Library of Virginia\u2019s Virginia Memory, VPM history series) identify viable hosting or amplification partners for outputs, aligning with the idea of cross-collection search and shared identifiers. Contextual details about the Fulton project\u2019s scope, number of interviews, and its geographic and historical focus provide the necessary factual basis to plan continuity across collections. Context about urban renewal in Richmond (Jackson Ward, 17th Street, Carver) informs tagging, timelines, and contextual panels, ensuring that the proposed continuity considers historical drivers of neighborhood change. Collectively, these excerpts supply a cohesive evidentiary basis for answering how to extend Fulton outputs without duplication while coordinating with established Richmond storytelling efforts under the pillar.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: RVA Burger Menu > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "Make Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city's"
+            ],
+            "title": "Pillars | Richmond"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "These interviews present the unique perspectives of those who were Historic Fulton residents by allowing the community to speak for and about themselves."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community.",
+              "A Guide to the Historic Fulton Oral History Project, 2011-2012",
+              "In an effort to document the 20th century history of the neighborhood and its residents, the project collected the oral histories of numerous members of the Historic Fulton community, particularly those with strong ties to neighborhood prior to the city of Richmond's 1970s urban renewal project.",
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants.",
+              "These interviews allow the members of the community to speak for and about themselves, and therefore they represent a unique perspective on this period in the neighborhood's history",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "The interviewees are teachers, activists, clergy, and community leaders who grew up in the predominantly African American Historic Fulton community from the 1930s through the 1950s.",
+              "The interviewees were also witness to the City of Richmond's 1970s urban renewal plan that permanently changed the landscape of Historic Fulton.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, to raise awareness, and to document life in the Historic Fulton community, located in the East End of Richmond, Virginia.",
+              "The project was developed in 2011 in partnership among the Virginia Local Initiatives Support Corporation (LISC), The Valentine, the Neighborhood Resource Center of Greater Fulton, and the Greater Fulton Future Legacy Work Team.",
+              "Historic Fulton Oral History Project"
+            ],
+            "title": "Collection: Historic Fulton Oral History Project"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/primary-documents/fulton-oral-history-project/",
+            "excerpts": [
+              "The urban renewal process, as I understand it, started coming down the pipeline in the late 1960's. People started talking. It started with talk",
+              "May 23, 2024 \u2014 ... Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond's Fulton Bottom",
+              "In these excerpts from an interview conducted in 2012 by Caroline Morris for the Historic Fulton Oral History Project, Linda Braxton, Pamala Rogers, and Sheila Smith recall what it was like living in Richmond\u2019s Fulton Bottom neighborhood before it was razed under urban renewal and the effects of redevelopment on the community."
+            ],
+            "title": "Fulton Oral History Project - Encyclopedia Virginia"
+          },
+          {
+            "url": "https://encyclopediavirginia.org/entries/urban-renewal-in-richmond/",
+            "excerpts": [
+              "The Fulton Urban Renewal Plan that was unveiled in 1970 would displace approximately 785 households comprising nearly 3,000 individuals."
+            ],
+            "title": "Urban Renewal in Richmond"
+          },
+          {
+            "url": "https://experience.arcgis.com/experience/8f5ad22a5d4d406f9f9627ed81b636e0/page/Fulton",
+            "excerpts": [
+              "Urban renewal led to the demolition of over 850 structures and the displacement of 785 families, irrevocably damaging the social fabric of the community."
+            ],
+            "title": "Fulton | Redevelopment in Richmond"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "analysis_introduction": {
+          "type": "string",
+          "description": "A brief introduction to the Jobs To Be Done analysis for the Fulton Oral History project, setting the context based on Richmond's history and civic goals."
+        },
+        "functional_jtbd": {
+          "type": "object",
+          "properties": {
+            "situation": {
+              "type": "string",
+              "description": "The context or situation the persona is in."
+            },
+            "persona": {
+              "type": "string",
+              "description": "The user or stakeholder experiencing the situation."
+            },
+            "motivation": {
+              "type": "string",
+              "description": "The action or goal the persona wants to achieve."
+            },
+            "outcome": {
+              "type": "string",
+              "description": "The desired end result for the persona."
+            },
+            "current_workaround": {
+              "type": "string",
+              "description": "How the persona currently tries to solve this problem."
+            },
+            "core_pain": {
+              "type": "string",
+              "description": "The primary difficulty or frustration with the current workaround."
+            }
+          },
+          "required": [
+            "situation",
+            "persona",
+            "motivation",
+            "outcome",
+            "current_workaround",
+            "core_pain"
+          ],
+          "additionalProperties": false
+        },
+        "emotional_jtbd": {
+          "type": "object",
+          "properties": {
+            "situation": {
+              "type": "string",
+              "description": "The context or situation the persona is in."
+            },
+            "persona": {
+              "type": "string",
+              "description": "The user or stakeholder experiencing the situation."
+            },
+            "motivation": {
+              "type": "string",
+              "description": "The action or goal the persona wants to achieve."
+            },
+            "outcome": {
+              "type": "string",
+              "description": "The desired end result for the persona."
+            },
+            "current_workaround": {
+              "type": "string",
+              "description": "How the persona currently tries to solve this problem."
+            },
+            "core_pain": {
+              "type": "string",
+              "description": "The primary difficulty or frustration with the current workaround."
+            }
+          },
+          "required": [
+            "situation",
+            "persona",
+            "motivation",
+            "outcome",
+            "current_workaround",
+            "core_pain"
+          ],
+          "additionalProperties": false
+        },
+        "systems_jtbd": {
+          "type": "object",
+          "properties": {
+            "situation": {
+              "type": "string",
+              "description": "The context or situation the persona is in."
+            },
+            "persona": {
+              "type": "string",
+              "description": "The user or stakeholder experiencing the situation."
+            },
+            "motivation": {
+              "type": "string",
+              "description": "The action or goal the persona wants to achieve."
+            },
+            "outcome": {
+              "type": "string",
+              "description": "The desired end result for the persona."
+            },
+            "current_workaround": {
+              "type": "string",
+              "description": "How the persona currently tries to solve this problem."
+            },
+            "core_pain": {
+              "type": "string",
+              "description": "The primary difficulty or frustration with the current workaround."
+            }
+          },
+          "required": [
+            "situation",
+            "persona",
+            "motivation",
+            "outcome",
+            "current_workaround",
+            "core_pain"
+          ],
+          "additionalProperties": false
+        },
+        "data_questions": {
+          "type": "object",
+          "properties": {
+            "question_text": {
+              "type": "string",
+              "description": "An open question related to data collection, storage, privacy, and access."
+            }
+          },
+          "required": [
+            "question_text"
+          ],
+          "additionalProperties": false
+        },
+        "user_questions": {
+          "type": "object",
+          "properties": {
+            "question_text": {
+              "type": "string",
+              "description": "An open question about the project's target users, their needs, and interactions."
+            }
+          },
+          "required": [
+            "question_text"
+          ],
+          "additionalProperties": false
+        },
+        "integration_questions": {
+          "type": "object",
+          "properties": {
+            "question_text": {
+              "type": "string",
+              "description": "An open question concerning how the project will integrate with other systems or processes."
+            }
+          },
+          "required": [
+            "question_text"
+          ],
+          "additionalProperties": false
+        },
+        "equity_questions": {
+          "type": "object",
+          "properties": {
+            "question_text": {
+              "type": "string",
+              "description": "An open question focused on ensuring equitable access, representation, and benefit."
+            }
+          },
+          "required": [
+            "question_text"
+          ],
+          "additionalProperties": false
+        },
+        "prior_art_questions": {
+          "type": "object",
+          "properties": {
+            "question_text": {
+              "type": "string",
+              "description": "An open question about learning from previous or similar projects."
+            }
+          },
+          "required": [
+            "question_text"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "analysis_introduction",
+        "functional_jtbd",
+        "emotional_jtbd",
+        "systems_jtbd",
+        "data_questions",
+        "user_questions",
+        "integration_questions",
+        "equity_questions",
+        "prior_art_questions"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "jtbd_analysis.md"
+  }
+}

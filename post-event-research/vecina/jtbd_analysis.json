@@ -1,0 +1,2471 @@
+{
+  "run_id": "trun_1848795af0f24b809da6391f975779b6",
+  "interaction_id": "trun_1848795af0f24b809da6391f975779b6",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b809da6391f975779b6",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "data_questions",
+        "reasoning": "The finegrained field value seeks information on bulk or structured data feeds and reuse terms from local sources like CultureWorks, Venture Richmond, VisitRichmondVA, VPM/Style Weekly, and Richmond.com. Of the excerpts, those describing open data portals explicitly address data access and reuse concepts (for example, an Open Data Portal that provides data to the public in an open format with no fee or registration). These pieces directly support the core need to identify usable data sources and any reuse terms, which is foundational for deciding how to architect an aggregation tool.\n\nOther excerpts describe individual event calendars or organizations that publish events (e.g., Venture Richmond, Style Weekly, VisitRichmondVA, RVA Mag, CultureWorks, Richmond.com). While they establish potential data sources and show what kinds of data exist (events calendars, cultural listings), they do not explicitly discuss bulk feeds, APIs, or reuse terms. They are relevant for context and source identification but provide indirect support for the specific data-access and reuse requirements. Excerpts that emphasize pillars, city storytelling, or general planning without data-access implications offer even less direct support and thus are lower in relevance to the finegrained field value.",
+        "citations": [
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT.",
+              "Adults | $12 Seniors (55 and over), groups of 10 or more | $10 Valentine Members, children under 18, students with ID, military personnel | Free SNAP recipients with EBT card (up to 4 individuals)* | Free"
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://richmond.com/events/",
+            "excerpts": [
+              "Find local Richmond events, festivals, concerts, our top picks, movies and much more. Find events ... Event Calendar \u00b7 Arts & Theatre \u00b7 Movies & TV \u00b7 Music"
+            ],
+            "title": "Richmond Events"
+          },
+          {
+            "url": "https://rvamag.com/category/events",
+            "excerpts": [
+              "Stay in the know about the latest happenings and must-attend events in Richmond, VA. Our Events Calendar provides comprehensive coverage of festivals,"
+            ],
+            "title": "Our upcoming Events Calendar in Richmond, VA - RVA Mag"
+          },
+          {
+            "url": "https://virginiamercury.com/2024/09/17/richmond-city-council-wants-to-increase-internet-speeds-close-digital-divide/",
+            "excerpts": [
+              "17 Sept 2024 \u00b7 Richmond City Council wants to increase internet speeds, close 'digital divide'. by Capital News Service, Virginia Mercury September 17, 2024.",
+              "Approximately 9.7% of Richmond residents do not have an internet subscription, according to the 2023 American Community Survey one-year estimates.",
+              "Richmond City Council recently adopted a resolution to declare high-speed internet a public necessity for all Richmond residents, an update to similar legislation passed three years ago."
+            ],
+            "title": "Richmond City Council wants to increase internet speeds, close ..."
+          },
+          {
+            "url": "https://www.vpm.org/artsline",
+            "excerpts": [
+              "Listen for featured events around Central Virginia every day on VPM News 88.9, and VPM Music 93.1 and 107.3 FM. Events featured in Artsline are sometimes",
+              "The *Artsline* submission link above will take you to the *Style Weekly* event submission page. By submitting your event to *Style Weekly* , you automatically submit your event to *Artsline* ."
+            ],
+            "title": "Artsline - VPM.org"
+          },
+          {
+            "url": "https://hdp-ca-prod-app-rchm-letstalk-files.s3.ca-central-1.amazonaws.com/8217/5511/7442/RAS_RTC_Att_1-Jul_7-lo_res.pdf",
+            "excerpts": [
+              "Work towards arts and cultural infrastructure and programming that is equitably available and accessible to under-represented and equity-deserving groups. 3."
+            ],
+            "title": "[PDF] richmond arts strategy update - AWS"
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Launched the RVAgreen 2050 planning process to plan toward equity-centered climate action and resilience in the formative next decades of our city's history;"
+            ],
+            "title": "Richmond's Equity Agenda - RVA.gov"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/my_vpm/calendar",
+            "excerpts": [
+              "Camps, Dance Exhibit, Festivals & Celebrations, Film / Video / Media, Groups & Gatherings, Interactive & Hands-On Lectures & Discussions, Music & Concerts"
+            ],
+            "title": "Things to do at VPM - Virginia's home for Public Media on March 7"
+          },
+          {
+            "url": "https://www.therichmondexperience.com/happenings",
+            "excerpts": [
+              "Browse our latest city guides and keep scrolling for a highly curated list of the best events, festivals, and happenings in and around Richmond, Virginia."
+            ],
+            "title": "Event Calendar"
+          },
+          {
+            "url": "https://www.vpm.org/events",
+            "excerpts": [
+              "Events ranged from a bucket lift race to more mundane tasks, like hanging distribution transformers and replacing insulators."
+            ],
+            "title": "VPM Events"
+          },
+          {
+            "url": "https://www.therichmondexperience.com/",
+            "excerpts": [
+              "The Calendar - Your go-to curated calendar of the coolest events in RVA, searchable by category, keyword, or day of the week. The Perks - Enjoy"
+            ],
+            "title": "The Richmond Experience"
+          },
+          {
+            "url": "https://planrva.org/events/",
+            "excerpts": [
+              "Previous Events \u00b7 Today \u00b7 Next Events. Subscribe to calendar. Google Calendar \u00b7 iCalendar \u00b7 Outlook 365 \u00b7 Outlook Live \u00b7 Export .ics file \u00b7 Export Outlook .ics"
+            ],
+            "title": "Events"
+          },
+          {
+            "url": "https://www.instagram.com/reel/DGLSwGkPwbp/",
+            "excerpts": [
+              "We are seeking to further understand the current needs of artists and arts and culture organizations in Richmond and the Tri-Cities region."
+            ],
+            "title": "The 2025 Grant Cycle includes two focus areas: Cultural Equity and ..."
+          },
+          {
+            "url": "https://rvamag.com/events-calendar",
+            "excerpts": [
+              "\"url\":\"https://rvamag.com/events-calendar\",\"name\":\"Events - RVA Mag\",\"isPartOf\":{\"@id\":\"https://rvamag.com/#website\"},\"datePublished\":\"2022-08-12T13:36:37+00:00\",\"dateModified\":\"2025-12-01T17:00:35+00:00\"",
+              "me\":\"RVA Magazine\",\"description\":\"Richmond, VA Culture &amp; Politics Since 2005"
+            ],
+            "title": "Fetched web page"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "integration_questions",
+        "reasoning": "The most relevant excerpt discusses an Artsline submission link and the workflow of submitting an event to Style Weekly, which maps directly to a multi-channel syndication or integration pathway. This content supports the idea of centralized or cross-posted event data that could feed multiple platforms through a streamlined submission mechanism. Closely related are excerpts describing specific downtown and Style Weekly event calendars, which illustrate existing cross-platform calendars that vecina could potentially syndicate into or pull data from, highlighting current channels in the Richmond arts ecosystem. Excerpts detailing Venture Richmond\u2019s downtown calendar and VisitRichmondVA\u2019s events calendar provide concrete instances of ecosystem-level calendars that a unified submission or API-based bridge would need to interact with. Additionally, a broader planning or calendar aggregation context appears in excerpts describing PlanRVA\u2019s events calendar and city/portal data resources, which further contextualize the integration landscape vecina would navigate. While none of the excerpts directly specify an API or email bridge implementation, they collectively establish the presence of multiple calendars and submission channels that a single submission mechanism could target, supporting the Systems/Coordination JTBD component of the field value.",
+        "citations": [
+          {
+            "url": "https://www.vpm.org/artsline",
+            "excerpts": [
+              "The *Artsline* submission link above will take you to the *Style Weekly* event submission page. By submitting your event to *Style Weekly* , you automatically submit your event to *Artsline* ."
+            ],
+            "title": "Artsline - VPM.org"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://planrva.org/events/",
+            "excerpts": [
+              "Previous Events \u00b7 Today \u00b7 Next Events. Subscribe to calendar. Google Calendar \u00b7 iCalendar \u00b7 Outlook 365 \u00b7 Outlook Live \u00b7 Export .ics file \u00b7 Export Outlook .ics"
+            ],
+            "title": "Events"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_job_to_be_done",
+        "reasoning": "The most relevant content directly supports the need for a centralized or synchronized publishing flow across multiple calendars and portals. For example, references to Venture Richmond\u2019s downtown calendar and calls to submit events (including a prompt to submit to the calendar) illustrate the practical channels that would need to be synchronized for a JTBD focused on multi-portal publication. Mentions of specific calendars like Venture Richmond and the Downtown Richmond calendar show the actual platforms that the system should interact with. Additionally, explicit mentions of calendars and events aggregation or submission workflows (such as CultureWorks\u2019 events calendar) demonstrate concrete touchpoints and cross-posting dynamics that align with the described motivation to publish once and propagate accurately across major local calendars. Other entries referencing broader calendars or event listings (VisitRichmondVA, Style Weekly Artsline, VPM Artsline) reinforce the multimodal cross-publishing ecosystem the JTBD aims to streamline. While pillar and policy content provides context about Richmond\u2019s storytelling and governance, the strongest evidence for the required systems-level JTBD are the excerpts that name calendars, submission flows, and cross-posting pathways, which support the need to reduce duplicated submissions and ensure timely updates across platforms. The remaining items offer supportive context about local events ecosystems but do not directly illustrate the cross-calendar publishing workflow that is central to the field value.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #",
+              "Section Title: ... > [Submit Your Event](https://venturerichmond.com/our-events/submit-your-event/)\nContent:\nVenture Richmond\u2019s downtown event calendar highlights public events that bring energy and activity to Downtown Richmond. From festivals and performances to community\u2026\n[Read More](https://venturerichmond.com/our-events/submit-your-event/ \"Submit Your Event\")\n[](https://venturerichmond.com/our-events/submit-your-event/)"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://planrva.org/events/",
+            "excerpts": [
+              "Previous Events \u00b7 Today \u00b7 Next Events. Subscribe to calendar. Google Calendar \u00b7 iCalendar \u00b7 Outlook 365 \u00b7 Outlook Live \u00b7 Export .ics file \u00b7 Export Outlook .ics"
+            ],
+            "title": "Events"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.vpm.org/news/2026-03-26/danny-avula-thriving-rva-pillars-sotc-diamond-district-allianz",
+            "excerpts": [
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia's capital both continues to tell its own stories"
+            ],
+            "title": "Richmond Mayor Avula hosts format-breaking State of the City"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "project_background",
+        "reasoning": "The most relevant material explicitly anchors Richmond to a 'City That Tells Its Stories' framing and the broader goal of truth-telling through arts and culture. Excerpts describing the pillar as a national model for telling truth about Richmond\u2019s history, and the use of arts to tell stories, map directly to the project background\u2019s pillar alignment and the motivation to aggregate and surface arts events in a way that supports storytelling and community memory. Additional excerpts referencing city-wide plans or speeches that elevate storytelling and arts/heritage as core to city identity further corroborate the rationale for a civic tech solution like vecina, which aims to centralize arts and neighborhood events discovery. The surrounding context about Downtown Richmond events calendars and Style Weekly event coverage provides practical grounding for potential data sources and the ecosystem in which vecina would operate, aiding understanding of data inputs and user needs without contradicting the core pillar framing. In sum, the strongest support comes from pillar-and-storytelling oriented passages, with secondary support from context about Richmond\u2019s arts/event landscape. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.wric.com/news/local-news/richmond/avula-lays-out-his-plan-for-a-thriving-richmond/",
+            "excerpts": [
+              "\u201cA City that Tells its Stories (and tells the truth about its past)\u201d The seventh and final pillar, \u201cA City that Tells its Stories,\u201d aims to tell the truth about Richmond's history, including its history of slavery, racism and struggles for Black empowerment.",
+              "The seventh and final pillar, \u201cA City that Tells its Stories,\u201d aims to tell the truth about Richmond\u2019s history, including its history of slavery, racism and struggles for Black empowerment.",
+              "The four goals listed underneath this pillar are as follows:\nShare Shockoe with the world as a place for reckoning and repair.\nChampion our arts and culture communities in their efforts to tell Richmond\u2019s stories.\nShare and document Richmond\u2019s rich cultural history.\nHelp residents know how (and why) Richmond city government works for them."
+            ],
+            "title": "Avula lays out his plan for a 'thriving' Richmond | WRIC ABC 8News"
+          },
+          {
+            "url": "https://www.vpm.org/news/2026-03-26/danny-avula-thriving-rva-pillars-sotc-diamond-district-allianz",
+            "excerpts": [
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia's capital both continues to tell its own stories",
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia\u2019s capital both continues to tell its own stories and tells the truth about its history.",
+              "In his press gaggle, Avula told reporters that \u201cstorytelling\u201d is a key focus for his administration.\n\u201cIt's kind of like the undergirding of what drives our administration,\u201d he said."
+            ],
+            "title": "Richmond Mayor Avula hosts format-breaking State of the City"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "executive_summary",
+        "reasoning": "The most directly relevant material describes active, centralized or prominent event calendars and cultural programming in Richmond, which aligns with the JTBD emphasis on a centralized, discoverable place for arts and culture events. Content about Venture Richmond highlights a central Downtown calendar and ongoing event discovery, which supports the functional need for a centralized source. The pillars content frames the mission to tell Richmond\u2019s stories and use arts to connect communities, aligning with the emotional/trust and equity dimensions of a trusted platform that represents diverse voices. References to official pillars and city-led storytelling provide context for why a centralized, reputable source matters to residents. Open data and open-data portals illustrate the data-access and interoperability aspect, which underpins the data aggregation and syndication goals. Mentions of other calendars and arts outlets (Style Weekly, Artsline, CultureWorks calendar, RVA.gov event planning) are useful for identifying potential syndication partners and integration points. Discussions around equity, access, and data portals reinforce the need to consider internet access and equitable distribution of information, which matches the field\u2019s equity/open-data concerns. Finally, entries about general RVA event coverage and calendars provide corroborating context that there is a fragmented landscape that vecina seeks to unify, supporting the open questions around data aggregation and integration.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Adults | $12 Seniors (55 and over), groups of 10 or more | $10 Valentine Members, children under 18, students with ID, military personnel | Free SNAP recipients with EBT card (up to 4 individuals)* | Free"
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://www.vpm.org/news/2026-03-26/danny-avula-thriving-rva-pillars-sotc-diamond-district-allianz",
+            "excerpts": [
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia's capital both continues to tell its own stories"
+            ],
+            "title": "Richmond Mayor Avula hosts format-breaking State of the City"
+          },
+          {
+            "url": "https://www.wric.com/news/local-news/richmond/avula-lays-out-his-plan-for-a-thriving-richmond/",
+            "excerpts": [
+              "\u201cA City that Tells its Stories (and tells the truth about its past)\u201d The seventh and final pillar, \u201cA City that Tells its Stories,\u201d aims to tell the truth about Richmond's history, including its history of slavery, racism and struggles for Black empowerment."
+            ],
+            "title": "Avula lays out his plan for a 'thriving' Richmond | WRIC ABC 8News"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "emotional_job_to_be_done",
+        "reasoning": "The most directly relevant excerpts explicitly target equity and accessibility in arts and culture programming and data openness. Excerpt describing an arts/cultural strategy update notes that work should be equitably available and accessible to under-represented groups, which directly supports the need for a trusted, inclusive listing that a resident would rely on for last-minute pop-ups. Excerpt about equity agenda reinforces a city-wide commitment to fair access and inclusive storytelling, which underpins trust in a public-facing discovery tool. Excerpts mentioning data openness and portals emphasize transparent, accessible information for users, further supporting the premise that the listing can be trusted and used without encountering undisclosed barriers. Contextual mentions of storytelling pillars and city narratives provide supportive framing about why inclusive, truthful listings matter to residents, even though they are less specific to listing vetting details. Supporting items about event calendars and cultural calendars provide additional context that a user would consult, reinforcing the need for a reliable, comprehensive source. The combination of explicit equity/accessibility language and open-data signals constitutes coherent evidence that the emotional JTBD (trust in a listing that is accurate, inclusive, and locally vetted) is well grounded in the provided excerpts.",
+        "citations": [
+          {
+            "url": "https://hdp-ca-prod-app-rchm-letstalk-files.s3.ca-central-1.amazonaws.com/8217/5511/7442/RAS_RTC_Att_1-Jul_7-lo_res.pdf",
+            "excerpts": [
+              "Work towards arts and cultural infrastructure and programming that is equitably available and accessible to under-represented and equity-deserving groups. 3."
+            ],
+            "title": "[PDF] richmond arts strategy update - AWS"
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Launched the RVAgreen 2050 planning process to plan toward equity-centered climate action and resilience in the formative next decades of our city's history;"
+            ],
+            "title": "Richmond's Equity Agenda - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://www.vpm.org/artsline",
+            "excerpts": [
+              "Listen for featured events around Central Virginia every day on VPM News 88.9, and VPM Music 93.1 and 107.3 FM. Events featured in Artsline are sometimes"
+            ],
+            "title": "Artsline - VPM.org"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "equity_questions",
+        "reasoning": "The most directly relevant evidence comes from excerpts detailing the digital divide in Richmond. One excerpt notes that approximately 9.7% of residents do not have an internet subscription, underscoring the existence of a significant digital access gap and the need for low-bandwidth or alternative channels like SMS. Another excerpt reinforces this point by discussing Richmond\u2019s digital divide in similar terms. These pieces directly inform the field value\u2019s focus on inclusivity and alternative access methods. A third excerpt highlights equity-centered planning in the city (the equity agenda), which supports the broader rationale for designing vecina to be accessible to underserved communities and to consider equity as a core constraint. Additional sources discuss open data portals, which relate to access to information and transparency, implying that making data and services accessible (including via low-bandwidth channels) aligns with equitable governance. Collectively, these excerpts provide a coherent set of supports for evaluating the proposed equity-oriented JTBD field value and for justifying design choices that improve accessibility for residents with limited internet access.",
+        "citations": [
+          {
+            "url": "https://virginiamercury.com/2024/09/17/richmond-city-council-wants-to-increase-internet-speeds-close-digital-divide/",
+            "excerpts": [
+              "Approximately 9.7% of Richmond residents do not have an internet subscription, according to the 2023 American Community Survey one-year estimates.",
+              "Richmond City Council recently adopted a resolution to declare high-speed internet a public necessity for all Richmond residents, an update to similar legislation passed three years ago."
+            ],
+            "title": "Richmond City Council wants to increase internet speeds, close ..."
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Launched the RVAgreen 2050 planning process to plan toward equity-centered climate action and resilience in the formative next decades of our city's history;"
+            ],
+            "title": "Richmond's Equity Agenda - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "prior_art_questions",
+        "reasoning": "The most directly relevant information comes from excerpts that describe concrete arts and events calendars and their scope in Richmond. For example, a Downtown Richmond Events calendar emphasizes a city-center focus on festivals, performances, and activities, which helps identify what a downtown calendar covers well and where it may miss broader Richmond coverage. Excerpts describing Style Weekly\u2019s events coverage highlight arts, culture, and food scenes across the metro region, which informs a broader market comparison beyond the downtown core. VisitRichmondVA\u2019s events calendar and RVA Mag\u2019s events coverage illustrate additional regional and media-driven calendars with distinct audiences and curation styles, providing a basis to identify gaps in hyperlocal, equity-driven coverage versus broader or tourist-focused lenses. Richmond CultureWorks\u2019 calendar showcases a Localist-powered, daily-updated calendar with entry-level pricing and accessibility cues, which informs opportunities around inclusivity and accessibility in a calendar platform. Venture Richmond\u2019s downtown-focused listings and submission pathways show how a formal downtown calendar operates and how events are aggregated or submitted, signaling potential integration points for a new platform. When these calendars are considered together, clear contrasts emerge: downtown-leaning vs region-wide scope, traditional media vs city-run or nonprofit calendars, and audience-specific focuses (general visitors vs arts/culture enthusiasts). From this, a gap for vecina could be a hyperlocal, equity-first calendar that emphasizes inclusive access, transit-aware recommendations, and streamlined permit/invite-to-calendar workflows that aren\u2019t fully addressed by existing calendars\u2019 dominant strengths. The combination of sources indicates a market with multiple overlapping calendars but with room for a unified, equity-centered, and logistics-aware platform that complements existing calendars rather than duplicating their coverage.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #",
+              "Section Title: ... > [Submit Your Event](https://venturerichmond.com/our-events/submit-your-event/)\nContent:\nVenture Richmond\u2019s downtown event calendar highlights public events that bring energy and activity to Downtown Richmond. From festivals and performances to community\u2026\n[Read More](https://venturerichmond.com/our-events/submit-your-event/ \"Submit Your Event\")\n[](https://venturerichmond.com/our-events/submit-your-event/)",
+              ""
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              ""
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://richmond.com/events/",
+            "excerpts": [
+              "Find local Richmond events, festivals, concerts, our top picks, movies and much more. Find events ... Event Calendar \u00b7 Arts & Theatre \u00b7 Movies & TV \u00b7 Music"
+            ],
+            "title": "Richmond Events"
+          },
+          {
+            "url": "https://rvamag.com/category/events",
+            "excerpts": [
+              "Stay in the know about the latest happenings and must-attend events in Richmond, VA. Our Events Calendar provides comprehensive coverage of festivals,"
+            ],
+            "title": "Our upcoming Events Calendar in Richmond, VA - RVA Mag"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT.",
+              "Adults | $12 Seniors (55 and over), groups of 10 or more | $10 Valentine Members, children under 18, students with ID, military personnel | Free SNAP recipients with EBT card (up to 4 individuals)* | Free"
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://planrva.org/events/",
+            "excerpts": [
+              "Previous Events \u00b7 Today \u00b7 Next Events. Subscribe to calendar. Google Calendar \u00b7 iCalendar \u00b7 Outlook 365 \u00b7 Outlook Live \u00b7 Export .ics file \u00b7 Export Outlook .ics"
+            ],
+            "title": "Events"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "functional_job_to_be_done",
+        "reasoning": "The most relevant excerpts directly illustrate the core issue the JTBD is designed to capture: a centralized resource is needed to cover a broad set of arts and cultural events across neighborhoods in Richmond, not just Downtown. Excerpts from Venture Richmond emphasize a downtown-focused event calendar, highlighting that existing calendars center around downtown activities, which supports the notion that neighborhood events may be underrepresented in a single source. Other excerpts describe multiple Richmond event calendars and listings (Downtown Richmond Events, Style Weekly events, Visit Richmond VA events), which demonstrates fragmentation across publishers and formats. This aligns with the finegrained field value\u2019s core pain that information is fragmented by geography and publisher and that search is time-consuming. Additional sources like Richmond CultureWorks\u2019 events calendar show there are several neighborhood- and city-wide calendars attempting to aggregate events, underscoring the need for a unified, discoverable space that aggregates neighborhood events beyond downtown. Taken together, these excerpts support the need for a centralized solution to improve discovery of arts and cultural events for a time-constrained, neighborhood-focused parent, addressing the current workaround of bouncing between multiple calendars and social feeds. The excerpts also indirectly reinforce the proposed outcome of enabling a family-friendly plan for weekend activities by providing a broader, more centralized view of events beyond a single district. Overall, the evidence supports a medium-to-high level of alignment with the JTBD's intent of consolidating neighborhood arts events into one discoverable place and reducing the pain of fragmented information. ",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT.",
+              "Adults | $12 Seniors (55 and over), groups of 10 or more | $10 Valentine Members, children under 18, students with ID, military personnel | Free SNAP recipients with EBT card (up to 4 individuals)* | Free"
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://richmond.com/events/",
+            "excerpts": [
+              "Find local Richmond events, festivals, concerts, our top picks, movies and much more. Find events ... Event Calendar \u00b7 Arts & Theatre \u00b7 Movies & TV \u00b7 Music"
+            ],
+            "title": "Richmond Events"
+          },
+          {
+            "url": "https://rvamag.com/category/events",
+            "excerpts": [
+              "Stay in the know about the latest happenings and must-attend events in Richmond, VA. Our Events Calendar provides comprehensive coverage of festivals,"
+            ],
+            "title": "Our upcoming Events Calendar in Richmond, VA - RVA Mag"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "data_questions.question",
+        "reasoning": "To determine which sources offer bulk or structured feeds and specify reuse terms, I look for explicit statements about data openness and access conditions. An open data portal that provides data in an open format with no fee, legal encumbrance, or registration requirement directly supports bulk/data reuse and implies accessible APIs or bulk download capabilities. A closely related portal\u2019s description of being an open data source with no fee or registration reinforces this interpretation, indicating easy access for reuse and potential automated retrieval. A calendar or events listing that mentions a specific software platform (Localist) describes the technology behind a calendar but does not explicitly state bulk feed availability or reuse/scraping terms; it may be useful context but does not directly confirm bulk data access terms. Based on this, the strongest support comes from the open data portal statements about open access and unfettered data, followed by the related but less explicit note about data being accessible in an open format, and finally by the event calendar references which are tangential to bulk data reuse policies.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "data_questions.justification",
+        "reasoning": "The core claim is that the project should assess whether local sources expose structured data via APIs or feeds, which dictates technical feasibility and legal considerations for data aggregation. Excerpt describes an Open Data Portal that provides data to the public in an open format with no fee or registration, directly supporting the need for accessible, structured data sources. Another excerpt reinforces that a City Open Data Portal exists and serves as a new way for citizens to access city data, aligning with the principle of structured data access. Excerpts about event calendars and calendars fed by systems (CultureWorks, RVA/Visit Richmond, PlanRVA, Style Weekly/event calendars) illustrate concrete, discoverable event data sources and formats that Vecina could aggregate, including how events are published and updated. These calendar/feeds references establish practical avenues for data aggregation for arts and cultural events in Richmond, which is exactly the project\u2019s domain. Additional calendars and event listings demonstrate widespread availability of event data in Richmond, informing the feasibility of building a centralized discovery tool. Collectively, these excerpts substantiate the claim that understanding and leveraging structured data sources (APIs/feeds) in Richmond is foundational before development begins, and they provide concrete examples of data sources and formats to consider.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://planrva.org/events/",
+            "excerpts": [
+              "Previous Events \u00b7 Today \u00b7 Next Events. Subscribe to calendar. Google Calendar \u00b7 iCalendar \u00b7 Outlook 365 \u00b7 Outlook Live \u00b7 Export .ics file \u00b7 Export Outlook .ics"
+            ],
+            "title": "Events"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://www.therichmondexperience.com/happenings",
+            "excerpts": [
+              "Browse our latest city guides and keep scrolling for a highly curated list of the best events, festivals, and happenings in and around Richmond, Virginia."
+            ],
+            "title": "Event Calendar"
+          },
+          {
+            "url": "https://richmond.com/events/",
+            "excerpts": [
+              "Find local Richmond events, festivals, concerts, our top picks, movies and much more. Find events ... Event Calendar \u00b7 Arts & Theatre \u00b7 Movies & TV \u00b7 Music"
+            ],
+            "title": "Richmond Events"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_job_to_be_done.motivation",
+        "reasoning": "The field value expresses a motivation to publish once and have accurate event details propagate to major local calendars. Directly relevant excerpts show concrete calendar ecosystems and data flows: one excerpt describes Venture Richmond\u2019s downtown event calendar and the practice of highlighting events, underscoring the need for a centralized source of truth that can feed multiple calendars. Another excerpt explicitly mentions submitting events to a calendar platform and references a submission workflow, which supports the idea of a single publish step feeding a calendar system. Additional excerpts describe a Localist-based events calendar, which is a calendar software used to update events daily, reinforcing the need for synchronized, up-to-date listings across platforms. Further, several excerpts reference subscribing to calendars, exporting ICS files, and providing a complete calendar of events, all of which illustrate the propagation mechanism to external calendars. The remaining excerpts provide broader context about multiple Richmond calendars and arts/culture event discovery, reinforcing the ecosystem in which propagation is essential. Taken together, these pieces substantiate the motivation to publish once and ensure accurate, automated propagation to major local calendars.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Section Title: ... > [Submit Your Event](https://venturerichmond.com/our-events/submit-your-event/)\nContent:\nVenture Richmond\u2019s downtown event calendar highlights public events that bring energy and activity to Downtown Richmond. From festivals and performances to community\u2026\n[Read More](https://venturerichmond.com/our-events/submit-your-event/ \"Submit Your Event\")\n[](https://venturerichmond.com/our-events/submit-your-event/)",
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://planrva.org/events/",
+            "excerpts": [
+              "Previous Events \u00b7 Today \u00b7 Next Events. Subscribe to calendar. Google Calendar \u00b7 iCalendar \u00b7 Outlook 365 \u00b7 Outlook Live \u00b7 Export .ics file \u00b7 Export Outlook .ics"
+            ],
+            "title": "Events"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://www.vpm.org/news/2026-03-26/danny-avula-thriving-rva-pillars-sotc-diamond-district-allianz",
+            "excerpts": [
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia's capital both continues to tell its own stories"
+            ],
+            "title": "Richmond Mayor Avula hosts format-breaking State of the City"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "systems_job_to_be_done.outcome",
+        "reasoning": "The target field describes an outcome centered on improving the systems/coordination aspect of getting jobs done, specifically avoiding duplicative submissions and corrections when programming or scheduling events. The most directly relevant excerpts discuss how event submissions are handled on a Richmond downtown events platform, including a dedicated path to submit an event. This indicates an existing workflow where users or organizers provide input to a central system, which is the type of process that would benefit from reducing duplication and back-and-forth corrections. The calendar-oriented excerpts further illustrate the broader context of coordinating multiple events into a single discoverable schedule, which aligns with improving coordination and reducing repeated submissions. Other excerpts describe calendars and listings for arts and culture events, which provide context for the ecosystem in which such a coordination improvement would occur but do not directly address submission workflows. Together, these excerpts support the notion that a streamlined, non-duplicative submission and programming workflow is relevant to the systems/coordination outcome, even if they do not explicitly state the JTBD phrasing.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Section Title: ... > [Submit Your Event](https://venturerichmond.com/our-events/submit-your-event/)\nContent:\nVenture Richmond\u2019s downtown event calendar highlights public events that bring energy and activity to Downtown Richmond. From festivals and performances to community\u2026\n[Read More](https://venturerichmond.com/our-events/submit-your-event/ \"Submit Your Event\")\n[](https://venturerichmond.com/our-events/submit-your-event/)"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://planrva.org/events/",
+            "excerpts": [
+              "Previous Events \u00b7 Today \u00b7 Next Events. Subscribe to calendar. Google Calendar \u00b7 iCalendar \u00b7 Outlook 365 \u00b7 Outlook Live \u00b7 Export .ics file \u00b7 Export Outlook .ics"
+            ],
+            "title": "Events"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "user_questions",
+        "reasoning": "- The calendar and event discovery channel presented by a city or tourism portal (attend local festivals all year long with our complete calendar) directly addresses discovery channels used by residents to find events, which is central to identifying where underserved communities might learn about happenings. This supports understanding which channels are in use and where gaps might exist for reaching underserved neighborhoods. - Downtown-focused event calendars highlight that existing primary channels may be concentrated in core areas; recognizing this informs where underserved neighborhoods outside these cores may not be receiving information, guiding the JTBD framing toward broader or alternative channels. - Open data portals describe transparent data sources that could reveal patterns of access or which communities engage with event information, enabling a data-driven assessment of underserved areas and informing channel strategy. - Equity-oriented planning and pillars emphasize a focus on telling truth about history and ensuring inclusive outreach, which underpins the rationale for prioritizing channels that reach historically underserved groups and for designing outreach that closes information gaps. - If a project aims to avoid replication of blind spots from existing calendars, examining these calendars and data channels helps identify who is currently missed and which discovery channels those communities prefer (e.g., local groups, libraries, social platforms). - Community-focused narratives around storytelling and equity reinforce that channels should be inclusive and culturally resonant, reinforcing the need to map underserved neighborhoods to their preferred information sources and to adapt vecina accordingly. ",
+        "citations": [
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://venturerichmond.com/holidays/",
+            "excerpts": [
+              "Have a Holiday event coming up in Downtown Richmond? Add it to our calendar! Submit Your Downtown Event To the Calendar. Downtown Holiday Fun on Social Media."
+            ],
+            "title": "Downtown Richmond Holiday Events"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Launched the RVAgreen 2050 planning process to plan toward equity-centered climate action and resilience in the formative next decades of our city's history;"
+            ],
+            "title": "Richmond's Equity Agenda - RVA.gov"
+          },
+          {
+            "url": "https://www.vpm.org/news/2026-03-26/danny-avula-thriving-rva-pillars-sotc-diamond-district-allianz",
+            "excerpts": [
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia's capital both continues to tell its own stories"
+            ],
+            "title": "Richmond Mayor Avula hosts format-breaking State of the City"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "equity_questions.justification",
+        "reasoning": "The field value asserts that equitable access is fundamental for vecina and that the digital divide in Richmond poses a barrier to inclusive arts and cultural event discovery. The most directly supportive evidence is the excerpt noting that approximately 9.7% of residents do not have an internet subscription, highlighting a concrete barrier to online discovery tools. Relatedly, the statement that Richmond City Council declared high-speed internet a public necessity reinforces the proximity of the issue to policy and infrastructure decisions that affect equity in access. The equity agenda excerpt outlines systemic planning for equity-centered action, which aligns with integrating inclusive strategies into the JTBD framework. While the open data portal excerpts demonstrate the city\u2019s commitment to data accessibility and transparency, they are somewhat supportive in terms of enabling informed participation and accountability, but less directly tied to addressing the digital access barrier itself. Taken together, these excerpts support the need to design vecina with low-bandwidth options and alternative channels (like SMS) to avoid excluding residents with limited or no internet access, thereby ensuring the tool serves all of Richmond\u2019s communities. This justification aligns with the project\u2019s pillar of telling city stories inclusively and the problem statement\u2019s goal of universal arts and cultural event discovery.",
+        "citations": [
+          {
+            "url": "https://virginiamercury.com/2024/09/17/richmond-city-council-wants-to-increase-internet-speeds-close-digital-divide/",
+            "excerpts": [
+              "Approximately 9.7% of Richmond residents do not have an internet subscription, according to the 2023 American Community Survey one-year estimates.",
+              "Richmond City Council recently adopted a resolution to declare high-speed internet a public necessity for all Richmond residents, an update to similar legislation passed three years ago."
+            ],
+            "title": "Richmond City Council wants to increase internet speeds, close ..."
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Launched the RVAgreen 2050 planning process to plan toward equity-centered climate action and resilience in the formative next decades of our city's history;"
+            ],
+            "title": "Richmond's Equity Agenda - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "project_background.city_pillar_alignment",
+        "reasoning": "The target fine-grained field value is a specific pillar phrase: 'City That Tells Its Stories'. The most relevant excerpts directly address this pillar concept. The first excerpt states the pillar as part of Richmond\u2019s identity and a goal to tell the truth about its past, which aligns with the exact phrasing of the field. The second excerpt expands on this by naming the pillar and describing the aim to tell the truth about Richmond\u2019s history, including slavery and Black empowerment, and to use the arts as a vehicle for telling these stories. The third and fourth excerpts reiterate the pillar as a governing theme in plans for a thriving Richmond, emphasizing telling the truth about history and making the city a model for storytelling. The fifth excerpt outlines goals under the pillar, including sharing Richmond\u2019s cultural history and championing arts and culture to tell stories, which directly supports the pillar value. The sixth and seventh excerpts quote leadership discussions where storytelling is described as a foundational focus of the administration, reinforcing the pillar\u2019s centrality. Finally, these excerpts collectively establish that the pillar in question is centered on narration, truth-telling about history, and cultural storytelling, which is precisely what the fine-grained field value represents. None of the remaining excerpts contradict the pillar; they provide contextual support about arts, events, and city initiatives but do not directly displace the pillar\u2019s framing. Based on the explicit mentions and thematic alignment, the evidence coherently supports this field value.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.wric.com/news/local-news/richmond/avula-lays-out-his-plan-for-a-thriving-richmond/",
+            "excerpts": [
+              "\u201cA City that Tells its Stories (and tells the truth about its past)\u201d The seventh and final pillar, \u201cA City that Tells its Stories,\u201d aims to tell the truth about Richmond's history, including its history of slavery, racism and struggles for Black empowerment.",
+              "The seventh and final pillar, \u201cA City that Tells its Stories,\u201d aims to tell the truth about Richmond\u2019s history, including its history of slavery, racism and struggles for Black empowerment.",
+              "The four goals listed underneath this pillar are as follows:\nShare Shockoe with the world as a place for reckoning and repair.\nChampion our arts and culture communities in their efforts to tell Richmond\u2019s stories.\nShare and document Richmond\u2019s rich cultural history.\nHelp residents know how (and why) Richmond city government works for them."
+            ],
+            "title": "Avula lays out his plan for a 'thriving' Richmond | WRIC ABC 8News"
+          },
+          {
+            "url": "https://www.vpm.org/news/2026-03-26/danny-avula-thriving-rva-pillars-sotc-diamond-district-allianz",
+            "excerpts": [
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia's capital both continues to tell its own stories",
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia\u2019s capital both continues to tell its own stories and tells the truth about its history.",
+              "In his press gaggle, Avula told reporters that \u201cstorytelling\u201d is a key focus for his administration.\n\u201cIt's kind of like the undergirding of what drives our administration,\u201d he said."
+            ],
+            "title": "Richmond Mayor Avula hosts format-breaking State of the City"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "project_background.project_description",
+        "reasoning": "The fine-grained field value defines the project as a community-focused arts and cultural event discovery tool for neighborhood events. The most relevant excerpt directly states this exact description. The following excerpts add surrounding context: several excerpts discuss Richmond\u2019s pillar of telling stories and supporting arts and culture, which aligns with the project\u2019s purpose but does not redefine the field value. Other excerpts describe event calendars, arts-focused initiatives, or open data portals in Richmond, which provide useful background about the environment in which such a tool would operate, but they do not specify the project\u2019s core description.",
+        "citations": [
+          {
+            "url": "https://www.wric.com/news/local-news/richmond/avula-lays-out-his-plan-for-a-thriving-richmond/",
+            "excerpts": [
+              "The four goals listed underneath this pillar are as follows:\nShare Shockoe with the world as a place for reckoning and repair.\nChampion our arts and culture communities in their efforts to tell Richmond\u2019s stories.\nShare and document Richmond\u2019s rich cultural history.\nHelp residents know how (and why) Richmond city government works for them.",
+              "\u201cA City that Tells its Stories (and tells the truth about its past)\u201d The seventh and final pillar, \u201cA City that Tells its Stories,\u201d aims to tell the truth about Richmond's history, including its history of slavery, racism and struggles for Black empowerment.",
+              "The seventh and final pillar, \u201cA City that Tells its Stories,\u201d aims to tell the truth about Richmond\u2019s history, including its history of slavery, racism and struggles for Black empowerment."
+            ],
+            "title": "Avula lays out his plan for a 'thriving' Richmond | WRIC ABC 8News"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.vpm.org/news/2026-03-26/danny-avula-thriving-rva-pillars-sotc-diamond-district-allianz",
+            "excerpts": [
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia's capital both continues to tell its own stories",
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia\u2019s capital both continues to tell its own stories and tells the truth about its history.",
+              "In his press gaggle, Avula told reporters that \u201cstorytelling\u201d is a key focus for his administration.\n\u201cIt's kind of like the undergirding of what drives our administration,\u201d he said."
+            ],
+            "title": "Richmond Mayor Avula hosts format-breaking State of the City"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "integration_questions.question",
+        "reasoning": "From the excerpts, there is a described flow where submitting an event to Style Weekly automatically also submits it to Artsline, indicating a concrete submission/aggregation pathway, at least between Style Weekly and Artsline. Since Style Weekly is a central outlet in these excerpts, this hints at a possible mechanism to reach additional channels via established submission flows. The second excerpt describes Style Weekly as a source for arts, culture, and events in Richmond, reinforcing Style Weekly as a primary distribution channel within the local arts ecosystem. The third excerpt highlights Venture Richmond as a venue for events in Downtown Richmond, suggesting that it is another relevant local outlet, but there is no explicit information on how to push content to Venture Richmond, CultureWorks, or VisitRichmondVA, nor any API or email-bridge integrations described. Taken together, the only clearly supported integration mechanism in the provided text is the Artsline/Style Weekly relationship, which demonstrates a one-way or bidirectional submission flow between those two outlets in the context of event submissions. There is insufficient evidence to confirm multi-outlet syndication via APIs or email bridges to all four targeted outlets (Style Weekly, Artsline, CultureWorks, Venture Richmond, VisitRichmondVA) beyond the Style Weekly/Artsline linkage. Therefore, the most supportable claim is that there is a concrete submission pathway between Artsline and Style Weekly, with Style Weekly serving as a major distribution channel in this ecosystem; there is little to no explicit evidence for direct API/email-bridge based syndication to CultureWorks, Venture Richmond, or VisitRichmondVA in the provided excerpts.",
+        "citations": [
+          {
+            "url": "https://www.vpm.org/artsline",
+            "excerpts": [
+              "The *Artsline* submission link above will take you to the *Style Weekly* event submission page. By submitting your event to *Style Weekly* , you automatically submit your event to *Artsline* ."
+            ],
+            "title": "Artsline - VPM.org"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "emotional_job_to_be_done.core_pain",
+        "reasoning": "The most directly relevant information demonstrates a national-to-local trend toward open, accessible data portals and centralized access to city information, which supports the identified pain of needing a single, standardized place to discover arts and cultural events. Specifically, a City Open Data Portal describes public data availability in an open format with no fee or registration, aligning with the need to reduce barriers to information. A separate Open Data Portal description reinforces the concept of a centralized citizen-accessible data hub for the city, which directly supports the core pain of fragmentation and lack of a unified source. A statement about equitably available arts and cultural infrastructure and programming adds a layer of equity concern, suggesting current offerings may not be evenly accessible, which exacerbates the user pain of missing opportunities. The pillar emphasizing the city that tells its stories provides contextual justification for the value of a storytelling-centered, centralized discovery tool, even though it is more strategic than data-specific. Additional related items note that calendars and events are maintained by multiple platforms (CultureWorks calendar, Artsline, Venture Richmond, Style Weekly events), implying a lack of standardization and potential inconsistencies across sources, which further supports the need for a consolidated, reliable discovery solution. Collectively these excerpts illustrate that while multiple sources exist, there is no single, standardized, open-access locus for Richmond arts events, which aligns with the described emotional/trust pain of ambiguous, outdated, or incomplete information that users must navigate.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://hdp-ca-prod-app-rchm-letstalk-files.s3.ca-central-1.amazonaws.com/8217/5511/7442/RAS_RTC_Att_1-Jul_7-lo_res.pdf",
+            "excerpts": [
+              "Work towards arts and cultural infrastructure and programming that is equitably available and accessible to under-represented and equity-deserving groups. 3."
+            ],
+            "title": "[PDF] richmond arts strategy update - AWS"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Launched the RVAgreen 2050 planning process to plan toward equity-centered climate action and resilience in the formative next decades of our city's history;"
+            ],
+            "title": "Richmond's Equity Agenda - RVA.gov"
+          },
+          {
+            "url": "https://www.vpm.org/artsline",
+            "excerpts": [
+              "Listen for featured events around Central Virginia every day on VPM News 88.9, and VPM Music 93.1 and 107.3 FM. Events featured in Artsline are sometimes"
+            ],
+            "title": "Artsline - VPM.org"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "prior_art_questions.justification",
+        "reasoning": "To justify a clear market positioning for a civic-tech event discovery tool in Richmond, one must analyze existing solutions that already curate or aggregate arts and cultural events. The excerpts show multiple regional calendars and event hubs that cover downtown and greater Richmond areas, including Venture Richmond's downtown events, Style Weekly's arts and culture coverage, Visit Richmond VA's festival calendars, PlanRVA's events listings, RVA Mag's happenings, Richmond's CultureWorks calendar, and other city- or region-wide calendars. These sources demonstrate the current landscape: searchable listings, date-based event calendars, and category organization for arts, culture, and community events. This helps identify what such solutions typically offer (calendar views, event highlights, submission options) and where gaps may lie (e.g., hyperlocal neighborhood focus, equity-centered curation, integration with neighborhood-level data, or consolidated discovery across multiple calendars). The justification for prioritizing a niche like hyperlocal and equity-driven discovery rests on observing that while there are broad calendars and cultural event guides, there may be limited consolidation at the neighborhood level, potential fragmentation across sources, and limited explicit emphasis on equitable access or inclusion. Quoted elements from the excerpts illustrate a spectrum of Richmond-event discovery channels, including downtown-focused calendars, city/cultural organization calendars, and regional arts coverage, which collectively inform the need to define a differentiated JTBD that targets underserved niches and strengthens proposition through integration, locality, and equity considerations.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #",
+              "Section Title: ... > [Submit Your Event](https://venturerichmond.com/our-events/submit-your-event/)\nContent:\nVenture Richmond\u2019s downtown event calendar highlights public events that bring energy and activity to Downtown Richmond. From festivals and performances to community\u2026\n[Read More](https://venturerichmond.com/our-events/submit-your-event/ \"Submit Your Event\")\n[](https://venturerichmond.com/our-events/submit-your-event/)",
+              ""
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://richmond.com/events/",
+            "excerpts": [
+              "Find local Richmond events, festivals, concerts, our top picks, movies and much more. Find events ... Event Calendar \u00b7 Arts & Theatre \u00b7 Movies & TV \u00b7 Music"
+            ],
+            "title": "Richmond Events"
+          },
+          {
+            "url": "https://rvamag.com/category/events",
+            "excerpts": [
+              "Stay in the know about the latest happenings and must-attend events in Richmond, VA. Our Events Calendar provides comprehensive coverage of festivals,"
+            ],
+            "title": "Our upcoming Events Calendar in Richmond, VA - RVA Mag"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://planrva.org/events/",
+            "excerpts": [
+              "Previous Events \u00b7 Today \u00b7 Next Events. Subscribe to calendar. Google Calendar \u00b7 iCalendar \u00b7 Outlook 365 \u00b7 Outlook Live \u00b7 Export .ics file \u00b7 Export Outlook .ics"
+            ],
+            "title": "Events"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT.",
+              "Adults | $12 Seniors (55 and over), groups of 10 or more | $10 Valentine Members, children under 18, students with ID, military personnel | Free SNAP recipients with EBT card (up to 4 individuals)* | Free"
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              ""
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_job_to_be_done.situation",
+        "reasoning": "- Excerpt describing the downtown event calendar and free events provides concrete examples of how residents discover arts and cultural happenings in Richmond, which is directly relevant to planning a neighborhood arts market in a specific district like Scott\u2019s Addition, since discovery mechanisms and calendar integration would be critical for the JTBD. - Excerpts that outline Venture Richmond's emphasis on downtown events and cultural celebrations show the existing ecosystem of events promotion and could inform collaboration opportunities, venue selection, and audience reach for a neighborhood market. - Excerpts mentioning Richmond CultureWorks and Localist-style event calendars illustrate the technical and operational backbone (calendar software, daily updates) that a neighborhood market might leverage for scheduling, coordination, and visibility. - Excerpts that reference city pillars and rhetoric around telling the city\u2019s stories offer emotional/trust considerations: any neighborhood market should align with local storytelling and cultural narratives to build legitimacy and community buy-in. - Excerpts referencing broader city-wide event listings (PlanRVA, Visit Richmond VA) underscore the broader ecosystem of events data and discovery channels that a Scott\u2019s Addition market could tap into for marketing, partnerships, and data sources. - The less directly connected items (e.g., generic calendars or non-neighborhood-focused mentions) still contribute context about the local arts scene, which can influence user expectations and coordination needs, though they do not provide specifics about Scott\u2019s Addition or a neighborhood-scale market. ",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #",
+              "Section Title: ... > [Submit Your Event](https://venturerichmond.com/our-events/submit-your-event/)\nContent:\nVenture Richmond\u2019s downtown event calendar highlights public events that bring energy and activity to Downtown Richmond. From festivals and performances to community\u2026\n[Read More](https://venturerichmond.com/our-events/submit-your-event/ \"Submit Your Event\")\n[](https://venturerichmond.com/our-events/submit-your-event/)"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region.",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.vpm.org/news/2026-03-26/danny-avula-thriving-rva-pillars-sotc-diamond-district-allianz",
+            "excerpts": [
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia's capital both continues to tell its own stories"
+            ],
+            "title": "Richmond Mayor Avula hosts format-breaking State of the City"
+          },
+          {
+            "url": "https://planrva.org/events/",
+            "excerpts": [
+              "Previous Events \u00b7 Today \u00b7 Next Events. Subscribe to calendar. Google Calendar \u00b7 iCalendar \u00b7 Outlook 365 \u00b7 Outlook Live \u00b7 Export .ics file \u00b7 Export Outlook .ics"
+            ],
+            "title": "Events"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "emotional_job_to_be_done.motivation",
+        "reasoning": "The target motivation is about trust in Vecina\u2019s listings being accurate, inclusive, and vetted by locals. The most relevant excerpts directly address equity, access, and inclusivity: one highlights efforts to make arts and cultural programs equitably available to under-represented groups, which underpins trust through fairness and representation. Another discusses open data and free public access, which supports verifiability and transparency\u2014core to trusting data sources. A third excerpt reinforces open access to city data portals, further supporting the trust framework via public scrutiny and accountability. A fourth excerpt emphasizes the city\u2019s commitment to telling truthful, inclusive stories about its past through the arts, aligning with the idea of credible, locally-grounded curation. The fifth excerpt explicitly connects telling historical truths and using arts to strengthen cross-cultural connections, reinforcing the trust and vetting through community storytelling. Together, these excerpts build a coherent case that trust in Vecina\u2019s listings can be achieved through equity, transparency, and authentic local vetting, aligning with the stated motivation to ensure listings are accurate, inclusive, and vetted by locals.",
+        "citations": [
+          {
+            "url": "https://hdp-ca-prod-app-rchm-letstalk-files.s3.ca-central-1.amazonaws.com/8217/5511/7442/RAS_RTC_Att_1-Jul_7-lo_res.pdf",
+            "excerpts": [
+              "Work towards arts and cultural infrastructure and programming that is equitably available and accessible to under-represented and equity-deserving groups. 3."
+            ],
+            "title": "[PDF] richmond arts strategy update - AWS"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "prior_art_questions.question",
+        "reasoning": "The most relevant excerpts describe the scope and character of existing calendars and coverage areas. Excerpts from Style Weekly highlight the arts/culture focus and breadth of events, which directly informs what current calendars cover well and where they might fall short. Entries about VisitRichmondVA and Richmond CultureWorks emphasize regional visitor orientation and a dedicated arts network, which helps identify gaps vecina could address (hyperlocal, equity-first, or calendar automation). Calendar-focused overviews from Venture Richmond (downtown emphasis) and RVA Mag add nuance about geographic scope and media reach, informing where current calendars excel in place-based discovery versus broader storytelling or coverage. General event calendars (e.g., PlanRVA) provide context on interoperability and calendar formats, which is relevant for integration and data strategy. Pricing or entry-specific details (e.g., admission prices) are less informative about coverage gaps and are deprioritized in assessing calendar strengths and weaknesses. In sum, the most informative excerpts collectively map the landscape of who covers arts and cultural events, how broad or focused those calendars are, and what potential gaps vecina could own (e.g., hyperlocal neighborhood focus, equity-forward curation, calendar automation, transit-aware recommendations).",
+        "citations": [
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT.",
+              "Adults | $12 Seniors (55 and over), groups of 10 or more | $10 Valentine Members, children under 18, students with ID, military personnel | Free SNAP recipients with EBT card (up to 4 individuals)* | Free"
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://planrva.org/events/",
+            "excerpts": [
+              "Previous Events \u00b7 Today \u00b7 Next Events. Subscribe to calendar. Google Calendar \u00b7 iCalendar \u00b7 Outlook 365 \u00b7 Outlook Live \u00b7 Export .ics file \u00b7 Export Outlook .ics"
+            ],
+            "title": "Events"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #",
+              "Section Title: ... > [Submit Your Event](https://venturerichmond.com/our-events/submit-your-event/)\nContent:\nVenture Richmond\u2019s downtown event calendar highlights public events that bring energy and activity to Downtown Richmond. From festivals and performances to community\u2026\n[Read More](https://venturerichmond.com/our-events/submit-your-event/ \"Submit Your Event\")\n[](https://venturerichmond.com/our-events/submit-your-event/)",
+              ""
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://rvamag.com/category/events",
+            "excerpts": [
+              "Stay in the know about the latest happenings and must-attend events in Richmond, VA. Our Events Calendar provides comprehensive coverage of festivals,"
+            ],
+            "title": "Our upcoming Events Calendar in Richmond, VA - RVA Mag"
+          },
+          {
+            "url": "https://richmond.com/events/",
+            "excerpts": [
+              "Find local Richmond events, festivals, concerts, our top picks, movies and much more. Find events ... Event Calendar \u00b7 Arts & Theatre \u00b7 Movies & TV \u00b7 Music"
+            ],
+            "title": "Richmond Events"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              ""
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "equity_questions.question",
+        "reasoning": "To address how vecina can remain usable for residents with slower internet or mobile-only access, the following points from the excerpts are pertinent: the disclosure that roughly 9.7% of Richmond residents do not have an internet subscription underscores a real accessibility gap that the project must accommodate, motivating the need for features tolerant of low bandwidth or offline/alternative access methods. The move by the Richmond City Council to declare high-speed internet a public necessity reinforces the policy environment that values universal connectivity and may incentivize or support efforts to design for low-bandwidth conditions. The RVA Equity Agenda note signals a broader city commitment to equity and resilience, suggesting that vecina should embed equity-centered considerations in its development, including accessibility for underserved populations. The Open Data Portal descriptions indicate that the city provides public data access in open formats, which can inform the feasibility of providing lightweight data experiences or offline capabilities. Taken together, these excerpts support the claim that the project should explicitly plan for low-bandwidth scenarios, explore SMS or other non-browsing channels, and consider data-light interfaces to ensure inclusivity for residents with limited connectivity in Richmond.",
+        "citations": [
+          {
+            "url": "https://virginiamercury.com/2024/09/17/richmond-city-council-wants-to-increase-internet-speeds-close-digital-divide/",
+            "excerpts": [
+              "Approximately 9.7% of Richmond residents do not have an internet subscription, according to the 2023 American Community Survey one-year estimates.",
+              "Richmond City Council recently adopted a resolution to declare high-speed internet a public necessity for all Richmond residents, an update to similar legislation passed three years ago."
+            ],
+            "title": "Richmond City Council wants to increase internet speeds, close ..."
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Launched the RVAgreen 2050 planning process to plan toward equity-centered climate action and resilience in the formative next decades of our city's history;"
+            ],
+            "title": "Richmond's Equity Agenda - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "systems_job_to_be_done.core_pain",
+        "reasoning": "The most relevant passages point to calendar infrastructure and data workflows. References to a downtown event calendar, submission portals for events, and calendar software indicate an ecosystem where multiple sources publish events and where standardization and syncing could be central problems. For example, a calendar that highlights public events and a pathway to submit events suggest a potential bottleneck where data might be entered in fragmented ways, risking duplicated effort or inconsistent fields across sources. Mentions of a dedicated event calendar powered by Localist software imply a vendor or platform layer that could introduce latency in updating events or inconsistencies if data must be reformatted to fit a single schema. The existence of multiple city or regional event calendars (Downtown Richmond Events, Richmond CultureWorks, PlanRVA, Visit Richmond) underscores a multi-source environment where syncing permits or approvals with public calendars could be nontrivial, potentially leading to slow updates or the need to reconcile different field requirements. A portal to submit events signals an entry point where standardization is needed to avoid fragmented data capture, and general references to calendars for festivals and community events illustrate the breadth of data that must be harmonized across sources. While none of the excerpts state the exact pain points verbatim, they collectively imply an ecosystem where duplicated data entry, inconsistent data schemas, delayed updates, and a lack of seamless permit-to-calendar synchronization are plausible, given the existence of multiple calendars, submission processes, and calendar software in use.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Section Title: ... > [Submit Your Event](https://venturerichmond.com/our-events/submit-your-event/)\nContent:\nVenture Richmond\u2019s downtown event calendar highlights public events that bring energy and activity to Downtown Richmond. From festivals and performances to community\u2026\n[Read More](https://venturerichmond.com/our-events/submit-your-event/ \"Submit Your Event\")\n[](https://venturerichmond.com/our-events/submit-your-event/)",
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://planrva.org/events/",
+            "excerpts": [
+              "Previous Events \u00b7 Today \u00b7 Next Events. Subscribe to calendar. Google Calendar \u00b7 iCalendar \u00b7 Outlook 365 \u00b7 Outlook Live \u00b7 Export .ics file \u00b7 Export Outlook .ics"
+            ],
+            "title": "Events"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region.",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.vpm.org/news/2026-03-26/danny-avula-thriving-rva-pillars-sotc-diamond-district-allianz",
+            "excerpts": [
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia's capital both continues to tell its own stories"
+            ],
+            "title": "Richmond Mayor Avula hosts format-breaking State of the City"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "project_background.problem_statement",
+        "reasoning": "The most directly relevant excerpts describe centralized or discoverable collections of events in Richmond. One excerpt highlights a downtown event portal and the idea of finding what\u2019s happening in Downtown Richmond all year long, which aligns with centralizing arts events in a single place for discovery. Another excerpt mentions a Downtown Event Calendar with free events and activities, which directly supports the concept of a unified event listing resource. A third excerpt points to a calendar of events in Richmond and a complete calendar for attending local festivals, further supporting the notion of a centralized repository for events. A fourth excerpt discusses focusing on arts and culture communities and telling Richmond\u2019s stories, which provides contextual backing for why aggregating arts events into one discoverable place would be valuable to showcase the city\u2019s culture. Together, these excerpts collectively support the need to aggregate and centralize arts and cultural event information for Richmond, aligning with the project\u2019s problem statement of discovery through a single portal.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://www.wric.com/news/local-news/richmond/avula-lays-out-his-plan-for-a-thriving-richmond/",
+            "excerpts": [
+              "The four goals listed underneath this pillar are as follows:\nShare Shockoe with the world as a place for reckoning and repair.\nChampion our arts and culture communities in their efforts to tell Richmond\u2019s stories.\nShare and document Richmond\u2019s rich cultural history.\nHelp residents know how (and why) Richmond city government works for them."
+            ],
+            "title": "Avula lays out his plan for a 'thriving' Richmond | WRIC ABC 8News"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "systems_job_to_be_done.current_workaround",
+        "reasoning": "The stated current workaround is that events must be manually submitted across multiple portals and channels, including CultureWorks, Venture Richmond submission forms, and Style Weekly feeds (which then flow into VPM Artsline), plus additional outreach via email and social postings. Excerpt content that explicitly references an event submission flow or a submission interface directly supports this. For example, one excerpt mentions a direct submission path with a link labeled Submit Your Event, which indicates the existence of a submission mechanism for user-generated events. Another excerpt describes a separate Submit an event action, reinforcing the presence of multiple submission points. Beyond submission forms, several excerpts describe centralized event calendars and listings (Downtown Richmond Events, Richmond CultureWorks, PlanRVA, VisitRichmondVA) that would plausibly be fed by such submissions, aligning with a workflow that aggregates and distributes events across portals. Additional excerpts referencing Style Weekly events and broader arts/culture calendars further corroborate a multi-channel ecosystem where events appear across multiple outlets. The combination of explicit submission interfaces and the implication of multiple calendars and outlets provides evidence for a workflow that requires cross-posting or cross-referencing across portals and channels, consistent with the described current workaround.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Section Title: ... > [Submit Your Event](https://venturerichmond.com/our-events/submit-your-event/)\nContent:\nVenture Richmond\u2019s downtown event calendar highlights public events that bring energy and activity to Downtown Richmond. From festivals and performances to community\u2026\n[Read More](https://venturerichmond.com/our-events/submit-your-event/ \"Submit Your Event\")\n[](https://venturerichmond.com/our-events/submit-your-event/)",
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://planrva.org/events/",
+            "excerpts": [
+              "Previous Events \u00b7 Today \u00b7 Next Events. Subscribe to calendar. Google Calendar \u00b7 iCalendar \u00b7 Outlook 365 \u00b7 Outlook Live \u00b7 Export .ics file \u00b7 Export Outlook .ics"
+            ],
+            "title": "Events"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region.",
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.vpm.org/news/2026-03-26/danny-avula-thriving-rva-pillars-sotc-diamond-district-allianz",
+            "excerpts": [
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia's capital both continues to tell its own stories"
+            ],
+            "title": "Richmond Mayor Avula hosts format-breaking State of the City"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "functional_job_to_be_done.current_workaround",
+        "reasoning": "The finegrained field value describes a workaround where a user toggles across several event calendars and listings to discover arts events in Richmond. The strongest support comes from excerpts that explicitly reference a dedicated event calendar or listings hub, indicating a centralized or semi-centralized approach to event discovery. For example, a source labeled as a Downtown Event Calendar indicates a hosted calendar that aggregates events in a focal area, which aligns with the behavior of bouncing between calendars to gather options. Another excerpt explicitly mentions a calendar of events in Richmond, signaling a broad, city-wide aggregation that a user would consult alongside neighborhood or organization-specific calendars. A CultureWorks events calendar example demonstrates another organization-hosted calendar that contributes to the multi-source discovery flow, reinforcing the pattern of consulting multiple calendars rather than relying on a single source. A source about RVA Mag highlights a comprehensive events calendar from a media outlet, further supporting the idea of aggregating listings from diverse sources. The listing for Richmond Events specifically mentions an Event Calendar feature and categorization by Arts & Theatre and other genres, consistent with a multi-calendar discovery workflow. Finally, a more general note about exploring happenings in Downtown Richmond through a venue\u2019s events page corroborates the behavior of cross-referencing multiple local calendars to surface opportunities. Taken together, these excerpts coherently illustrate the current workaround of consulting multiple calendars and listings across organizations, venues, and media to discover arts and cultural events in Richmond, VA.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://rvamag.com/category/events",
+            "excerpts": [
+              "Stay in the know about the latest happenings and must-attend events in Richmond, VA. Our Events Calendar provides comprehensive coverage of festivals,"
+            ],
+            "title": "Our upcoming Events Calendar in Richmond, VA - RVA Mag"
+          },
+          {
+            "url": "https://richmond.com/events/",
+            "excerpts": [
+              "Find local Richmond events, festivals, concerts, our top picks, movies and much more. Find events ... Event Calendar \u00b7 Arts & Theatre \u00b7 Movies & TV \u00b7 Music"
+            ],
+            "title": "Richmond Events"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "functional_job_to_be_done.core_pain",
+        "reasoning": "The core pain describes information about neighborhood arts and cultural events being scattered across geography-based or publisher-based sources, leading to time-consuming searches and inconsistent or missing details. The most directly supportive content notes the existence of a comprehensive or complete calendar for events in the region, which contrasts with the fragmented, multi-source reality described in the field value. Additional excerpts show multiple Richmond event calendars and listings (Downtown Richmond events, Venture Richmond, RVA Mag, Visit Richmond, etc.), which exemplify the lack of a single centralized repository and the duplication implied by many calendars. Collectively, these excerpts corroborate the need for a unified discovery platform in Richmond that aggregates events from diverse sources, reduces search time, and standardizes key details such as cost, accessibility, and transit. The excerpts that explicitly present centralized calendars or comprehensive listings provide the strongest support for the stated core pain, while the others illustrate the current landscape of dispersed sources that contribute to fragmentation.",
+        "citations": [
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://richmond.com/events/",
+            "excerpts": [
+              "Find local Richmond events, festivals, concerts, our top picks, movies and much more. Find events ... Event Calendar \u00b7 Arts & Theatre \u00b7 Movies & TV \u00b7 Music"
+            ],
+            "title": "Richmond Events"
+          },
+          {
+            "url": "https://rvamag.com/category/events",
+            "excerpts": [
+              "Stay in the know about the latest happenings and must-attend events in Richmond, VA. Our Events Calendar provides comprehensive coverage of festivals,"
+            ],
+            "title": "Our upcoming Events Calendar in Richmond, VA - RVA Mag"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT.",
+              "Adults | $12 Seniors (55 and over), groups of 10 or more | $10 Valentine Members, children under 18, students with ID, military personnel | Free SNAP recipients with EBT card (up to 4 individuals)* | Free"
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "functional_job_to_be_done.outcome",
+        "reasoning": "The most relevant excerpts are those that emphasize a centralized or comprehensive events calendar for Richmond, which aligns with the outcome of planning family time without lengthy travel. An excerpt that explicitly references a calendar of events in Richmond and the idea of a complete calendar supports the need for a discoverable, consolidated source for events, enabling a family to plan activities without driving across the river. Excerpts describing downtown event calendars, free events, weekend activities, and kid-friendly options further reinforce the notion of convenient, family-oriented discovery in a single place. Other excerpts that describe general \u201cevents\u201d coverage or venues provide useful context about the richness of options in Richmond, though they are slightly less directly tied to the core outcome of convenient, cross-river-free planning. Overall, the most relevant content centers on calendars and listings for Richmond events and activities (including family-friendly angles), with additional context provided by broader event coverage.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://richmond.com/events/",
+            "excerpts": [
+              "Find local Richmond events, festivals, concerts, our top picks, movies and much more. Find events ... Event Calendar \u00b7 Arts & Theatre \u00b7 Movies & TV \u00b7 Music"
+            ],
+            "title": "Richmond Events"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://rvamag.com/category/events",
+            "excerpts": [
+              "Stay in the know about the latest happenings and must-attend events in Richmond, VA. Our Events Calendar provides comprehensive coverage of festivals,"
+            ],
+            "title": "Our upcoming Events Calendar in Richmond, VA - RVA Mag"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT.",
+              "Adults | $12 Seniors (55 and over), groups of 10 or more | $10 Valentine Members, children under 18, students with ID, military personnel | Free SNAP recipients with EBT card (up to 4 individuals)* | Free"
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "user_questions.question",
+        "reasoning": "The user's focus is on identifying which neighborhoods and demographics are underserved by existing event discovery calendars and what channels those communities prefer for finding information. Excerpts that discuss equity-oriented planning for the city provide direct context for identifying underserved populations and the city\u2019s intent to address disparities in access to information. The equity-oriented excerpt mentions a city-led equity agenda and climate/action planning toward equity-centered outcomes, which supports the premise that equity considerations are being analyzed and acted upon in Richmond. Excerpts describing data portals and open data initiatives illustrate where publicly accessible information exists and how residents can obtain it, which is relevant to understanding preferred channels for information discovery and potential data-driven identification of underserved groups. Excerpts describing various calendars and event listings demonstrate current channels through which residents discover arts and cultural events, establishing a baseline of how information is currently distributed and consumed. The combination of these elements supports a view that underserved neighborhoods may be identifiable through data portals and equity programs, and that discovery channels include calendar portals and city/open data channels as well as open-access event listings. Specific connections include: - The equity-oriented planning excerpt signals that the city is actively considering equity and access, implying a focus on which groups are underserved. - The open data portal excerpts indicate official channels where city data (potentially including demographics and event data) is published, suggesting preferred channels for information access by residents and researchers. - The multiple calendar-related excerpts show where residents currently go to discover events, illustrating practical discovery channels for arts and culture information in Richmond. - The combination implies that underserved neighborhoods can be analyzed using city data portals and equity initiatives, and that discovery channels include both formal calendars and data-enabled resources. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Launched the RVAgreen 2050 planning process to plan toward equity-centered climate action and resilience in the formative next decades of our city's history;"
+            ],
+            "title": "Richmond's Equity Agenda - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://venturerichmond.com/holidays/",
+            "excerpts": [
+              "Have a Holiday event coming up in Downtown Richmond? Add it to our calendar! Submit Your Downtown Event To the Calendar. Downtown Holiday Fun on Social Media."
+            ],
+            "title": "Downtown Richmond Holiday Events"
+          },
+          {
+            "url": "https://www.vpm.org/news/2026-03-26/danny-avula-thriving-rva-pillars-sotc-diamond-district-allianz",
+            "excerpts": [
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia's capital both continues to tell its own stories"
+            ],
+            "title": "Richmond Mayor Avula hosts format-breaking State of the City"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "functional_job_to_be_done.motivation",
+        "reasoning": "- The closest support for the \"low-cost\" aspect of the motivation comes from excerpts that present pricing information, indicating there are affordable options for arts events. This directly aligns with the idea of seeking low-cost opportunities. While the pricing snippet does not specify the Bellemeade/Swansboro area, it demonstrates that cost considerations exist within Richmond events, which is relevant to the motivation of affordability when looking for events. \n- Several excerpts describe calendars or listings of arts and cultural events in the Richmond area, which would be instrumental for discovery purposes. This supports the notion of a centralized place to find events, a core component of the motivation to locate arts and cultural activities. \n- The content referencing general Richmond event calendars and venues suggests that discovery channels exist, which could be leveraged to locate weekend activities. However, none of these excerpts specifies the Bellemeade/Swansboro neighborhood, safety criteria, or weekend-only filtering, which are key parts of the target motivation. This creates a gap between the provided material and the exact field value, limiting full alignment but offering partial support for discovery and affordability aspects. \n- Overall, the strongest alignment is with discovery of arts events through calendars and listings, with partial alignment on affordability. There is minimal to no explicit alignment with the neighborhood specificity or safety considerations expressed in the motivation.",
+        "citations": [
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Adults | $12 Seniors (55 and over), groups of 10 or more | $10 Valentine Members, children under 18, students with ID, military personnel | Free SNAP recipients with EBT card (up to 4 individuals)* | Free",
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://rvamag.com/category/events",
+            "excerpts": [
+              "Stay in the know about the latest happenings and must-attend events in Richmond, VA. Our Events Calendar provides comprehensive coverage of festivals,"
+            ],
+            "title": "Our upcoming Events Calendar in Richmond, VA - RVA Mag"
+          },
+          {
+            "url": "https://richmond.com/events/",
+            "excerpts": [
+              "Find local Richmond events, festivals, concerts, our top picks, movies and much more. Find events ... Event Calendar \u00b7 Arts & Theatre \u00b7 Movies & TV \u00b7 Music"
+            ],
+            "title": "Richmond Events"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "emotional_job_to_be_done.situation",
+        "reasoning": "The most relevant passages establish a foundation that arts and culture are used to tell the city\u2019s stories and to strengthen connections across diverse communities. This directly supports the idea that a last-minute community arts pop-up in a neighborhood should be discoverable within a city-facing arts ecosystem and framed as part of a broader storytelling and cultural-sharing effort. The excerpts that describe the city\u2019s messaging about telling its stories and using the arts to reflect and connect disparate communities provide the rationale for why a resident-focused discovery tool for pop-ups would be valuable and trustworthy within Richmond\u2019s cultural landscape. Next, practical sources about events calendars and local arts listings show how such a discovery tool would function in practice, demonstrating existing infrastructure for discovering arts events in Richmond and supporting the feasibility of aggregating and presenting last-minute pop-ups. These calendars and event platforms illustrate the mechanisms by which a community group could share a pop-up and residents could discover it, aligning with the JTBD need for a centralized, current, and trustworthy discovery place. Supporting context about equity and city pillars offers legitimacy for including a diverse range of stories and events, which is compatible with prioritizing neighborhood-level storytelling and inclusive discovery. Finally, open data and portal references complement the technical feasibility and openness of data about city events, though they are somewhat less directly tied to the narrative and discovery focus of the specific situation. In short, the most relevant evidence centers on storytelling through arts in Richmond, the emphasis on community connectivity, and practical, regularly updated event discovery resources, all of which align with a last-minute arts pop-up discovery scenario in a neighborhood like Church Hill.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city.",
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including"
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://www.vpm.org/artsline",
+            "excerpts": [
+              "Listen for featured events around Central Virginia every day on VPM News 88.9, and VPM Music 93.1 and 107.3 FM. Events featured in Artsline are sometimes"
+            ],
+            "title": "Artsline - VPM.org"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://hdp-ca-prod-app-rchm-letstalk-files.s3.ca-central-1.amazonaws.com/8217/5511/7442/RAS_RTC_Att_1-Jul_7-lo_res.pdf",
+            "excerpts": [
+              "Work towards arts and cultural infrastructure and programming that is equitably available and accessible to under-represented and equity-deserving groups. 3."
+            ],
+            "title": "[PDF] richmond arts strategy update - AWS"
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Launched the RVAgreen 2050 planning process to plan toward equity-centered climate action and resilience in the formative next decades of our city's history;"
+            ],
+            "title": "Richmond's Equity Agenda - RVA.gov"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "emotional_job_to_be_done.current_workaround",
+        "reasoning": "The fine-grained field value describes a workaround around finding arts and cultural events: direct messaging organizers, word-of-mouth, and trusted curators, or choosing not to attend if information is uncertain. Excerpts that describe centralized event calendars and discovery tools support the notion that discovery relies on organized information channels beyond informal word-of-mouth. Specifically, an events calendar and discovery platforms (such as a calendar of Richmond CultureWorks and related arts listings) illustrate structured ways audiences find events, which is relevant for evaluating current workarounds and alternatives. Excerpts that discuss open data portals and equity-focused strategies provide context for potential, more formalized discovery mechanisms businesses or citizens could rely on, but they do not confirm the exact workaround. Excerpts that describe broader pillars about telling Richmond\u2019s stories and arts initiatives help frame the ecosystem in which such workarounds exist, though they do not directly confirm the workaround in focus. Overall, the most relevant passages describe centralized or curated event discovery channels, while explicit confirmation of the stated workaround (DMs, word-of-mouth, or curated sources) is not present in these excerpts.",
+        "citations": [
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://www.vpm.org/artsline",
+            "excerpts": [
+              "Listen for featured events around Central Virginia every day on VPM News 88.9, and VPM Music 93.1 and 107.3 FM. Events featured in Artsline are sometimes"
+            ],
+            "title": "Artsline - VPM.org"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.rva.gov/mayors-office/pillars",
+            "excerpts": [
+              "A city that tells its stories (and tells the truth about its past). Make Richmond a national model for telling the truth about its own history \u2014 including",
+              "Section Title: Mayor's Office > ... > A city that tells its stories (and tells the truth about its past)\nContent:\nMake Richmond a national model for telling the truth about its own history \u2014 including slavery, racism, and struggles for Black empowerment since the city\u2019s founding. Use the arts as a vehicle for telling these stories and for strengthening connections across the different cultures found in our city."
+            ],
+            "title": "Pillars | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://hdp-ca-prod-app-rchm-letstalk-files.s3.ca-central-1.amazonaws.com/8217/5511/7442/RAS_RTC_Att_1-Jul_7-lo_res.pdf",
+            "excerpts": [
+              "Work towards arts and cultural infrastructure and programming that is equitably available and accessible to under-represented and equity-deserving groups. 3."
+            ],
+            "title": "[PDF] richmond arts strategy update - AWS"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Launched the RVAgreen 2050 planning process to plan toward equity-centered climate action and resilience in the formative next decades of our city's history;"
+            ],
+            "title": "Richmond's Equity Agenda - RVA.gov"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "user_questions.justification",
+        "reasoning": "To justify building a user-centric, inclusive event-discovery tool for Richmond, evidence that the city pursues equity in planning and access is most pertinent. An excerpt describing an equity-centered agenda shows a policy and community emphasis on fairness and targeted outreach, which underpins the need to identify underserved groups and tailor features to them. Another excerpt emphasizes the city\u2019s storytelling pillar, indicating the importance of diverse narratives and authentic representation in how Richmond is portrayed and communicated, which informs the product\u2019s positioning and outreach strategy. Additional excerpts highlighting open data portals demonstrate a commitment to making data publicly accessible, which supports the feasibility of creating a transparent, inclusive Discover tool that aggregates information from public data sources and lowers barriers to entry for non-dominant information channels. Together, these sources justify prioritizing audience segmentation beyond downtown-focused audiences, emphasizing equity, accessibility, and credible, tellable city stories as core design and outreach levers. Supporting context about the current event ecosystem (downtown calendars and media coverage) provides framing for identifying gaps and potential blind spots to avoid, reinforcing the need for a broader, neighborhood- and community-oriented approach that goes beyond high-profile venues and downtown-centric feeds. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/rvaequity",
+            "excerpts": [
+              "Launched the RVAgreen 2050 planning process to plan toward equity-centered climate action and resilience in the formative next decades of our city's history;"
+            ],
+            "title": "Richmond's Equity Agenda - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/information-technology/open-data-portal",
+            "excerpts": [
+              "The City of Richmond's Open Data Portal provides data to the public in an open format with no fee, legal encumbrance, or registration requirement."
+            ],
+            "title": "Open Data Portal | Richmond"
+          },
+          {
+            "url": "https://data.richmondgov.com/",
+            "excerpts": [
+              "This portal will serve as a new way for the citizens of Richmond to access, interpret, and interact with data about their city. Well-Managed Government."
+            ],
+            "title": "Richmond Open Data Portal"
+          },
+          {
+            "url": "https://www.vpm.org/news/2026-03-26/danny-avula-thriving-rva-pillars-sotc-diamond-district-allianz",
+            "excerpts": [
+              "Avula said his favorite pillar for his future vision of Richmond is plans to ensure Virginia's capital both continues to tell its own stories"
+            ],
+            "title": "Richmond Mayor Avula hosts format-breaking State of the City"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, places, issues and events in the metro region."
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://venturerichmond.com/holidays/",
+            "excerpts": [
+              "Have a Holiday event coming up in Downtown Richmond? Add it to our calendar! Submit Your Downtown Event To the Calendar. Downtown Holiday Fun on Social Media."
+            ],
+            "title": "Downtown Richmond Holiday Events"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "functional_job_to_be_done.situation",
+        "reasoning": "The midweek situation in this JTBD is anchored in the need to discover arts and cultural events in Richmond, VA. Excerpts describing the Richmond events calendar and centralized discovery of local arts/cultural events directly support the idea that users in a midweek context would benefit from a single place to find happenings. Specifically, passages that reference a comprehensive calendar for events in Richmond, and sources that aggregate local arts and culture listings, map onto the requirement to aggregate Richmond\u2019s arts events into one discoverable place. The Downtown Richmond events and RVA-related event calendars imply data sources and design considerations for a midweek discovery experience, including which venues, types of events (arts, culture, festivals), and how frequently calendars are updated. Excerpts that discuss ongoing or regularly updated calendars (e.g., CultureWorks calendar, VisitRichmondVA events, Richmond events aggregators) reinforce the need for a centralized, current feed of events to support a midweek user who wants timely information. In sum, the most relevant excerpts provide concrete examples of Richmond event calendars and discovery platforms, offering evidence for data sources, structure (calendar-style), and the type of content a midweek JTBD would surface. Less directly supportive excerpts still offer context about what kind of events and venues exist in Richmond, contributing to a fuller picture of what should be included in the centralized discovery tool.",
+        "citations": [
+          {
+            "url": "https://www.visitrichmondva.com/events/",
+            "excerpts": [
+              "Find information on special events that are happening in and around Richmond, VA. Attend local festivals all year long with our complete calendar."
+            ],
+            "title": "Calendar of Events in Richmond | Things To Do"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/",
+            "excerpts": [
+              "Downtown Event Calendar \u00b7 Free Events and Activities \u00b7 Things to Do this Weekend \u00b7 Fun Things to Do with Kids \u00b7 Venture Richmond Events \u00b7 #downtownrva \u00b7 #"
+            ],
+            "title": "Downtown Richmond Events"
+          },
+          {
+            "url": "https://richmond.com/events/",
+            "excerpts": [
+              "Find local Richmond events, festivals, concerts, our top picks, movies and much more. Find events ... Event Calendar \u00b7 Arts & Theatre \u00b7 Movies & TV \u00b7 Music"
+            ],
+            "title": "Richmond Events"
+          },
+          {
+            "url": "https://rvamag.com/category/events",
+            "excerpts": [
+              "Stay in the know about the latest happenings and must-attend events in Richmond, VA. Our Events Calendar provides comprehensive coverage of festivals,"
+            ],
+            "title": "Our upcoming Events Calendar in Richmond, VA - RVA Mag"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT.",
+              "Adults | $12 Seniors (55 and over), groups of 10 or more | $10 Valentine Members, children under 18, students with ID, military personnel | Free SNAP recipients with EBT card (up to 4 individuals)* | Free"
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "emotional_job_to_be_done.outcome",
+        "reasoning": "The goal is to invite friends without worrying about hidden costs or accessibility gaps. This requires a platform that provides comprehensive and transparent event information. Excerpts mention event calendars and cultural event listings in Richmond, which are foundational to discovering events. One excerpt specifically highlights the importance of equitable availability and accessibility of arts and cultural infrastructure and programming for under-represented groups, directly addressing the 'accessibility gaps' concern. Another mentions various cultural celebrations and events, suggesting a breadth of offerings that would be relevant for inviting friends. Finally, an excerpt detailing events for a specific date includes event details like time and location, which are crucial for planning and avoiding hidden costs or logistical issues.",
+        "citations": [
+          {
+            "url": "https://calendar.richmondcultureworks.org/",
+            "excerpts": [
+              "Richmond CultureWorks events updated every day. Powered by Localist Event Calendar Software. Richmond CultureWorks events updated every day. Powered by Localist Event Calendar ... Submit an event. A DECADE OF CHAMPIONING ARTS + CULTURE EVERY DAY. CONTACT."
+            ],
+            "title": "Richmond CultureWorks: Events Calendar"
+          },
+          {
+            "url": "https://hdp-ca-prod-app-rchm-letstalk-files.s3.ca-central-1.amazonaws.com/8217/5511/7442/RAS_RTC_Att_1-Jul_7-lo_res.pdf",
+            "excerpts": [
+              "Work towards arts and cultural infrastructure and programming that is equitably available and accessible to under-represented and equity-deserving groups. 3."
+            ],
+            "title": "[PDF] richmond arts strategy update - AWS"
+          },
+          {
+            "url": "https://venturerichmond.com/",
+            "excerpts": [
+              "Summer concert series, street festivals, cultural celebrations and more! Find out what's happening in Downtown Richmond all year long when you explore these RVA"
+            ],
+            "title": "Venture Richmond: Welcome to Downtown Richmond!"
+          },
+          {
+            "url": "https://www.styleweekly.com/events/",
+            "excerpts": [
+              "Style Weekly provides insightful and tenacious coverage of the arts, culture and food scenes of Richmond, Va., illuminating diverse and interesting people, Events for April 1, 2026 ; Games from Around the World \u00b7 12:00 pm. Virginia Museum of History & Culture ; Civil War Espionage \u00b7 12:00 pm. American Civil War Museum"
+            ],
+            "title": "Events for April 1, 2026 - Style Weekly"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "executive_summary": {
+          "type": "string",
+          "description": "A high-level summary of the Jobs To Be Done analysis for the 'vecina' project, highlighting the key user needs and the critical open questions that need to be addressed for the project's success in Richmond, VA."
+        },
+        "project_background": {
+          "type": "object",
+          "properties": {
+            "project_name": {
+              "type": "string",
+              "description": "The name of the project, which is 'vecina'."
+            },
+            "problem_statement": {
+              "type": "string",
+              "description": "The core problem the project aims to solve: aggregating Richmond's arts events into one discoverable place."
+            },
+            "project_description": {
+              "type": "string",
+              "description": "A brief description of the project as a community-focused arts and cultural event discovery tool."
+            },
+            "city_pillar_alignment": {
+              "type": "string",
+              "description": "The City of Richmond pillar the project aligns with, specifically 'City That Tells Its Stories'."
+            }
+          },
+          "required": [
+            "project_name",
+            "problem_statement",
+            "project_description",
+            "city_pillar_alignment"
+          ],
+          "additionalProperties": false
+        },
+        "functional_job_to_be_done": {
+          "type": "object",
+          "properties": {
+            "situation": {
+              "type": "string",
+              "description": "The context or situation the user is in."
+            },
+            "persona": {
+              "type": "string",
+              "description": "The user persona, e.g., 'a new resident in Richmond'."
+            },
+            "motivation": {
+              "type": "string",
+              "description": "The user's core motivation or goal."
+            },
+            "outcome": {
+              "type": "string",
+              "description": "The desired outcome for the user."
+            },
+            "current_workaround": {
+              "type": "string",
+              "description": "The current, often inefficient, way the user achieves this outcome."
+            },
+            "core_pain": {
+              "type": "string",
+              "description": "The primary pain point or frustration with the current workaround."
+            }
+          },
+          "required": [
+            "situation",
+            "persona",
+            "motivation",
+            "outcome",
+            "current_workaround",
+            "core_pain"
+          ],
+          "additionalProperties": false
+        },
+        "emotional_job_to_be_done": {
+          "type": "object",
+          "properties": {
+            "situation": {
+              "type": "string",
+              "description": "The context or situation the user is in."
+            },
+            "persona": {
+              "type": "string",
+              "description": "The user persona, e.g., 'a lifelong Richmond resident'."
+            },
+            "motivation": {
+              "type": "string",
+              "description": "The user's core motivation or goal, focusing on emotional needs."
+            },
+            "outcome": {
+              "type": "string",
+              "description": "The desired emotional outcome for the user."
+            },
+            "current_workaround": {
+              "type": "string",
+              "description": "The current, often inefficient, way the user achieves this outcome."
+            },
+            "core_pain": {
+              "type": "string",
+              "description": "The primary emotional pain point or frustration with the current workaround."
+            }
+          },
+          "required": [
+            "situation",
+            "persona",
+            "motivation",
+            "outcome",
+            "current_workaround",
+            "core_pain"
+          ],
+          "additionalProperties": false
+        },
+        "systems_job_to_be_done": {
+          "type": "object",
+          "properties": {
+            "situation": {
+              "type": "string",
+              "description": "The context or situation the user is in, typically from an organizer's perspective."
+            },
+            "persona": {
+              "type": "string",
+              "description": "The user persona, e.g., 'a small neighborhood event organizer'."
+            },
+            "motivation": {
+              "type": "string",
+              "description": "The user's core motivation or goal, focusing on systems or coordination needs."
+            },
+            "outcome": {
+              "type": "string",
+              "description": "The desired outcome for the user related to systems or coordination."
+            },
+            "current_workaround": {
+              "type": "string",
+              "description": "The current, often inefficient, way the user achieves this outcome."
+            },
+            "core_pain": {
+              "type": "string",
+              "description": "The primary systems-level pain point or frustration with the current workaround."
+            }
+          },
+          "required": [
+            "situation",
+            "persona",
+            "motivation",
+            "outcome",
+            "current_workaround",
+            "core_pain"
+          ],
+          "additionalProperties": false
+        },
+        "data_questions": {
+          "type": "object",
+          "properties": {
+            "question": {
+              "type": "string",
+              "description": "The specific open question related to data."
+            },
+            "justification": {
+              "type": "string",
+              "description": "The reason why this question is important for the project's success."
+            }
+          },
+          "required": [
+            "question",
+            "justification"
+          ],
+          "additionalProperties": false
+        },
+        "user_questions": {
+          "type": "object",
+          "properties": {
+            "question": {
+              "type": "string",
+              "description": "The specific open question related to the project's end-users."
+            },
+            "justification": {
+              "type": "string",
+              "description": "The reason why this question is important for building a user-centric tool."
+            }
+          },
+          "required": [
+            "question",
+            "justification"
+          ],
+          "additionalProperties": false
+        },
+        "integration_questions": {
+          "type": "object",
+          "properties": {
+            "question": {
+              "type": "string",
+              "description": "The specific open question related to technical integration with other systems."
+            },
+            "justification": {
+              "type": "string",
+              "description": "The reason why this question is important for technical feasibility and collaboration."
+            }
+          },
+          "required": [
+            "question",
+            "justification"
+          ],
+          "additionalProperties": false
+        },
+        "equity_questions": {
+          "type": "object",
+          "properties": {
+            "question": {
+              "type": "string",
+              "description": "The specific open question related to equity, access, and inclusion."
+            },
+            "justification": {
+              "type": "string",
+              "description": "The reason why this question is important for ensuring the tool serves all of Richmond's communities."
+            }
+          },
+          "required": [
+            "question",
+            "justification"
+          ],
+          "additionalProperties": false
+        },
+        "prior_art_questions": {
+          "type": "object",
+          "properties": {
+            "question": {
+              "type": "string",
+              "description": "The specific open question related to existing solutions and competitors."
+            },
+            "justification": {
+              "type": "string",
+              "description": "The reason why this question is important for understanding the market and finding a unique value proposition."
+            }
+          },
+          "required": [
+            "question",
+            "justification"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "executive_summary",
+        "project_background",
+        "functional_job_to_be_done",
+        "emotional_job_to_be_done",
+        "systems_job_to_be_done",
+        "data_questions",
+        "user_questions",
+        "integration_questions",
+        "equity_questions",
+        "prior_art_questions"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "jtbd_analysis.md"
+  }
+}

@@ -1,0 +1,1866 @@
+{
+  "run_id": "trun_1848795af0f24b809aacbc719e854cbf",
+  "interaction_id": "trun_1848795af0f24b809aacbc719e854cbf",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b809aacbc719e854cbf",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "emotional_trust_persona_pain_points",
+        "reasoning": "The fine-grained field value centers on a resident from a historically marginalized community seeking a trusted, safe way to share their story with privacy controls, framed by a history of inequities and barriers to engagement. It also emphasizes equitable engagement practices that meet people where they are and address accessibility, language, and adoption challenges. Excerpts that discuss the Jackson Ward/I-95/I-64 historical impact demonstrate the explicit link between past harms and current distrust in government-led engagement. References to equitable outreach, meeting people where they are, and continuous engagement map directly to the need for trauma-informed, privacy-conscious storytelling pathways and sustained trust-building. Documents outlining equity guidelines for Richmond Connects, public participation practices, and digital opportunity plans illustrate the broader structural context that would enable a platform designed to address these specific pain points (privacy controls, accessibility, trauma-informed consent, and trusted participation). Additional excerpts detailing accessibility barriers (LEP, device costs, digital literacy) reinforce the necessity for inclusive design considerations in a citizen storytelling platform. Supporting items about public engagement methods (teleconference participation, open meetings) provide context for participation modalities, though they are less about privacy controls and narrative ownership. Overall, these excerpts collectively support the components of distrust rooted in history, the demand for equitable and continuous engagement, and the need for accessible, privacy-respecting storytelling mechanisms for marginalized communities.",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2025-03/R300_Amended_RRHA_lowres_20250321.pdf",
+            "excerpts": [
+              "In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64.",
+              "Equity: In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64. In capping the highway and increasing\naccess to North Jackson Ward, this Big Move seeks\nto reconcile the past by re-knitting the community.",
+              "Mar 21, 2025 \u00b7 Richmond 300 envisions an equitable, sustainable and beautiful Richmond that ensures a high quality of life for all existing and future residents. To",
+              "Mar 21, 2025 \u2014 Richmond 300: A Guide for Growth is a visionary document that seeks to expand equity throughout the city and prioritizes impactful \u201cBig Moves\u201d that will forever"
+            ],
+            "title": "[PDF] A Guide for Growth - RVA.gov"
+          },
+          {
+            "url": "https://digitalcommons.odu.edu/context/history_fac_pubs/article/1053/viewcontent/Chiles_2022_ReenvisioningRichmond_sPastRaceReconciliationOCR.pdf",
+            "excerpts": [
+              "Richmond, Virginia, is more than the former Confederate capital: it is a city seeking to end its complicity with American racism."
+            ],
+            "title": "[PDF] Reenvisioning Richmond's Past: Race, Reconciliation, and Public ..."
+          },
+          {
+            "url": "https://www.dhcd.virginia.gov/sites/default/files/DocX/vati/dop-appendix-files/virginia-digital-opportunity-plan.pdf",
+            "excerpts": [
+              "Jan 9, 2024 \u2014 Sustainable program models are paramount to addressing broadband affordability and adoption in the long term beyond federal funding investments. 2. Addresses an",
+              "s\n**Language and Literacy Limitations** **|** While this group experiences the\nsame general barriers as all covered populations around availability and\naffordability, stakeholders report that their limited language skills mean a\ngeneral lack of awareness around programs and resources that can help\n",
+              "Put simply, covered households lack the time to engage\nonline and develop new digital skills. The Census Bureau reports that those who identify as\nmembers of a covered household are more likely to hold multiple jobs, accounting for additional\nhours added to the workweek.",
+              "**Cost of Assistive Devices** **|** Stakeholder engagement highlighted that the\nprice of assistive devices required for digital engagement can be cost\nprohibitive, with many devices priced at more than $1,000."
+            ],
+            "title": "Virginia Digital Opportunity Plan"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have",
+              "Equitable outreach requires a more intensive approach\nthan meeting legally-required participation minimums. An\nequitable outreach program will meet people where they\nare and engage groups continuously through the planning\nprocess.",
+              "Participants most commonly identified a\nlack of services in Gilpin Court, Jackson Ward, and Manchester.",
+              "Feb 15, 2022 \u2014 This highway, now called I-95/64, irreparably destroyed much of the communities of Carver, Jackson. Ward, Navy Hill, and Shockoe Bottom. Page 22. Path to"
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement.",
+              "The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for"
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://www.congress.gov/crs-product/R46238",
+            "excerpts": [
+              "Jun 27, 2024 \u00b7 The Freedom of Information Act (FOIA) establishes a three-part system that requires federal agencies to disclose a large swath of government information to the"
+            ],
+            "title": "The Freedom of Information Act (FOIA): A Legal Overview"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/FullDocumentRVAgreenClimateEquityActionPlan2030.pdf",
+            "excerpts": [
+              "Jan 31, 2023 \u00b7 RVAgreen 2050 ... If we do not act, we will continue to see impacts to Richmonders that live in historically marginalized, excluded, and overlooked communities."
+            ],
+            "title": "[PDF] Climate Equity Action Plan 2030 - RVA.gov"
+          },
+          {
+            "url": "https://www.rvagreen2050.com/community-policy",
+            "excerpts": [
+              "Oct 30, 2025 \u2014 Our goal is to ensure that more diverse voices are heard , leading to more inclusive and representative outcomes for Richmond . Enhancing Policy Quality: When"
+            ],
+            "title": "Community Policy"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://virginiahumanities.org/wp-content/uploads/2023/11/Views_2023_web.pdf",
+            "excerpts": [
+              "Nov 10, 2023 \u2014 Richmond received a similar $1.3 million federal grant that same month, to study the impact of I-95 on Jackson Ward, a historically Black area of the city"
+            ],
+            "title": "Fall"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "historical_distrust_as_a_barrier",
+        "reasoning": "The excerpts directly describe the historical event: the construction of I-95/I-64 in the 1950s broke apart Jackson Ward, a thriving Black neighborhood, which is the core harm described in the field value. This supports the notion that discriminatory urban renewal harmed a historically significant Black community and eroded trust in government planning. Additional excerpts emphasize that past transportation decisions created injustices affecting people of color and other marginalized groups, reinforcing the barrier of historical distrust as a response to government-led planning. Related items discuss equity principles and outreach strategies designed to acknowledge and repair those harms, such as articulating equity guiding principles and advocating for more intense, continuous equitable outreach to meet communities where they are. Together, these excerpts connect the historical trauma to contemporary trust issues and to ongoing efforts to address equity in planning processes. ",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2025-03/R300_Amended_RRHA_lowres_20250321.pdf",
+            "excerpts": [
+              "In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64.",
+              "Equity: In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64. In capping the highway and increasing\naccess to North Jackson Ward, this Big Move seeks\nto reconcile the past by re-knitting the community."
+            ],
+            "title": "[PDF] A Guide for Growth - RVA.gov"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "Feb 11, 2024 \u00b7 Past transportation decisions have created injustices that have harmed people of color, low-income communities, and other marginalized groups of people."
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have",
+              "Equitable outreach requires a more intensive approach\nthan meeting legally-required participation minimums. An\nequitable outreach program will meet people where they\nare and engage groups continuously through the planning\nprocess."
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "public_comment_process_barriers",
+        "reasoning": "The most directly relevant content comes from excerpts that specify how public participation is conducted and constrained. Text describing teleconference options for public comment, limitations on how often one can speak (for example, speaking no more than four times per year, or once in a three-month period), and registration cutoffs before meetings directly map to procedural barriers and time/accessibility constraints mentioned in the field value. Related items that outline formal public participation processes, how feedback is gathered through multiple channels, and the push toward more digital engagement also illuminate time windows and accessibility considerations, which align with the time-and-accessibility barrier and the push for more asynchronous and repeated outreach. Contextual materials about equity-focused engagement and public participation plans support the psychological and trust dimensions by showing there are explicit efforts to include broader communities, which helps assess the perceived safety and trust aspects of the current process. Additional technical reports on public engagement toolkit and digital engagement reinforce how current formats may still be oriented toward synchronous, documentable channels rather than flexible, private, or trauma-informed storytelling channels that residents may prefer. Together, these excerpts provide a chain of evidence about procedural rules, access constraints, and the push to reform engagement to be more inclusive, which supports the finegrained field value\u2019s claims about barriers to participation and asynchronous, nuanced storytelling in Richmond. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/office-city-clerk/informational-meeting-guide",
+            "excerpts": [
+              "The public will have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take advantage of this option, must do so prior to 10:00 a.m., on the meeting date, by calling the Office of the City Clerk at (804) 646-7955 and selecting option 3.",
+              "An individual may appear before Council during the Public Comment Period no more than four times per year and no more than once within a three-month period.",
+              "Oct 24, 2024 \u2014 All Richmond City Council meetings are open to in-person participation . The public will have the option to provide their comments by teleconference/"
+            ],
+            "title": "Informational Meeting Guide | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement.",
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Two weeks is simply not enough time to\ncomment. Public engagement, particularly when so many people are distracted by the\npandemic and economic crisis, requires repeated communication and multiple forms of\noutreach, particularly when it comes to reaching those in the community who have\ntraditionally been less involved.",
+              "The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for"
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_pain_points_summary",
+        "reasoning": "The most relevant evidence speaks directly to how Richmond engages communities in ways that address the pain points in the field value. A line about development with continuous community engagement focused on meeting people where they are, listening to traditionally underrepresented communities, and compensating people for their time and knowledge aligns with reducing barriers to participation and validating lived experiences. The mention of feedback collected through over 30 community events and a multi-prong approach demonstrates a move away from single, one-off interactions toward ongoing, accessible outreach, which supports addressing asynchronous participation and fragmentation of feedback. Policy and equity guides that aim to empower communities and achieve equitable outreach by meeting people where they are and sustaining engagement over time echo the need for narrative-centric, privacy-conscious, and trust-building processes. References to RVA311 and public participation guides illustrate concrete channels and formats for citizen input, which are central to reframing public engagement from service requests to structured narrative collection. Finally, public engagement and digital engagement toolkits that shifted toward digital options during disruptions show recognition of the need to adapt to accessibility challenges, which ties into the broader digital divide and access considerations described in the field value. Taken together, these excerpts support the core themes of more inclusive, structured, and ongoing narrative collection and analysis than traditional synchronous formats, while also acknowledging trust and privacy concerns through equity-centered outreach.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "development, continuous community engagement focused on meeting\npeople where they were, listening to traditionally underrepresented\ncommunities, and compensating people for their time and knowledge.",
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement."
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have"
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen",
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "executive_summary",
+        "reasoning": "The most relevant excerpts directly address equitable outreach and inclusive engagement in Richmond planning contexts. One excerpt emphasizes that equitable outreach must meet people where they are and sustain engagement throughout the planning process, aligning with the executive summary\u2019s emphasis on reaching historically marginalized communities and overcoming participation barriers. Another excerpt defines equity in Richmond Connects through guiding principles, which underpins the claim that current practices inadequately serve all communities and require principled change. Additional excerpts detail structured public engagement and outreach practices, including calls for repeated, multi-channel outreach and the need to compensate community knowledge, which supports the idea that current channels are insufficient for nuanced, asynchronous storytelling. Content about public participation plans and information on RVA311 and public-comment processes illustrate concrete mechanisms that are currently limiting participation (registration windows, comment limits, teleconference options), matching the functional barriers described. References to the digital divide, affordability, language limitations, and adoption barriers further corroborate the emotional and practical hurdles residents face in engaging online or via traditional channels. A policy-oriented excerpt on climate equity and digital opportunity plans reinforces the cross-cutting equity theme, further supporting the notion that structural inequities shape who can participate and whose narratives are captured. Collectively, these excerpts substantiate the executive summary\u2019s core claims about functional and emotional barriers to sharing lived experiences for civic purposes, and they highlight the need for more accessible, privacy-respecting, and trauma-informed storytelling platforms.\u201d,",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Equitable outreach requires a more intensive approach\nthan meeting legally-required participation minimums. An\nequitable outreach program will meet people where they\nare and engage groups continuously through the planning\nprocess.",
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have"
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Two weeks is simply not enough time to\ncomment. Public engagement, particularly when so many people are distracted by the\npandemic and economic crisis, requires repeated communication and multiple forms of\noutreach, particularly when it comes to reaching those in the community who have\ntraditionally been less involved.",
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement."
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/FullDocumentRVAgreenClimateEquityActionPlan2030.pdf",
+            "excerpts": [
+              "Jan 31, 2023 \u00b7 RVAgreen 2050 ... If we do not act, we will continue to see impacts to Richmonders that live in historically marginalized, excluded, and overlooked communities."
+            ],
+            "title": "[PDF] Climate Equity Action Plan 2030 - RVA.gov"
+          },
+          {
+            "url": "https://virginiamercury.com/2024/09/17/richmond-city-council-wants-to-increase-internet-speeds-close-digital-divide/",
+            "excerpts": [
+              "People are not aware of these programs or do not trust them, according to Banks."
+            ],
+            "title": "Richmond City Council wants to increase internet speeds ..."
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "cross_cutting_equity_dimensions",
+        "reasoning": "The most relevant excerpts directly address equity principles and inclusive engagement in Richmond. A policy guide for Richmond Connects defines ten guiding principles for achieving equity, which provides the foundational framework for evaluating who is included or excluded in engagement processes. Equitable outreach guidance emphasizes meeting people where they are and maintaining continuous engagement with underrepresented groups, aligning with the need for ongoing, compensated, multilingual participation. Public engagement and outreach technical reports highlight the shift to digital and online options and the need for inclusive toolkit adaptations, which support asynchronous and accessible storytelling. Additional excerpts discussing digital opportunity plans and broadband affordability/availability reinforce the digital divide concerns and accessibility barriers that shape how residents can participate. Public participation planning documents illustrate how participation is structured and could influence trust and accessibility, which are central to building a trusted civic storytelling platform. Collectively, these pieces support the field value\u2019s claim that current engagement systems disproportionately represent certain groups and that a more inclusive, multilingual, accessible, and asynchronous approach is necessary to capture diverse narratives and build trust in governance.",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have",
+              "Equitable outreach requires a more intensive approach\nthan meeting legally-required participation minimums. An\nequitable outreach program will meet people where they\nare and engage groups continuously through the planning\nprocess."
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Two weeks is simply not enough time to\ncomment. Public engagement, particularly when so many people are distracted by the\npandemic and economic crisis, requires repeated communication and multiple forms of\noutreach, particularly when it comes to reaching those in the community who have\ntraditionally been less involved.",
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement."
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://www.dhcd.virginia.gov/sites/default/files/DocX/vati/dop-appendix-files/virginia-digital-opportunity-plan.pdf",
+            "excerpts": [
+              "s\n**Language and Literacy Limitations** **|** While this group experiences the\nsame general barriers as all covered populations around availability and\naffordability, stakeholders report that their limited language skills mean a\ngeneral lack of awareness around programs and resources that can help\n",
+              "Put simply, covered households lack the time to engage\nonline and develop new digital skills. The Census Bureau reports that those who identify as\nmembers of a covered household are more likely to hold multiple jobs, accounting for additional\nhours added to the workweek.",
+              "**Cost of Assistive Devices** **|** Stakeholder engagement highlighted that the\nprice of assistive devices required for digital engagement can be cost\nprohibitive, with many devices priced at more than $1,000."
+            ],
+            "title": "Virginia Digital Opportunity Plan"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "cost_of_the_status_quo",
+        "reasoning": "The most directly supporting pieces describe deliberate mitigation of the burdens created by the status quo. One excerpt notes a development approach that centers continuous community engagement, meeting people where they are, compensating participants for their time and knowledge, and aiming to listen to traditionally underrepresented communities. This speaks to acknowledging and reducing the time, financial, and participation costs borne by residents who currently face barriers to engagement. Another excerpt emphasizes equitable outreach that meets people where they are and maintains ongoing engagement through the planning process, which directly challenges the fragmentation and inequity of existing channels. Further, a piece discusses the need to design digital engagement tools and to overhaul public engagement approaches in light of digital barriers, implying that the status quo imposes additional costs on participation (e.g., time, access, literacy). Additional excerpts reference broad, multi-pronged outreach campaigns and the use of diverse modalities (events, media, teleconferences) to broaden access, reducing burnout and time lost to navigating restrictive systems. Other sources describe making public comment and digital participation more accessible (teleconference options, expanded channels), signaling concrete steps to alleviate limitations that contribute to inequitable data and decision-making. Collectively, these excerpts support the notion that the current feedback ecosystem imposes substantial burnout, time waste, and inequitable representation, while suggesting strategies that aim to lower these costs and improve inclusivity. For residents from historically harmed communities, the lack of trusted channels and the risk of retraumatization in public or time-constrained settings are highlighted as core costs that the status quo imposes, reinforcing the argument that current systems are costly in both emotional labor and data quality for governance. The cited parts show a pattern of recognizing these costs and proposing more accessible, equitable engagement mechanisms to alleviate them.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "development, continuous community engagement focused on meeting\npeople where they were, listening to traditionally underrepresented\ncommunities, and compensating people for their time and knowledge.",
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Equitable outreach requires a more intensive approach\nthan meeting legally-required participation minimums. An\nequitable outreach program will meet people where they\nare and engage groups continuously through the planning\nprocess.",
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have"
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement."
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "privacy_and_foia_concerns",
+        "reasoning": "The most relevant content directly addresses legal frameworks for information disclosure and FOIA-like concerns, which underpins residents\u2019 fear of their sensitive narratives becoming public records. The Freedom of Information Act overview clarifies the broad obligation to disclose information, which can chill residents from sharing personal or traumatic experiences if they fear loss of control over their data. Supporting privacy-centered concerns are passages describing how residents can participate in public processes (e.g., Public Comment Periods, teleconference options) and how these mechanisms enable or constrain what is shared in a public setting. Together, these excerpts illustrate the tension between civic participation and privacy protections, and why a trauma-informed, privacy-preserving platform would be needed to address identified pain points. The remaining excerpts offer contextual background on public engagement channels and accessibility (like RVA311 and online participation options) but do not directly address the core privacy/control issues raised by the field value as clearly as the top excerpts do.",
+        "citations": [
+          {
+            "url": "https://www.congress.gov/crs-product/R46238",
+            "excerpts": [
+              "Jun 27, 2024 \u00b7 The Freedom of Information Act (FOIA) establishes a three-part system that requires federal agencies to disclose a large swath of government information to the"
+            ],
+            "title": "The Freedom of Information Act (FOIA): A Legal Overview"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/informational-meeting-guide",
+            "excerpts": [
+              "Oct 24, 2024 \u2014 All Richmond City Council meetings are open to in-person participation . The public will have the option to provide their comments by teleconference/",
+              "The public will have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take advantage of this option, must do so prior to 10:00 a.m., on the meeting date, by calling the Office of the City Clerk at (804) 646-7955 and selecting option 3."
+            ],
+            "title": "Informational Meeting Guide | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "rva311_limitations",
+        "reasoning": "The most relevant excerpts directly describe RVA311's function and scope. RVA311 is described as a service-oriented channel aimed at handling non-emergency service needs and empowering residents to get those needs met, which supports the idea that RVA311 operates as a transactional request system rather than a narrative storytelling platform. This aligns with the finegrained field value\u2019s central claim that RVA311\u2019s design prioritizes discrete service tickets over capturing the broader context or rich, qualitative narratives. Related passages discuss how information is communicated and how the public can participate, including public comment options and informational meeting guidelines, illustrating the existing pathways for input and feedback but not an integrated narrative/qualitative storytelling flow. These excerpts collectively support the view that RVA311\u2019s core design is transactional and not optimized for the enriched, multimedia storytelling described in the project outline. Specific phrases such as RVA311\u2019s mission to empower residents to get non-emergency service needs met corroborate the transactional framing, while notes on public participation channels (teleconferencing for meetings, informational meeting guidelines) illustrate alternative, more formal engagement methods that are not narrative in nature. The combination of these points demonstrates a misalignment between RVA311\u2019s primary design and the storytelling needs highlighted in the finegrained field value, supporting the characterization of RVA311 as limited for narrative, qualitative storytelling and policy-relevance analysis within the civic storytelling context.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/informational-meeting-guide",
+            "excerpts": [
+              "Oct 24, 2024 \u2014 All Richmond City Council meetings are open to in-person participation . The public will have the option to provide their comments by teleconference/",
+              "An individual may appear before Council during the Public Comment Period no more than four times per year and no more than once within a three-month period.",
+              "The public will have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take advantage of this option, must do so prior to 10:00 a.m., on the meeting date, by calling the Office of the City Clerk at (804) 646-7955 and selecting option 3."
+            ],
+            "title": "Informational Meeting Guide | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://www.instagram.com/p/DTNdneiATSy/",
+            "excerpts": [
+              "richmondva.legistar.com/Calendar PUBLIC COMMENT General Public Comment Sign up by Noon on day of meeting. Limit 10 speakers per meeting @ 3 minutes each."
+            ],
+            "title": "The City of Richmond is pleased to announce the hiring ..."
+          },
+          {
+            "url": "https://www.instagram.com/reel/DKuY10EOwEp/",
+            "excerpts": [
+              "richmondva.legistar.com/Calendar PUBLIC COMMENT General Public Comment Sign up by Noon on day of meeting. Limit 10 speakers per meeting @ 3 minutes each."
+            ],
+            "title": "On Monday, the Richmond City Council voted to appoint ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digital_divide_pain_points",
+        "reasoning": "- Direct affordability and cost concerns are central: the Virginia Digital Opportunity Plan emphasizes affordability as a key obstacle and discusses the need to address costs beyond just providing service, which directly supports the affordability_issue component. It also notes that even when affordability programs exist, awareness and trust are barriers to adoption, aligning with the field value\u2019s emphasis on adoption obstacles due to awareness/trust. - Device-related barriers are explicitly acknowledged, with mention of costly assistive devices (often exceeding $1,000) creating financial barriers for people with disabilities, matching the device_gap aspect of the field value. - The field value highlights that mobile-only access constrains a broad set of digital tasks; the plan's emphasis on households relying on mobile devices for internet access supports the identified device and access limitations. - Digital literacy and time constraints are cited as barriers in the plan, including language/literacy limitations and the reality that covered households (e.g., low-income, seniors) may lack time to develop new digital skills, which corroborates the digital_literacy_gap portion. - The context of equity-focused planning and public engagement in digital divide discussions (e.g., references to PlanRVA and equity-oriented policy guides) provides broader support for understanding who is affected and how historical inequities shape current access and trust issues. - Supplemental context notes about adoption gaps and trust in programs among residents (e.g., lack of awareness or trust in programs) reinforce the need for accessible, trusted pathways for sharing stories online, which aligns with the JTBD emphasis on inclusive, accessible civic tech solutions.",
+        "citations": [
+          {
+            "url": "https://www.dhcd.virginia.gov/sites/default/files/DocX/vati/dop-appendix-files/virginia-digital-opportunity-plan.pdf",
+            "excerpts": [
+              "Jan 9, 2024 \u2014 Sustainable program models are paramount to addressing broadband affordability and adoption in the long term beyond federal funding investments. 2. Addresses an",
+              "Put simply, covered households lack the time to engage\nonline and develop new digital skills. The Census Bureau reports that those who identify as\nmembers of a covered household are more likely to hold multiple jobs, accounting for additional\nhours added to the workweek.",
+              "**Cost of Assistive Devices** **|** Stakeholder engagement highlighted that the\nprice of assistive devices required for digital engagement can be cost\nprohibitive, with many devices priced at more than $1,000.",
+              "s\n**Language and Literacy Limitations** **|** While this group experiences the\nsame general barriers as all covered populations around availability and\naffordability, stakeholders report that their limited language skills mean a\ngeneral lack of awareness around programs and resources that can help\n"
+            ],
+            "title": "Virginia Digital Opportunity Plan"
+          },
+          {
+            "url": "https://virginiamercury.com/2024/09/17/richmond-city-council-wants-to-increase-internet-speeds-close-digital-divide/",
+            "excerpts": [
+              "\u201cOffering affordable or even free internet service alone is not enough to close the digital divide,\u201d Banks stated. \u201cThe underlying barriers that prevent people from adopting the technology must also be addressed.\u201d",
+              "People are not aware of these programs or do not trust them, according to Banks.",
+              "Sep 17, 2024 \u2014 Richmond City Council recently adopted a resolution to declare high-speed internet a public necessity for all Richmond residents.",
+              "The letter asserts there is 100% access to broadband services throughout the city, but the issue is a lack of adoption with programs that reduce service costs."
+            ],
+            "title": "Richmond City Council wants to increase internet speeds ..."
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/FullDocumentRVAgreenClimateEquityActionPlan2030.pdf",
+            "excerpts": [
+              "Jan 31, 2023 \u00b7 RVAgreen 2050 ... If we do not act, we will continue to see impacts to Richmonders that live in historically marginalized, excluded, and overlooked communities."
+            ],
+            "title": "[PDF] Climate Equity Action Plan 2030 - RVA.gov"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "current_feedback_channels_analysis",
+        "reasoning": "The analysis centers on specific channels and their ability to capture narrative, place-based feedback. RVA311 is described in the excerpts as a mechanism with a primary function of handling non-narrative, transactional service requests, which aligns with the field value\u2019s statement that RVA311 is not structured to capture qualitative, narrative-based feedback and lacks suitable fields for stories or multi-media submissions. This directly supports the identified limitation for RVA311. The City Council public-comment channel is discussed via the Informational Meeting Guide, which states that an individual may appear only a limited number of times per year, and within a narrow window, creating access barriers for ongoing, nuanced storytelling and asynchronous contributions; this corroborates the field value\u2019s claim that formal public comment structures are time-boxed and exclude many residents from participating regularly. For outreach methods, the notes about surveys and pop-ups being effective for priorities but not structured to preserve place-based, multi-modal narratives provide a partial support for the field\u2019s assertion that traditional surveys and pop-ups, while useful, fail to capture the full qualitative richness needed for the project\u2019s governance and planning needs. The combined evidence from these excerpts shows a pattern: existing channels provide some level of feedback but are limited in narrative depth, consistency, and accessibility for historically marginalized groups, which motivates the need for a structured, multi-modal, place-aware storytelling platform as described in the project concept. The reasoning ties each channel\u2019s described limitations to the need for structured narrative data with location and topic tagging, as outlined in the fine-grained field value.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "engagement_lessons_from_richmond_initiatives",
+        "reasoning": "The most pertinent excerpts collectively describe a framework of engagement that aligns with the field value. One excerpt states that equitable outreach must be more intensive and continuous, explicitly arguing for meeting people where they are and engaging groups throughout the planning process, which directly matches the core claim about sustained, inclusive outreach. Another excerpt presents a formal Path to Equity policy guide that establishes guiding principles for equity, which supports the notion of a principled, continuous outreach approach rather than one-off efforts. A third excerpt defines equity in a city planning context as empowering communities, reinforcing the need to treat local communities as ongoing partners rather than passive recipients. A fourth excerpt highlights concrete outreach strategies like paid Community Ambassadors, reflecting compensation and genuine partnership with residents. A fifth excerpt describes a broad, multi-channel outreach effort (paid ambassadors, telephone town halls, social media) and a high-volume engagement approach (over 30 community events and pop-ups), directly illustrating the multi-channel, proactive engagement model. Surrounding material mentions the Public Engagement & Outreach toolkit and pandemic-era shifts to digital engagement, which contextualize the operationalization of outreach rather than contradict it, and call out the need to adapt methods to sustain participation. Lastly, references to historical harms in Jackson Ward and reconciliation-oriented planning grounds the trust-building aspect in concrete historical awareness, reinforcing the importance of acknowledging past harms as part of sustained outreach. Taken together, these excerpts substantiate the finegrained field value\u2019s emphasis on continuous, compensated, multi-channel engagement grounded in equity and historical context.",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Equitable outreach requires a more intensive approach\nthan meeting legally-required participation minimums. An\nequitable outreach program will meet people where they\nare and engage groups continuously through the planning\nprocess.",
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have"
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          },
+          {
+            "url": "https://www.rvagreen2050.com/sustainability-guide",
+            "excerpts": [
+              "Dec 28, 2024 \u2014 The Path to Equity Policy Guide established 3 guiding principles and 10 equity factors, which will guide the Richmond Connects process. Richmond Connects is"
+            ],
+            "title": "Sustainability Guide \u2014 RVAgreen 2050"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "Paid\nCommunity\nAmbassadors",
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach",
+              "Feb 11, 2024 \u2014 In Richmond Connects, \u201cequity in transportation\u201d means removing barriers and increasing access to opportunities, so that no group faces more barriers to",
+              "development, continuous community engagement focused on meeting\npeople where they were, listening to traditionally underrepresented\ncommunities, and compensating people for their time and knowledge."
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement."
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-03/R300_Amended_RRHA_lowres_20250321.pdf",
+            "excerpts": [
+              "In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64."
+            ],
+            "title": "[PDF] A Guide for Growth - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "functional_persona_pain_points",
+        "reasoning": "The most direct evidence comes from public engagement and outreach analyses that discuss how engagement has been organized and how it was affected by the pandemic, as well as the need for improved tools for narrative capture beyond surveys. For example, discussions of a Public Engagement & Outreach Toolkit, digital outreach adjustments during COVID, and the critique that engagement should preserve place-based, multi-modal narratives all support the claim that current channels are not well-suited for asynchronous, nuanced storytelling. References to continuous, inclusive community engagement and meeting people where they are reinforce the identified pain points around access, timing, and equity. The inclusion of equitable outreach principles and targeted outreach guidance further corroborates the need to address language, accessibility, and trust barriers. Citations that explicitly address digital divide, adoption barriers, and device costs provide evidence for the technology-related constraints. A few excerpts also point to actual public-comment mechanics (teleconference options, open participation guidelines) that illustrate practical workarounds and their limitations, aligning with the workforce\u2019s cost of status quo. Taken together, these excerpts substantiate each pain point described in the field value and illustrate why a narrative-focused civic storytelling platform would address gaps in current channels.",
+        "citations": [
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement.",
+              "Two weeks is simply not enough time to\ncomment. Public engagement, particularly when so many people are distracted by the\npandemic and economic crisis, requires repeated communication and multiple forms of\noutreach, particularly when it comes to reaching those in the community who have\ntraditionally been less involved.",
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for"
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "development, continuous community engagement focused on meeting\npeople where they were, listening to traditionally underrepresented\ncommunities, and compensating people for their time and knowledge.",
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Equitable outreach requires a more intensive approach\nthan meeting legally-required participation minimums. An\nequitable outreach program will meet people where they\nare and engage groups continuously through the planning\nprocess.",
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have"
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          },
+          {
+            "url": "https://www.dhcd.virginia.gov/sites/default/files/DocX/vati/dop-appendix-files/virginia-digital-opportunity-plan.pdf",
+            "excerpts": [
+              "Jan 9, 2024 \u2014 Sustainable program models are paramount to addressing broadband affordability and adoption in the long term beyond federal funding investments. 2. Addresses an",
+              "s\n**Language and Literacy Limitations** **|** While this group experiences the\nsame general barriers as all covered populations around availability and\naffordability, stakeholders report that their limited language skills mean a\ngeneral lack of awareness around programs and resources that can help\n",
+              "**Cost of Assistive Devices** **|** Stakeholder engagement highlighted that the\nprice of assistive devices required for digital engagement can be cost\nprohibitive, with many devices priced at more than $1,000."
+            ],
+            "title": "Virginia Digital Opportunity Plan"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your"
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/informational-meeting-guide",
+            "excerpts": [
+              "An individual may appear before Council during the Public Comment Period no more than four times per year and no more than once within a three-month period.",
+              "The public will have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take advantage of this option, must do so prior to 10:00 a.m., on the meeting date, by calling the Office of the City Clerk at (804) 646-7955 and selecting option 3."
+            ],
+            "title": "Informational Meeting Guide | Richmond"
+          },
+          {
+            "url": "https://www.richmondfed.org/publications/research/econ_focus/2020/q2-3/feature2",
+            "excerpts": [
+              "Feb 3, 2020 \u2014 Digital connections have become more important in a time of social distancing, but rural broadband access still lags behind cities. By Tim Sablik."
+            ],
+            "title": "Closing the Digital Divide | Richmond Fed"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2022-11/City%20Center%20RFI%20-%20FINAL%2011.3.22.pdf",
+            "excerpts": [
+              "Nov 3, 2022 \u2014 To the west of the Convention Center is historic. Jackson Ward and Gilpin Court north of I-95/64 . To the south is the State Capitol and other State"
+            ],
+            "title": "CITY CENTER Richmond, VA"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_pain_points_summary.1",
+        "reasoning": "The target field describes erosion of trust from historical harms and a distrust of government engagement. Excerpt that discusses listening to traditionally underrepresented communities and compensating people for their time demonstrates concrete, trust-building engagement practices that acknowledge lived experiences and value residents\u2019 contributions. Excerpt that defines equity as empowerment of communities provides a normative basis for repairing trust by ensuring fair treatment and inclusion. Excerpt describing RVA311\u2019s mission to empower residents to get non-emergency needs met underscores the role of accessible, trusted pathways to engage with city services. Excerpt detailing outreach at community events and a multi-pronged feedback approach reinforces the idea that broad, participatory methods can rebuild trust by meeting people where they are and validating their voices. Additional excerpts about public engagement and the shift to digital/online options highlight changes aimed at making engagement more inclusive and reliable, which is consistent with repairing trust in processes that historically marginalized communities may distrust. Together, these excerpts support the need to address distrust through inclusive, accessible, and fair engagement practices that align with the project\u2019s pillar of telling city stories while honoring past harms.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "development, continuous community engagement focused on meeting\npeople where they were, listening to traditionally underrepresented\ncommunities, and compensating people for their time and knowledge.",
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have"
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen",
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your"
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement."
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "historical_distrust_as_a_barrier.description_of_harm",
+        "reasoning": "The most directly relevant evidence describes the highway construction as having broken apart Jackson Ward, explicitly noting it as a disruption caused by urban renewal and government action, which aligns with the described harm and the erosion of trust in governmental planning. Additional support comes from broader statements about past transportation decisions harming people of color and marginalized communities, which corroborate how such policies contributed to distrust. Further relevance is found in equity-focused discussions that frame reconciliation of past harms and rebuilding community fabric, which connects to the trust that has been broken. Finally, policy guides on equitable outreach provide context for how modern practices seek to address these historic harms and rebuild trust, though they are less direct than the explicit harm statements. Collectively, these excerpts support the described harm, the resulting distrust of government processes, and the ongoing efforts to address or repair that trust through equity and engagement-driven approaches.",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2025-03/R300_Amended_RRHA_lowres_20250321.pdf",
+            "excerpts": [
+              "In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64.",
+              "Equity: In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64. In capping the highway and increasing\naccess to North Jackson Ward, this Big Move seeks\nto reconcile the past by re-knitting the community."
+            ],
+            "title": "[PDF] A Guide for Growth - RVA.gov"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "Feb 11, 2024 \u00b7 Past transportation decisions have created injustices that have harmed people of color, low-income communities, and other marginalized groups of people."
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have",
+              "Equitable outreach requires a more intensive approach\nthan meeting legally-required participation minimums. An\nequitable outreach program will meet people where they\nare and engage groups continuously through the planning\nprocess."
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_pain_points_summary.6",
+        "reasoning": "The most relevant evidence shows intentional efforts to reach communities by meeting them where they are and compensating their time, which highlights the tension between broad engagement goals and episodic participation. For example, the description of development that emphasizes listening to traditionally underrepresented communities and compensating people for their time and knowledge directly reinforces the idea that engagement must be ongoing and accommodating, not merely episodic. Similarly, explicit notes about outreach through multiple community events and a multi-pronged approach illustrate attempts to scale engagement beyond short, project-specific windows, addressing the barrier of episodic involvement. The shift to digital and online options following the COVID-19 pandemic demonstrates a recognition that engagement channels need to adapt to accessibility constraints, which speaks to how evening or off-hours participation, mobility limitations, and competing responsibilities can restrict continuous involvement. Principles focused on equity and empowering communities provide a framework that seeks to mitigate exclusion, aligning with the goal of more inclusive and sustained engagement. References to RVA311 and other public-service channels underscore the existence of structured channels, yet their inclusion also highlights how reliance on single channels may contribute to episodic participation if not complemented by accessible, varied options. Collectively, these excerpts support the field value by illustrating both the drivers of episodic engagement and concrete strategies that aim to broaden and stabilize participation, while also acknowledging ongoing accessibility concerns and the need for equitable mechanisms across channels and time.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "development, continuous community engagement focused on meeting\npeople where they were, listening to traditionally underrepresented\ncommunities, and compensating people for their time and knowledge.",
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement.",
+              "The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for"
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have"
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "current_feedback_channels_analysis.0",
+        "reasoning": "The core claim is that RVA311 is intended for specific, transactional service requests and not structured to capture qualitative, narrative feedback. The most directly relevant content states that RVA311 users dial the number for non-emergency service needs and that the system is designed for transactional issues rather than storytelling. This supports the field value\u2019s assertion about the platform\u2019s limitation for narratives. The broader mission statement about enabling residents to address non-emergency service needs corroborates that RVA311\u2019s primary function is service-oriented rather than narrative collection. While other excerpts discuss alternative feedback channels (like council meetings), they do not directly contradict the transactional emphasis but provide context on other avenues for citizen input.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "digital_divide_pain_points.digital_literacy_gap",
+        "reasoning": "The most directly relevant content comes from language and literacy limitations, which align with the field value describing how language skills and literacy affect awareness and engagement with programs. Statements that identify that limited language skills reduce awareness of available programs and resources directly support the notion of literacy gaps contributing to digital divide issues. Additional highly relevant support comes from discussions of time constraints for online engagement, showing that people with multiple jobs or busy schedules struggle to build new digital skills, which reinforces the variable skill and confidence gap described in the field value. Supporting context from other excerpts notes broader digital divide barriers, such as affordability and adoption challenges, which help explain why literacy and time barriers remain salient, though they are not exact matches to the literacy gap phrasing themselves. Together, these excerpts form a coherent picture of how variations in digital skills, language access, and time constraints impede digital tool use and engagement, matching the requested finegrained field value.\n",
+        "citations": [
+          {
+            "url": "https://www.dhcd.virginia.gov/sites/default/files/DocX/vati/dop-appendix-files/virginia-digital-opportunity-plan.pdf",
+            "excerpts": [
+              "s\n**Language and Literacy Limitations** **|** While this group experiences the\nsame general barriers as all covered populations around availability and\naffordability, stakeholders report that their limited language skills mean a\ngeneral lack of awareness around programs and resources that can help\n",
+              "Put simply, covered households lack the time to engage\nonline and develop new digital skills. The Census Bureau reports that those who identify as\nmembers of a covered household are more likely to hold multiple jobs, accounting for additional\nhours added to the workweek.",
+              "Jan 9, 2024 \u2014 Sustainable program models are paramount to addressing broadband affordability and adoption in the long term beyond federal funding investments. 2. Addresses an",
+              "**Cost of Assistive Devices** **|** Stakeholder engagement highlighted that the\nprice of assistive devices required for digital engagement can be cost\nprohibitive, with many devices priced at more than $1,000."
+            ],
+            "title": "Virginia Digital Opportunity Plan"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/FullDocumentRVAgreenClimateEquityActionPlan2030.pdf",
+            "excerpts": [
+              "Jan 31, 2023 \u00b7 RVAgreen 2050 ... If we do not act, we will continue to see impacts to Richmonders that live in historically marginalized, excluded, and overlooked communities."
+            ],
+            "title": "[PDF] Climate Equity Action Plan 2030 - RVA.gov"
+          },
+          {
+            "url": "https://virginiamercury.com/2024/09/17/richmond-city-council-wants-to-increase-internet-speeds-close-digital-divide/",
+            "excerpts": [
+              "\u201cOffering affordable or even free internet service alone is not enough to close the digital divide,\u201d Banks stated. \u201cThe underlying barriers that prevent people from adopting the technology must also be addressed.\u201d",
+              "People are not aware of these programs or do not trust them, according to Banks.",
+              "Sep 17, 2024 \u2014 Richmond City Council recently adopted a resolution to declare high-speed internet a public necessity for all Richmond residents.",
+              "The letter asserts there is 100% access to broadband services throughout the city, but the issue is a lack of adoption with programs that reduce service costs."
+            ],
+            "title": "Richmond City Council wants to increase internet speeds ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "historical_distrust_as_a_barrier.contemporary_impact",
+        "reasoning": "The most relevant passages directly connect historical harm to contemporary attitudes toward civic engagement. One excerpt describes how a historically Black neighborhood was fractured by the construction of a major highway, illustrating a concrete act of harm that sustains distrust of government projects. Another excerpt discusses a policy move to \u2018re-knit the community\u2019 as an explicit effort to reconcile past harms, signaling official acknowledgment and a pathway intended to repair trust. Additional excerpts frame equity and past injustices as core considerations in planning, highlighting how historical decisions continue to affect marginalized communities and shape expectations of engagement. Finally, statements about equitable outreach and continuous engagement practices further address contemporary mechanisms intended to address distrust rooted in history. Taken together, these sources corroborate the claim that historical trauma remains a driver of skepticism toward current engagement efforts and informs how residents perceive and participate in civic processes within Richmond.",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2025-03/R300_Amended_RRHA_lowres_20250321.pdf",
+            "excerpts": [
+              "Equity: In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64. In capping the highway and increasing\naccess to North Jackson Ward, this Big Move seeks\nto reconcile the past by re-knitting the community.",
+              "In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64."
+            ],
+            "title": "[PDF] A Guide for Growth - RVA.gov"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "Feb 11, 2024 \u00b7 Past transportation decisions have created injustices that have harmed people of color, low-income communities, and other marginalized groups of people."
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have",
+              "Equitable outreach requires a more intensive approach\nthan meeting legally-required participation minimums. An\nequitable outreach program will meet people where they\nare and engage groups continuously through the planning\nprocess."
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "historical_distrust_as_a_barrier.affected_community",
+        "reasoning": "The fine-grained field value identifies Jackson Ward as a thriving and historically significant Black neighborhood in Richmond, along with other Black communities. Direct evidence of this is found in the excerpts that explicitly describe Jackson Ward as a Black neighborhood and discuss its disruption by mid-20th century highway construction. These passages provide concrete historical context establishing Jackson Ward\u2019s significance and the harm caused by infrastructure decisions. Additional excerpts discuss broader equity concerns and the impact of past transportation decisions on communities of color and marginalized groups, which aligns with the barrier of historical distrust and supports the broader narrative that these communities have faced structural inequities. Together, the strongest support comes from the direct historical description of Jackson Ward, while the policy and equity-focused excerpts corroborate the systemic context that underpins distrust and the need for more inclusive storytelling reform.",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2025-03/R300_Amended_RRHA_lowres_20250321.pdf",
+            "excerpts": [
+              "In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64.",
+              "Equity: In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64. In capping the highway and increasing\naccess to North Jackson Ward, this Big Move seeks\nto reconcile the past by re-knitting the community."
+            ],
+            "title": "[PDF] A Guide for Growth - RVA.gov"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "Feb 11, 2024 \u00b7 Past transportation decisions have created injustices that have harmed people of color, low-income communities, and other marginalized groups of people."
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have",
+              "Equitable outreach requires a more intensive approach\nthan meeting legally-required participation minimums. An\nequitable outreach program will meet people where they\nare and engage groups continuously through the planning\nprocess."
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digital_divide_pain_points.access_issue",
+        "reasoning": "The finegrained field value describes a scenario where broadband infrastructure may be present, but adoption is low due to awareness and trust issues, with particular attention to groups such as people with disabilities and historically marginalized communities. The most directly supportive excerpt states that people are not aware of these programs or do not trust them, which aligns exactly with the core claim about adoption barriers due to trust and awareness. Excerpts discussing the broader adoption problem (the city recognizing that access gaps are driven by adoption, not merely availability), and the emphasis on adoption barriers within policy discussions further corroborate this interpretation. Additional excerpts highlight related barriers such as language and literacy limitations that impede awareness, cost-related access considerations (device affordability), and the need to address equity and marginalized communities. Collectively, these pieces of evidence connect to the field value by showing that true access is constrained by user awareness, trust in programs, governance communications, and structural barriers, even when physical infrastructure exists. The supporting quotes indicate: (a) awareness/trust gaps about programs, (b) adoption challenges despite available services, (c) accessibility concerns tied to language and literacy, (d) cost considerations that may deter engagement for some users, and (e) the equity dimension affecting historically marginalized communities, all of which reinforce the asserted access issue described in the finegrained field value.",
+        "citations": [
+          {
+            "url": "https://virginiamercury.com/2024/09/17/richmond-city-council-wants-to-increase-internet-speeds-close-digital-divide/",
+            "excerpts": [
+              "People are not aware of these programs or do not trust them, according to Banks.",
+              "The letter asserts there is 100% access to broadband services throughout the city, but the issue is a lack of adoption with programs that reduce service costs.",
+              "Sep 17, 2024 \u2014 Richmond City Council recently adopted a resolution to declare high-speed internet a public necessity for all Richmond residents.",
+              "\u201cOffering affordable or even free internet service alone is not enough to close the digital divide,\u201d Banks stated. \u201cThe underlying barriers that prevent people from adopting the technology must also be addressed.\u201d"
+            ],
+            "title": "Richmond City Council wants to increase internet speeds ..."
+          },
+          {
+            "url": "https://www.dhcd.virginia.gov/sites/default/files/DocX/vati/dop-appendix-files/virginia-digital-opportunity-plan.pdf",
+            "excerpts": [
+              "s\n**Language and Literacy Limitations** **|** While this group experiences the\nsame general barriers as all covered populations around availability and\naffordability, stakeholders report that their limited language skills mean a\ngeneral lack of awareness around programs and resources that can help\n",
+              "**Cost of Assistive Devices** **|** Stakeholder engagement highlighted that the\nprice of assistive devices required for digital engagement can be cost\nprohibitive, with many devices priced at more than $1,000.",
+              "Jan 9, 2024 \u2014 Sustainable program models are paramount to addressing broadband affordability and adoption in the long term beyond federal funding investments. 2. Addresses an",
+              "Put simply, covered households lack the time to engage\nonline and develop new digital skills. The Census Bureau reports that those who identify as\nmembers of a covered household are more likely to hold multiple jobs, accounting for additional\nhours added to the workweek."
+            ],
+            "title": "Virginia Digital Opportunity Plan"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/FullDocumentRVAgreenClimateEquityActionPlan2030.pdf",
+            "excerpts": [
+              "Jan 31, 2023 \u00b7 RVAgreen 2050 ... If we do not act, we will continue to see impacts to Richmonders that live in historically marginalized, excluded, and overlooked communities."
+            ],
+            "title": "[PDF] Climate Equity Action Plan 2030 - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "current_feedback_channels_analysis.1",
+        "reasoning": "The field value characterizes the City Council Meetings (Public Comment) channel as a formal, synchronous public input mechanism with pre-registration and limited opportunities, which can constrain nuanced, asynchronous storytelling. The most directly relevant excerpt states that public comments can be provided by teleconference or videoconference via Microsoft Teams, illustrating the channel\u2019s real-time participation and digital participation mode. This aligns with the field value\u2019s note that the channel is rigid and time-boxed, which can deter in-depth storytelling. While the excerpt does not explicitly mention pre-registration or frequency limits, it confirms the channel\u2019s structured, live-input nature, thereby supporting the core idea that this channel imposes constraints on narrative richness and asynchronous accessibility. No other excerpts discuss the City Council Public Comment channel in sufficient detail to add alternative support or contradiction.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_pain_points_summary.4",
+        "reasoning": "The target field describes a need for trusted, safe mechanisms with clear consent pathways and user control over how personal narratives are used. Excerpt addressing compensating participants and listening to traditionally underrepresented communities signals recognition of inclusive, respectful engagement practices, which are foundational to privacy and trauma-informed design. Excerpt emphasizing equity principles frames a normative context for empowering communities with agency and protection, aligning with the goal of giving residents control over their stories. Excerpt describing RVA311\u2019s aim to empower residents to get needs met reinforces the expectation that a civic platform should be accessible and responsive to user privacy and consent considerations. Excerpt about outreach approaches demonstrates the importance of accessible, asynchronous engagement, which is relevant to designing user-friendly privacy-aware workflows. Other excerpts provide contextual planning and public engagement history that can inform how privacy and consent mechanisms might be integrated into a broader strategy, even though they do not directly mention privacy controls themselves. Collectively, these pieces support the need for trusted, safe, and privacy-conscious participation within the Richmond storytelling platform, albeit without explicit details in the excerpts themselves.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "development, continuous community engagement focused on meeting\npeople where they were, listening to traditionally underrepresented\ncommunities, and compensating people for their time and knowledge.",
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have"
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen",
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your"
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement.",
+              "The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for"
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "key_pain_points_summary.3",
+        "reasoning": "The field value claims that current city engagement relies on non-narrative methods (surveys, service requests) and lacks tools to capture, preserve, or analyze qualitative, place-based resident narratives over time. The most directly supporting excerpts discuss shifting engagement toward digital/online options and retooling engagement methodologies: one excerpt notes that after a plan approval, the public engagement toolkit pivoted to digital and online options for community engagement, which aligns with moving away from traditional, non-narrative channels toward more scalable and potentially narrative-friendly approaches. Another excerpt highlights a broad, multimedia, multi-pronged outreach effort, indicating attempts to reach diverse voices, which supports the idea of moving beyond simple surveys or service requests toward richer data collection. Additional excerpts frame equity and inclusion as guiding principles in engagement, suggesting a concern for who is heard and how narratives from marginalized communities are incorporated, which dovetails with the need for structured narrative capture. Finally, excerpts describing RVA311\u2019s mission to empower residents and help government understand citizen needs reinforce the goal of making engagement more responsive and potentially more narrative-aware, although they do not explicitly describe narrative-centric tooling. Overall, the combination of digital-forward public engagement shifts, equity-oriented framing, and the emphasis on structured, accessible resident input supports the field value\u2019s core claim and places these excerpts at the top of relevance, followed by those that provide broader context about accessibility and participation.",
+        "citations": [
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement."
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "development, continuous community engagement focused on meeting\npeople where they were, listening to traditionally underrepresented\ncommunities, and compensating people for their time and knowledge.",
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have"
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_pain_points_summary.5",
+        "reasoning": "The targeted field describes feedback that is scattered across disparate channels and not readily analyzable by location, topic, or demographics. The most relevant excerpt notes that feedback came from over 30 community events and pop-ups in targeted locations, indicating feedback is collected across many in-person venues rather than through a single centralized channel. The next excerpt highlights an overhaul of the public engagement toolkit with a shift to digital and online options, implying that engagement had broadened to multiple digital channels, which contributes to fragmentation. A third excerpt emphasizes listening to traditionally underrepresented communities and meeting people where they are, which supports the existence of multiple, possibly siloed channels. A fourth excerpt from RVA311 describes a city service channel designed to empower residents, reinforcing the notion that feedback comes from multiple avenues beyond formal meetings. Collectively, these excerpts corroborate the pain point that resident feedback is fragmented across various channels and not readily analyzable by location, topic, or demographic variables.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach",
+              "development, continuous community engagement focused on meeting\npeople where they were, listening to traditionally underrepresented\ncommunities, and compensating people for their time and knowledge."
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement."
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_pain_points_summary.2",
+        "reasoning": "The most relevant excerpts directly address how public engagement shifted toward digital and online channels and the implications for accessibility and equity. One excerpt notes that the public engagement toolkit and RRTPO focus shifted to digital and online options after the plan was approved, which aligns with barriers to access and the need for digital inclusivity. Other excerpts describe engaging communities where they are, and compensating participants for time and knowledge, which supports reducing participation barriers for underserved groups. Additional excerpts describe broad outreach to diverse communities through events and multimedia channels, highlighting efforts to improve access rather than relying solely on traditional modes. Statements about equity principles explicitly define equity as empowering communities and imply attention to who is included or excluded, which relates to addressing the digital and accessibility divide. The RVA311-related excerpts emphasize accessible citizen services and guidance on how residents can obtain help, reinforcing multiple pathways to participation beyond digital channels. Excerpts focusing on general planning or external historical analyses are less directly connected but provide contextual backdrop for accessibility considerations in civic engagement. Overall, the assembled evidence supports the existence of digital access barriers and inclusion-oriented efforts, though the direct phrasing about specific barriers (e.g., costs of internet or language/literacy limitations) is not spelled out verbatim in these excerpts.",
+        "citations": [
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement.",
+              "The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for"
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "development, continuous community engagement focused on meeting\npeople where they were, listening to traditionally underrepresented\ncommunities, and compensating people for their time and knowledge.",
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2022-02/PTE%20FINAL%202.18.pdf",
+            "excerpts": [
+              "Feb 15, 2022 \u2014 This document establishes ten guiding principles for achieving equity and defines equity in the City of Richmond as: \u201cThe empowerment of communities that have"
+            ],
+            "title": "A Policy Guide for Richmond Connects"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen",
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "digital_divide_pain_points.affordability_issue",
+        "reasoning": "The field value centers on affordability as a core barrier to home internet use, highlighting that high broadband costs hinder access, affordability programs exist but suffer from low awareness and trust, and assistive devices can cost more than a thousand dollars. The most directly relevant excerpt explicitly notes that the price of assistive devices required for digital engagement can be prohibitive (often over $1,000). Another highly relevant excerpt emphasizes that affordability is a key obstacle identified by the Virginia Digital Opportunity Plan. Additional excerpts discuss broader affordability challenges and adoption barriers, including trust and awareness issues, which support the notion that even existing programs fail to translate into widespread adoption due to perception problems. Together, these excerpts corroborate the multi-faceted affordability issue described in the finegrained field value, including device costs, general affordability barriers, and programmatic trust/awareness gaps.",
+        "citations": [
+          {
+            "url": "https://www.dhcd.virginia.gov/sites/default/files/DocX/vati/dop-appendix-files/virginia-digital-opportunity-plan.pdf",
+            "excerpts": [
+              "**Cost of Assistive Devices** **|** Stakeholder engagement highlighted that the\nprice of assistive devices required for digital engagement can be cost\nprohibitive, with many devices priced at more than $1,000.",
+              "Jan 9, 2024 \u2014 Sustainable program models are paramount to addressing broadband affordability and adoption in the long term beyond federal funding investments. 2. Addresses an",
+              "Put simply, covered households lack the time to engage\nonline and develop new digital skills. The Census Bureau reports that those who identify as\nmembers of a covered household are more likely to hold multiple jobs, accounting for additional\nhours added to the workweek."
+            ],
+            "title": "Virginia Digital Opportunity Plan"
+          },
+          {
+            "url": "https://virginiamercury.com/2024/09/17/richmond-city-council-wants-to-increase-internet-speeds-close-digital-divide/",
+            "excerpts": [
+              "People are not aware of these programs or do not trust them, according to Banks.",
+              "The letter asserts there is 100% access to broadband services throughout the city, but the issue is a lack of adoption with programs that reduce service costs."
+            ],
+            "title": "Richmond City Council wants to increase internet speeds ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "public_comment_process_barriers.evidence_source",
+        "reasoning": "The most relevant content directly ties to formal public input mechanisms: excerpts describing the Informational Meeting Guide explain how the public can participate in council meetings, including teleconference or in-person options and procedural details for public comments, which aligns with public-comment process aspects of the desired evidence sources. Excerpts that discuss the Public Engagement & Outreach Report from PlanRVA describe how engagement was adapted (including digital and online options) in response to events like the COVID-19 pandemic, which corresponds to components of a public engagement framework that would appear in a ConnectRVA 2045 Public Engagement & Outreach type document and related master planning discussions. Additional excerpts that mention the informational meeting guidelines in more detail (e.g., participation windows, accessibility) reinforce the existence and use of standardized public-comment processes. Excerpts related to RVA311 or general meeting information provide context about public-facing channels but are less directly tied to the named sources; they still illuminate how residents engage with city processes and may be cited as corroborating or contextual evidence for barriers or options in public-comment workflows. Overall, the most compelling support comes from explicit guides and engagement reports describing structured avenues for public input; secondary support comes from broader notes about public participation practices and channels.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/office-city-clerk/informational-meeting-guide",
+            "excerpts": [
+              "The public will have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take advantage of this option, must do so prior to 10:00 a.m., on the meeting date, by calling the Office of the City Clerk at (804) 646-7955 and selecting option 3.",
+              "Oct 24, 2024 \u2014 All Richmond City Council meetings are open to in-person participation . The public will have the option to provide their comments by teleconference/",
+              "An individual may appear before Council during the Public Comment Period no more than four times per year and no more than once within a three-month period."
+            ],
+            "title": "Informational Meeting Guide | Richmond"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement.",
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Two weeks is simply not enough time to\ncomment. Public engagement, particularly when so many people are distracted by the\npandemic and economic crisis, requires repeated communication and multiple forms of\noutreach, particularly when it comes to reaching those in the community who have\ntraditionally been less involved.",
+              "The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for"
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "current_feedback_channels_analysis.0.primary_function",
+        "reasoning": "The target field value describes a primary function of current feedback channels as handling transactional service requests. Excerpts that describe RVA311 as a channel to empower residents to get non-emergency service needs met and to help the city understand and respond to citizens directly support this transactional function. In particular, one excerpt states the mission to empower residents to meet their non-emergency service needs and to help the city government understand and respond to citizens, which directly maps to a service-request oriented role. The other excerpt describes dialing 3-1-1 for city services and notes that RVA311 exists to ensure such requests are addressed, reinforcing the notion of a channel designed for routine, task-focused service requests. Together, these excerpts corroborate that current feedback channels function as transactional conduits for service requests rather than purely informational or narrative channels.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen",
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "current_feedback_channels_analysis.0.limitation_for_narratives",
+        "reasoning": "The presented excerpts describe RVA311 as a channel intended for addressing non-emergency service needs and for helping the city understand and respond to citizens. The first excerpt emphasizes dialing 3-1-1 for city-related service requests, suggesting a transactional use case focused on service issues rather than narrative collection. The second excerpt states the mission to empower residents to get non-emergency service needs met and to help the city government understand and respond to citizens, which reinforces the notion of a governance-oriented, problem-issue reporting system rather than a platform designed for capturing qualitative stories or multi-media narratives. Taken together, these points support the idea that current feedback channels are oriented toward specific, transactional issues and are not structured to collect storytelling data or connect experiences to broader policy concerns, which matches the field value describing a lack of narrative-focused structure and media support.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_pain_points_summary.0",
+        "reasoning": "The most relevant excerpt explicitly notes that the public engagement toolkit was overhauled after the plan and that PlanRVA focused on digital and online options, which aligns with the critique that traditional channels are restrictive and inaccessible for asynchronous, nuanced storytelling. This supports the idea that the official channels (public comments, city meetings) are limited in accessibility due to their formats. The next most relevant excerpts discuss the broader public engagement and outreach analysis, underscoring the existence of structured channels and efforts to engage communities, which provides context for why current channels may fail to capture nuanced narratives. Additional excerpts describe outreach strategies and equity considerations, which help explain the motivation for improving accessibility and inclusivity, though they do not directly state the synchronous/asynchronous limitations. Collectively, these excerpts support the claim that current official channels are insufficient for capturing nuanced lived experiences and asynchronous participation, giving a coherent rationale for the stated field value.",
+        "citations": [
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement.",
+              "The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for"
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach",
+              "development, continuous community engagement focused on meeting\npeople where they were, listening to traditionally underrepresented\ncommunities, and compensating people for their time and knowledge."
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen",
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "current_feedback_channels_analysis.2",
+        "reasoning": "The most relevant excerpt references a mechanism for public feedback via teleconference or videoconference during city council meetings, which is a direct channel for resident input but different from social media. This shows that there are formal avenues for feedback and public comments, which contrasts with the described informal, unstructured, and fragmented data issues in social media. The next excerpt about RVA311 describes a municipal service channel designed to help residents get non-emergency needs met, illustrating an established feedback channel that is not narrative-focused and thus not optimized for structured narrative data. This supports the notion that existing channels exist, but may not be ideal for capturing nuanced lived experiences in a way that planners can analyze. The third excerpt about the Action Plan outlines broad outreach methods (community events, multi-prong approaches), implying ongoing channels for gathering feedback, which can include informal sources but does not explicitly address social media fragmentation or narrative structure. The fourth excerpt, while not directly about social media or narrative data, discusses how information is disseminated and collected in outreach efforts, which provides context for understanding current channels and their limitations when it comes to capturing structured, location- or topic-tagged stories. Taken together, these excerpts confirm the existence of multiple feedback channels but show varying levels of direct relevance to the problem of unstructured, fragmented social media-based input described in the finegrained field value.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "historical_distrust_as_a_barrier.historical_event",
+        "reasoning": "The most directly relevant content states that in the 1950s, the I-95/I-64 highway construction disrupted Jackson Ward, a Black neighborhood, which is exactly the event described in the target fine-grained field value. This establishes a direct historical impact of highway construction on a marginalized community. Another excerpt complements this by noting an equity-oriented aim to reconcile past harms, which provides context about addressing the consequences of such projects. A third excerpt broadens the narrative by acknowledging that past transportation decisions harmed people of color and other marginalized groups, which aligns with the theme of distrust built from infrastructural planning. Together, these excerpts support the notion that the I-95/I-64 construction in the 1950s contributed to historical distrust by displacing or damaging a historic Black neighborhood and by contributing to ongoing inequities in transportation planning. The most direct support is the explicit description of the highway creation breaking apart a Black neighborhood; the subsequent statements provide contextual evidence of enduring inequities and efforts to address them.",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2025-03/R300_Amended_RRHA_lowres_20250321.pdf",
+            "excerpts": [
+              "In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64.",
+              "Equity: In the 1950s, Jackson Ward, a thriving Black\nneighborhood, was broken apart with the creation\nof I-95/I-64. In capping the highway and increasing\naccess to North Jackson Ward, this Big Move seeks\nto reconcile the past by re-knitting the community."
+            ],
+            "title": "[PDF] A Guide for Growth - RVA.gov"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "Feb 11, 2024 \u00b7 Past transportation decisions have created injustices that have harmed people of color, low-income communities, and other marginalized groups of people."
+            ],
+            "title": "Action Plan 2024 Edition"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "public_comment_process_barriers.procedural_barrier",
+        "reasoning": "The finegrained field value describes significant hurdles in the public comment process, including specific registration deadlines and limits that constrain asynchronous participation. The most relevant excerpt confirms that the public can provide comments by teleconference, but requires an action by a fixed deadline (calling before 10:00 a.m.) to participate in a given meeting. This directly supports the idea that procedural barriers exist around timely registration for speaking opportunities. Another highly relevant excerpt reiterates the teleconference option for public input in council meetings, reinforcing that participation can be restricted by time-based requirements tied to the meeting schedule. A third excerpt further clarifies that all meetings are open to in-person participation, yet still offer a teleconference option, which contextualizes the existence of multiple participation modalities that may introduce complexity or asynchronous access challenges. Finally, an excerpt describing speaking limits \u2014 such as no more than four appearances per year and no more than once in a three-month span \u2014 directly supports the component about limiting repeated or staggered participation, contributing to the overall barrier to timely and flexible engagement. Taken together, these excerpts substantiate the described procedural barriers by illustrating (a) mandatory registration timing, (b) limited opportunities to speak within a given period, and (c) multiple participation modalities that complicate asynchronous participation.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/office-city-clerk/informational-meeting-guide",
+            "excerpts": [
+              "The public will have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take advantage of this option, must do so prior to 10:00 a.m., on the meeting date, by calling the Office of the City Clerk at (804) 646-7955 and selecting option 3.",
+              "Oct 24, 2024 \u2014 All Richmond City Council meetings are open to in-person participation . The public will have the option to provide their comments by teleconference/",
+              "An individual may appear before Council during the Public Comment Period no more than four times per year and no more than once within a three-month period."
+            ],
+            "title": "Informational Meeting Guide | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "current_feedback_channels_analysis.3",
+        "reasoning": "The field value identifies 'Surveys and Pop-Up Events' as the primary channel for gathering structured feedback and quantitative data on specific priorities, while noting a limitation that such methods are not designed to preserve open-ended, place-based narratives. The strongest supporting evidence comes from a passage describing community events and pop-ups used to gather feedback in targeted locations, which aligns with the identified channel and indicates a multi-pronged outreach approach. Additional excerpts discuss other channels like RVA311 and public comments, which are relevant for context about how residents currently share information but do not directly confirm the use of surveys and pop-up events as the main channel described in the field value. The combination of the explicit reference to community events and pop-ups as outreach activities and the broader context of how feedback is gathered supports the alignment of the field value with real-world practices, while the explicit note about the limitation of preserving narrative richness is not directly quoted but is a consistent concern implied by the emphasis on structured, prioritized feedback rather than open-ended stories.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "digital_divide_pain_points.device_gap",
+        "reasoning": "The core issue in the finegrained field value is that many residents rely solely on mobile devices for internet access, which limits the ability to perform comprehensive online civic tasks, such as submitting detailed multimedia stories or filling out complex forms. Excerpt describing the Virginia Digital Opportunity Plan emphasizes that sustainable program models are essential to address broadband affordability and adoption, which aligns with the idea that access barriers (including on mobile) hinder full participation in online civic platforms. Another excerpt highlights that historically marginalized communities face equity-related barriers in accessing digital programs, underscoring how lack of inclusive access exacerbates participation gaps in digital civic life. A further excerpt notes that the cost of devices can be prohibitive, illustrating a concrete barrier to mobile-enabled participation when more capable devices are needed for richer online interactions. There is also a related discussion about broadband access being treated as a public necessity and adoption challenges, which reinforces that access and trust/adoption barriers directly impact the ability to engage with civic platforms. A later excerpt discusses broader adoption issues and awareness, which can compound barriers for mobile-only users who may struggle with navigating online government resources. Finally, one excerpt mentions limited awareness or trust in programs among certain populations, which intersects with the trust dimension of equitable participation in digital government services. Overall, the cited sources collectively support the notion that mobile-only access and related affordability/trust barriers reduce residents\u2019 ability to share nuanced narratives through a structured, online civic storytelling platform.",
+        "citations": [
+          {
+            "url": "https://www.dhcd.virginia.gov/sites/default/files/DocX/vati/dop-appendix-files/virginia-digital-opportunity-plan.pdf",
+            "excerpts": [
+              "Jan 9, 2024 \u2014 Sustainable program models are paramount to addressing broadband affordability and adoption in the long term beyond federal funding investments. 2. Addresses an",
+              "**Cost of Assistive Devices** **|** Stakeholder engagement highlighted that the\nprice of assistive devices required for digital engagement can be cost\nprohibitive, with many devices priced at more than $1,000.",
+              "Put simply, covered households lack the time to engage\nonline and develop new digital skills. The Census Bureau reports that those who identify as\nmembers of a covered household are more likely to hold multiple jobs, accounting for additional\nhours added to the workweek.",
+              "s\n**Language and Literacy Limitations** **|** While this group experiences the\nsame general barriers as all covered populations around availability and\naffordability, stakeholders report that their limited language skills mean a\ngeneral lack of awareness around programs and resources that can help\n"
+            ],
+            "title": "Virginia Digital Opportunity Plan"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/FullDocumentRVAgreenClimateEquityActionPlan2030.pdf",
+            "excerpts": [
+              "Jan 31, 2023 \u00b7 RVAgreen 2050 ... If we do not act, we will continue to see impacts to Richmonders that live in historically marginalized, excluded, and overlooked communities."
+            ],
+            "title": "[PDF] Climate Equity Action Plan 2030 - RVA.gov"
+          },
+          {
+            "url": "https://virginiamercury.com/2024/09/17/richmond-city-council-wants-to-increase-internet-speeds-close-digital-divide/",
+            "excerpts": [
+              "The letter asserts there is 100% access to broadband services throughout the city, but the issue is a lack of adoption with programs that reduce service costs."
+            ],
+            "title": "Richmond City Council wants to increase internet speeds ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "current_feedback_channels_analysis.1.channel_name",
+        "reasoning": "The finegrained field value identifies the feedback channel as 'City Council Meetings (Public Comment)'. The excerpt describes public commenting during City Council meetings and notes that participation is possible via teleconference or videoconference, which corresponds to the public comment channel associated with City Council meetings. This shows a direct match to the channel name in the target field, confirming that public comments are an enabled feedback avenue during council sessions.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "public_comment_process_barriers.time_and_accessibility_barrier",
+        "reasoning": "The most directly relevant content describes explicit time and access barriers in the public-comment process. For example, one excerpt notes that the public may provide comments via teleconference and must act before a 10:00 a.m. deadline, illustrating a concrete time constraint that can hinder participation for those with rigid schedules. Another excerpt states that public comment periods are limited (appearances before Council capped at four times per year), revealing a structural accessibility barrier. Additionally, a separate excerpt mentions that all meetings are open to in-person participation while also offering a teleconference option, indicating that while remote participation exists, the default is synchronous and location-based access can still pose challenges. References to the public engagement context of RVA311 and related channels underscore the broader connectivity issues and the typical pathways through which residents interact with city processes. A further excerpt explicitly notes that a two-week comment window is insufficient, directly supporting the notion that short engagement windows fail to accommodate diverse schedules and need for repeated outreach. Collectively, these pieces corroborate the field value that public comment is constrained by time and accessibility, with meetings being synchronous and accessibility varying by work and caregiving responsibilities, and that typical windows for input (even in large projects) are often too narrow to capture nuanced narratives.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/office-city-clerk/informational-meeting-guide",
+            "excerpts": [
+              "The public will have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take advantage of this option, must do so prior to 10:00 a.m., on the meeting date, by calling the Office of the City Clerk at (804) 646-7955 and selecting option 3.",
+              "Oct 24, 2024 \u2014 All Richmond City Council meetings are open to in-person participation . The public will have the option to provide their comments by teleconference/",
+              "An individual may appear before Council during the Public Comment Period no more than four times per year and no more than once within a three-month period."
+            ],
+            "title": "Informational Meeting Guide | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Two weeks is simply not enough time to\ncomment. Public engagement, particularly when so many people are distracted by the\npandemic and economic crisis, requires repeated communication and multiple forms of\noutreach, particularly when it comes to reaching those in the community who have\ntraditionally been less involved.",
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement.",
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for"
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "current_feedback_channels_analysis.0.evidence_or_example",
+        "reasoning": "The finegrained field value asserts a mismatch between RVA311\u2019s function (serving as a channel for service issues) and the project\u2019s goal of collecting nuanced lived-experience stories for civic decisions. The most direct support comes from a statement indicating RVA311 exists to help residents with non-emergency service needs and to inform city government responses, which implies a primary focus on service requests rather than narrative storytelling. This aligns with the idea that RVA311 is not designed for narrative sharing, highlighting the mismatch the JTBD seeks to address. The accompanying excerpt describing \u201cJust dial 3-1-1 \u2026 inside the City of Richmond\u201d reinforces the channel\u2019s role as a direct service-reporting conduit rather than a narrative repository. A second excerpt reinforces RVA311\u2019s mission to empower residents to get non-emergency service needs met and to help city government respond, which further supports the notion that RVA311\u2019s core purpose is not narrative storytelling. Together, these excerpts corroborate the field value by illustrating RVA311\u2019s service-oriented design and its potential misalignment with capturing lived experiences for structured analysis.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "current_feedback_channels_analysis.0.channel_name",
+        "reasoning": "The field value specifies the feedback channel name as RVA311. Excerpt content explicitly references RVA311 as a contact channel for non-emergency needs and describes its role in enabling residents to access city services, which directly supports the existence and function of the channel in the current_feedback_channels_analysis. The first excerpt provides practical contact information and a description of RVA311\u2019s function, while the second excerpt outlines the mission and purpose of RVA311 in empowering residents. Together, these excerpts corroborate RVA311 as the channel name for current feedback mechanisms in Richmond and illustrate how it is intended to operate within the civic system.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "current_feedback_channels_analysis.1.primary_function",
+        "reasoning": "The excerpt describes that members of the public can provide comments through teleconference or videoconference via Microsoft Teams, which indicates a real-time, remote input channel. This demonstrates the presence of synchronous input possibilities, aligning somewhat with the idea of input being gathered in real time. However, the text does not explicitly describe a formal, scheduled public hearing with official procedures, submission formats, or governance rites typical of formal hearings. Therefore, the excerpt partially supports the concept of synchronous input channels but does not fully confirm the existence of formal, synchronous public hearings as the primary function. The connection is that remote real-time input exists, but the claim of \u2018formal\u2019 and \u2018official\u2019 procedures for hearings is not evidenced here.\n",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "current_feedback_channels_analysis.1.limitation_for_narratives",
+        "reasoning": "The finegrained field describes a channel that is inaccessible for many due to a rigid structure, requiring pre-registration, limited participation frequency, and time-boxed formats that hinder nuanced, in-depth storytelling, especially for asynchronous contributions. The excerpt confirms that public input is collected via teleconference/videoconference for City Council meetings, which is a live, synchronous process. This supports the idea that current channels favor real-time participation and can be inaccessible for those who cannot attend at a specific time, thereby limiting asynchronous or nuanced storytelling. The excerpt illustrates a concrete instance of a current feedback channel operating in a rigid, time-constrained fashion, which directly relates to the described limitation for narratives. It does not provide explicit details about pre-registration windows or limits, but its emphasis on a live, virtual-comment format reinforces the overall constraint of synchronous engagement.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "current_feedback_channels_analysis.2.primary_function",
+        "reasoning": "The field value describes informal, peer-to-peer information sharing. Excerpt describing Community events and pop-ups in targeted locations indicates residents gathering and exchanging information in a less formal, locally anchored setting, which aligns with informal sharing required by the field. The mention of a multi-pronged outreach approach in the same excerpt further supports a blend that includes informal interactions beyond strictly formal channels. In contrast, excerpts detailing teleconference-based public comments represent formal, scheduled participation rather than informal peer-to-peer exchange. Excerpts about RVA311 channels frame official service requests and responses, which are structured, formal interactions. Therefore, the informal peer-to-peer sharing facet is best supported by the community-events/pop-ups content, with partial relevance from the general outreach context, and least relevance from strictly formal channels.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "public_comment_process_barriers.psychological_barrier",
+        "reasoning": "The field value highlights significant psychological barriers including distrust of government and fear of public, formal spaces, as well as concerns about privacy and trauma-informed handling in current channels. Excerpt describing teleconference/videoconference options for public comments directly addresses potential mitigations to intimidation and accessibility in traditional in-person meetings, aligning with the need for safer, more private channels. Excerpt stating that all council meetings are open to in-person participation and that the public has a teleconference option further evidences the existence of formal public channels but also alternative access points, which is relevant to the described barriers and the desire for a trusted, safe sharing method. References to RVA311 information and service guidance relate to how residents navigate non-emergency service channels, highlighting practical barriers and pathways for engagement outside formal hearings. The technical public engagement and outreach reports show a shift toward digital engagement strategies, which is pertinent for addressing asynchronous access and broader inclusion, thereby informing solutions to the identified psychological barriers. Together, these excerpts collectively support the notion that while formal public processes exist, there are acknowledged limitations and ongoing adjustments to improve accessibility, privacy, and trust in civic storytelling channels. The strongest alignment comes from explicit notes about teleconferencing options and open meeting formats, which map directly to reducing intimidation and increasing safe participation; supporting excerpts about digital engagement provide context for implementing trauma-informed, accessible pathways.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/office-city-clerk/informational-meeting-guide",
+            "excerpts": [
+              "The public will have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take advantage of this option, must do so prior to 10:00 a.m., on the meeting date, by calling the Office of the City Clerk at (804) 646-7955 and selecting option 3.",
+              "Oct 24, 2024 \u2014 All Richmond City Council meetings are open to in-person participation . The public will have the option to provide their comments by teleconference/",
+              "An individual may appear before Council during the Public Comment Period no more than four times per year and no more than once within a three-month period."
+            ],
+            "title": "Informational Meeting Guide | Richmond"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen",
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your"
+            ],
+            "title": "About RVA 311 | Richmond"
+          },
+          {
+            "url": "https://planrva.org/wp-content/uploads/TechReport_H.pdf",
+            "excerpts": [
+              "Shortly after this plan\nwas approved, the COVID-19 pandemic required an overhaul of the public engagement toolkit and RRTPO focused\nsolely on digital and online options for community engagement.",
+              "Apr 16, 2021 \u2014 The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for",
+              "Two weeks is simply not enough time to\ncomment. Public engagement, particularly when so many people are distracted by the\npandemic and economic crisis, requires repeated communication and multiple forms of\noutreach, particularly when it comes to reaching those in the community who have\ntraditionally been less involved.",
+              "The contents of this report refect the analysis of the RRTPO as part of the Richmond Regional. Planning District Commission (PlanRVA) which is responsible for"
+            ],
+            "title": "Technical Report H. Public Engagement & Outreach Report"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "current_feedback_channels_analysis.3.primary_function",
+        "reasoning": "To support the field value Gathering structured feedback and quantitative data on specific priorities, the excerpts collectively illustrate concrete feedback channels and mechanisms in Richmond. The most supportive element is a documented Action Plan that outlines a multi-prong outreach approach, including community events and pop-ups in targeted locations, which directly relates to gathering diverse feedback across neighborhoods. Public participation via city council meetings represents a formal channel where residents can provide input, aligning with the idea of collecting feedback tied to governance and policy priorities, though it does not by itself specify structured data capture. RVA311 references show an established, centralized channel for residents to report needs and engage with city services, creating a pathway for feedback that can be structured or integrated with priorities in a larger system. The RVA311 mission statement emphasizes empowering residents to access services and respond to needs, which supports the existence of feedback channels even if it does not explicitly discuss data structuring or prioritization. In summary, the most relevant parts describe concrete channels and planned outreach that could support structured feedback collection, while the others provide context on how residents currently interact with city services and governance, which is complementary but slightly less direct in demonstrating structured-data collection for priorities.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "current_feedback_channels_analysis.3.limitation_for_narratives",
+        "reasoning": "The fine-grained field value asserts that current feedback methods prioritize predefined questions and fail to capture open-ended, place-based narratives or preserve qualitative richness across unstructured, multi-modal submissions. Among the excerpts, the item that most closely touches feedback collection and engagement approaches is the one describing a broad outreach and multimedia, multi-prong approach to gathering feedback from the community. This supports the context that feedback channels exist and employ various formats, but it does not demonstrate robust support for the specific claim that these channels optimize for predefined questions or fail to preserve narrative richness. The other excerpts describe specific channels (council public comments, RVA311 contact options) and mission statements for RVA311, which illustrate channel existence but do not provide direct evidence about their limitations in handling narratives or unstructured data. Therefore, the selected excerpt is the most relevant as it pertains to how feedback is collected, while the others offer contextual background without confirming the precise limitation in the field value.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "current_feedback_channels_analysis.2.evidence_or_example",
+        "reasoning": "The fine-grained field value asserts a cost of the status quo: fragmented inputs cannot be analyzed by location or topic because current channels (like social media) are used for civic feedback. From the excerpts, I can identify that: a) there is an option for the public to provide comments via teleconference/videoconference, showing that live, perhaps asynchronous feedback channels exist but without discussion of analytics constraints. b) RVA311 is described as a channel to address non-emergency service needs, indicating a formal city feedback conduit, yet the description focuses on service delivery rather than data structuring or analytic capabilities. c) RVA311\u2019s mission emphasizes empowering residents to get their needs met, again highlighting channel purpose rather than data analysis capabilities. d) The action plan notes multiple community events and a multi-pronged approach to gather feedback, illustrating a broad outreach strategy but not explicit limitations about aggregation by location or topic. Taken together, these excerpts corroborate that multiple channels exist for civic feedback, but they do not provide explicit evidence that inputs are fragmented in a way that prevents location- or topic-based analysis. Therefore, the support for the precise claimed cost is partial at best, with no direct confirmation in the provided excerpts. The connection is that the existence of diverse channels could lead to fragmentation, but the excerpts do not quantify or confirm the analytical consequence described in the field value. The strongest alignment is with the general discussion of multiple channels and outreach, while the direct claim about fragmentation and analyzability is not evidenced here.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "current_feedback_channels_analysis.3.evidence_or_example",
+        "reasoning": "The core claim concerns how feedback was collected (surveys and pop-ups) and whether that method preserved place-based, multi-modal narratives for analysis. The most relevant excerpt explicitly references the Action Plan\u2019s approach to gathering feedback through community events and pop-ups, which matches the described methods (surveys/pop-ups). This supports the aspect that surveys and pop-ups were used as primary channels. The remaining excerpts describe other feedback channels (public comments via council meetings and RVA311 contact options). While these show additional avenues for citizen input, they do not address whether narratives were preserved in a structured, place-based, multimodal way, so their support for the exact claim about narrative structure is weaker. Taken together, the excerpts provide partial support: they confirm the use of surveys/pop-ups and show other channels, but they do not confirm or deny the specific assertion about the lack of structure in preserving place-based narratives beyond what the Action Plan sentence implies.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "current_feedback_channels_analysis.3.channel_name",
+        "reasoning": "The most relevant information directly supporting the target field value is a statement about engaging the community through 'Community events and pop-ups in targeted locations' as a method to collect feedback. This precisely corresponds to the 'Surveys and Pop-Up Events' channel type. Additional excerpts discuss RVA311 and public council meetings as channels for feedback; these provide contextual understanding of other channels but do not directly confirm the specified channel. Therefore, the direct match is the first excerpt, with the RVA311-related excerpts offering peripheral context about alternative feedback channels.",
+        "citations": [
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "current_feedback_channels_analysis.2.limitation_for_narratives",
+        "reasoning": "The field value asserts that while outreach platforms are accessible, they yield fragmented, unstructured data that are not systematically collected, aggregated, or analyzed by city planners; data are hard to track by location or topic and may not reach decision-makers. The most directly relevant content shows that public comments can be submitted via teleconference/videoconference, indicating a channel that may not capture structured metadata necessary for analysis. The mention of RVA311 as a resident-facing service demonstrates a separate, potentially siloed communication channel that may not be integrated with policy-focused data workflows. The note about multiple community events and pop-ups used to solicit feedback reveals a mosaic of outreach methods, which can contribute to fragmentation if there is no unified data model or central repository. Taken together, these excerpts illustrate a landscape of multiple, possibly unstructured channels that align with the described pain point of fragmented, non-systematic narrative collection. The least directly related excerpt clarifies the existence and purpose of RVA311 but does not itself address data structuring or analysis, thus contributing context but weaker support for the core unstructured-data claim. ",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/office-city-clerk/council-meetings",
+            "excerpts": [
+              "Apr 8, 2022 \u2014 Members of the public have the option to provide their comments by teleconference/videoconference via Microsoft Teams. Interested citizens who wish to take"
+            ],
+            "title": "watch richmond city council meetings"
+          },
+          {
+            "url": "https://rvaconnects.com/wp-content/uploads/2024/02/ActionPlan_FINAL_240106.pdf",
+            "excerpts": [
+              "How we got the word out:\nHow we got feedback:\nOVER 30\nCommunity\nevents and pop-\nups in targeted\nlocations\nALL IN\nMultimedia,\nmulti-prong\napproach"
+            ],
+            "title": "Action Plan 2024 Edition"
+          },
+          {
+            "url": "https://www.rva.gov/citizen-service-and-response/about-rva-311",
+            "excerpts": [
+              "Feb 23, 2022 \u2014 Just dial 3-1-1 if inside the City of Richmond. If you are outside city limits - call 804-646-7000. Our 311 customer service representatives will ensure your",
+              "Our Mission in RVA311. To empower Richmond resident to get their non-emergency service needs met and help City government understand and respond to citizen"
+            ],
+            "title": "About RVA 311 | Richmond"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "executive_summary": {
+          "type": "string",
+          "description": "A high-level overview of the key pain points for Richmond residents attempting to share their stories for civic purposes. This summary will cover the primary challenges for both the functional and emotional trust personas and introduce the cross-cutting equity issues that impact the effectiveness of civic storytelling."
+        },
+        "functional_persona_pain_points": {
+          "type": "string",
+          "description": "Detailed analysis for the 'Richmond resident' persona whose goal is to easily record and submit their lived-experience story to ensure their neighborhood's realities inform decisions. This section will document 3-5 concrete pain points, including the inadequacy of current channels for narrative input, the difficulty of asynchronous participation, and the lack of structured data for analysis. It will include evidence, workarounds, and the cost of the status quo."
+        },
+        "emotional_trust_persona_pain_points": {
+          "type": "string",
+          "description": "Detailed analysis for the 'resident from a historically marginalized community' persona whose motivation is to find a trusted, safe way to share their story with control over privacy. This section will document 3-5 concrete pain points rooted in historical inequities, such as distrust of government processes, fear of reprisal or public exposure (FOIA), and the emotional labor of sharing traumatic experiences. It will include evidence, workarounds, and the cost of the status quo."
+        },
+        "cross_cutting_equity_dimensions": {
+          "type": "string",
+          "description": "A dedicated section synthesizing the overarching equity issues that affect all residents, particularly those from marginalized communities. This will cover who is most affected by the current broken systems and who is excluded from participating, with a focus on the digital divide, accessibility barriers, and the chilling effect of bureaucratic processes."
+        },
+        "current_feedback_channels_analysis": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "channel_name": {
+                "type": "string",
+                "description": "Name of the feedback channel (e.g., RVA311, City Council Meetings)."
+              },
+              "primary_function": {
+                "type": "string",
+                "description": "The intended purpose of the channel, such as transactional service requests or formal public hearings."
+              },
+              "limitation_for_narratives": {
+                "type": "string",
+                "description": "Specific reasons why this channel is insufficient for capturing nuanced, location-tagged resident stories."
+              },
+              "evidence_or_example": {
+                "type": "string",
+                "description": "An example or evidence from research illustrating the limitation."
+              }
+            },
+            "required": [
+              "channel_name",
+              "primary_function",
+              "limitation_for_narratives",
+              "evidence_or_example"
+            ],
+            "additionalProperties": false
+          },
+          "description": "An array detailing the specific limitations and failures of existing feedback mechanisms that residents currently use as workarounds. Each item will represent a channel (e.g., RVA311, City Council Meetings, Social Media) and describe why it is insufficient for capturing nuanced, location-tagged narratives."
+        },
+        "rva311_limitations": {
+          "type": "string",
+          "description": "Specific pain points associated with using the RVA311 system. This includes its design as a transactional service request tool rather than a platform for qualitative storytelling, the lack of options for voice or photo narratives, and its inability to structure feedback for broader policy analysis."
+        },
+        "public_comment_process_barriers": {
+          "type": "object",
+          "properties": {
+            "procedural_barrier": {
+              "type": "string",
+              "description": "Hurdles related to the process of signing up or speaking, such as complex registration or last-minute notice."
+            },
+            "time_and_accessibility_barrier": {
+              "type": "string",
+              "description": "Barriers related to meeting schedules and strict time limits (e.g., inconvenient times for working residents, 3-minute limit per speaker)."
+            },
+            "psychological_barrier": {
+              "type": "string",
+              "description": "Factors that make participation intimidating, such as the formality of the setting or the anxiety of public speaking."
+            },
+            "evidence_source": {
+              "type": "string",
+              "description": "The source citing these barriers, such as a news article or city document."
+            }
+          },
+          "required": [
+            "procedural_barrier",
+            "time_and_accessibility_barrier",
+            "psychological_barrier",
+            "evidence_source"
+          ],
+          "additionalProperties": false
+        },
+        "historical_distrust_as_a_barrier": {
+          "type": "object",
+          "properties": {
+            "historical_event": {
+              "type": "string",
+              "description": "The specific historical event causing distrust, such as the construction of the I-95/I-64 highway."
+            },
+            "affected_community": {
+              "type": "string",
+              "description": "The community or neighborhood primarily impacted by the event, such as Jackson Ward."
+            },
+            "description_of_harm": {
+              "type": "string",
+              "description": "How the event harmed the community, displaced residents, and broke trust with the government."
+            },
+            "contemporary_impact": {
+              "type": "string",
+              "description": "How this historical event continues to affect resident engagement and trust in city-led initiatives today."
+            }
+          },
+          "required": [
+            "historical_event",
+            "affected_community",
+            "description_of_harm",
+            "contemporary_impact"
+          ],
+          "additionalProperties": false
+        },
+        "digital_divide_pain_points": {
+          "type": "object",
+          "properties": {
+            "affordability_issue": {
+              "type": "string",
+              "description": "The barrier created by the high cost of broadband service for low-income households."
+            },
+            "access_issue": {
+              "type": "string",
+              "description": "The lack of reliable, high-speed internet infrastructure in certain neighborhoods."
+            },
+            "device_gap": {
+              "type": "string",
+              "description": "The lack of adequate devices (e.g., laptops) to participate fully, with many relying on mobile-only access."
+            },
+            "digital_literacy_gap": {
+              "type": "string",
+              "description": "The varying levels of skills and confidence needed to use digital tools and navigate online platforms safely."
+            }
+          },
+          "required": [
+            "affordability_issue",
+            "access_issue",
+            "device_gap",
+            "digital_literacy_gap"
+          ],
+          "additionalProperties": false
+        },
+        "privacy_and_foia_concerns": {
+          "type": "string",
+          "description": "A specific analysis of the pain point related to privacy. This will discuss residents' fears that their personal stories and identifying information could become public record under Virginia's Freedom of Information Act (FOIA), creating a 'chilling effect' that discourages sharing sensitive or critical feedback."
+        },
+        "cost_of_the_status_quo": {
+          "type": "string",
+          "description": "A summary of the collective costs and negative consequences of the current fragmented and ineffective feedback systems. This includes resident burnout, wasted time and emotional labor, perpetuation of inequitable outcomes, and city planners making decisions based on incomplete or unrepresentative data."
+        },
+        "engagement_lessons_from_richmond_initiatives": {
+          "type": "string",
+          "description": "Insights gathered from other major Richmond planning efforts like 'Richmond Connects' and 'RVAgreen 2050'. This section will detail their findings on equitable outreach, including the need for compensating residents for their time, meeting people where they are, and building sustained relationships with community leaders."
+        },
+        "comparative_insights_from_other_cities": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "city_name": {
+                "type": "string",
+                "description": "Name of the comparable city (e.g., Baltimore, Pittsburgh)."
+              },
+              "area_of_comparison": {
+                "type": "string",
+                "description": "The topic being compared, such as 311 system limitations or civic storytelling platforms."
+              },
+              "finding_or_lesson": {
+                "type": "string",
+                "description": "The key insight or lesson learned from that city's experience."
+              },
+              "relevance_for_richmond": {
+                "type": "string",
+                "description": "Why this finding is relevant as a model or cautionary tale for the richmond-stories-online project."
+              }
+            },
+            "required": [
+              "city_name",
+              "area_of_comparison",
+              "finding_or_lesson",
+              "relevance_for_richmond"
+            ],
+            "additionalProperties": false
+          },
+          "description": "An array of findings from comparable US cities (e.g., Baltimore, Pittsburgh) regarding their experiences with 311 systems, civic engagement platforms, or storytelling projects. This provides external evidence and potential models or cautionary tales for the Richmond project."
+        },
+        "key_pain_points_summary": {
+          "type": "array",
+          "description": "A bulleted list summarizing the top 5-7 most critical, cross-cutting pain points identified in the research, providing a quick reference to the core challenges the 'richmond-stories-online' project must address.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "actionable_recommendations_for_project": {
+          "type": "object",
+          "properties": {
+            "recommendation_title": {
+              "type": "string",
+              "description": "A short title for the recommendation (e.g., 'Granular Privacy Controls', 'Offer Non-Digital Pathways')."
+            },
+            "description": {
+              "type": "string",
+              "description": "A detailed description of the recommended feature or strategy for the platform."
+            },
+            "pain_point_addressed": {
+              "type": "string",
+              "description": "The specific user pain point this recommendation is designed to solve (e.g., 'Privacy/FOIA Concerns', 'Digital Divide')."
+            },
+            "trust_building_element": {
+              "type": "string",
+              "description": "How this recommendation helps to build trust with residents, particularly those from marginalized communities."
+            }
+          },
+          "required": [
+            "recommendation_title",
+            "description",
+            "pain_point_addressed",
+            "trust_building_element"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "executive_summary",
+        "functional_persona_pain_points",
+        "emotional_trust_persona_pain_points",
+        "cross_cutting_equity_dimensions",
+        "current_feedback_channels_analysis",
+        "rva311_limitations",
+        "public_comment_process_barriers",
+        "historical_distrust_as_a_barrier",
+        "digital_divide_pain_points",
+        "privacy_and_foia_concerns",
+        "cost_of_the_status_quo",
+        "engagement_lessons_from_richmond_initiatives",
+        "comparative_insights_from_other_cities",
+        "key_pain_points_summary",
+        "actionable_recommendations_for_project"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "pain_points.md"
+  }
+}
