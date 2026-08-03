@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03T01:24:05.436Z",
+ "generatedAt": "2026-08-03T02:19:49.515Z",
  "repo": "pillar-city-storytelling",
  "filesExamined": [
   "admin/evidence_log.md",
@@ -125,7 +125,7 @@
  },
  "warnings": [
   "[demote] 32 sentence-shaped Problem/Need nodes moved to the evidence layer",
-  "[corpus] dropped 0 stale-anchor, 38 unresolved-endpoint, 2 not-an-organization and 44 not-a-name records",
+  "[corpus] dropped 0 stale-anchor, 39 unresolved-endpoint, 2 not-an-organization and 45 not-a-name records",
   "[merge] duplicate node id n:org:the-valentine: provenance merged",
   "[merge] duplicate node id n:dataset:richmond-geohub: provenance merged",
   "[merge] duplicate node id n:geographicregion:richmond: provenance merged",
@@ -134,8 +134,8 @@
   "[merge] duplicate node id n:dataset:storycorps-archive: provenance merged"
  ],
  "metrics": {
-  "totalNodes": 886,
-  "totalEdges": 2111,
+  "totalNodes": 885,
+  "totalEdges": 2107,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -159,10 +159,10 @@
   "claimsLackingPrimaryEvidence": [],
   "inferredRelationships": 0,
   "disputedRelationships": 0,
-  "reportedButUnverifiedRelationships": 402,
+  "reportedButUnverifiedRelationships": 401,
   "brokenReferences": 0,
-  "duplicateCandidates": 43,
-  "reviewQueueSize": 43,
+  "duplicateCandidates": 35,
+  "reviewQueueSize": 35,
   "evidenceRecords": 579,
   "provenanceCoverage": 100,
   "provenanceVerification": {
