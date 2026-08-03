@@ -154,34 +154,6 @@
   "decisionRequested": "Decide whether these are the same entity."
  },
  {
-  "id": "r:dup-api-census-gov",
-  "itemType": "node",
-  "proposed": "n:source:api-census-gov-3405f83b vs n:source:api-census-gov-8c342a9a",
-  "sourceExcerpt": "api.census.gov",
-  "sourceLocation": "label comparison across extraction sources",
-  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
-  "confidence": "medium",
-  "alternatives": [
-   "Merge via extraction/aliases.json",
-   "Keep separate"
-  ],
-  "decisionRequested": "Decide whether these are the same entity."
- },
- {
-  "id": "r:dup-api-census-gov",
-  "itemType": "node",
-  "proposed": "n:source:api-census-gov-3405f83b vs n:source:api-census-gov-a2406753",
-  "sourceExcerpt": "api.census.gov",
-  "sourceLocation": "label comparison across extraction sources",
-  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
-  "confidence": "medium",
-  "alternatives": [
-   "Merge via extraction/aliases.json",
-   "Keep separate"
-  ],
-  "decisionRequested": "Decide whether these are the same entity."
- },
- {
   "id": "r:dup-open-data-portal-richmond",
   "itemType": "node",
   "proposed": "n:source:rva-gov-c1396b7a vs n:source:rva-gov-07691dd3",
@@ -210,10 +182,10 @@
   "decisionRequested": "Decide whether these are the same entity."
  },
  {
-  "id": "r:dup-eventbrite-com",
+  "id": "r:dup-eventbrite-com-platform-api",
   "itemType": "node",
   "proposed": "n:source:eventbrite-com-8d340ba6 vs n:source:eventbrite-com-250aad98",
-  "sourceExcerpt": "eventbrite.com",
+  "sourceExcerpt": "eventbrite.com/platform/api",
   "sourceLocation": "label comparison across extraction sources",
   "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
   "confidence": "medium",

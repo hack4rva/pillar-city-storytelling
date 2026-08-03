@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-02T23:12:22.313Z",
+ "generatedAt": "2026-08-03T01:24:05.436Z",
  "repo": "pillar-city-storytelling",
  "filesExamined": [
   "admin/evidence_log.md",
@@ -161,8 +161,8 @@
   "disputedRelationships": 0,
   "reportedButUnverifiedRelationships": 402,
   "brokenReferences": 0,
-  "duplicateCandidates": 45,
-  "reviewQueueSize": 45,
+  "duplicateCandidates": 43,
+  "reviewQueueSize": 43,
   "evidenceRecords": 579,
   "provenanceCoverage": 100,
   "provenanceVerification": {

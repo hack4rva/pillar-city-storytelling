@@ -10334,7 +10334,7 @@
  },
  {
   "id": "ev:P-30",
-  "claim": "Key filtering options are consistently missing or not standardized across different event calendars. These include filters for accessibility (ADA features), public transit proximity, price, and specific neighborhood.",
+  "claim": "There are significant reliability gaps in event information. Problems include duplicate listings for the same event, contradictory details, and outdated information. For example, VPM's Artsline explicitly warns users that events are sometimes rescheduled and advises them to double-check with the organizing body, indicating that listings cannot always be trusted to be accurate.",
   "status": "unverified",
   "source": "post-event research",
   "url": null,
@@ -10343,7 +10343,7 @@
    {
     "sourceDoc": "post-event-research/whats-on-rva/pain_points.md",
     "sourceLocation": "lines 176-176",
-    "excerpt": "Key filtering options are consistently missing or not standardized across different event calendars. These include filters for accessibility (ADA features), public transit proximity, price, and specific neighborhood."
+    "excerpt": "There are significant reliability gaps in event information. Problems include duplicate listings for the same event, contradictory details, and outdated information. For example, VPM's Artsline explicitly warns users that events are sometimes rescheduled and advises them to double-check with the organizing body, indicating that listings cannot always be trusted to be accurate."
    },
    {
     "sourceDoc": "https://richmondmatters.com/2017/05/18/community-calendar-fragmentation/",
