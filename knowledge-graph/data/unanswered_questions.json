@@ -32,22 +32,6 @@
   ]
  },
  {
-  "id": "q:m-003",
-  "question": "~~Scope and format of oral history collections at The Valentine~~ PARTIALLY RESOLVED 2026-03-18: The Valentine holds copyright for Fulton collection; streaming is via VCU Libraries. Black History Museum oral history scope remains unverified.",
-  "category": "missing-data",
-  "repo": "pillar-city-storytelling",
-  "relatedNodeIds": [
-   "n:question:m-003"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "admin/evidence_log.md",
-    "sourceLocation": "lines 42-42",
-    "excerpt": "~~Scope and format of oral history collections at The Valentine~~ PARTIALLY RESOLVED 2026-03-18: The Valentine holds copyright for Fulton collection; streaming is via VCU Libraries. Black History Museum oral history scope remains unverified."
-   }
-  ]
- },
- {
   "id": "q:m-004",
   "question": "Whether Richmond's RVA Magazine (rvamag.com/events) provides structured data or a feed — CANNOT VERIFY. Endpoints `/events/feed/` and `/?ical=1` were tested; no usable RSS or iCal feeds discovered. Treat as high-lift scrape.",
   "category": "missing-data",

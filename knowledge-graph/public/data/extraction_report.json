@@ -1,14 +1,12 @@
 {
- "generatedAt": "2026-08-02T21:03:05.589Z",
+ "generatedAt": "2026-08-02T23:12:22.313Z",
  "repo": "pillar-city-storytelling",
  "filesExamined": [
   "admin/evidence_log.md",
   "data/source_inventory.csv",
   "post-event-research/community-story-popup-kit/jtbd_analysis.md",
-  "post-event-research/community-story-popup-kit/pain_points.md",
   "post-event-research/displacement-memory-archive/jtbd_analysis.md",
   "post-event-research/explorerva/jtbd_analysis.md",
-  "post-event-research/explorerva/pain_points.md",
   "post-event-research/fulton-oral-history/jtbd_analysis.md",
   "post-event-research/fulton-oral-history/pain_points.md",
   "post-event-research/planning-commission-story-feed/jtbd_analysis.md",
@@ -18,8 +16,106 @@
   "post-event-research/vecina/jtbd_analysis.md",
   "post-event-research/vecina/pain_points.md",
   "post-event-research/whats-on-rva/jtbd_analysis.md",
-  "post-event-research/whats-on-rva/pain_points.md"
+  "post-event-research/whats-on-rva/pain_points.md",
+  "research/00_pillar_summary_context.md",
+  "research/90_top_10_research_questions.md",
+  "research/91_top_10_hypotheses_to_test.md",
+  "research/92_red_flags.md",
+  "research/93_missing_information_gaps.md",
+  "research/A1_problem_landscape_arts_discovery.md",
+  "research/A2_problem_landscape_civic_storytelling.md",
+  "research/A3_problem_landscape_compare_statements.md",
+  "research/A5_problem_landscape_neighborhood_change.md",
+  "research/B1_users_arts_curious_resident.md",
+  "research/B2_users_artist_venue.md",
+  "research/B3_users_longtime_resident_storyteller.md",
+  "research/C2_services_existing_aggregators.md",
+  "research/C3_services_oral_history_institutions.md",
+  "research/C5_services_gaps.md",
+  "research/D1_data_eventbrite.md",
+  "research/D2_data_social_media_events.md",
+  "research/D3_data_rss_calendar_feeds.md",
+  "research/D4_data_oral_history_archives.md",
+  "research/D5_data_gis_arts_districts.md",
+  "research/E1_prior_art_arts_aggregators.md",
+  "research/E2_prior_art_story_collection.md",
+  "research/E3_prior_art_place_based_stories.md",
+  "research/E4_prior_art_failures.md",
+  "research/E5_prior_art_weekend_viable.md",
+  "research/F1_opportunities_ranked.md",
+  "research/F2_opportunities_arts_discovery.md",
+  "research/F3_opportunities_civic_stories.md",
+  "research/G1_risks_representational_bias.md",
+  "research/G3_risks_inclusion.md",
+  "research/G4_risks_copyright_attribution.md",
+  "research/G5_risks_guardrails.md",
+  "research/H1_mvp_48hr_framework.md",
+  "research/H2_mvp_arts_aggregator.md",
+  "research/H3_mvp_story_collection.md",
+  "research/H4_mvp_data_approach.md",
+  "research/H5_mvp_scope_boundaries.md",
+  "research/I1_demo_archetypes.md",
+  "research/I2_demo_arts_aggregator_pitch.md",
+  "research/I3_demo_story_collection_pitch.md",
+  "research/I5_demo_framing.md"
  ],
+ "researchCorpus": {
+  "reportsRead": 41,
+  "reportsOffBrief": [
+   {
+    "file": "research/A4_problem_landscape_cultural_equity.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/B4_users_stakeholders_map.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/B5_users_digital_equity.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/C1_services_arts_orgs_landscape.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/C4_services_city_communications.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F4_opportunities_where_software.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F5_opportunities_do_not_build.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/G2_risks_consent_privacy.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/I4_demo_credibility.md",
+    "localMentionsPerKWord": 0
+   }
+  ],
+  "reportsWithoutReferences": [
+   {
+    "file": "research/01_master_research_prompt.md",
+    "reason": "corpus scaffolding, not findings"
+   },
+   {
+    "file": "research/INDEX.md",
+    "reason": "corpus scaffolding, not findings"
+   },
+   {
+    "file": "research/validation_report.md",
+    "reason": "corpus scaffolding, not findings"
+   }
+  ],
+  "claimsIndexed": 501,
+  "primarySourcesCited": 340
+ },
  "provenanceVerification": {
   "exact": 0,
   "moved": 0,
@@ -28,11 +124,18 @@
   "external": 0
  },
  "warnings": [
-  "[merge] duplicate node id n:org:the-valentine: provenance merged"
+  "[demote] 32 sentence-shaped Problem/Need nodes moved to the evidence layer",
+  "[corpus] dropped 0 stale-anchor, 38 unresolved-endpoint, 2 not-an-organization and 44 not-a-name records",
+  "[merge] duplicate node id n:org:the-valentine: provenance merged",
+  "[merge] duplicate node id n:dataset:richmond-geohub: provenance merged",
+  "[merge] duplicate node id n:geographicregion:richmond: provenance merged",
+  "[merge] duplicate node id n:dataset:eventbrite-api: provenance merged",
+  "[merge] duplicate node id n:geographicregion:richmond: provenance merged",
+  "[merge] duplicate node id n:dataset:storycorps-archive: provenance merged"
  ],
  "metrics": {
-  "totalNodes": 165,
-  "totalEdges": 122,
+  "totalNodes": 886,
+  "totalEdges": 2111,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -42,33 +145,12 @@
   "flowsWithUnknownDestination": 0,
   "flowsWithUnknownSource": 0,
   "fundingWithUnknownDestinationUSD": 0,
-  "intendedBeneficiaryNodes": 4,
-  "needsTotal": 25,
+  "intendedBeneficiaryNodes": 25,
+  "needsTotal": 4,
   "needsWithNoFunding": [
-   "n:need:editorial-and-selective-inclusion-criteria-can-skew-what-is-listed-creating-a-bi",
-   "n:need:event-sources-are-fragmented-by-publisher-and-geography-preventing-a-comprehensi",
-   "n:need:filtering-capabilities-and-event-metadata-are-inconsistent-across-platforms-espe",
-   "n:need:the-community-s-reliance-on-multiple-sources-and-social-proof-to-find-cool-or-au",
-   "n:need:the-existence-of-multiple-independent-submission-portals-leads-to-a-high-likelih",
-   "n:need:there-is-a-lack-of-transparency-regarding-the-origin-of-event-listings-making-it",
-   "n:need:users-are-forced-to-rely-on-a-patchwork-of-social-media-feeds-and-email-newslett",
-   "n:need:when-a-city-department-is-exploring-policy-or-capital-project-impacts-in-specifi",
-   "n:need:when-a-community-group-in-church-hill-shares-a-last-minute-arts-pop-up",
-   "n:need:when-a-rezoning-case-is-docketed-for-a-planning-commission-meeting",
-   "n:need:when-coordinating-across-pdr-clerk-and-code-refresh-zac-timelines",
-   "n:need:when-demolition-and-relocation-phases-begin-at-my-public-housing-community-gilpi",
-   "n:need:when-i-m-a-small-arts-organizer-on-the-southside-with-limited-capacity",
-   "n:need:when-i-m-asked-to-relocate-or-decide-among-tpv-pbv-return-options",
-   "n:need:when-i-m-deciding-whether-and-how-to-speak-on-a-rezoning-near-me",
    "n:need:when-i-m-inviting-friends-from-out-of-town",
-   "n:need:when-i-m-planning-my-weekend-in-richmond-and-want-to-find-arts-events-near-churc",
    "n:need:when-i-m-programming-or-marketing-an-event",
-   "n:need:when-i-m-taking-friends-or-family-to-an-event-that-reflects-richmond-s-culture",
-   "n:need:when-i-ve-experienced-harm-or-neglect-tied-to-richmond-s-historical-inequities",
    "n:need:when-it-s-the-middle-of-the-week",
-   "n:need:when-it-s-thursday-afternoon-and-i-m-planning-my-weekend-in-richmond",
-   "n:need:when-multiple-richmond-agencies-planners-and-community-partners-need-qualitative",
-   "n:need:when-planning-a-small-neighborhood-arts-market-in-scott-s-addition",
    "n:need:when-relocation-assessments-and-construction-phases-are-scheduled"
   ],
   "fundingFlowsWithNoDocumentedOutcome": 0,
@@ -77,11 +159,11 @@
   "claimsLackingPrimaryEvidence": [],
   "inferredRelationships": 0,
   "disputedRelationships": 0,
-  "reportedButUnverifiedRelationships": 100,
+  "reportedButUnverifiedRelationships": 402,
   "brokenReferences": 0,
-  "duplicateCandidates": 1,
-  "reviewQueueSize": 1,
-  "evidenceRecords": 46,
+  "duplicateCandidates": 45,
+  "reviewQueueSize": 45,
+  "evidenceRecords": 579,
   "provenanceCoverage": 100,
   "provenanceVerification": {
    "exact": 0,
@@ -90,6 +172,8 @@
    "missing": 0,
    "external": 0
   },
+  "questionsDeduplicated": 0,
+  "questionsResolvedSinceLogged": 1,
   "externalResearch": {
    "researchedAt": null,
    "evidenceRecords": 0,

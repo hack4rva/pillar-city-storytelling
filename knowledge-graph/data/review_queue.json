@@ -12,5 +12,621 @@
    "Keep separate"
   ],
   "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-artsline",
+  "itemType": "node",
+  "proposed": "n:source:vpm-org-f6460ccb vs n:source:vpm-org-01fa3013",
+  "sourceExcerpt": "Artsline",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-events-richmond-com",
+  "itemType": "node",
+  "proposed": "n:source:richmond-com-d4661e14 vs n:source:richmond-com-38adafca",
+  "sourceExcerpt": "Events | richmond.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-calendar-of-events-in-richmond-things-to-do",
+  "itemType": "node",
+  "proposed": "n:source:visitrichmondva-com-1ae28ba3 vs n:source:visitrichmondva-com-4328b30e",
+  "sourceExcerpt": "Calendar of Events in Richmond | Things To Do",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-events-from-march-17-2026-february-28-2015-richmond-symphony",
+  "itemType": "node",
+  "proposed": "n:source:richmondsymphony-com-2f3c01cb vs n:source:richmondsymphony-com-9b19654f",
+  "sourceExcerpt": "Events from March 17, 2026 – February 28, 2015 – Richmond Symphony",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-about-us",
+  "itemType": "node",
+  "proposed": "n:source:mutualart-com-636f399f vs n:source:artfacts-net-62664ade",
+  "sourceExcerpt": "About Us",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-richmond-geohub",
+  "itemType": "node",
+  "proposed": "n:dataset:richmond-geohub vs n:source:richmond-geo-hub-cor-hub-arcgis-com-9886ad7f",
+  "sourceExcerpt": "Richmond GeoHub",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-local-history-and-genealogy-richmond-public-library",
+  "itemType": "node",
+  "proposed": "n:source:rvalibrary-org-c1311453 vs n:source:rvalibrary-org-0b5e72aa",
+  "sourceExcerpt": "Local History and Genealogy - Richmond Public Library",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-richmond-stories-the-valentine-museum",
+  "itemType": "node",
+  "proposed": "n:source:thevalentine-org-ea4fd7c8 vs n:source:thevalentine-org-9cb93ab7",
+  "sourceExcerpt": "Richmond Stories® - The Valentine Museum",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-calendar-virginia-museum-of-fine-arts",
+  "itemType": "node",
+  "proposed": "n:source:vmfa-museum-017c041b vs n:source:vmfa-museum-024fe317",
+  "sourceExcerpt": "Calendar - Virginia Museum of Fine Arts",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-06-03-mobile-device-checkout-policy-and-agreement",
+  "itemType": "node",
+  "proposed": "n:source:rvalibrary-org-64650de4 vs n:source:rvalibrary-org-96eb7b4a",
+  "sourceExcerpt": "06.03 Mobile Device Checkout Policy and Agreement",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-api-census-gov",
+  "itemType": "node",
+  "proposed": "n:source:api-census-gov-3405f83b vs n:source:api-census-gov-8c342a9a",
+  "sourceExcerpt": "api.census.gov",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-api-census-gov",
+  "itemType": "node",
+  "proposed": "n:source:api-census-gov-3405f83b vs n:source:api-census-gov-a2406753",
+  "sourceExcerpt": "api.census.gov",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-open-data-portal-richmond",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-c1396b7a vs n:source:rva-gov-07691dd3",
+  "sourceExcerpt": "Open Data Portal | Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-calendar-institute-for-contemporary-art",
+  "itemType": "node",
+  "proposed": "n:source:icavcu-org-f1cb8953 vs n:source:icavcu-org-0dd651b4",
+  "sourceExcerpt": "Calendar - Institute for Contemporary Art",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-eventbrite-com",
+  "itemType": "node",
+  "proposed": "n:source:eventbrite-com-8d340ba6 vs n:source:eventbrite-com-250aad98",
+  "sourceExcerpt": "eventbrite.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-calendar-virginia-museum-of-fine-arts",
+  "itemType": "node",
+  "proposed": "n:source:vmfa-museum-017c041b vs n:source:vmfa-museum-4f0be546",
+  "sourceExcerpt": "Calendar - Virginia Museum of Fine Arts",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-fulton-oral-history-project",
+  "itemType": "node",
+  "proposed": "n:source:scholarscompass-vcu-edu-ab3bac15 vs n:source:scholarscompass-vcu-edu-7118dee7",
+  "sourceExcerpt": "Fulton Oral History Project",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-city-of-richmond",
+  "itemType": "node",
+  "proposed": "n:org:city-of-richmond vs n:source:rva-gov-cb6b9495",
+  "sourceExcerpt": "City of Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-virginia-museum-of-fine-arts-financial-statements",
+  "itemType": "node",
+  "proposed": "n:source:rga-lis-virginia-gov-0b87a0c2 vs n:source:rga-lis-virginia-gov-72bcc029",
+  "sourceExcerpt": "Virginia Museum of Fine Arts Financial Statements",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-eventbrite",
+  "itemType": "node",
+  "proposed": "n:org:eventbrite vs n:organization:eventbrite",
+  "sourceExcerpt": "Eventbrite",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-the-valentine",
+  "itemType": "node",
+  "proposed": "n:org:the-valentine vs n:organization:the-valentine",
+  "sourceExcerpt": "The Valentine",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-city-of-richmond",
+  "itemType": "node",
+  "proposed": "n:org:city-of-richmond vs n:governmentagency:city-of-richmond",
+  "sourceExcerpt": "City of Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-cultureworks",
+  "itemType": "node",
+  "proposed": "n:source:richmondcultureworks-org-7cb22e5e vs n:organization:cultureworks",
+  "sourceExcerpt": "CultureWorks",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-vcu-libraries",
+  "itemType": "node",
+  "proposed": "n:org:vcu-libraries vs n:organization:vcu-libraries",
+  "sourceExcerpt": "VCU Libraries",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-virginia-museum-of-fine-arts",
+  "itemType": "node",
+  "proposed": "n:org:virginia-museum-of-fine-arts vs n:organization:virginia-museum-of-fine-arts",
+  "sourceExcerpt": "Virginia Museum of Fine Arts",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-meta",
+  "itemType": "node",
+  "proposed": "n:org:meta vs n:organization:meta",
+  "sourceExcerpt": "Meta",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-storycorps",
+  "itemType": "node",
+  "proposed": "n:org:storycorps vs n:nonprofit:storycorps",
+  "sourceExcerpt": "StoryCorps",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-virginia-museum-of-history-culture",
+  "itemType": "node",
+  "proposed": "n:source:virginiahistory-org-71e75134 vs n:organization:virginia-museum-of-history-culture",
+  "sourceExcerpt": "Virginia Museum of History & Culture",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-richmond-slave-trail",
+  "itemType": "node",
+  "proposed": "n:source:visitrichmondva-com-a8791e69 vs n:project:richmond-slave-trail",
+  "sourceExcerpt": "Richmond Slave Trail",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-rvahub",
+  "itemType": "node",
+  "proposed": "n:org:rvahub vs n:organization:rvahub",
+  "sourceExcerpt": "RVAHub",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-black-history-museum-and-cultural-center-of-virginia",
+  "itemType": "node",
+  "proposed": "n:org:black-history-museum-and-cultural-center-of-virginia vs n:organization:black-history-museum-and-cultural-center-of-virginia",
+  "sourceExcerpt": "Black History Museum and Cultural Center of Virginia",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-artsline",
+  "itemType": "node",
+  "proposed": "n:source:vpm-org-f6460ccb vs n:program:artsline",
+  "sourceExcerpt": "Artsline",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-dostuff",
+  "itemType": "node",
+  "proposed": "n:source:dostuffmedia-com-34de85b4 vs n:organization:dostuff",
+  "sourceExcerpt": "DoStuff",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-visual-arts-center-of-richmond",
+  "itemType": "node",
+  "proposed": "n:source:visarts-org-6e29cbc2 vs n:organization:visual-arts-center-of-richmond",
+  "sourceExcerpt": "Visual Arts Center of Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-arts-and-cultural-district-incentive-zones",
+  "itemType": "node",
+  "proposed": "n:source:richmond-geo-hub-cor-hub-arcgis-com-35c58aec vs n:dataset:arts-and-cultural-district-incentive-zones",
+  "sourceExcerpt": "Arts and Cultural District Incentive Zones",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-richmond-com",
+  "itemType": "node",
+  "proposed": "n:org:richmond-com vs n:organization:richmond-com",
+  "sourceExcerpt": "Richmond.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-there-s-a-story-here",
+  "itemType": "node",
+  "proposed": "n:source:sa-gov-93eb235d vs n:program:there-s-a-story-here",
+  "sourceExcerpt": "There's a Story Here",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-virginia-commonwealth-university",
+  "itemType": "node",
+  "proposed": "n:org:virginia-commonwealth-university vs n:university:virginia-commonwealth-university",
+  "sourceExcerpt": "Virginia Commonwealth University",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-dorichmond-com",
+  "itemType": "node",
+  "proposed": "n:dataset:dorichmond-com vs n:organization:dorichmond-com",
+  "sourceExcerpt": "dorichmond.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-lps-richmond",
+  "itemType": "node",
+  "proposed": "n:source:archive-storycorps-org-a8577536 vs n:community:lps-richmond",
+  "sourceExcerpt": "LPS-Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-maymont",
+  "itemType": "node",
+  "proposed": "n:source:izi-travel-b978b9ac vs n:geographicregion:maymont",
+  "sourceExcerpt": "Maymont",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-oral-history-association",
+  "itemType": "node",
+  "proposed": "n:org:oral-history-association vs n:organization:oral-history-association",
+  "sourceExcerpt": "Oral History Association",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-public-agency-feed-api",
+  "itemType": "node",
+  "proposed": "n:source:developer-nextdoor-com-c9fc6867 vs n:dataset:public-agency-feed-api",
+  "sourceExcerpt": "Public Agency Feed API",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-rva-magazine",
+  "itemType": "node",
+  "proposed": "n:dataset:rva-magazine vs n:organization:rva-magazine",
+  "sourceExcerpt": "RVA Magazine",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
  }
 ]
