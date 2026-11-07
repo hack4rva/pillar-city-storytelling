@@ -1,0 +1,2116 @@
+{
+  "run_id": "trun_1848795af0f24b80810ea05fc71e4512",
+  "interaction_id": "trun_1848795af0f24b80810ea05fc71e4512",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b80810ea05fc71e4512",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "civic_storytelling_platform_fates",
+        "reasoning": "The field value specifies a platform, Detour, that was acquired by Bose and subsequently shut down, with a shutdown date of May 31, 2018, and a noted platform-death lesson about relying on proprietary platforms. The strongest support comes from a source clearly stating that Bose acquired Detour, which confirms the acquisition detail. A separate excerpt explicitly notes the Detour shutdown, including the implied timeframe, which aligns with the stated shutdown date. Another entry discusses the post-acquisition trajectory and frames the broader lesson, describing a continuation under a new chapter and highlighting the implications of such platform life cycles for civic storytelling tools, which dovetails with the platform-death lesson. Taken together, these excerpts corroborate the acquisition, the shutdown, and the broader cautionary lesson about proprietary platforms for long-term access and portability of civic storytelling content.",
+        "citations": [
+          {
+            "url": "https://techcrunch.com/2018/04/24/bose-acquires-andrew-masons-walking-tour-startup-detour/",
+            "excerpts": [
+              "Apr 24, 2018 \u2014 Groupon founder Andrew Mason's audio tour startup Detour has been sold to Bose. The acquisition, which involves only the software and tour"
+            ],
+            "title": "Bose acquires Andrew Mason's walking tour startup, Detour"
+          },
+          {
+            "url": "https://news.ycombinator.com/item?id=16908409",
+            "excerpts": [
+              "Apr 23, 2018 \u2014 We're writing to let you know that Detour's technology and content has been sold to Bose. The Detour app will continue to operate until May 31st"
+            ],
+            "title": "Detour (walking tour app) is shutting down"
+          },
+          {
+            "url": "https://medium.com/detour-dot-com/detour-the-next-chapter-6f1aa2d97a14",
+            "excerpts": [
+              "After May 31, Detour will no longer be available. Beyond that, Bose expects the Detour content to re-emerge and be made available via a new"
+            ],
+            "title": "Detour: The Next Chapter. As of today, Bose ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "historic_fulton_oral_history_status",
+        "reasoning": "Direct evidence from the excerpts confirms: the Historic Fulton Oral History Project contains 17 interviews with 32 named interviewees, which matches the interview_count and participant_count in the field value. The Valentine is identified as the copyright holder for the project, and specific statements indicate that copyright rests with The Valentine and that materials can be used non-commercially with commercial use requiring permission. Transcripts exist and are searchable, and streaming copies are available through the digital collection, aligning with transcript_availability. While some excerpts discuss that transcripts exist and are searchable, others explicitly note the Valentine holds copyrights. Collectively, these sources support the rights status, counts, copyright holder, and transcript availability. The embedding policy is not explicitly addressed in the provided excerpts; there is no clear statement confirming or denying embedding in third-party tools, so this aspect remains unconfirmed and would require direct inquiry with the VCU Libraries Digital Collections team. For completeness, related materials describe where the collection is hosted and how rights are managed (e.g., the Valentine\u2019s role and non-commercial usage permissions), which reinforces the overall rights framework described in the field value.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "**Copyright**\nThis material is protected by copyright, and the copyright is held by The Valentine. You are permitted to use this material in any way that is permitted by copyright. In addition, non-commercial use of this material is permitted. For any commercial uses, permission is required.",
+              "**Using the collection**\nFull streaming copies of all audio interviews are available for use through this digital collection.\nEach interview has been fully transcribed and is also searchable.",
+              "The purpose of the Historic Fulton Oral History Project is to educate, raise awareness, and gain an understanding of life in the Historic Fulton community."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants. The interviewees are teachers, activists, clergy, and",
+              "The collection includes transcripts of the interviews and mp3 files of the interviews available on CDs or a flash drive.",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "VCU Libraries hosts the streaming digital collection of the Historic Fulton Oral History Project, which can be accessed [here.](https://scholarscompass.vcu.edu/ful/)"
+            ],
+            "title": "Historic Fulton Oral History Project | Virginia Commonwealth University"
+          },
+          {
+            "url": "https://www.library.vcu.edu/about/news/2015-news/historic-fulton-oral-history-project-now-online-providing-better-access-to-important-voices--.html",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewees, teachers, activists, clergy and community leaders who grew up in the predominantly African-American community in the 1930s through 1950s.",
+              "Transcripts are searchable. Audio files that literally give these accounts voices are also available.",
+              "The Valentine is the repository for the project and holds copyrights.",
+              "The Historic Fulton Oral History collection contains 17 interviews ... Rights Photographs, Voices of Freedom Oral Histories, and Jackson"
+            ],
+            "title": "2015 News | Fulton Project | VCU Libraries"
+          },
+          {
+            "url": "https://thevalentine.org/",
+            "excerpts": [
+              "Find yourself in the city's past, present and future through the Valentine's tours and programs that challenge and inspire while sparking joy and wonder!"
+            ],
+            "title": "The Valentine Museum"
+          },
+          {
+            "url": "https://dove.gmu.edu/index.php/2018/10/25/church-hill-richmond-oral-history-collection/",
+            "excerpts": [
+              "Oct 25, 2018 \u00b7 This collection focuses on social and living conditions in Richmond's Church Hill neighborhood, which was predominantly black, during the era of"
+            ],
+            "title": "Church Hill [Richmond] oral history collection"
+          },
+          {
+            "url": "https://news.vcu.edu/article/via_online_oral_history_project_residents_of_demolished_africanamerican",
+            "excerpts": [
+              "Apr 27, 2015 \u2014 VCU Libraries has posted streaming audio, transcripts of an oral history project featuring former residents of Richmond's Historic Fulton community. Apr 27, 2015 \u00b7 VCU Libraries has posted streaming audio, transcripts of an oral history project featuring former residents of Richmond's Historic Fulton community."
+            ],
+            "title": "Via online oral history project, residents of demolished African ..."
+          },
+          {
+            "url": "https://theshockoeexaminer.blogspot.com/2024/02/historic-fulton-oral-history-project.html",
+            "excerpts": [
+              "\u201cThe Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants. The interviewees are teachers,"
+            ],
+            "title": "Historic Fulton Oral History Project - The Shockoe Examiner"
+          },
+          {
+            "url": "https://richmondfreepress.com/news/2015/apr/14/fulton-oral-histories-be-accessible-internet/",
+            "excerpts": [
+              "The interviews with former residents are being digitized and soon will go online with help from the Valentine Richmond History Center and"
+            ],
+            "title": "Fulton oral histories to be accessible on the Internet"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi/",
+            "excerpts": [
+              "The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University, presented"
+            ],
+            "title": "VCU Oral History Archive"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall",
+              "Collections are presented in a variety of formats, including photographs, art, text, video, and audio. Digital Collections come from a broad range of sources, Collections are presented in a variety of formats, including photographs, art, text, video, and audio. Digital Collections come from a broad range of sources,\u00a0..."
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          },
+          {
+            "url": "https://archive.storycorps.org/search//?q=&search_type=basic&search_context=&page_num=1&page_size=25&sort_by=relevance&view_by=grid&visibility=all&keywords%5B0%5D=richmond",
+            "excerpts": [
+              "Misty and Alison talk about her journey to Richmond, nonprofit work, life in politics (local, state, and national), and who has helped her along the way.",
+              "Misty and Alison talk about her journey to Richmond , nonprofit work, life in politics (local, state, and national), and who has helped her along the way."
+            ],
+            "title": "Search Interviews - StoryCorps Archive"
+          },
+          {
+            "url": "https://storycorps.org/discover/onesmallstep/richmond/",
+            "excerpts": [
+              "While Richmond is no longer a Model Community, your community has played a vital role in shaping the initiative, and we're deeply grateful for that foundation."
+            ],
+            "title": "Take One Small Step, Richmond - StoryCorps"
+          },
+          {
+            "url": "https://storycorps.org/discover/archive/",
+            "excerpts": [
+              "StoryCorps ' archive comprises one of the first and the largest born-digital collections of human voices, featuring tens of thousands of conversations recorded"
+            ],
+            "title": "The StoryCorps Archive"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/",
+            "excerpts": [
+              "Scholars Compass is a publishing platform for the intellectual output of VCU's academic, research, and administrative communities."
+            ],
+            "title": "VCU Scholars Compass | Virginia Commonwealth University ..."
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/about.html",
+            "excerpts": [
+              "Scholars Compass is a publishing platform for the intellectual output of VCU's academic, research, and administrative communities."
+            ],
+            "title": "About Scholars Compass"
+          },
+          {
+            "url": "https://techcrunch.com/2018/04/24/bose-acquires-andrew-masons-walking-tour-startup-detour/",
+            "excerpts": [
+              "Apr 24, 2018 \u2014 Groupon founder Andrew Mason's audio tour startup Detour has been sold to Bose. The acquisition, which involves only the software and tour"
+            ],
+            "title": "Bose acquires Andrew Mason's walking tour startup, Detour"
+          },
+          {
+            "url": "https://handbook.neighborland.com/nextdoor-acquires-neighborland-e12237b7e8fd",
+            "excerpts": [
+              "We're thrilled to announce that we've been acquired by Nextdoor. Over the past few months, we have been exploring a path to integrate our visions for civic"
+            ],
+            "title": "Nextdoor acquires Neighborland. Continuing our mission on a more\u2026"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University.",
+              "Currently there are 14 interviews with four people.",
+              "In this interview, Dr. Francis M. Foster, Sr. talks about his experiences in Jackson Ward including the Crusade for Voters, Jackson Ward associations and clubs, civil rights, and his family.",
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://www.jstor.org/stable/27320354",
+            "excerpts": [
+              "by CK Vida \u00b7 2021 \u2014 Like many museums, the. Valentine was founded before deeds of gift were com- monly used to document accessions. Since our donation records and recordkeeping"
+            ],
+            "title": "DEACCESSIONING"
+          },
+          {
+            "url": "https://teachers.yale.edu/download/guides/15_03_05_guide.pdf",
+            "excerpts": [
+              "by L Germer \u00b7 2023 \u2014 A large painted sign says, \u201cGilpin Court Slum-Clearance Project\u201d then advertises: \u201cModel Negro Apartment. ... Virginia, and culminates with a student-led oral"
+            ],
+            "title": "A Public History of Public Housing: Richmond, Virginia"
+          },
+          {
+            "url": "https://news.ycombinator.com/item?id=16908409",
+            "excerpts": [
+              "Apr 23, 2018 \u2014 We're writing to let you know that Detour's technology and content has been sold to Bose. The Detour app will continue to operate until May 31st"
+            ],
+            "title": "Detour (walking tour app) is shutting down"
+          },
+          {
+            "url": "https://www.govtech.com/biz/Nextdoor-Acquires-Citizen-Engagement-Platform-Neighborland.html",
+            "excerpts": [
+              "Nextdoor announced a new mobile app to help public agencies with citizen engagement, it had quietly acquired a competitor in that space, Colorado-based"
+            ],
+            "title": "Nextdoor Acquires Citizen Engagement Platform Neighborland"
+          },
+          {
+            "url": "https://www2.archivists.org/publications/brochures/deeds-of-gift",
+            "excerpts": [
+              "The deed of gift is a formal and legal agreement between the donor and the repository that transfers ownership of and legal rights to the donated materials."
+            ],
+            "title": "A Guide to Deeds of Gift | Society of American Archivists"
+          },
+          {
+            "url": "https://www.aam-us.org/wp-content/uploads/2024/06/Deed-of-Gift.docx",
+            "excerpts": [
+              "I (We) hereby irrevocably and unconditionally convey, donate, give, and deliver to the [ Museum ] all rights (including copyrights), title and interest in and to"
+            ],
+            "title": "Deed of Gift"
+          },
+          {
+            "url": "https://www.library.vcu.edu/access/digital-collections/",
+            "excerpts": [
+              "VCU Libraries' digital collections provide free online access to written works, images, and audiovisual materials for VCUL collections alongside those of our"
+            ],
+            "title": "Digital collections - VCU Libraries"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Museum-NAGPRA-Procedures-Manual.pdf",
+            "excerpts": [
+              "Publication or reproduction of images and catalog information is prohibited. All researchers must follow Valentine Museum research request procedures. The"
+            ],
+            "title": "[PDF] The Valentine Museum NAGPRA Procedure Manual"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_geohub_neighborhood_boundary_details",
+        "reasoning": "The most relevant excerpt directly references the Neighborhoods details within the Richmond GeoHub dataset, including metadata like the record count and license visibility, which are the kinds of details you would inspect to determine whether sub-neighborhood granularity (such as Fulton vs Montrose Heights) is documented or supported. The excerpt notes the dataset features and license details, which helps establish the context for what level of granularity is officially recorded. The next most relevant excerpts discuss the broader Neighborhoods Open Data Portal and the general Richmond GeoHub neighborhood listing; these provide context that there is a neighborhood boundary layer, but do not explicitly confirm granularity down to sub-neighborhoods. The least direct excerpt restates the general GeoHub presentation and mentions neighborhood content broadly, reinforcing the existence of a boundary layer but giving less direct evidence about sub-neighborhood detail. Taken together, these excerpts support the idea that while a Richmond GeoHub neighborhoods layer exists with a defined granularity, the specific sub-neighborhood distinction (Fulton vs Montrose Heights) is not clearly specified in the metadata and would require direct data inspection or GIS contact as the fine-grained field value states.",
+        "citations": [
+          {
+            "url": "https://richmond-geo-hub-cor.hub.arcgis.com/datasets/cor::neighborhoods/about",
+            "excerpts": [
+              "Section Title: Neighborhoods > Details\nContent:\nDatasetFeature Layer\nAugust 20, 2020 at 1:37:40 PM GMTInfo Updated\nNovember 4, 2019 at 8:56:47 PM GMTData Updated\nNovember 4, 2019 at 8:42:29 PM GMTPublished Date\nRecords: 148View data table\nPublicAnyone can see this content\nCustom LicenseView license details\nRelevant Area",
+              "City of Richmond, VA. View Map Download. Summary. City of Richmond Neighborhoods. City of Richmond Neighborhoods. _Layers Library \u00b7 Neighborhood Planning \u00b7 See",
+              ""
+            ],
+            "title": "Neighborhoods | Richmond GeoHub - ArcGIS Online"
+          },
+          {
+            "url": "https://richmond-geo-hub-cor.hub.arcgis.com/",
+            "excerpts": [
+              "Explore ; Addressing \u00b7 Real Estate \u00b7 Zoning ; Elections \u00b7 Libraries \u00b7 Public Safety ; Basemap \u00b7 Economic Development \u00b7 Neighborhood Planning."
+            ],
+            "title": "Richmond GeoHub"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "storycorps_richmond_archive_analysis",
+        "reasoning": "The most relevant information comes from passages stating that transcripts are available for StoryCorps interviews and that transcripts are machine-generated and not checked for accuracy, which aligns with the field value's transcript_status. Specifically, a help article notes that transcripts are available by clicking Read Transcript, and another excerpt explicitly states that transcripts are machine-generated and may contain errors. These together support the idea that transcripts exist but are not guaranteed to be perfectly accurate. Regarding reuse licenses, excerpts containing StoryCorps terms of use indicate that the license granted is personal, non-exclusive, non-transferable, and for personal use, with no mention of Creative Commons or open reuse, which matches the reuse_license_summary in the field value. The broader StoryCorps Archive description provides context about the archive as a large, historic collection but does not override or specify license terms beyond the cited terms. Finally, additional excerpts referencing Richmond-specific StoryCorps search results help confirm that StoryCorps does contain Richmond-related interviews, but they do not directly affect the transcript/license details asserted above. Therefore, the strongest support comes from direct statements about transcripts and the stated terms of use, followed by contextual mentions of the archive and Richmond-specific search results.",
+        "citations": [
+          {
+            "url": "https://support.storycorps.me/hc/en-us/articles/115010456228-Can-I-get-a-transcript-of-your-stories",
+            "excerpts": [
+              "Transcripts are available for all audio-only broadcast interviews. You can read a transcript by clicking on the story, and then the \u201cRead Transcript\u201d button"
+            ],
+            "title": "Can I get a transcript of your stories? - StoryCorps Help"
+          },
+          {
+            "url": "https://archive.storycorps.org/interviews/anna-and-asher/",
+            "excerpts": [
+              "StoryCorps uses secure speech-to-text technology to provide machine-generated transcripts. Transcripts have not been checked for accuracy and"
+            ],
+            "title": "Anna and Asher"
+          },
+          {
+            "url": "https://archive.storycorps.org/terms-of-use/",
+            "excerpts": [
+              "Sep 14, 2023 \u2014 StoryCorps grants you a personal, non-exclusive, non-assignable and non-transferable license to access and use the Services for your personal"
+            ],
+            "title": "StoryCorps Terms of Use"
+          },
+          {
+            "url": "https://archive.storycorps.org/search//?q=&search_type=basic&search_context=&page_num=1&page_size=25&sort_by=relevance&view_by=grid&visibility=all&keywords%5B0%5D=richmond",
+            "excerpts": [
+              "Misty and Alison talk about her journey to Richmond, nonprofit work, life in politics (local, state, and national), and who has helped her along the way.",
+              "Misty and Alison talk about her journey to Richmond , nonprofit work, life in politics (local, state, and national), and who has helped her along the way."
+            ],
+            "title": "Search Interviews - StoryCorps Archive"
+          },
+          {
+            "url": "https://storycorps.org/discover/archive/",
+            "excerpts": [
+              "StoryCorps ' archive comprises one of the first and the largest born-digital collections of human voices, featuring tens of thousands of conversations recorded"
+            ],
+            "title": "The StoryCorps Archive"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "vcu_scholars_compass_api_availability",
+        "reasoning": "The analysis targets whether there is public, explicit evidence that Scholars Compass (and the Islandora-based underpinnings) exposes a stable IIIF or OAI-PMH API for programmatic access to oral history materials. The most directly relevant excerpt confirms that Scholars Compass is a publishing platform for VCU's academic output, establishing the product context but not API capabilities. Another excerpt describes Scholars Compass generally (About Scholars Compass) as a publishing platform, reinforcing the same contextual understanding without API details. A separate excerpt mentions digital collections under VCU Libraries, which may imply accessible assets but does not claim an API standard. Together, these sources provide context about the platform and its role in hosting collections but contain no explicit claim of IIIF or OAI-PMH API exposure. Consequently, there is no strong public evidence supporting the existence of a stable programmatic API for IIIF or OAI-PMH; the prudent conclusion is that such API availability cannot be confirmed from the excerpts provided and would require direct confirmation from VCU Libraries or Scholars Compass administrators. The lack of explicit API documentation in the public text is the key support for the conclusion, while the explicit statements about the platform\u2019s function and hosting of digital materials provide necessary contextual support.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/",
+            "excerpts": [
+              "Scholars Compass is a publishing platform for the intellectual output of VCU's academic, research, and administrative communities."
+            ],
+            "title": "VCU Scholars Compass | Virginia Commonwealth University ..."
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/about.html",
+            "excerpts": [
+              "Scholars Compass is a publishing platform for the intellectual output of VCU's academic, research, and administrative communities."
+            ],
+            "title": "About Scholars Compass"
+          },
+          {
+            "url": "https://www.library.vcu.edu/access/digital-collections/",
+            "excerpts": [
+              "VCU Libraries' digital collections provide free online access to written works, images, and audiovisual materials for VCUL collections alongside those of our"
+            ],
+            "title": "Digital collections - VCU Libraries"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall",
+              "Collections are presented in a variety of formats, including photographs, art, text, video, and audio. Digital Collections come from a broad range of sources, Collections are presented in a variety of formats, including photographs, art, text, video, and audio. Digital Collections come from a broad range of sources,\u00a0..."
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi/",
+            "excerpts": [
+              "The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University, presented"
+            ],
+            "title": "VCU Oral History Archive"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "Currently there are 14 interviews with four people.",
+              "In this interview, Dr. Francis M. Foster, Sr. talks about his experiences in Jackson Ward including the Crusade for Voters, Jackson Ward associations and clubs, civil rights, and his family.",
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood",
+        "reasoning": "Direct, neighborhood-specific items are strongest evidence for the digitized oral histories by neighborhood. An interview describing Jackson Ward by a known local historian, and discussions of Oregon Hill, Church Hill, and Gilpin Court oral histories point to concrete assets in the specified neighborhoods. References to the VCU Libraries\u2019 Oral History Archive and its interviews corroborate the existence and content of these neighborhood collections. General statements about digital collections or related StoryCorps items provide contextual support but are less central to the exact neighborhood assets requested. Quoted passages indicate the neighborhood focus, repository (VCU Libraries, VCU Scholars Compass, etc.), and the nature of the assets (interviews, transcripts, collections). Specifically, items describing an interview with Dr. Francis M. Foster, Sr. touching on Jackson Ward, and items mentioning Oregon Hill, Church Hill, and Gilpin Court collections are the most relevant. Additional items confirm Carver as a collection in VCU Libraries Digital Collections and the existence of a dedicated Church Hill oral history collection, both aligning with the requested neighborhoods. The combination of these excerpts forms a coherent, neighborhood-centered inventory of digitized oral history assets tied to the specified Richmond neighborhoods.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests.",
+              "In this interview, Dr. Francis M. Foster, Sr. talks about his experiences in Jackson Ward including the Crusade for Voters, Jackson Ward associations and clubs, civil rights, and his family.",
+              "Currently there are 14 interviews with four people.",
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://dove.gmu.edu/index.php/2018/10/25/church-hill-richmond-oral-history-collection/",
+            "excerpts": [
+              "Oct 25, 2018 \u00b7 This collection focuses on social and living conditions in Richmond's Church Hill neighborhood, which was predominantly black, during the era of"
+            ],
+            "title": "Church Hill [Richmond] oral history collection"
+          },
+          {
+            "url": "https://teachers.yale.edu/download/guides/15_03_05_guide.pdf",
+            "excerpts": [
+              "by L Germer \u00b7 2023 \u2014 A large painted sign says, \u201cGilpin Court Slum-Clearance Project\u201d then advertises: \u201cModel Negro Apartment. ... Virginia, and culminates with a student-led oral"
+            ],
+            "title": "A Public History of Public Housing: Richmond, Virginia"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          },
+          {
+            "url": "https://www.library.vcu.edu/access/digital-collections/",
+            "excerpts": [
+              "VCU Libraries' digital collections provide free online access to written works, images, and audiovisual materials for VCUL collections alongside those of our"
+            ],
+            "title": "Digital collections - VCU Libraries"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "rights_transfer_model_comparison",
+        "reasoning": "The most relevant evidence comes from a source that explicitly states that a Deed of Gift is a formal instrument in which parties transfer ownership and the rights to donated materials to the repository, including copyrights. This directly supports the field value by confirming that ownership and copyright are transferred to the institution, which is the core characteristic of the Deed of Gift in contrast to a Creative Commons license where the creator retains rights and licenses usage. A second source reinforces this theme by describing the Deed of Gift as a formal agreement that transfers ownership of both the material and the legal rights to the donated items. This provides another explicit articulation of ownership transfer and rights handover to the institution. A third source discusses permissions in the context of reproductions and clarifies that the institution does not surrender its right to publish or grant permission, illustrating how rights management under a deed of gift can differ from open licensing models, where licensing terms (like those of Creative Commons) would pre-define reuse permissions. Together, these excerpts map the field value\u2019s components: (1) ownership transfer to the institution, (2) transfer of copyrights, and (3) distinctions in permissions control versus CC-style licensing.",
+        "citations": [
+          {
+            "url": "https://www.aam-us.org/wp-content/uploads/2024/06/Deed-of-Gift.docx",
+            "excerpts": [
+              "I (We) hereby irrevocably and unconditionally convey, donate, give, and deliver to the [ Museum ] all rights (including copyrights), title and interest in and to"
+            ],
+            "title": "Deed of Gift"
+          },
+          {
+            "url": "https://www2.archivists.org/publications/brochures/deeds-of-gift",
+            "excerpts": [
+              "The deed of gift is a formal and legal agreement between the donor and the repository that transfers ownership of and legal rights to the donated materials."
+            ],
+            "title": "A Guide to Deeds of Gift | Society of American Archivists"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_geohub_neighborhood_boundary_details.defined_neighborhood_count",
+        "reasoning": "The target field value is a numeric count expected to reflect the total number of neighborhoods defined within the Richmond GeoHub boundary details. The first excerpt explicitly states a data record count: 'Records: 148', which aligns precisely with the finegrained value 148.0. While the other excerpts describe the Verona/GeoHub portal and contextual content about neighborhoods and the GeoHub in general, they do not provide an explicit numeric count or confirm the exact value, so they offer contextual support but not strong verification of the numeric target. Therefore, the strongest support comes from the excerpt that directly reports the record count, while the remaining excerpts corroborate the broader dataset context but do not directly confirm the specific numeric value.",
+        "citations": [
+          {
+            "url": "https://richmond-geo-hub-cor.hub.arcgis.com/datasets/cor::neighborhoods/about",
+            "excerpts": [
+              "Section Title: Neighborhoods > Details\nContent:\nDatasetFeature Layer\nAugust 20, 2020 at 1:37:40 PM GMTInfo Updated\nNovember 4, 2019 at 8:56:47 PM GMTData Updated\nNovember 4, 2019 at 8:42:29 PM GMTPublished Date\nRecords: 148View data table\nPublicAnyone can see this content\nCustom LicenseView license details\nRelevant Area",
+              "City of Richmond, VA. View Map Download. Summary. City of Richmond Neighborhoods. City of Richmond Neighborhoods. _Layers Library \u00b7 Neighborhood Planning \u00b7 See",
+              ""
+            ],
+            "title": "Neighborhoods | Richmond GeoHub - ArcGIS Online"
+          },
+          {
+            "url": "https://richmond-geo-hub-cor.hub.arcgis.com/",
+            "excerpts": [
+              "Explore ; Addressing \u00b7 Real Estate \u00b7 Zoning ; Elections \u00b7 Libraries \u00b7 Public Safety ; Basemap \u00b7 Economic Development \u00b7 Neighborhood Planning."
+            ],
+            "title": "Richmond GeoHub"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "civic_storytelling_platform_fates.platform_name",
+        "reasoning": "The target field value is the platform name Detour. The first excerpt describes Detour as a walking tour startup whose software and tour were acquired by Bose, indicating Detour\u2019s existence as a distinct platform and its acquisition. The second excerpt explicitly states that Detour's technology and content were sold to Bose and that the Detour app would operate until a specific date, which supports Detour\u2019s status as a platform undergoing a shutdown timeline under new ownership. The third excerpt mentions a later chapter for Detour after Bose\u2019s involvement, indicating a transition or re-emergence pathway and further confirming Detour's lifecycle post-acquisition. Taken together, these excerpts directly address Detour\u2019s identity, ownership change, and lifecycle within the civic storytelling tools ecosystem, aligning with the field value of the platform name and its fate.",
+        "citations": [
+          {
+            "url": "https://techcrunch.com/2018/04/24/bose-acquires-andrew-masons-walking-tour-startup-detour/",
+            "excerpts": [
+              "Apr 24, 2018 \u2014 Groupon founder Andrew Mason's audio tour startup Detour has been sold to Bose. The acquisition, which involves only the software and tour"
+            ],
+            "title": "Bose acquires Andrew Mason's walking tour startup, Detour"
+          },
+          {
+            "url": "https://news.ycombinator.com/item?id=16908409",
+            "excerpts": [
+              "Apr 23, 2018 \u2014 We're writing to let you know that Detour's technology and content has been sold to Bose. The Detour app will continue to operate until May 31st"
+            ],
+            "title": "Detour (walking tour app) is shutting down"
+          },
+          {
+            "url": "https://medium.com/detour-dot-com/detour-the-next-chapter-6f1aa2d97a14",
+            "excerpts": [
+              "After May 31, Detour will no longer be available. Beyond that, Bose expects the Detour content to re-emerge and be made available via a new"
+            ],
+            "title": "Detour: The Next Chapter. As of today, Bose ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "historic_fulton_oral_history_status.embedding_policy",
+        "reasoning": "Direct rights statements in the excerpts address how the material may be used (copyright held by The Valentine with non-commercial use allowed, and permission for commercial uses requiring permission) and how access is provided (streaming copies, transcripts, and CDs/flash drives). These pieces imply that embedding in third-party tools would require permissions beyond basic access, since embedding constitutes redistribution or reuse in a platform not controlled by the repository. Production and permission fee documentation further shows that reproduction and distribution rights are managed carefully and may require explicit permission. Deed of Gift discussions illustrate how ownership and rights transfer are formalized, which is relevant to whether embedding rights can be extended to third-party platforms. Taken together, there is no explicit embedding policy stated, but the presence of rights controls, permissions, and transfer mechanisms suggests that embedding would require separate, explicit authorization. Therefore, the most relevant material points to general rights and permission considerations, while not confirming embedding feasibility. The evidence supports a cautious stance: embedding is not confirmed and would require direct rights confirmation. ",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "**Copyright**\nThis material is protected by copyright, and the copyright is held by The Valentine. You are permitted to use this material in any way that is permitted by copyright. In addition, non-commercial use of this material is permitted. For any commercial uses, permission is required.",
+              "**Using the collection**\nFull streaming copies of all audio interviews are available for use through this digital collection.\nEach interview has been fully transcribed and is also searchable."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://www.library.vcu.edu/about/news/2015-news/historic-fulton-oral-history-project-now-online-providing-better-access-to-important-voices--.html",
+            "excerpts": [
+              "Transcripts are searchable. Audio files that literally give these accounts voices are also available.",
+              "The Historic Fulton Oral History collection contains 17 interviews ... Rights Photographs, Voices of Freedom Oral Histories, and Jackson"
+            ],
+            "title": "2015 News | Fulton Project | VCU Libraries"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          },
+          {
+            "url": "https://www.aam-us.org/wp-content/uploads/2024/06/Deed-of-Gift.docx",
+            "excerpts": [
+              "I (We) hereby irrevocably and unconditionally convey, donate, give, and deliver to the [ Museum ] all rights (including copyrights), title and interest in and to"
+            ],
+            "title": "Deed of Gift"
+          },
+          {
+            "url": "https://www2.archivists.org/publications/brochures/deeds-of-gift",
+            "excerpts": [
+              "The deed of gift is a formal and legal agreement between the donor and the repository that transfers ownership of and legal rights to the donated materials."
+            ],
+            "title": "A Guide to Deeds of Gift | Society of American Archivists"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "executive_summary",
+        "reasoning": "- The Historic Fulton Oral History Project is described as having 17 interviews with 32 named participants, and the project is tied to The Valentine Museum and VCU Libraries Digital Collections. This directly substantiates the claim about the interview count and the collaboration with The Valentine Museum, as well as the institutional custody of the material. The same excerpts note copyright held by The Valentine and that non-commercial use is permitted, with commercial use requiring permission, which supports the rights status portion of the field value. Additionally, the collection is accessible via streaming copies and transcripts are searchable, which supports embeddability considerations and accessibility of the material (even if embeddability in third-party tools is not explicitly confirmed). The Valentine is identified as the repository and holder of copyrights, reinforcing the rights position. The existence of searchable transcripts and streaming audio corroborates usable digital assets and transcriptions, aligning with the field value\u2019s outline of rights and accessibility.\n- StoryCorps content related to Richmond is reflected in multiple excerpts: one notes that transcripts exist and that transcripts are machine-generated in some StoryCorps materials, highlighting potential limitations in transcript accuracy and licensing. Other excerpts confirm that transcripts are available for all audio interviews and that StoryCorps provides a Read Transcript feature, which supports usable transcripts but with caveats about accuracy and licensing, consistent with the field value\u2019s caution about licenses and usability. The StoryCorps archive entry and related search results show the breadth of Richmond-tagged interviews, supporting the presence of many Richmond records in StoryCorps and implying the need for careful licensing and reuse considerations.\n- API/programmatic access: excerpts in the Scholars Compass/MVC context indicate that Scholars Compass is a publishing platform for VCU\u2019s academic outputs, but there is no explicit statement in the provided excerpts that Scholars Compass exposes a stable API (IIIF or OAI-PMH) for programmatic access to oral history collections. This supports the claim that a stable API status is not evidenced in the excerpts, consistent with the field value\u2019s note of uncertainty.\n- Digitized Richmond neighborhood oral histories: multiple excerpts reference VCU and related collections with Jackson Ward, Church Hill, Carver, and Oregon Hill mentions or roll-ups in the VCU Oral History Archive and related digital collections. This supports the claim that digitized assets exist for those Richmond neighborhoods, even if details vary by collection.\n- Neighborland and Detour: excerpts about Detour being acquired by Bose and the Neighborland acquisition by Nextdoor illustrate platform lifecycle events and the broader \u201cplatform death\u201d or portability concerns relevant to civic storytelling tools, consistent with the cautionary notes in the field value.\n- Deed of Gift vs Creative Commons: there are entries describing Deed of Gift as a mechanism to transfer ownership and rights (e.g., the Deed of Gift literature and institutional practice discussions). This provides context for how rights transfer works in practice at institutions like The Valentine, aligning with the field value\u2019s rights-transfer discussion.\n- Richmond GeoHub and neighborhood boundaries: several excerpts describe the Richmond GeoHub Neighborhoods dataset and its boundary layer, including the existence of 148 records and metadata about neighborhood boundaries, which supports the claim about the boundary layer and the potential granularity (including sub-neighborhood coverage) as described in the field value.\n- Overall, the interlinked evidence from project pages, institutional pages, and outlet reports provides a coherent basis for the synthesized field value, with direct claims about counts, rights status, asset accessibility, and platform trajectories.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants.",
+              "**Using the collection**\nFull streaming copies of all audio interviews are available for use through this digital collection.\nEach interview has been fully transcribed and is also searchable.",
+              "**Copyright**\nThis material is protected by copyright, and the copyright is held by The Valentine. You are permitted to use this material in any way that is permitted by copyright. In addition, non-commercial use of this material is permitted. For any commercial uses, permission is required."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants. The interviewees are teachers, activists, clergy, and"
+            ],
+            "title": "Historic Fulton Oral History Project | Virginia Commonwealth University"
+          },
+          {
+            "url": "https://www.library.vcu.edu/about/news/2015-news/historic-fulton-oral-history-project-now-online-providing-better-access-to-important-voices--.html",
+            "excerpts": [
+              "The Valentine is the repository for the project and holds copyrights.",
+              "Transcripts are searchable. Audio files that literally give these accounts voices are also available."
+            ],
+            "title": "2015 News | Fulton Project | VCU Libraries"
+          },
+          {
+            "url": "https://archive.storycorps.org/interviews/anna-and-asher/",
+            "excerpts": [
+              "StoryCorps uses secure speech-to-text technology to provide machine-generated transcripts. Transcripts have not been checked for accuracy and"
+            ],
+            "title": "Anna and Asher"
+          },
+          {
+            "url": "https://support.storycorps.me/hc/en-us/articles/115010456228-Can-I-get-a-transcript-of-your-stories",
+            "excerpts": [
+              "Transcripts are available for all audio-only broadcast interviews. You can read a transcript by clicking on the story, and then the \u201cRead Transcript\u201d button"
+            ],
+            "title": "Can I get a transcript of your stories? - StoryCorps Help"
+          },
+          {
+            "url": "https://thevalentine.org/",
+            "excerpts": [
+              "Find yourself in the city's past, present and future through the Valentine's tours and programs that challenge and inspire while sparking joy and wonder!"
+            ],
+            "title": "The Valentine Museum"
+          },
+          {
+            "url": "https://archive.storycorps.org/search//?q=&search_type=basic&search_context=&page_num=1&page_size=25&sort_by=relevance&view_by=grid&visibility=all&keywords%5B0%5D=richmond",
+            "excerpts": [
+              "Misty and Alison talk about her journey to Richmond, nonprofit work, life in politics (local, state, and national), and who has helped her along the way."
+            ],
+            "title": "Search Interviews - StoryCorps Archive"
+          },
+          {
+            "url": "https://storycorps.org/discover/archive/",
+            "excerpts": [
+              "StoryCorps ' archive comprises one of the first and the largest born-digital collections of human voices, featuring tens of thousands of conversations recorded"
+            ],
+            "title": "The StoryCorps Archive"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/",
+            "excerpts": [
+              "Scholars Compass is a publishing platform for the intellectual output of VCU's academic, research, and administrative communities."
+            ],
+            "title": "VCU Scholars Compass | Virginia Commonwealth University ..."
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/about.html",
+            "excerpts": [
+              "Scholars Compass is a publishing platform for the intellectual output of VCU's academic, research, and administrative communities."
+            ],
+            "title": "About Scholars Compass"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "Currently there are 14 interviews with four people.",
+              "In this interview, Dr. Francis M. Foster, Sr. talks about his experiences in Jackson Ward including the Crusade for Voters, Jackson Ward associations and clubs, civil rights, and his family.",
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://richmond-geo-hub-cor.hub.arcgis.com/datasets/cor::neighborhoods/about",
+            "excerpts": [
+              "City of Richmond, VA. View Map Download. Summary. City of Richmond Neighborhoods. City of Richmond Neighborhoods. _Layers Library \u00b7 Neighborhood Planning \u00b7 See",
+              "",
+              "Section Title: Neighborhoods > Details\nContent:\nDatasetFeature Layer\nAugust 20, 2020 at 1:37:40 PM GMTInfo Updated\nNovember 4, 2019 at 8:56:47 PM GMTData Updated\nNovember 4, 2019 at 8:42:29 PM GMTPublished Date\nRecords: 148View data table\nPublicAnyone can see this content\nCustom LicenseView license details\nRelevant Area"
+            ],
+            "title": "Neighborhoods | Richmond GeoHub - ArcGIS Online"
+          },
+          {
+            "url": "https://richmond-geo-hub-cor.hub.arcgis.com/",
+            "excerpts": [
+              "Explore ; Addressing \u00b7 Real Estate \u00b7 Zoning ; Elections \u00b7 Libraries \u00b7 Public Safety ; Basemap \u00b7 Economic Development \u00b7 Neighborhood Planning."
+            ],
+            "title": "Richmond GeoHub"
+          },
+          {
+            "url": "https://archive.storycorps.org/communities/lps-richmond/",
+            "excerpts": [
+              "Reading students at Leadership Public Schools in Richmond share stories from the people in their lives. Share Community."
+            ],
+            "title": "LPS-Richmond - StoryCorps Archive"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "historic_fulton_oral_history_status.interview_count",
+        "reasoning": "The finegrained field value specifies that there are 17 interviews in the Historic Fulton Oral History collection. Excerpts that explicitly state the count of interviews directly support this value: one excerpt notes that the collection contains 17 interviews with 32 named participants, another confirms 17 interviews and 32 named interviewees, a third reiterates that the collection has 17 interviews, and a fourth repeats the same count while describing the project\u2019s online access. These explicit statements establish the numerical count as fact. Additional excerpts corroborate the existence and accessibility of the same collection (e.g., streaming audio, transcripts, and the project\u2019s hosting), which reinforces the overall context that the collection is well-documented and accessible, consistent with the reported interview count. None of the excerpts contradicts the 17-interview figure, and several reinforce the same number across multiple sources, increasing confidence in the value. Where other excerpts discuss rights or access, they do not challenge the count and often complement it by describing how the material is accessed or licensed, further validating that the project exists and is curated with clear access paths.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://www.library.vcu.edu/about/news/2015-news/historic-fulton-oral-history-project-now-online-providing-better-access-to-important-voices--.html",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewees, teachers, activists, clergy and community leaders who grew up in the predominantly African-American community in the 1930s through 1950s.",
+              "The Historic Fulton Oral History collection contains 17 interviews ... Rights Photographs, Voices of Freedom Oral Histories, and Jackson"
+            ],
+            "title": "2015 News | Fulton Project | VCU Libraries"
+          },
+          {
+            "url": "https://theshockoeexaminer.blogspot.com/2024/02/historic-fulton-oral-history-project.html",
+            "excerpts": [
+              "\u201cThe Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants. The interviewees are teachers,"
+            ],
+            "title": "Historic Fulton Oral History Project - The Shockoe Examiner"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants. The interviewees are teachers, activists, clergy, and",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Historic Fulton Oral History Project | Virginia Commonwealth University"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "civic_storytelling_platform_fates.platform_death_lesson",
+        "reasoning": "The cited material centers on Detour, a civic storytelling walking-tour platform, and its lifecycle after acquisition: one excerpt notes that Detour's technology and content were sold to Bose and that the Detour app would continue to operate only until a specified date, highlighting a discontinuity risk for users and content creators. Another excerpt describes Detour's ongoing transition and eventual unavailability, signaling a complete shutdown and foreseeing a re-emergence of content through a different channel, thereby illustrating platform fragility. The third excerpt explicitly states that Bose acquired Detour, implying a shift in ownership and ongoing uncertainty about the platform's independence. Collectively, these excerpts directly support the finegrained field value by demonstrating how proprietary platforms can be discontinued or transformed, creating data ownership and portability concerns and underscoring the need for open standards for long-term resilience of civic storytelling projects.",
+        "citations": [
+          {
+            "url": "https://news.ycombinator.com/item?id=16908409",
+            "excerpts": [
+              "Apr 23, 2018 \u2014 We're writing to let you know that Detour's technology and content has been sold to Bose. The Detour app will continue to operate until May 31st"
+            ],
+            "title": "Detour (walking tour app) is shutting down"
+          },
+          {
+            "url": "https://medium.com/detour-dot-com/detour-the-next-chapter-6f1aa2d97a14",
+            "excerpts": [
+              "After May 31, Detour will no longer be available. Beyond that, Bose expects the Detour content to re-emerge and be made available via a new"
+            ],
+            "title": "Detour: The Next Chapter. As of today, Bose ..."
+          },
+          {
+            "url": "https://techcrunch.com/2018/04/24/bose-acquires-andrew-masons-walking-tour-startup-detour/",
+            "excerpts": [
+              "Apr 24, 2018 \u2014 Groupon founder Andrew Mason's audio tour startup Detour has been sold to Bose. The acquisition, which involves only the software and tour"
+            ],
+            "title": "Bose acquires Andrew Mason's walking tour startup, Detour"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "historic_fulton_oral_history_status.usage_permissions",
+        "reasoning": "The fine-grained field value specifies a permission model: non-commercial use is allowed, but commercial use requires explicit permission from the copyright holder, The Valentine Museum. The most direct excerpt states that copyright is held by The Valentine, and non-commercial use is permitted while commercial uses require permission. This directly supports the requested permission structure. A closely related excerpt discusses that the Valentine does not surrender its own right to publish or grant permission for reproductions, which reinforces that permission must be obtained from the rights holder for reproductions and uses beyond non-commercial scope. Additional excerpts describe the Deed of Gift as a mechanism transferring rights to the repository, which helps explain how rights ownership and permissions can be formalized and managed, further supporting the interpretation that usage rights depend on the Valentine\u2019s control and explicit permission for certain uses. Collectively, these excerpts confirm a rights framework where non-commercial use is allowed, commercial use requires explicit permission, and rights management is central to how the collection can be used or reproduced.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "**Copyright**\nThis material is protected by copyright, and the copyright is held by The Valentine. You are permitted to use this material in any way that is permitted by copyright. In addition, non-commercial use of this material is permitted. For any commercial uses, permission is required."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          },
+          {
+            "url": "https://www2.archivists.org/publications/brochures/deeds-of-gift",
+            "excerpts": [
+              "The deed of gift is a formal and legal agreement between the donor and the repository that transfers ownership of and legal rights to the donated materials."
+            ],
+            "title": "A Guide to Deeds of Gift | Society of American Archivists"
+          },
+          {
+            "url": "https://www.aam-us.org/wp-content/uploads/2024/06/Deed-of-Gift.docx",
+            "excerpts": [
+              "I (We) hereby irrevocably and unconditionally convey, donate, give, and deliver to the [ Museum ] all rights (including copyrights), title and interest in and to"
+            ],
+            "title": "Deed of Gift"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "rights_transfer_model_comparison.key_difference",
+        "reasoning": "A Deed of Gift is described as an agreement that transfers ownership of and legal rights, including copyrights, to the repository or institution, which aligns with the notion of a complete transfer of ownership from creator to institution. In contrast, a Creative Commons arrangement is presented as a licensing framework where the original creator retains copyright but grants pre-approved permissions for use under specific conditions, illustrating a fundamental difference in control over the rights. Additionally, a source discussing the Valentine Museum\u2019s production and permission framework notes that authorizing reproduction does not surrender the museum\u2019s own right to publish or grant permission, which further clarifies how rights and permissions are managed in practice and supports the distinction between ownership transfer and retained control under licensing.",
+        "citations": [
+          {
+            "url": "https://www.aam-us.org/wp-content/uploads/2024/06/Deed-of-Gift.docx",
+            "excerpts": [
+              "I (We) hereby irrevocably and unconditionally convey, donate, give, and deliver to the [ Museum ] all rights (including copyrights), title and interest in and to"
+            ],
+            "title": "Deed of Gift"
+          },
+          {
+            "url": "https://www2.archivists.org/publications/brochures/deeds-of-gift",
+            "excerpts": [
+              "The deed of gift is a formal and legal agreement between the donor and the repository that transfers ownership of and legal rights to the donated materials."
+            ],
+            "title": "A Guide to Deeds of Gift | Society of American Archivists"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "historic_fulton_oral_history_status.copyright_holder",
+        "reasoning": "The central claim is who holds the copyright for Historic Fulton Oral History materials. One excerpt explicitly states that the material is protected by copyright and that the copyright is held by The Valentine, which directly supports the required field value. Another excerpt reinforces this by identifying The Valentine as the repository for the project and noting that copyrights are held by them, further corroborating the ownership. A third excerpt discusses how the collection is used and accessed (streaming copies, transcripts), which, while not stating the copyright holder outright, aligns with The Valentine\u2019s role as the repository and supports the context that The Valentine manages access and rights to the materials. Taken together, these excerpts strongly support the field value that The Valentine Museum holds the copyright for Historic Fulton Oral History materials, with explicit statements in the first two excerpts and contextual access information in the third.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "**Copyright**\nThis material is protected by copyright, and the copyright is held by The Valentine. You are permitted to use this material in any way that is permitted by copyright. In addition, non-commercial use of this material is permitted. For any commercial uses, permission is required.",
+              "**Using the collection**\nFull streaming copies of all audio interviews are available for use through this digital collection.\nEach interview has been fully transcribed and is also searchable."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://www.library.vcu.edu/about/news/2015-news/historic-fulton-oral-history-project-now-online-providing-better-access-to-important-voices--.html",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews ... Rights Photographs, Voices of Freedom Oral Histories, and Jackson"
+            ],
+            "title": "2015 News | Fulton Project | VCU Libraries"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "storycorps_richmond_archive_analysis.transcript_status",
+        "reasoning": "The specific field value claims that StoryCorps transcripts are machine-generated and not checked for accuracy. Among the excerpts, the one explicitly stating that StoryCorps uses machine-generated transcripts and that transcripts have not been checked for accuracy directly substantiates this claim. Supporting evidence comes from excerpts describing transcript availability and the presence of transcripts for interviews, which corroborate the existence of transcripts but do not contradict the accuracy caveat. Other excerpts that discuss the archive or individual interviews provide contextual support but do not address the accuracy or generation method of transcripts, making them less directly relevant to the finegrained field value. Taken together, the most relevant content is the explicit accuracy caveat about machine-generated transcripts, with supportive notes on transcript availability, and less direct relevance from general archive/product descriptions.",
+        "citations": [
+          {
+            "url": "https://archive.storycorps.org/terms-of-use/",
+            "excerpts": [
+              "Sep 14, 2023 \u2014 StoryCorps grants you a personal, non-exclusive, non-assignable and non-transferable license to access and use the Services for your personal"
+            ],
+            "title": "StoryCorps Terms of Use"
+          },
+          {
+            "url": "https://archive.storycorps.org/interviews/anna-and-asher/",
+            "excerpts": [
+              "StoryCorps uses secure speech-to-text technology to provide machine-generated transcripts. Transcripts have not been checked for accuracy and"
+            ],
+            "title": "Anna and Asher"
+          },
+          {
+            "url": "https://support.storycorps.me/hc/en-us/articles/115010456228-Can-I-get-a-transcript-of-your-stories",
+            "excerpts": [
+              "Transcripts are available for all audio-only broadcast interviews. You can read a transcript by clicking on the story, and then the \u201cRead Transcript\u201d button"
+            ],
+            "title": "Can I get a transcript of your stories? - StoryCorps Help"
+          },
+          {
+            "url": "https://storycorps.org/discover/archive/",
+            "excerpts": [
+              "StoryCorps ' archive comprises one of the first and the largest born-digital collections of human voices, featuring tens of thousands of conversations recorded"
+            ],
+            "title": "The StoryCorps Archive"
+          },
+          {
+            "url": "https://archive.storycorps.org/search//?q=&search_type=basic&search_context=&page_num=1&page_size=25&sort_by=relevance&view_by=grid&visibility=all&keywords%5B0%5D=richmond",
+            "excerpts": [
+              "Misty and Alison talk about her journey to Richmond, nonprofit work, life in politics (local, state, and national), and who has helped her along the way.",
+              "Misty and Alison talk about her journey to Richmond , nonprofit work, life in politics (local, state, and national), and who has helped her along the way."
+            ],
+            "title": "Search Interviews - StoryCorps Archive"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "civic_storytelling_platform_fates.acquiring_company",
+        "reasoning": "The target field value is Bose as the acquiring_company. The most directly supportive information is the report that Bose acquired the Detour walking-tour startup, which explicitly identifies Bose as the buyer. Additional excerpts recount the aftermath of that acquisition, such as Detour announcing shutdown timelines and future re-emergence under Bose, which reinforce the Bose acquisition context. A complete evaluation of the field value is supported by these statements showing Bose as the acquiring entity and the subsequent organizational changes tied to that acquisition.",
+        "citations": [
+          {
+            "url": "https://techcrunch.com/2018/04/24/bose-acquires-andrew-masons-walking-tour-startup-detour/",
+            "excerpts": [
+              "Apr 24, 2018 \u2014 Groupon founder Andrew Mason's audio tour startup Detour has been sold to Bose. The acquisition, which involves only the software and tour"
+            ],
+            "title": "Bose acquires Andrew Mason's walking tour startup, Detour"
+          },
+          {
+            "url": "https://news.ycombinator.com/item?id=16908409",
+            "excerpts": [
+              "Apr 23, 2018 \u2014 We're writing to let you know that Detour's technology and content has been sold to Bose. The Detour app will continue to operate until May 31st"
+            ],
+            "title": "Detour (walking tour app) is shutting down"
+          },
+          {
+            "url": "https://medium.com/detour-dot-com/detour-the-next-chapter-6f1aa2d97a14",
+            "excerpts": [
+              "After May 31, Detour will no longer be available. Beyond that, Bose expects the Detour content to re-emerge and be made available via a new"
+            ],
+            "title": "Detour: The Next Chapter. As of today, Bose ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "civic_storytelling_platform_fates.status",
+        "reasoning": "The target field value indicates the platform fate as 'Acquired and shut down'. The most directly supporting information is that Detour, a walking-tour app sometimes described as a civic storytelling tool, was acquired by Bose and that the Detour app would operate only until a specified date, implying shutdown. Additional context notes that after the shutdown, the content or service was expected to re-emerge elsewhere, which is consistent with a lifecycle following acquisition and shutdown rather than ongoing independent operation. Taken together, these excerpts support the field value by showing both the acquisition event and the subsequent cessation of the original platform's operation, which defines the stated fate.",
+        "citations": [
+          {
+            "url": "https://techcrunch.com/2018/04/24/bose-acquires-andrew-masons-walking-tour-startup-detour/",
+            "excerpts": [
+              "Apr 24, 2018 \u2014 Groupon founder Andrew Mason's audio tour startup Detour has been sold to Bose. The acquisition, which involves only the software and tour"
+            ],
+            "title": "Bose acquires Andrew Mason's walking tour startup, Detour"
+          },
+          {
+            "url": "https://news.ycombinator.com/item?id=16908409",
+            "excerpts": [
+              "Apr 23, 2018 \u2014 We're writing to let you know that Detour's technology and content has been sold to Bose. The Detour app will continue to operate until May 31st"
+            ],
+            "title": "Detour (walking tour app) is shutting down"
+          },
+          {
+            "url": "https://medium.com/detour-dot-com/detour-the-next-chapter-6f1aa2d97a14",
+            "excerpts": [
+              "After May 31, Detour will no longer be available. Beyond that, Bose expects the Detour content to re-emerge and be made available via a new"
+            ],
+            "title": "Detour: The Next Chapter. As of today, Bose ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "historic_fulton_oral_history_status.transcript_availability",
+        "reasoning": "The finegrained field value asserts that transcripts are available for the Historic Fulton Oral History interviews. Direct evidence includes: a statement that the collection has been fully transcribed and is searchable, which clearly confirms transcript availability; another excerpt notes that transcripts are searchable alongside audio files, reinforcing accessibility of transcripts; an excerpt mentions that transcripts are available on CDs or a flash drive, indicating formal transcript availability; and additional excerpts explicitly reference streaming audio with transcripts. Collectively, these excerpts provide clear, aligned support for transcript_availability being True. Some excerpts focus on the number of interviews or general collection details, which are contextually related but do not by themselves assert transcript availability; however, they do not contradict the field value. Therefore, the strongest, directly supportive excerpts are grouped at the top, followed by those that corroborate transcript existence through searchability or distribution with audio.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "**Using the collection**\nFull streaming copies of all audio interviews are available for use through this digital collection.\nEach interview has been fully transcribed and is also searchable."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://www.library.vcu.edu/about/news/2015-news/historic-fulton-oral-history-project-now-online-providing-better-access-to-important-voices--.html",
+            "excerpts": [
+              "Transcripts are searchable. Audio files that literally give these accounts voices are also available.",
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewees, teachers, activists, clergy and community leaders who grew up in the predominantly African-American community in the 1930s through 1950s.",
+              "The Historic Fulton Oral History collection contains 17 interviews ... Rights Photographs, Voices of Freedom Oral Histories, and Jackson"
+            ],
+            "title": "2015 News | Fulton Project | VCU Libraries"
+          },
+          {
+            "url": "https://news.vcu.edu/article/via_online_oral_history_project_residents_of_demolished_africanamerican",
+            "excerpts": [
+              "Apr 27, 2015 \u2014 VCU Libraries has posted streaming audio, transcripts of an oral history project featuring former residents of Richmond's Historic Fulton community. Apr 27, 2015 \u00b7 VCU Libraries has posted streaming audio, transcripts of an oral history project featuring former residents of Richmond's Historic Fulton community."
+            ],
+            "title": "Via online oral history project, residents of demolished African ..."
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The collection includes transcripts of the interviews and mp3 files of the interviews available on CDs or a flash drive.",
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants. The interviewees are teachers, activists, clergy, and",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions.",
+              "VCU Libraries hosts the streaming digital collection of the Historic Fulton Oral History Project, which can be accessed [here.](https://scholarscompass.vcu.edu/ful/)"
+            ],
+            "title": "Historic Fulton Oral History Project | Virginia Commonwealth University"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_geohub_neighborhood_boundary_details.sub_neighborhood_granularity",
+        "reasoning": "The target field value asserts that the available information does not specify sub-neighborhood granularity (e.g., Fulton vs Montrose Heights) and that determining this requires direct data inspection or contacting the City of Richmond GIS. The strongest support comes from an excerpt that clearly describes a Neighborhoods dataset with explicit notes about data characteristics such as dataset features, last updated times, and that the content is publicly viewable; this establishes that a neighborhood boundary dataset exists and is accessible, which is the necessary precondition to assessing whether sub-neighborhood distinctions are present. Related excerpts reinforce the existence and context of the Neighborhoods layer and its role within the Richmond GeoHub, indicating that the dataset is a foundational resource for neighborhood boundaries and planning, which aligns with the task of assessing granularity. However, none of the excerpts provide a direct statement about sub-neighborhood distinctions (Fulton vs Montrose Heights) or a definitive answer about the granularity level. Therefore, while they support that the data exists and can be examined, they do not confirm the sub-neighborhood level, which matches the described uncertainty in the field value.",
+        "citations": [
+          {
+            "url": "https://richmond-geo-hub-cor.hub.arcgis.com/datasets/cor::neighborhoods/about",
+            "excerpts": [
+              "Section Title: Neighborhoods > Details\nContent:\nDatasetFeature Layer\nAugust 20, 2020 at 1:37:40 PM GMTInfo Updated\nNovember 4, 2019 at 8:56:47 PM GMTData Updated\nNovember 4, 2019 at 8:42:29 PM GMTPublished Date\nRecords: 148View data table\nPublicAnyone can see this content\nCustom LicenseView license details\nRelevant Area",
+              "City of Richmond, VA. View Map Download. Summary. City of Richmond Neighborhoods. City of Richmond Neighborhoods. _Layers Library \u00b7 Neighborhood Planning \u00b7 See",
+              ""
+            ],
+            "title": "Neighborhoods | Richmond GeoHub - ArcGIS Online"
+          },
+          {
+            "url": "https://richmond-geo-hub-cor.hub.arcgis.com/",
+            "excerpts": [
+              "Explore ; Addressing \u00b7 Real Estate \u00b7 Zoning ; Elections \u00b7 Libraries \u00b7 Public Safety ; Basemap \u00b7 Economic Development \u00b7 Neighborhood Planning."
+            ],
+            "title": "Richmond GeoHub"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "storycorps_richmond_archive_analysis.estimated_interview_count",
+        "reasoning": "The finegrained field seeks an estimated count of Richmond-related StoryCorps interviews, noting that a precise total is not readily available and that a manual review would be required for an exact figure. The most directly relevant excerpts demonstrate that Richmond results exist within the StoryCorps archive: search results are shown that include Richmond-related interviews and context about specific topics within Richmond, which supports the interpretation that there are many such interviews and that the collection is sizeable, even if an exact tally isn\u2019t provided. Additionally, excerpts describing StoryCorps as an archive and its large scope reinforce that the collection includes numerous conversations, which aligns with the idea of a substantial but not precisely quantified set for Richmond. Excerpts discussing transcripts and licensing are relevant to understanding data about the conversations (for example, whether transcripts exist and how they can be reused), but they do not provide numeric counts themselves; they help explain related aspects one might consider when compiling an estimate. Overall, these excerpts corroborate that there is a significant number of Richmond-focused interviews and support the statement that a precise count requires manual review, without asserting a specific number.",
+        "citations": [
+          {
+            "url": "https://archive.storycorps.org/search//?q=&search_type=basic&search_context=&page_num=1&page_size=25&sort_by=relevance&view_by=grid&visibility=all&keywords%5B0%5D=richmond",
+            "excerpts": [
+              "Misty and Alison talk about her journey to Richmond, nonprofit work, life in politics (local, state, and national), and who has helped her along the way.",
+              "Misty and Alison talk about her journey to Richmond , nonprofit work, life in politics (local, state, and national), and who has helped her along the way."
+            ],
+            "title": "Search Interviews - StoryCorps Archive"
+          },
+          {
+            "url": "https://storycorps.org/discover/archive/",
+            "excerpts": [
+              "StoryCorps ' archive comprises one of the first and the largest born-digital collections of human voices, featuring tens of thousands of conversations recorded"
+            ],
+            "title": "The StoryCorps Archive"
+          },
+          {
+            "url": "https://support.storycorps.me/hc/en-us/articles/115010456228-Can-I-get-a-transcript-of-your-stories",
+            "excerpts": [
+              "Transcripts are available for all audio-only broadcast interviews. You can read a transcript by clicking on the story, and then the \u201cRead Transcript\u201d button"
+            ],
+            "title": "Can I get a transcript of your stories? - StoryCorps Help"
+          },
+          {
+            "url": "https://archive.storycorps.org/interviews/anna-and-asher/",
+            "excerpts": [
+              "StoryCorps uses secure speech-to-text technology to provide machine-generated transcripts. Transcripts have not been checked for accuracy and"
+            ],
+            "title": "Anna and Asher"
+          },
+          {
+            "url": "https://archive.storycorps.org/terms-of-use/",
+            "excerpts": [
+              "Sep 14, 2023 \u2014 StoryCorps grants you a personal, non-exclusive, non-assignable and non-transferable license to access and use the Services for your personal"
+            ],
+            "title": "StoryCorps Terms of Use"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "richmond_geohub_neighborhood_boundary_details.data_source",
+        "reasoning": "The target field value is the source of the neighborhood boundary data, specifically indicating that the dataset\u2019s data source is Richmond GeoHub. The most directly supportive content comes from the excerpt describing the Neighborhoods page under Richmond GeoHub in ArcGIS Online, which explicitly presents a dataset layer associated with Richmond GeoHub and includes metadata such as publication and update dates, and notes about public access. This strongly aligns with the field value by showing Richmond GeoHub as the platform hosting a neighborhood-related dataset. A related excerpt references the Richmond GeoHub site and its broad scope (Explore, Addressing, Zoning, Libraries, etc.), which reinforces that the GeoHub is the central platform for neighborhood data and contextualizes its role as a data source. Additional excerpts mention the same Geographic Hub in a more general manner, further corroborating that Richmond GeoHub is the platform associated with neighborhood data, though with less direct linkage to the specific data_source field. The least directly supportive excerpt reiterates the GeoHub name in a broader context, still consistent with the field value but providing less precise alignment to the exact data_source attribute.",
+        "citations": [
+          {
+            "url": "https://richmond-geo-hub-cor.hub.arcgis.com/datasets/cor::neighborhoods/about",
+            "excerpts": [
+              "Section Title: Neighborhoods > Details\nContent:\nDatasetFeature Layer\nAugust 20, 2020 at 1:37:40 PM GMTInfo Updated\nNovember 4, 2019 at 8:56:47 PM GMTData Updated\nNovember 4, 2019 at 8:42:29 PM GMTPublished Date\nRecords: 148View data table\nPublicAnyone can see this content\nCustom LicenseView license details\nRelevant Area",
+              "City of Richmond, VA. View Map Download. Summary. City of Richmond Neighborhoods. City of Richmond Neighborhoods. _Layers Library \u00b7 Neighborhood Planning \u00b7 See",
+              ""
+            ],
+            "title": "Neighborhoods | Richmond GeoHub - ArcGIS Online"
+          },
+          {
+            "url": "https://richmond-geo-hub-cor.hub.arcgis.com/",
+            "excerpts": [
+              "Explore ; Addressing \u00b7 Real Estate \u00b7 Zoning ; Elections \u00b7 Libraries \u00b7 Public Safety ; Basemap \u00b7 Economic Development \u00b7 Neighborhood Planning."
+            ],
+            "title": "Richmond GeoHub"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "civic_storytelling_platform_fates.shutdown_date",
+        "reasoning": "The field value represents the shutdown date of the Detour app. The excerpts show a clear timeline: one excerpt states that the Detour app will continue to operate until May 31st, indicating a shutdown would occur on that date. Another excerpt notes that beyond May 31, the Detour content is expected to re-emerge under a new form, which reinforces May 31 as the key cutoff date for the current Detour availability. A third excerpt provides the surrounding corporate context by reporting that Detour\u2019s technology and content were sold to Bose, which aligns with the implied transition around the shutdown date. Taken together, these excerpts support the specific shutdown date of May 31, 2018 as the fate date for the platform in question, with the surrounding notes giving corroboration about the timing and the corporate changes influencing that timing.",
+        "citations": [
+          {
+            "url": "https://news.ycombinator.com/item?id=16908409",
+            "excerpts": [
+              "Apr 23, 2018 \u2014 We're writing to let you know that Detour's technology and content has been sold to Bose. The Detour app will continue to operate until May 31st"
+            ],
+            "title": "Detour (walking tour app) is shutting down"
+          },
+          {
+            "url": "https://medium.com/detour-dot-com/detour-the-next-chapter-6f1aa2d97a14",
+            "excerpts": [
+              "After May 31, Detour will no longer be available. Beyond that, Bose expects the Detour content to re-emerge and be made available via a new"
+            ],
+            "title": "Detour: The Next Chapter. As of today, Bose ..."
+          },
+          {
+            "url": "https://techcrunch.com/2018/04/24/bose-acquires-andrew-masons-walking-tour-startup-detour/",
+            "excerpts": [
+              "Apr 24, 2018 \u2014 Groupon founder Andrew Mason's audio tour startup Detour has been sold to Bose. The acquisition, which involves only the software and tour"
+            ],
+            "title": "Bose acquires Andrew Mason's walking tour startup, Detour"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_geohub_neighborhood_boundary_details.layer_name",
+        "reasoning": "The finegrained field value indicates a layer named 'Neighborhoods' within the Richmond GeoHub neighborhood boundary details. The most directly supportive excerpt explicitly presents a Neighborhoods dataset feature under Richmond GeoHub with details like 'Neighborhoods > Details' and notes a dataset feature layer, aligning precisely with the layer_name being 'Neighborhoods'. Subsequent excerpts reinforce the same concept by referencing 'Neighborhoods' in the context of City of Richmond Neighborhoods and as a dataset listing within the GeoHub platform. A more general excerpt about the Richmond GeoHub provides contextual alignment but is less specific about the layer name, yet still corroborates that 'Neighborhoods' is a recognized term within the GeoHub neighborhood contents. Collectively, these excerpts corroborate that the layer_name in the specified path corresponds to the 'Neighborhoods' layer in the Richmond GeoHub dataset hierarchy.",
+        "citations": [
+          {
+            "url": "https://richmond-geo-hub-cor.hub.arcgis.com/datasets/cor::neighborhoods/about",
+            "excerpts": [
+              "Section Title: Neighborhoods > Details\nContent:\nDatasetFeature Layer\nAugust 20, 2020 at 1:37:40 PM GMTInfo Updated\nNovember 4, 2019 at 8:56:47 PM GMTData Updated\nNovember 4, 2019 at 8:42:29 PM GMTPublished Date\nRecords: 148View data table\nPublicAnyone can see this content\nCustom LicenseView license details\nRelevant Area",
+              "City of Richmond, VA. View Map Download. Summary. City of Richmond Neighborhoods. City of Richmond Neighborhoods. _Layers Library \u00b7 Neighborhood Planning \u00b7 See",
+              ""
+            ],
+            "title": "Neighborhoods | Richmond GeoHub - ArcGIS Online"
+          },
+          {
+            "url": "https://richmond-geo-hub-cor.hub.arcgis.com/",
+            "excerpts": [
+              "Explore ; Addressing \u00b7 Real Estate \u00b7 Zoning ; Elections \u00b7 Libraries \u00b7 Public Safety ; Basemap \u00b7 Economic Development \u00b7 Neighborhood Planning."
+            ],
+            "title": "Richmond GeoHub"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.1",
+        "reasoning": "The most directly supportive excerpt explicitly identifies a collection titled Church Hill [Richmond] oral history collection that concentrates on social and living conditions in Richmond's Church Hill neighborhood. This directly matches the neighborhood focus and the type of material described in the finegrained field value. A second set of excerpts refers to broader oral history collections hosted by VCU and includes VCU\u2019s Oral History Archive; while not as specifically about Church Hill as the first, it confirms that VCU Libraries maintains an oral history program and digital access points, which aligns with the repository being VCU Libraries. A third excerpt lists digital collections at VCU Libraries and names related oral history collections in the broader ecosystem, reinforcing that these materials are housed within the same repository and are part of the library\u2019s digital offerings. Taken together, these excerpts corroborate the existence of the Church Hill Oral Histories collection, its focus on Church Hill, and its hosting within VCU Libraries, while also situating it within the broader VCU oral history assets. ",
+        "citations": [
+          {
+            "url": "https://dove.gmu.edu/index.php/2018/10/25/church-hill-richmond-oral-history-collection/",
+            "excerpts": [
+              "Oct 25, 2018 \u00b7 This collection focuses on social and living conditions in Richmond's Church Hill neighborhood, which was predominantly black, during the era of"
+            ],
+            "title": "Church Hill [Richmond] oral history collection"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "historic_fulton_oral_history_status.participant_count",
+        "reasoning": "The fine-grained field value is the number of participants in the Historic Fulton Oral History collection. Excerpts that directly state that there are 32 named interviewee participants provide the clearest, most direct support for the field value. The repeated phrasing across these excerpts confirms the participant count (32) within the Fulton collection. Additional excerpts note there are 17 interviews, which offers contextual corroboration of the collection size but does not override or contradict the 32-participant figure. Therefore, the most relevant evidence comes from the statements asserting 32 named interviewee participants, with secondary support from notes about total interviews to situate the size within the project. Hence, the field value 32.0 is well-supported by multiple direct citations of 32 participants, and ancillary context confirms the broader scope of 17 interviews.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ful/",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewee participants."
+            ],
+            "title": "Historic Fulton Oral History Project - VCU Libraries Digital Collections"
+          },
+          {
+            "url": "https://archives.library.vcu.edu/repositories/5/resources/312",
+            "excerpts": [
+              "The Historic Fulton Oral History Project contains 17 interviews with 32 named interviewee participants. The interviewees are teachers, activists, clergy, and",
+              "Physical copies of audio recordings and written transcriptions were distributed to a variety of local institutions to ensure that the oral histories may be accessed widely. VCU is one of those institutions."
+            ],
+            "title": "Historic Fulton Oral History Project | Virginia Commonwealth University"
+          },
+          {
+            "url": "https://www.library.vcu.edu/about/news/2015-news/historic-fulton-oral-history-project-now-online-providing-better-access-to-important-voices--.html",
+            "excerpts": [
+              "The Historic Fulton Oral History collection contains 17 interviews with 32 named interviewees, teachers, activists, clergy and community leaders who grew up in the predominantly African-American community in the 1930s through 1950s.",
+              "The Historic Fulton Oral History collection contains 17 interviews ... Rights Photographs, Voices of Freedom Oral Histories, and Jackson"
+            ],
+            "title": "2015 News | Fulton Project | VCU Libraries"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "rights_transfer_model_comparison.model_name",
+        "reasoning": "The most directly relevant content explicitly references a Deed of Gift and its core function: transferring rights (including copyrights) and delivering rights in and to the materials to the Museum. This aligns closely with the concept of a deeds-of-gift-based rights transfer model used by archives and museums. Another excerpt provides a definition of the Deed of Gift as a formal legal agreement between donor and repository that transfers ownership of and legal rights, which reinforces the model-name interpretation and clarifies the mechanics of rights transfer. A third excerpt, while not about the Deed of Gift per se, discusses how a repository (The Valentine) retains control by not surrendering its right to publish or grant permission when reproducing works, which informs practical implications and boundaries of rights under a related arrangement. Together, these excerpts collectively support identifying the model as a Deed of Gift and illustrate its implications for rights transfer versus retention.",
+        "citations": [
+          {
+            "url": "https://www.aam-us.org/wp-content/uploads/2024/06/Deed-of-Gift.docx",
+            "excerpts": [
+              "I (We) hereby irrevocably and unconditionally convey, donate, give, and deliver to the [ Museum ] all rights (including copyrights), title and interest in and to"
+            ],
+            "title": "Deed of Gift"
+          },
+          {
+            "url": "https://www2.archivists.org/publications/brochures/deeds-of-gift",
+            "excerpts": [
+              "The deed of gift is a formal and legal agreement between the donor and the repository that transfers ownership of and legal rights to the donated materials."
+            ],
+            "title": "A Guide to Deeds of Gift | Society of American Archivists"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "rights_transfer_model_comparison.ownership_transfer",
+        "reasoning": "The most relevant excerpt explicitly states that the donor conveys all rights (including copyrights) to the museum, which directly supports the notion of the institution becoming the owner of both the physical and intellectual property. The second highly relevant excerpt defines the deed of gift as a formal agreement that transfers ownership of donated materials to the repository, aligning with the idea of the institution becoming the new owner. A third excerpt notes that the Valentine does not surrender its own right to publish or grant permission for works, which provides important context that some institutions maintain ongoing publishing rights separate from transfer of ownership; while related, it is a less direct assertion about ownership transfer and thus is less central to the stated field value. Together, these excerpts corroborate the concept of ownership transfer from donor to institution and distinguish it from retained publishing rights.",
+        "citations": [
+          {
+            "url": "https://www.aam-us.org/wp-content/uploads/2024/06/Deed-of-Gift.docx",
+            "excerpts": [
+              "I (We) hereby irrevocably and unconditionally convey, donate, give, and deliver to the [ Museum ] all rights (including copyrights), title and interest in and to"
+            ],
+            "title": "Deed of Gift"
+          },
+          {
+            "url": "https://www2.archivists.org/publications/brochures/deeds-of-gift",
+            "excerpts": [
+              "The deed of gift is a formal and legal agreement between the donor and the repository that transfers ownership of and legal rights to the donated materials."
+            ],
+            "title": "A Guide to Deeds of Gift | Society of American Archivists"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "rights_transfer_model_comparison.permissions_control",
+        "reasoning": "A Deed of Gift that states an irrevocable conveyance of rights including copyrights to the museum directly supports the claim that rights are transferred to the receiving institution and are governed by the terms of that deed. A guide to Deeds of Gift reinforces the notion that ownership of the donated materials and the associated legal rights are transferred from donor to the repository under a formal agreement. The document discussing production and permission fees illustrates a related, but nuanced, point: even when rights are transferred, the donor (or institution) may reserve certain rights such as permission to publish or grant reproduction, indicating that rights control can be split or retained depending on the deed\u2019s terms. Taken together, these excerpts support the idea that permissions are generally controlled by the receiving institution per the Deed of Gift, but with possible donor-retained rights or restrictions that can affect how materials are used, reproduced, or embedded in third-party tools.",
+        "citations": [
+          {
+            "url": "https://www.aam-us.org/wp-content/uploads/2024/06/Deed-of-Gift.docx",
+            "excerpts": [
+              "I (We) hereby irrevocably and unconditionally convey, donate, give, and deliver to the [ Museum ] all rights (including copyrights), title and interest in and to"
+            ],
+            "title": "Deed of Gift"
+          },
+          {
+            "url": "https://www2.archivists.org/publications/brochures/deeds-of-gift",
+            "excerpts": [
+              "The deed of gift is a formal and legal agreement between the donor and the repository that transfers ownership of and legal rights to the donated materials."
+            ],
+            "title": "A Guide to Deeds of Gift | Society of American Archivists"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.4",
+        "reasoning": "The most directly relevant excerpt describes an interview within the VCU Oral History Archive that touches on Oregon Hill, explicitly connecting this neighborhood to the archive's content. This supports the existence of digitized assets for Oregon Hill within the VCU Libraries\u2019 oral history materials. A second excerpt states that the VCU Oral History Archive is a collection of audio files and emphasizes its accessibility as part of the VCU Libraries, which helps address questions about the format (audio) and potential embedding or reuse within tools. A third excerpt points to the VCU Libraries Digital Collections, listing related oral history collections, including partnerships and specific collections such as the Carver-VCU Partnership Oral History Collection, which reinforces that neighborhood-focused oral histories exist within VCU\u2019s digital ecosystem and could imply the availability of digitized assets by neighborhood. Additional excerpts describe the broader Oral Histories and Digital Collections portals at VCU, reinforcing that digitized oral histories are cataloged and accessible through VCU\u2019s platforms. The combination of these excerpts supports that there are digitized oral history assets for Oregon Hill within the VCU Oral History Archive, and that these assets are part of a larger digital collection with cataloged access, which may enable programmatic or embeddable access in practice, though explicit API details are not stated in the excerpts provided.\n",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests.",
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          },
+          {
+            "url": "https://www.library.vcu.edu/access/digital-collections/",
+            "excerpts": [
+              "VCU Libraries' digital collections provide free online access to written works, images, and audiovisual materials for VCUL collections alongside those of our"
+            ],
+            "title": "Digital collections - VCU Libraries"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "storycorps_richmond_archive_analysis.reuse_license_summary",
+        "reasoning": "The core supporting evidence states that StoryCorps grants you a personal, non-exclusive, non-assignable and non-transferable license to access and use the Services for your personal use. This directly supports the finegrained field value by defining the scope of allowed use and clarifying that the terms do not mention Creative Commons or other open reuse licenses, which implies that reuse beyond personal listening or viewing would require direct permission. Additional excerpts corroborate the broader context: transcripts exist for broadcasts, which reinforces that content is accessible under specific terms rather than open licensing; and a general note about the StoryCorps archive highlights its status as a large digital collection, providing context for how licenses govern access and reuse. Together, these excerpts support the assertion that reuse rights are personal-use-based and not CC-based, with additional caveat that derivative or commercial reuse requires permission beyond what the terms explicitly grant.",
+        "citations": [
+          {
+            "url": "https://archive.storycorps.org/terms-of-use/",
+            "excerpts": [
+              "Sep 14, 2023 \u2014 StoryCorps grants you a personal, non-exclusive, non-assignable and non-transferable license to access and use the Services for your personal"
+            ],
+            "title": "StoryCorps Terms of Use"
+          },
+          {
+            "url": "https://support.storycorps.me/hc/en-us/articles/115010456228-Can-I-get-a-transcript-of-your-stories",
+            "excerpts": [
+              "Transcripts are available for all audio-only broadcast interviews. You can read a transcript by clicking on the story, and then the \u201cRead Transcript\u201d button"
+            ],
+            "title": "Can I get a transcript of your stories? - StoryCorps Help"
+          },
+          {
+            "url": "https://archive.storycorps.org/interviews/anna-and-asher/",
+            "excerpts": [
+              "StoryCorps uses secure speech-to-text technology to provide machine-generated transcripts. Transcripts have not been checked for accuracy and"
+            ],
+            "title": "Anna and Asher"
+          },
+          {
+            "url": "https://storycorps.org/discover/archive/",
+            "excerpts": [
+              "StoryCorps ' archive comprises one of the first and the largest born-digital collections of human voices, featuring tens of thousands of conversations recorded"
+            ],
+            "title": "The StoryCorps Archive"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.3",
+        "reasoning": "The most relevant excerpt explicitly names a Carver-related oral history collection and ties it to the VCU Libraries' digital collections platform: the Carver-VCU Partnership Oral History Collection is listed under VCU Libraries Digital Collections. This directly confirms the neighborhood focus (Carver) and the repository (VCU Libraries Digital Collections) for digitized oral histories. Additional related excerpts support the existence of VCU oral history collections and the broader repository ecosystem: one excerpt references the broader Carver-VCU collection within the VCU Libraries Digital Collections, reinforcing the direct link between Carver and this repository; another excerpt discusses the broader \u201cOral Histories\u201d collections at VCU (a contextual corroboration that these collections exist and are curated by VCU under the Scholars Compass/VCU Libraries umbrella). Other excerpts mention different neighborhoods or general digital collections, which provides contextual background but does not directly support the specific Carver collection in the Carver-VCU Partnership line. Taken together, the most directly supporting evidence is the explicit listing of the Carver-VCU Partnership Oral History Collection in the VCU Libraries Digital Collections, which matches the requested field value describing a Carver neighborhood asset in a specific collection within a known repository. The surrounding excerpts help confirm the broader framework of oral histories at VCU, including the presence of an Oral History Archive and related digital collections, which reinforces repository stability and accessibility, though they do not provide direct confirmation about the Carver collection itself.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          },
+          {
+            "url": "https://www.library.vcu.edu/access/digital-collections/",
+            "excerpts": [
+              "VCU Libraries' digital collections provide free online access to written works, images, and audiovisual materials for VCUL collections alongside those of our"
+            ],
+            "title": "Digital collections - VCU Libraries"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests.",
+              "In this interview, Dr. Francis M. Foster, Sr. talks about his experiences in Jackson Ward including the Crusade for Voters, Jackson Ward associations and clubs, civil rights, and his family.",
+              "Currently there are 14 interviews with four people.",
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://dove.gmu.edu/index.php/2018/10/25/church-hill-richmond-oral-history-collection/",
+            "excerpts": [
+              "Oct 25, 2018 \u00b7 This collection focuses on social and living conditions in Richmond's Church Hill neighborhood, which was predominantly black, during the era of"
+            ],
+            "title": "Church Hill [Richmond] oral history collection"
+          },
+          {
+            "url": "https://teachers.yale.edu/download/guides/15_03_05_guide.pdf",
+            "excerpts": [
+              "by L Germer \u00b7 2023 \u2014 A large painted sign says, \u201cGilpin Court Slum-Clearance Project\u201d then advertises: \u201cModel Negro Apartment. ... Virginia, and culminates with a student-led oral"
+            ],
+            "title": "A Public History of Public Housing: Richmond, Virginia"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.0",
+        "reasoning": "The most directly relevant information is that the Francis Merrill Foster, Sr. is described as the historian of Jackson Ward, and that the VCU Oral History Archive is a collection of audio interviews. This directly confirms the field value\u2019s key components: the Jackson Ward focus, the specific interview collection (VCU Oral History Archive Interviews), and the repository (VCU Libraries). Excerpt describing Foster as historian of Jackson Ward provides specific linkage to the neighborhood and to Foster himself, which aligns with the field value\u2019s notes about interviews with Foster and the Jackson Ward focus. Excerpts that mention the broader Jackson Ward context within the VCU Oral History Archive and that there are multiple interviews within the archive further support that this collection exists and contains relevant material about Jackson Ward. Additional excerpts that reference the collection as part of VCU Libraries Digital Collections and Norfolk-scope of the Oral History Archive reinforce the existence and scope of the repository and its interview assets, further corroborating the field value\u2019s claims about the collection and its institutional home. Collectively, these excerpts corroborate the Jackson Ward focus within the VCU Libraries\u2019 oral history interviews and the inclusion of Foster-related material within that collection.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University.",
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests.",
+              "Currently there are 14 interviews with four people.",
+              "In this interview, Dr. Francis M. Foster, Sr. talks about his experiences in Jackson Ward including the Crusade for Voters, Jackson Ward associations and clubs, civil rights, and his family."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.1.repository",
+        "reasoning": "The most directly supporting information comes from the excerpt that references VCU Libraries Digital Collections, which is a repository-like surface indicating where digitized collections are housed. Additionally, an excerpt mentioning the Carver-VCU Partnership Oral History Collection reinforces the connection to VCU as an institutional host or partner for oral histories, which supports the idea that VCU-related repositories are involved in digitized assets. The Church Hill excerpt discusses a neighborhood collection and is linked to Richmond history but does not specify a repository, so it provides contextual relevance rather than direct evidence of the repository name. Overall, the strongest support is the explicit reference to VCU Libraries Digital Collections; the others offer contextual confirmation of VCU\u2019s role in hosting or curating oral history content, but they are less direct evidence for the exact repository field value.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          },
+          {
+            "url": "https://dove.gmu.edu/index.php/2018/10/25/church-hill-richmond-oral-history-collection/",
+            "excerpts": [
+              "Oct 25, 2018 \u00b7 This collection focuses on social and living conditions in Richmond's Church Hill neighborhood, which was predominantly black, during the era of"
+            ],
+            "title": "Church Hill [Richmond] oral history collection"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.1.neighborhood",
+        "reasoning": "The fine-grained field value identifies Church Hill as the specific neighborhood of interest within the digitized Richmond oral history assets. The most directly relevant excerpt explicitly references Church Hill in Richmond and describes an oral history collection focused on that neighborhood, which directly supports the field value as a neighborhood-tagged asset. An additional excerpt mentioning the VCU Libraries Digital Collections and listing various oral history collections suggests related materials that could encompass neighborhood-focused projects, providing contextual support that such digital collections exist and may include neighborhood-specific entries, though it does not confirm Church Hill specifically. The remaining excerpt discusses VCU\u2019s oral histories more generally, indicating the existence of organized oral history collections but without a direct tie to the Church Hill neighborhood, making it the least specific to the finegrained field value among the three. Taken together, the chain of evidence establishes a strong direct link to Church Hill through the explicitly named collection, with contextual corroboration from the broader urban neighborhood oral histories and institutional collections.",
+        "citations": [
+          {
+            "url": "https://dove.gmu.edu/index.php/2018/10/25/church-hill-richmond-oral-history-collection/",
+            "excerpts": [
+              "Oct 25, 2018 \u00b7 This collection focuses on social and living conditions in Richmond's Church Hill neighborhood, which was predominantly black, during the era of"
+            ],
+            "title": "Church Hill [Richmond] oral history collection"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.2",
+        "reasoning": "The most relevant excerpt explicitly connects Gilpin Court to a student-led oral history project within the context of a Yale Teachers Institute guide on the history of public housing in Richmond. This directly aligns with the field value that cites Gilpin Court and notes a student-led oral history project mentioned in connection with Yale Teachers Institute. The second excerpt also supports Gilpin Court by situating it within a discussion of public housing history and mentioning the presence of oral histories in that area, including the historical context of Gilpin Court. Together, these excerpts provide direct and contextual evidence about Gilpin Court-related oral histories and the implied existence of a guide or classroom-oriented project related to this neighborhood.",
+        "citations": [
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          },
+          {
+            "url": "https://teachers.yale.edu/download/guides/15_03_05_guide.pdf",
+            "excerpts": [
+              "by L Germer \u00b7 2023 \u2014 A large painted sign says, \u201cGilpin Court Slum-Clearance Project\u201d then advertises: \u201cModel Negro Apartment. ... Virginia, and culminates with a student-led oral"
+            ],
+            "title": "A Public History of Public Housing: Richmond, Virginia"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.1.collection_name",
+        "reasoning": "The target field value names a specific collection: 'Church Hill Oral Histories'. The excerpt that directly references this exact collection is a Church Hill oral history collection focusing on Richmond's Church Hill neighborhood during a historical period. This provides direct alignment with the requested field value. The other excerpts describe related sources: one points to a general VCU Oral History Archive and its components, and another highlights VCU Libraries Digital Collections with examples of related collections. While these do not confirm the exact Church Hill collection name, they corroborate that Church Hill-related material exists within broader Richmond oral history initiatives and within VCU\u2019s digital/archival infrastructure, which is contextually relevant to understanding the digitized assets by neighborhood and institutional sources.",
+        "citations": [
+          {
+            "url": "https://dove.gmu.edu/index.php/2018/10/25/church-hill-richmond-oral-history-collection/",
+            "excerpts": [
+              "Oct 25, 2018 \u00b7 This collection focuses on social and living conditions in Richmond's Church Hill neighborhood, which was predominantly black, during the era of"
+            ],
+            "title": "Church Hill [Richmond] oral history collection"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.1.notes",
+        "reasoning": "The field value refers to a collection of oral histories centered on the social and living conditions in Church Hill, a predominantly Black neighborhood in Richmond. The excerpt describing the Church Hill [Richmond] oral history collection explicitly notes that it focuses on social and living conditions in Richmond's Church Hill neighborhood, which is described as predominantly Black. This directly substantiates the existence and thematic scope of the requested collection. Other excerpts mention general oral history archives (VCU) or different collections (e.g., Carver-VCU, censorship topics) but do not specify a Church Hill-focused collection or its social-condition emphasis, making them only tangentially relevant at best. Therefore, the most relevant information is the explicit Church Hill-focused entry, which directly matches the finegrained field value. The other excerpts do not provide the exact social-condition focus for Church Hill and thus contribute less directly to the specific field value.",
+        "citations": [
+          {
+            "url": "https://dove.gmu.edu/index.php/2018/10/25/church-hill-richmond-oral-history-collection/",
+            "excerpts": [
+              "Oct 25, 2018 \u00b7 This collection focuses on social and living conditions in Richmond's Church Hill neighborhood, which was predominantly black, during the era of"
+            ],
+            "title": "Church Hill [Richmond] oral history collection"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.4.repository",
+        "reasoning": "To determine alignment with the field value, I looked for excerpts that explicitly reference VCU Libraries as the repository or host for digitized oral history assets. The strongest match is an excerpt describing VCU Libraries Digital Collections, which lists oral history collections and indicates a clear institutional repository (Carver-VCU Partnership Oral History Collection and related items) under the VCU Libraries umbrella. A second closely aligned excerpt mentions VCU Libraries' digital collections directly, reinforcing the repository role for digitized assets. Other excerpts reference the VCU Oral History Archive and related projects within VCU Libraries' sphere, confirming institutional involvement and hosting of oral history materials, though they are less explicit about the neighborhood-focused digitized assets. Collectively, these excerpts support that the digitized oral history assets exist within and are hosted by VCU Libraries, even if some excerpts focus on broader or unrelated facets of the VCU oral history program.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          },
+          {
+            "url": "https://www.library.vcu.edu/access/digital-collections/",
+            "excerpts": [
+              "VCU Libraries' digital collections provide free online access to written works, images, and audiovisual materials for VCUL collections alongside those of our"
+            ],
+            "title": "Digital collections - VCU Libraries"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests.",
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.0.neighborhood",
+        "reasoning": "The finegrained field value is Jackson Ward, a neighborhood in Richmond. Excerpts that directly reference Jackson Ward provide the strongest support for the neighborhood-level asset mapping. The most relevant excerpts explicitly describe Jackson Ward as a historically significant Richmond neighborhood and discuss experiences and interviews tied to that area. Specifically, the excerpt notes Jackson Ward as the historically African-American Richmond neighborhood and ties it to a collection of interviews with prominent university-associated figures, which supports the existence and content of digitized oral histories linked to that neighborhood. Another excerpt describes experiences in Jackson Ward including civic activities and community life, reinforcing neighborhood relevance. An additional excerpt, while mentioning other neighborhoods, also explicitly connects to discussions of Jackson Ward in the broader context of interviews and local history. Less directly relevant are excerpts that reference other neighborhoods or general archival collections without focusing on Jackson Ward, hence they rank lower. Overall, multiple excerpts provide direct or contextual support for the Jackson Ward neighborhood linkage in the digitized oral history assets. ",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University.",
+              "In this interview, Dr. Francis M. Foster, Sr. talks about his experiences in Jackson Ward including the Crusade for Voters, Jackson Ward associations and clubs, civil rights, and his family.",
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests.",
+              "Currently there are 14 interviews with four people."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.4.notes",
+        "reasoning": "The most relevant excerpt explicitly notes that a Dr. Maurice Duke discusses topics including Oregon Hill and the effect of construction on Richmond neighborhoods, which directly aligns with the finegrained field value about an interview in the VCU Oral History Archive containing content on Oregon Hill and other neighborhoods. Supporting details include the association of the interview with VCU Libraries Digital and a focus on places in Richmond, including Oregon Hill. Additional excerpts corroborate the archive\u2019s existence and scope: one describes the VCU Oral History Archive as a collection of audio interviews from notable figures associated with VCU, which supports the existence and repository context of the interview in question. Another entry mentions the broader VCU Oral History Archive Interviews as part of the catalog of oral histories, reinforcing that such interviews exist within the archive. While other excerpts reference related digital collections and collections pages, they are less directly tied to the specific Duke interview content, but they still provide contextual confirmation that the archive houses multiple Richmond-area oral histories and related materials. Together, these excerpts support the inference that the VCU Oral History Archive includes interviews with figures connected to Richmond neighborhoods such as Oregon Hill and addresses construction impacts, aligning with the described field value. ",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests.",
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          },
+          {
+            "url": "https://www.library.vcu.edu/access/digital-collections/",
+            "excerpts": [
+              "VCU Libraries' digital collections provide free online access to written works, images, and audiovisual materials for VCUL collections alongside those of our"
+            ],
+            "title": "Digital collections - VCU Libraries"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.0.repository",
+        "reasoning": "The field value identifies the repository as VCU Libraries. Excerpt 0 clearly identifies the repository in the context of the VCU Libraries Digital collection of oral history interviews, directly supporting that VCU Libraries hosts the material. Excerpt 4 similarly references the VCU Libraries Digital interface for the interview material. Excerpt 3 points to the Oral Histories collection under the Virginia Commonwealth University umbrella, reinforcing that the repository context is tied to VCU institutions and their libraries. Excerpt 1 discusses an interview within the VCU Oral History Archive and mentions VCU, reinforcing institutional authorship/hosting context, which supports the repository being associated with VCU Libraries. Excerpt 2 provides a count of interviews but does not explicitly name the repository, offering partial support by confirming content under the same VCU Oral History Archive but with less direct linkage to the repository branding. Taken together, these excerpts coherently support the finegrained field value that the repository is VCU Libraries, with the strongest support from those that explicitly reference the VCU Libraries Digital hosting of the Oral History Archive materials.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University.",
+              "In this interview, Dr. Francis M. Foster, Sr. talks about his experiences in Jackson Ward including the Crusade for Voters, Jackson Ward associations and clubs, civil rights, and his family.",
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests.",
+              "Currently there are 14 interviews with four people."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.0.collection_name",
+        "reasoning": "The most directly relevant excerpt explicitly references the subject of the field value by naming Dr. Francis M. Foster, Sr. as part of the VCU Oral History Archive Interviews, establishing both the collection and the interview subject. The second excerpt mentions the VCU Oral History Archive Interviews and ties the collection to Richmond neighborhoods, reinforcing that the archive exists and contains interviews, including those involving Foster\u2019s era or context. The third excerpt notes that there are currently multiple interviews within the VCU Oral History Archive Interviews, with a count that helps corroborate the existence of a multi-interview set within the archive, which can include Foster\u2019s interview. Taken together, these excerpts support the field value by confirming the archive's existence and its association with interviews related to Foster, including contextual ties to Jackson Ward.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "In this interview, Dr. Francis M. Foster, Sr. talks about his experiences in Jackson Ward including the Crusade for Voters, Jackson Ward associations and clubs, civil rights, and his family.",
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University.",
+              "Currently there are 14 interviews with four people."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.0.notes",
+        "reasoning": "The target field value asserts that the notes contain interviews featuring Dr. Francis M. Foster, Sr., who is identified as a historian of Jackson Ward, and that these interviews cover topics like the Crusade for Voters, civil rights, and family life. The most directly supportive excerpt explicitly states that Dr. Francis M. Foster, Sr. discusses Jackson Ward experiences, civil rights, and family life, aligning with the field value\u2019s described topics. Another excerpt confirms that Foster is associated with the Jackson Ward history and identifies the archive as a collection of interviews, providing contextual support that his interviews are part of the digitized oral history assets. A third supporting excerpt provides a quantitative detail about the archive, noting a total of 14 interviews with four people, which corroborates the existence of multiple interviews in the collection and implies availability of such interviews, though it is less specific to Foster. Collectively, these excerpts establish that Foster\u2019s Jackson Ward interviews exist within the VCU/Scholars Compass oral history assets and cover the requested civil rights and family-life themes. Excerpts focusing on other interviewees or broader collection overviews contribute context but do not directly address Foster\u2019s hand in these notes as strongly.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "In this interview, Dr. Francis M. Foster, Sr. talks about his experiences in Jackson Ward including the Crusade for Voters, Jackson Ward associations and clubs, civil rights, and his family.",
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University.",
+              "Currently there are 14 interviews with four people."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.4.neighborhood",
+        "reasoning": "The finegrained field value identifies the neighborhood Oregon Hill within the digitized oral history assets. The most directly supportive excerpt notes that an interview covers Oregon Hill as part of discussions on Richmond neighborhoods and touches on history and archival topics within the VCU/Scholars Compass context. This directly ties to Oregon Hill as a neighborhood of interest in the oral history collections, indicating that at least one oral history item includes Oregon Hill as a subject, aligning with the requested digitized assets by neighborhood. Other excerpts discuss different neighborhoods or general oral history collections but do not explicitly reference Oregon Hill, so their relevance to the specific field value is limited.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.3.collection_name",
+        "reasoning": "The field value corresponds to a digitized oral history collection named Carver-VCU Partnership Oral History Collection. The most directly relevant excerpt explicitly lists this collection within the VCU Libraries Digital Collections, confirming its existence as part of the Carver-VCU Partnership Oral History Collection. This excerpt places the collection squarely in the VCU digital collections ecosystem, supporting the field value as a named, digitized oral history asset. Other excerpts discuss VCU Oral History Archive interviews or neighborhood contexts but do not name the Carver-VCU Partnership collection, so they provide contextual support but not direct confirmation of the exact collection name.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.4.collection_name",
+        "reasoning": "The most direct support comes from an excerpt that explicitly states an interview with Dr. Maurice Duke is part of the VCU Oral History Archive, describing the interview and the person involved. This directly confirms that the VCU Oral History Archive includes an interview with Dr. J. Maurice Duke, aligning with the requested collection name in the field value. A second excerpt reinforces the existence of the VCU Oral History Archive as a collection of audio interviews with individuals connected to VCU, which provides necessary context that the archive hosts multiple interviews and is a repository for oral histories, thereby supporting the notion that the interview in question is housed within that collection. A third excerpt enumerates the VCU Oral History Archive Interviews as part of VCU\u2019s oral histories offerings, further corroborating that the archive is the source for such interview content. Additional excerpts discuss VCU Libraries\u2019 digital collections and other related oral history collections, which help situate the specific archive within the broader ecosystem of VCU-managed oral histories but do not explicitly name the Dr. Duke interview. Taken together, these excerpts collectively support that the item described by the field value is indeed an interview within the VCU Oral History Archive, specifically the interview with Dr. J. Maurice Duke, within the broader context of VCU\u2019s oral history programs and collections.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests.",
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          },
+          {
+            "url": "https://www.library.vcu.edu/access/digital-collections/",
+            "excerpts": [
+              "VCU Libraries' digital collections provide free online access to written works, images, and audiovisual materials for VCUL collections alongside those of our"
+            ],
+            "title": "Digital collections - VCU Libraries"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.3.notes",
+        "reasoning": "The most directly relevant excerpt states that VCU Libraries maintains Digital Collections, which are the primary digital platform hosting items like oral histories. This directly supports the notion of digitized assets being available via a digital platform associated with VCU Libraries. Another closely related excerpt notes that there are multiple interviews stored within the VCU Oral History Archive, indicating an organized, collection-based approach to digitized oral histories, which reinforces the idea of a structured digital asset library. Additional excerpts describe specific neighborhood-focused oral history efforts (for example, Jackson Ward and Church Hill), showing that neighborhood-level collections exist within the broader VCU Libraries oral history programs and are accessible through their digital platforms. A supporting excerpt enumerates the size of the interview collection in the VCU Oral History Archive, which helps corroborate the existence of a curated, countable set of digitized interviews. Other excerpts specifically mentioning a neighborhood like Church Hill or Oregon Hill demonstrate that neighborhood-specific content is part of the digitized assets, aligning with the finegrained field\u2019s focus on neighborhood-level collections. Collectively, these excerpts connect the digital platform (VCU Libraries Digital Collections) to organized oral history assets, including neighborhood-focused items, and provide contextual evidence about counts and scope through mentions of interview collections and locality-specific projects. The most directly supportive statements emphasize the existence of a digital collections portal and neighborhood-focused oral history items, with the surrounding excerpts adding corroborative details about collection scope and specific neighborhoods.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "Currently there are 14 interviews with four people.",
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests.",
+              "In this interview, Dr. Francis M. Foster, Sr. talks about his experiences in Jackson Ward including the Crusade for Voters, Jackson Ward associations and clubs, civil rights, and his family.",
+              "Francis Merrill Foster, Sr. is known as the historian of Jackson Ward, the historically African-American Richmond neighborhood where he had a successful dental The VCU Oral History Archive is a collection of audio files of interviews with prominent individuals associated with Virginia Commonwealth University."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          },
+          {
+            "url": "https://dove.gmu.edu/index.php/2018/10/25/church-hill-richmond-oral-history-collection/",
+            "excerpts": [
+              "Oct 25, 2018 \u00b7 This collection focuses on social and living conditions in Richmond's Church Hill neighborhood, which was predominantly black, during the era of"
+            ],
+            "title": "Church Hill [Richmond] oral history collection"
+          },
+          {
+            "url": "https://www.library.vcu.edu/access/digital-collections/",
+            "excerpts": [
+              "VCU Libraries' digital collections provide free online access to written works, images, and audiovisual materials for VCUL collections alongside those of our"
+            ],
+            "title": "Digital collections - VCU Libraries"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.2.notes",
+        "reasoning": "The field value asserts that a Yale Teachers Institute guide on the history of public housing in Richmond mentions a student-led oral history project related to Gilpin Court. The excerpt describing a public history of public housing in Richmond explicitly notes a student-led oral history project related to Gilpin Court, directly supporting the fine-grained field value. The other excerpt discusses production and permission fees in the Valentine Museum context, indicating how rights may be managed for reproductions but does not confirm the specific Gilpin Court oral history connection; it provides contextual rights information that could be relevant for understanding broader rights mechanisms but is not a direct assertion about the field value. Taken together, the Gilpin Court-related excerpt is the primary support, while the Valentine Museum excerpt offers supplementary rights-contextual data.",
+        "citations": [
+          {
+            "url": "https://teachers.yale.edu/download/guides/15_03_05_guide.pdf",
+            "excerpts": [
+              "by L Germer \u00b7 2023 \u2014 A large painted sign says, \u201cGilpin Court Slum-Clearance Project\u201d then advertises: \u201cModel Negro Apartment. ... Virginia, and culminates with a student-led oral"
+            ],
+            "title": "A Public History of Public Housing: Richmond, Virginia"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.3.repository",
+        "reasoning": "The fine-grained field value identifies the repository hosting digitized oral histories as the VCU Libraries Digital Collections. The most directly supportive excerpts repeatedly reference this repository name and its scope: one excerpt explicitly lists the VCU Libraries Digital Collections and ties it to oral history collections, and another excerpt describes VCU Libraries' digital collections as providing free online access to materials within VCUL collections, which would include digitized oral histories. Additional excerpts reference the VCU Oral History Archive Interviews as part of the same institutional ecosystem, illustrating that the repository contains oral history interviews (and identifies specific interview topics or individuals), which reinforces that the repository houses digitized oral history assets. A separate excerpt confirms the existence of a specific number of interviews within the VCU oral history program, further evidencing the repository\u2019s holdings. Another excerpt discusses a neighborhood-focused oral history collection (Church Hill) within the broader VCU/Valentine/Richmond ecosystem, supporting that neighborhood assets are part of or related to the repository\u2019s scope. Collectively, these excerpts establish that the repository in question is indeed the VCU Libraries Digital Collections and that it hosts or is closely tied to VCU\u2019s oral history materials, including interview collections and neighborhood-focused assets. The remaining excerpts reference related but more specific or peripheral aspects (e.g., general oral histories, individual interview descriptions, or related institutions) and thus are less central to identifying the repository itself. This combination of direct repository naming, description of digital collections access, and explicit mention of oral history interview materials provides coherent and corroborated support for the stated field value.",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          },
+          {
+            "url": "https://www.library.vcu.edu/access/digital-collections/",
+            "excerpts": [
+              "VCU Libraries' digital collections provide free online access to written works, images, and audiovisual materials for VCUL collections alongside those of our"
+            ],
+            "title": "Digital collections - VCU Libraries"
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/ohi_interviews/",
+            "excerpts": [
+              "Currently there are 14 interviews with four people.",
+              "In this interview, Dr. Maurice Duke discusses three books that influenced his life, African American architecture in Richmond, Oregon Hill and the effect of construction on Richmond neighborhoods, the expansion of VCU, early interest in photography and literature, Cathedral High School, the Civil Rights Movement and VCU, his work as book editor at the Richmond Times Dispatch, and his personal interests.",
+              "In this interview, Dr. Francis M. Foster, Sr. talks about his experiences in Jackson Ward including the Crusade for Voters, Jackson Ward associations and clubs, civil rights, and his family."
+            ],
+            "title": "VCU Oral History Archive Interviews - VCU Libraries Digital ..."
+          },
+          {
+            "url": "https://scholarscompass.vcu.edu/oral_histories/",
+            "excerpts": [
+              "Browse the Oral Histories Collections: \u00b7 VCU Oral History Archive Interviews \u00b7 VCU Oral History Archive Photos."
+            ],
+            "title": "Oral Histories | Virginia Commonwealth University Research"
+          },
+          {
+            "url": "https://dove.gmu.edu/index.php/2018/10/25/church-hill-richmond-oral-history-collection/",
+            "excerpts": [
+              "Oct 25, 2018 \u00b7 This collection focuses on social and living conditions in Richmond's Church Hill neighborhood, which was predominantly black, during the era of"
+            ],
+            "title": "Church Hill [Richmond] oral history collection"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.2.neighborhood",
+        "reasoning": "The finegrained field value tracks the neighborhood Gilpin Court. The relevant excerpt discusses Gilpin Court in the context of a public housing history guide that also involves oral history, which directly ties to the research subject of digitized oral history assets by neighborhood. This excerpt supports identifying Gilpin Court as a neighborhood of interest within Richmond\u2019s oral history and public history collections, aligning with the requested focus on digitized assets by neighborhood. The other excerpt does not mention Gilpin Court and thus provides no support for this specific field value.",
+        "citations": [
+          {
+            "url": "https://teachers.yale.edu/download/guides/15_03_05_guide.pdf",
+            "excerpts": [
+              "by L Germer \u00b7 2023 \u2014 A large painted sign says, \u201cGilpin Court Slum-Clearance Project\u201d then advertises: \u201cModel Negro Apartment. ... Virginia, and culminates with a student-led oral"
+            ],
+            "title": "A Public History of Public Housing: Richmond, Virginia"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.3.neighborhood",
+        "reasoning": "The finegrained field targets the Carver neighborhood\u2019s digitized oral history assets. The most directly relevant excerpt explicitly references Carver in the context of the VCU/Carver partnership oral history collection, indicating a Carver-focused asset. Other excerpts discuss neighboring areas (Jackson Ward, Church Hill) or generic oral history collections, which are only tangentially relevant to Carver and do not confirm Carver-specific assets or inventories. Therefore, the strongest support comes from the Carver-specific mention, while the rest provide contextual backdrop but not direct evidence for Carver. ",
+        "citations": [
+          {
+            "url": "https://scholarscompass.vcu.edu/digital_collections/",
+            "excerpts": [
+              "Browse the VCU Libraries Digital Collections: \u00b7 Carver-VCU Partnership Oral History Collection \u00b7 Censorship in Virginia Libraries Oral Histories \u00b7 East Marshall"
+            ],
+            "title": "VCU Libraries Digital Collections - Virginia Commonwealth University"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.2.collection_name",
+        "reasoning": "- Excerpt describing a public history project notes that it includes a 'student-led oral' component, which directly supports the notion of a 'Student-led oral history project' as a type of asset or collection within the Richmond neighborhood context. This directly informs the interpretation of the field value as describing a project category and aligns with the target collection naming/usability in that context. \n- Excerpt discussing production and permission fees explains how rights and permissions are managed when reproducing works in a museum collection, which is relevant to the broader rights considerations of digitized oral history assets. While it does not mention the specific collection name, it provides concrete context on rights transfer, publishing permissions, and potential licensing implications that would be important for a collection described as a 'Student-led oral history project' in terms of access, embedding, and reuse. Together, these excerpts illuminate both the project-typing (student-led) and the rights framework applicable to digitized assets, which is consistent with analyzing a field that is the collection name within a neighborhood asset dataset.",
+        "citations": [
+          {
+            "url": "https://teachers.yale.edu/download/guides/15_03_05_guide.pdf",
+            "excerpts": [
+              "by L Germer \u00b7 2023 \u2014 A large painted sign says, \u201cGilpin Court Slum-Clearance Project\u201d then advertises: \u201cModel Negro Apartment. ... Virginia, and culminates with a student-led oral"
+            ],
+            "title": "A Public History of Public Housing: Richmond, Virginia"
+          },
+          {
+            "url": "https://thevalentine.org/wp-content/uploads/2023/10/Valentine-Production-and-Permission-Fees-2021.pdf",
+            "excerpts": [
+              "In authorizing the reproduction of works in its collections, the Valentine does not surrender its own right to publish or grant permission for"
+            ],
+            "title": "[PDF] Production And Permission Fees - The Valentine Museum"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "digitized_oral_history_assets_by_neighborhood.2.repository",
+        "reasoning": "The excerpt pointing to a Yale-hosted guide on the Yale teaching site indicates a Yale-related teaching program and a guide context, which aligns with the notion of a Yale Teachers Institute being referenced within a guide. The reference to a guide hosted under the Yale domain serves as evidence that Yale-related educational materials are being cited in guides, supporting the field value that Yale Teachers Institute is referenced in a guide. The other excerpt is unrelated to Yale or teaching institutes and thus provides no support for the finegrained field value.\n",
+        "citations": [
+          {
+            "url": "https://teachers.yale.edu/download/guides/15_03_05_guide.pdf",
+            "excerpts": [
+              "by L Germer \u00b7 2023 \u2014 A large painted sign says, \u201cGilpin Court Slum-Clearance Project\u201d then advertises: \u201cModel Negro Apartment. ... Virginia, and culminates with a student-led oral"
+            ],
+            "title": "A Public History of Public Housing: Richmond, Virginia"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "executive_summary": {
+          "type": "string",
+          "description": "A high-level summary of the key findings for each of the user's questions regarding Richmond's oral history archives and civic storytelling data."
+        },
+        "historic_fulton_oral_history_status": {
+          "type": "object",
+          "properties": {
+            "interview_count": {
+              "type": "number",
+              "description": "The total number of interviews in the collection."
+            },
+            "participant_count": {
+              "type": "number",
+              "description": "The total number of named interviewee participants."
+            },
+            "copyright_holder": {
+              "type": "string",
+              "description": "The institution that holds the copyright for the material."
+            },
+            "usage_permissions": {
+              "type": "string",
+              "description": "A summary of the permissions for using the material, covering non-commercial and commercial use."
+            },
+            "transcript_availability": {
+              "type": "boolean",
+              "description": "Indicates whether full transcripts are available for the interviews."
+            },
+            "embedding_policy": {
+              "type": "string",
+              "description": "Information on whether the interviews can be embedded in third-party tools, based on their online accessibility."
+            }
+          },
+          "required": [
+            "interview_count",
+            "participant_count",
+            "copyright_holder",
+            "usage_permissions",
+            "transcript_availability",
+            "embedding_policy"
+          ],
+          "additionalProperties": false
+        },
+        "storycorps_richmond_archive_analysis": {
+          "type": "object",
+          "properties": {
+            "estimated_interview_count": {
+              "type": "string",
+              "description": "An estimation of the number of Richmond-tagged oral histories in the StoryCorps archive."
+            },
+            "transcript_status": {
+              "type": "string",
+              "description": "The availability and quality of transcripts for the interviews."
+            },
+            "reuse_license_summary": {
+              "type": "string",
+              "description": "A summary of the reuse license terms provided by StoryCorps for its archive content."
+            }
+          },
+          "required": [
+            "estimated_interview_count",
+            "transcript_status",
+            "reuse_license_summary"
+          ],
+          "additionalProperties": false
+        },
+        "vcu_scholars_compass_api_availability": {
+          "type": "string",
+          "description": "Addresses whether VCU's Scholars Compass or its underlying Islandora platform exposes a stable API (such as IIIF or OAI-PMH) for programmatic access to its oral history collections, based on available documentation."
+        },
+        "digitized_oral_history_assets_by_neighborhood": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "neighborhood": {
+                "type": "string",
+                "description": "The name of the Richmond neighborhood (e.g., Jackson Ward, Carver)."
+              },
+              "collection_name": {
+                "type": "string",
+                "description": "The name of the specific oral history collection found for this neighborhood."
+              },
+              "repository": {
+                "type": "string",
+                "description": "The institution or platform hosting the collection (e.g., VCU Libraries, George Mason University)."
+              },
+              "notes": {
+                "type": "string",
+                "description": "Additional details about the collection's content or focus."
+              }
+            },
+            "required": [
+              "neighborhood",
+              "collection_name",
+              "repository",
+              "notes"
+            ],
+            "additionalProperties": false
+          },
+          "description": "A list of digitized oral history assets available for specific Richmond neighborhoods. Each item will detail the collections and interviews found for Jackson Ward, Church Hill, Gilpin Court, Carver, and Oregon Hill."
+        },
+        "civic_storytelling_platform_fates": {
+          "type": "object",
+          "properties": {
+            "platform_name": {
+              "type": "string",
+              "description": "The name of the civic storytelling platform (e.g., Neighborland, Detour)."
+            },
+            "status": {
+              "type": "string",
+              "description": "The final outcome of the platform (e.g., Acquired, Shut down)."
+            },
+            "acquiring_company": {
+              "type": "string",
+              "description": "The company that acquired the platform, if applicable."
+            },
+            "shutdown_date": {
+              "type": "string",
+              "description": "The date the platform ceased operations, if applicable."
+            },
+            "platform_death_lesson": {
+              "type": "string",
+              "description": "Key takeaways or lessons for civic storytelling tools based on this platform's fate."
+            }
+          },
+          "required": [
+            "platform_name",
+            "status",
+            "acquiring_company",
+            "shutdown_date",
+            "platform_death_lesson"
+          ],
+          "additionalProperties": false
+        },
+        "rights_transfer_model_comparison": {
+          "type": "object",
+          "properties": {
+            "model_name": {
+              "type": "string",
+              "description": "The name of the rights transfer model, either 'Deed of Gift' or 'Creative Commons'."
+            },
+            "ownership_transfer": {
+              "type": "string",
+              "description": "Describes how ownership of the material is handled under this model."
+            },
+            "permissions_control": {
+              "type": "string",
+              "description": "Explains how permissions for reuse are defined and controlled."
+            },
+            "key_difference": {
+              "type": "string",
+              "description": "Highlights the primary distinction from the other model."
+            }
+          },
+          "required": [
+            "model_name",
+            "ownership_transfer",
+            "permissions_control",
+            "key_difference"
+          ],
+          "additionalProperties": false
+        },
+        "richmond_geohub_neighborhood_boundary_details": {
+          "type": "object",
+          "properties": {
+            "data_source": {
+              "type": "string",
+              "description": "The name of the platform providing the data."
+            },
+            "layer_name": {
+              "type": "string",
+              "description": "The official name of the neighborhood boundary data layer."
+            },
+            "defined_neighborhood_count": {
+              "type": "number",
+              "description": "The total number of neighborhood boundaries defined in the layer."
+            },
+            "sub_neighborhood_granularity": {
+              "type": "string",
+              "description": "An assessment of whether the layer covers sub-neighborhood distinctions."
+            }
+          },
+          "required": [
+            "data_source",
+            "layer_name",
+            "defined_neighborhood_count",
+            "sub_neighborhood_granularity"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "executive_summary",
+        "historic_fulton_oral_history_status",
+        "storycorps_richmond_archive_analysis",
+        "vcu_scholars_compass_api_availability",
+        "digitized_oral_history_assets_by_neighborhood",
+        "civic_storytelling_platform_fates",
+        "rights_transfer_model_comparison",
+        "richmond_geohub_neighborhood_boundary_details"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "rs_q1_data.md"
+  }
+}

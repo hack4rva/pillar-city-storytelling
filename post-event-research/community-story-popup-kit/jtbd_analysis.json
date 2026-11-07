@@ -1,0 +1,623 @@
+{
+  "run_id": "trun_1848795af0f24b80837d3d6f76b7aaf7",
+  "interaction_id": "trun_1848795af0f24b80837d3d6f76b7aaf7",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b80837d3d6f76b7aaf7",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "jobs_to_be_done_analysis",
+        "reasoning": "The most relevant excerpts describe StoryCorps DIY resources and guides that cover developing interview collections, multimedia resources for educators and nonprofits, and practices for listening, archiving, and creating public programming. This directly supports a JTBD that involves portable offline recording stations, standardized prompts, consent, and turning elder stories into civic insights, since StoryCorps-like frameworks provide concrete methods for conducting, recording, and archiving interviews in community settings. Additional excerpts discuss oral histories and elicitation tools, which align with the need for a metadata-rich intake process and structured prompts. Photo elicitation and elicitation-tool discussions complement the requirement to pair audio with imagery (photo-elicitation) to enrich the data and support resident storytelling. Civic-engagement and Richmond-story initiatives provide contextual grounding that helps ensure the JTBD aligns with local priorities (Richmond 300, engagement centers), even though they are not step-by-step methods for data capture. Together, these excerpts sketch a practical, field-tested approach to portable, offline recording with standard prompts, consent, metadata, archival practices, and a pathway to translating elder stories into actionable civic insights tied to Richmond 300 priorities.",
+        "citations": [
+          {
+            "url": "https://storycorps.org/participate/storycorps-diy/",
+            "excerpts": [
+              "StoryCorps has created a new set of do-it-yourself resources to help organizations develop their own interview collection projects.",
+              "StoryCorps DIY",
+              "With multimedia resources and guides, StoryCorps DIY offer insights and instructions on how to:",
+              "Promote listening:",
+              "Build an archive:",
+              "Create dynamic public programming:",
+              "Partner in new ways with peer organizations:"
+            ],
+            "title": "StoryCorps DIY"
+          },
+          {
+            "url": "https://diy.storycorps.org/",
+            "excerpts": [
+              "StoryCorps DIY is a collection of multimedia resources for educators, libraries, and nonprofit organizations who want to embed StoryCorps practices into their"
+            ],
+            "title": "StoryCorps DIY \u2013 The StoryCorps Learning Hub."
+          },
+          {
+            "url": "https://oralhistory.lib.uci.edu/sites/oralhistory/files/2021-03/The-UCI-Libraries-Oral-History-Toolkit-2021-03-19.pdf",
+            "excerpts": [
+              "The UCI Libraries Oral History Toolkit is a free resource designed by the Special Collections and. Archives Team for our community members, whether you are"
+            ],
+            "title": "The UCI Libraries Oral History Toolkit"
+          },
+          {
+            "url": "https://archives.lib.virginia.edu/repositories/uva-sc/archival_objects/oral_histories",
+            "excerpts": [
+              "Original digital media (floppy disks, zip disks, thumb drives, born-digital files, etc.) and other media formats such as LPs, audiocassettes, videotapes,\u00a0..."
+            ],
+            "title": "Oral Histories - Repositories List | ArchivesSpace Public Interface"
+          },
+          {
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK539384/",
+            "excerpts": [
+              "by A Grant \u00b7 2019 \u00b7 Cited by 13 \u2014 The chapter focuses on documents as an elicitation tool during interviews, sometimes also known as 'visual methods'."
+            ],
+            "title": "Participant-created documents as an elicitation tool - NCBI - NIH"
+          },
+          {
+            "url": "https://www.tandfonline.com/doi/full/10.1080/20518196.2020.1793074",
+            "excerpts": [
+              "by E Sesma \u00b7 2021 \u00b7 Cited by 9 \u2014 360-degree panoramic photos can mimic walking interviews, thereby allowing participants to virtually re-inhabit spaces within the study site."
+            ],
+            "title": "Photo elicitation as a tool for expanded participation in ..."
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Explore Richmond history using our interactive timeline that features events and stories using objects, documents and images from the Valentine's collection.",
+              "Richmond Stories - The Valentine Museum",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "The Valentine\n1015 East Clay Street\nRichmond, VA 23219-1527\n"
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://rva.gov/neighborhood-and-community-services/neighborhood-engagement",
+            "excerpts": [
+              "The City of Richmond's Office of Neighborhood Engagement (ONE) was established in 2024 and plays a vital role in building and maintaining strong relationships"
+            ],
+            "title": "Office of Neighborhood Engagement"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "open_questions",
+        "reasoning": "The most relevant excerpts describe data protection and privacy rights relevant to consent language for data collection and processing. Direct references to Virginia\u2019s consumer data protections outline rights and exemptions that can shape compliant and ethical language for offline capture, local storage, and potential public-sharing scenarios within a civic storytelling project. Specifically, these excerpts discuss the scope and exemptions of data protection provisions, which inform what consent language should acknowledge (rights, opt-out options, and applicable exemptions). Additional excerpts on StoryCorps DIY and oral history tools provide practical guidance on consent, archival practices, and participant engagement, which can be translated into concrete consent wording for offline recording, local archiving, and sharing in planning contexts. They emphasize consent, archival integrity, and public-facing programming, which support constructing open-question language that respects participants\u2019 agency and city-use permissions. Collectively, the cited items help ground open-question wording in privacy law, ethical standards, and archival best practices to ensure that consent language for offline capture and public sharing is clear, compliant, and respectful of participants\u2019 preferences.",
+        "citations": [
+          {
+            "url": "https://www.ketch.com/regulatory-compliance/virginia-consumer-data-protection-act-vcdpa",
+            "excerpts": [
+              "Enacted on March 2, 2021, and effective from January 1, 2023, the VCDPA grants Virginia residents rights over their personal data, including access, correction, deletion, and the ability to opt out of data processing for targeted advertising and sales. Rating 9.3/10 (123) The Virginia Consumer Data Protection Act (VCDPA) exempts certain entities and data types. Exempt organizations include state and local government bodies"
+            ],
+            "title": "Virginia Consumer Data Protection Act (VCDPA) - Ketch"
+          },
+          {
+            "url": "https://www.oag.state.va.us/consumer-protection/files/tips-and-info/Virginia-Consumer-Data-Protection-Act-Summary-2-2-23.pdf",
+            "excerpts": [
+              "The Virginia Consumer Data Protection Act (\u201cVCDPA\u201d) went into effect on January 1, 2023. This new law provides Virginia residents certain rights Jan 1, 2023 \u00b7 Consumers cannot submit requests relating to data under the VCDPA to state and local governments, nonprofit organizations, institutions of"
+            ],
+            "title": "[PDF] Virginia Consumer Data Protection Act"
+          },
+          {
+            "url": "https://law.lis.virginia.gov/vacode/title59.1/chapter53/section59.1-576/",
+            "excerpts": [
+              "The following information and data is exempt from this chapter: 1. Protected health information under HIPAA;. 2. Health records for purposes of Title 32.1;. 3\u00a0...",
+              "B. This chapter shall not apply to any (i) body, authority, board, bureau, commission, district, or agency of the Commonwealth or of any political subdivision of the Commonwealth;",
+              " (iv) nonprofit organization;"
+            ],
+            "title": "\u00a7 59.1-576. Scope; exemptions - Virginia Law"
+          },
+          {
+            "url": "https://virginia-vcdpa.org/the-virginia-consumer-data-protection-act-summary/",
+            "excerpts": [
+              "This new law provides Virginia residents certain rights for personal data collected by businesses under conditions outlined in the law. Feb 18, 2025 \u00b7 Consumers cannot submit requests relating to data under the VCDPA to state and local governments, nonprofit organizations, institutions of"
+            ],
+            "title": "The Virginia Consumer Data Protection Act Summary"
+          },
+          {
+            "url": "https://www.tandfonline.com/doi/full/10.1080/20518196.2020.1793074",
+            "excerpts": [
+              "by E Sesma \u00b7 2021 \u00b7 Cited by 9 \u2014 360-degree panoramic photos can mimic walking interviews, thereby allowing participants to virtually re-inhabit spaces within the study site."
+            ],
+            "title": "Photo elicitation as a tool for expanded participation in ..."
+          },
+          {
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK539384/",
+            "excerpts": [
+              "by A Grant \u00b7 2019 \u00b7 Cited by 13 \u2014 The chapter focuses on documents as an elicitation tool during interviews, sometimes also known as 'visual methods'."
+            ],
+            "title": "Participant-created documents as an elicitation tool - NCBI - NIH"
+          },
+          {
+            "url": "https://storycorps.org/participate/storycorps-diy/",
+            "excerpts": [
+              "StoryCorps has created a new set of do-it-yourself resources to help organizations develop their own interview collection projects."
+            ],
+            "title": "StoryCorps DIY"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "jobs_to_be_done_analysis.core_pain",
+        "reasoning": "The core pain centers on how user-generated stories and audio are captured, stored, and used in planning decisions, including fragmented data, inaccessible audio, and weak metadata. Directly relevant are excerpts that discuss building or maintaining archives and repositories, which address data fragmentation and accessibility concerns. For instance, resources that describe building an archive and providing multimedia resources with guides suggest established approaches to organizing and accessing collected material, which is essential to reduce fragmentation and improve metadata quality. References to repositories, oral history toolkits, and discussions of media formats highlight practical challenges around storing and retrieving interviews and associated artifacts, aligning with the need for better data accessibility and structured metadata. Local Richmond storytelling initiatives provide contextual backdrop about collecting lived experiences in the city, reinforcing the value of organized, accessible story data for civic decisions. excerpts that focus on documenting, archiving, and enabling access to multimedia stories thus most strongly support the stated pain points, while excerpts offering broader program ideas or community storytelling concepts add relevant context but do not directly address the data management pain as sharply. excerpts mentioning archive-building, multimedia resources, and repositories directly connect to fragmentation, accessibility, and metadata shortcomings, while local Richmond context helps tailor the JTBD to the geography and community served.",
+        "citations": [
+          {
+            "url": "https://storycorps.org/participate/storycorps-diy/",
+            "excerpts": [
+              "StoryCorps has created a new set of do-it-yourself resources to help organizations develop their own interview collection projects.",
+              "With multimedia resources and guides, StoryCorps DIY offer insights and instructions on how to:",
+              "Build an archive:"
+            ],
+            "title": "StoryCorps DIY"
+          },
+          {
+            "url": "https://oralhistory.lib.uci.edu/sites/oralhistory/files/2021-03/The-UCI-Libraries-Oral-History-Toolkit-2021-03-19.pdf",
+            "excerpts": [
+              "The UCI Libraries Oral History Toolkit is a free resource designed by the Special Collections and. Archives Team for our community members, whether you are"
+            ],
+            "title": "The UCI Libraries Oral History Toolkit"
+          },
+          {
+            "url": "https://archives.lib.virginia.edu/repositories/uva-sc/archival_objects/oral_histories",
+            "excerpts": [
+              "Original digital media (floppy disks, zip disks, thumb drives, born-digital files, etc.) and other media formats such as LPs, audiocassettes, videotapes,\u00a0..."
+            ],
+            "title": "Oral Histories - Repositories List | ArchivesSpace Public Interface"
+          },
+          {
+            "url": "https://www.tandfonline.com/doi/full/10.1080/20518196.2020.1793074",
+            "excerpts": [
+              "by E Sesma \u00b7 2021 \u00b7 Cited by 9 \u2014 360-degree panoramic photos can mimic walking interviews, thereby allowing participants to virtually re-inhabit spaces within the study site."
+            ],
+            "title": "Photo elicitation as a tool for expanded participation in ..."
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Explore Richmond history using our interactive timeline that features events and stories using objects, documents and images from the Valentine's collection.",
+              "Richmond Stories - The Valentine Museum",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "The Valentine\n1015 East Clay Street\nRichmond, VA 23219-1527\n"
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://rva.gov/neighborhood-and-community-services/neighborhood-engagement",
+            "excerpts": [
+              "The City of Richmond's Office of Neighborhood Engagement (ONE) was established in 2024 and plays a vital role in building and maintaining strong relationships"
+            ],
+            "title": "Office of Neighborhood Engagement"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "jobs_to_be_done_analysis.persona",
+        "reasoning": "The fine-grained field value identifies a persona tied to city-level engagement work. The most directly supportive information comes from the excerpt describing the City of Richmond's Office of Neighborhood Engagement (ONE), noting its establishment and its role in building and maintaining strong relationships\u2014precisely the type of responsibility a city/community engagement staffer would have. This provides a concrete organizational anchor for the persona. Other excerpts reference StoryCorps resources and local Richmond storytelling initiatives, which help frame the broader civic storytelling landscape but do not explicitly connect to a city-employed engagement professional. Therefore, the cited ONE excerpt most strongly supports the field value, while the rest offer contextual background rather than direct validation.",
+        "citations": [
+          {
+            "url": "https://rva.gov/neighborhood-and-community-services/neighborhood-engagement",
+            "excerpts": [
+              "The City of Richmond's Office of Neighborhood Engagement (ONE) was established in 2024 and plays a vital role in building and maintaining strong relationships"
+            ],
+            "title": "Office of Neighborhood Engagement"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "jobs_to_be_done_analysis.outcome",
+        "reasoning": "The target outcome is to convert collected resident stories into actionable civic insights aligned with Richmond 300 priorities and to share those insights back with residents. Excerpts describing formal civic storytelling programs in Richmond and institutions dedicated to engaging communities (such as the Office of Neighborhood Engagement) provide direct context for how resident narratives can be gathered, interpreted, and distributed within the city\u2019s civic framework. Elements that discuss StoryCorps-style DIY interview resources and photo-elicitation approaches offer practical methods for collecting lived experiences, which are foundational steps toward generating actionable insights. Excerpts focusing on Richmond\u2019s storytelling initiatives and community engagement resources supply the necessary ecosystem and trust-building backdrop required to translate stories into civic decisions. While other excerpts describe general storytelling tools or archival practices, they still contribute to understanding the workflow and capacity needed to produce resident-informed insights and disseminate them back to the community.",
+        "citations": [
+          {
+            "url": "https://rva.gov/neighborhood-and-community-services/neighborhood-engagement",
+            "excerpts": [
+              "The City of Richmond's Office of Neighborhood Engagement (ONE) was established in 2024 and plays a vital role in building and maintaining strong relationships"
+            ],
+            "title": "Office of Neighborhood Engagement"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Explore Richmond history using our interactive timeline that features events and stories using objects, documents and images from the Valentine's collection.",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Richmond Stories - The Valentine Museum",
+              "The Valentine\n1015 East Clay Street\nRichmond, VA 23219-1527\n"
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://storycorps.org/participate/storycorps-diy/",
+            "excerpts": [
+              "StoryCorps has created a new set of do-it-yourself resources to help organizations develop their own interview collection projects.",
+              "StoryCorps DIY",
+              "With multimedia resources and guides, StoryCorps DIY offer insights and instructions on how to:",
+              "Promote listening:",
+              "Build an archive:",
+              "Create dynamic public programming:",
+              "Partner in new ways with peer organizations:"
+            ],
+            "title": "StoryCorps DIY"
+          },
+          {
+            "url": "https://diy.storycorps.org/",
+            "excerpts": [
+              "StoryCorps DIY is a collection of multimedia resources for educators, libraries, and nonprofit organizations who want to embed StoryCorps practices into their"
+            ],
+            "title": "StoryCorps DIY \u2013 The StoryCorps Learning Hub."
+          },
+          {
+            "url": "https://www.tandfonline.com/doi/full/10.1080/20518196.2020.1793074",
+            "excerpts": [
+              "by E Sesma \u00b7 2021 \u00b7 Cited by 9 \u2014 360-degree panoramic photos can mimic walking interviews, thereby allowing participants to virtually re-inhabit spaces within the study site."
+            ],
+            "title": "Photo elicitation as a tool for expanded participation in ..."
+          },
+          {
+            "url": "https://archives.lib.virginia.edu/repositories/uva-sc/archival_objects/oral_histories",
+            "excerpts": [
+              "Original digital media (floppy disks, zip disks, thumb drives, born-digital files, etc.) and other media formats such as LPs, audiocassettes, videotapes,\u00a0..."
+            ],
+            "title": "Oral Histories - Repositories List | ArchivesSpace Public Interface"
+          },
+          {
+            "url": "https://oralhistory.lib.uci.edu/sites/oralhistory/files/2021-03/The-UCI-Libraries-Oral-History-Toolkit-2021-03-19.pdf",
+            "excerpts": [
+              "The UCI Libraries Oral History Toolkit is a free resource designed by the Special Collections and. Archives Team for our community members, whether you are"
+            ],
+            "title": "The UCI Libraries Oral History Toolkit"
+          },
+          {
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK539384/",
+            "excerpts": [
+              "by A Grant \u00b7 2019 \u00b7 Cited by 13 \u2014 The chapter focuses on documents as an elicitation tool during interviews, sometimes also known as 'visual methods'."
+            ],
+            "title": "Participant-created documents as an elicitation tool - NCBI - NIH"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "open_questions.category",
+        "reasoning": "The field value 'Data' in the open questions category is best supported by excerpts that discuss legal rights and handling of personal data, which directly relate to data considerations in a civic tech context. Content describing the Virginia Consumer Data Protection Act (VCDPA), its effective date, residents\u2019 rights over personal data, and the ability to exercise control over data processing provides concrete, regulatory data-focused context that informs what data-related questions and concerns are relevant for the project in Richmond. Additionally, excerpts detailing the scope and exemptions (including government bodies and nonprofit organizations) help frame what data activities may be regulated or exempt in this civic tech setting. A summary of the law\u2019s rights and the practical implications for data requests grounds the Data category in clear policy terms, which supports formulating data-centered JTBD questions and data-oriented inquiries for the Richmond-specific scenario. The other excerpts focus on data-elicitation methods or StoryCorps-style storytelling tools, which are less directly tied to data rights or processing, and thus are considered less relevant to the Data category, though they may inform broader data-collection practices. ",
+        "citations": [
+          {
+            "url": "https://www.ketch.com/regulatory-compliance/virginia-consumer-data-protection-act-vcdpa",
+            "excerpts": [
+              "Enacted on March 2, 2021, and effective from January 1, 2023, the VCDPA grants Virginia residents rights over their personal data, including access, correction, deletion, and the ability to opt out of data processing for targeted advertising and sales. Rating 9.3/10 (123) The Virginia Consumer Data Protection Act (VCDPA) exempts certain entities and data types. Exempt organizations include state and local government bodies"
+            ],
+            "title": "Virginia Consumer Data Protection Act (VCDPA) - Ketch"
+          },
+          {
+            "url": "https://www.oag.state.va.us/consumer-protection/files/tips-and-info/Virginia-Consumer-Data-Protection-Act-Summary-2-2-23.pdf",
+            "excerpts": [
+              "The Virginia Consumer Data Protection Act (\u201cVCDPA\u201d) went into effect on January 1, 2023. This new law provides Virginia residents certain rights Jan 1, 2023 \u00b7 Consumers cannot submit requests relating to data under the VCDPA to state and local governments, nonprofit organizations, institutions of"
+            ],
+            "title": "[PDF] Virginia Consumer Data Protection Act"
+          },
+          {
+            "url": "https://virginia-vcdpa.org/the-virginia-consumer-data-protection-act-summary/",
+            "excerpts": [
+              "This new law provides Virginia residents certain rights for personal data collected by businesses under conditions outlined in the law. Feb 18, 2025 \u00b7 Consumers cannot submit requests relating to data under the VCDPA to state and local governments, nonprofit organizations, institutions of"
+            ],
+            "title": "The Virginia Consumer Data Protection Act Summary"
+          },
+          {
+            "url": "https://law.lis.virginia.gov/vacode/title59.1/chapter53/section59.1-576/",
+            "excerpts": [
+              "The following information and data is exempt from this chapter: 1. Protected health information under HIPAA;. 2. Health records for purposes of Title 32.1;. 3\u00a0...",
+              "B. This chapter shall not apply to any (i) body, authority, board, bureau, commission, district, or agency of the Commonwealth or of any political subdivision of the Commonwealth;",
+              " (iv) nonprofit organization;"
+            ],
+            "title": "\u00a7 59.1-576. Scope; exemptions - Virginia Law"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "jobs_to_be_done_analysis.motivation",
+        "reasoning": "The requested motivation centers on collecting elders\u2019 place-based experiences offline, paired with photos, and guided by consistent prompts and explicit consent. Excerpts describing photo elicitation and oral history methods directly inform how to structure elicitation prompts and capture multimedia components in ways that respect consent and store material for later use. For instance, references to photo elicitation as a participatory tool indicate a concrete approach to pairing visuals with resident narratives. Discussions of oral history toolkits and repositories highlight practical, user-friendly resources for community members to undertake interviews and manage media ethically, including considerations around formats and archiving. The Richmond-specific items provide a geographic and institutional context, showing how city agencies and local museums support storytelling initiatives in Richmond, which aligns with the target setting. Excerpts on StoryCorps DIY illustrate broader best practices for building interview-based collections, creating archives, and delivering public programming, which can inform the workflow, prompts, and consent frameworks for a locality-focused, offline storytelling kit. Taken together, these sources furnish a scaffold for designing a portable, offline recording setup that uses consistent prompts, obtains informed consent, captures elder stories with photos, and situates the work within Richmond\u2019s civic storytelling landscape.",
+        "citations": [
+          {
+            "url": "https://www.tandfonline.com/doi/full/10.1080/20518196.2020.1793074",
+            "excerpts": [
+              "by E Sesma \u00b7 2021 \u00b7 Cited by 9 \u2014 360-degree panoramic photos can mimic walking interviews, thereby allowing participants to virtually re-inhabit spaces within the study site."
+            ],
+            "title": "Photo elicitation as a tool for expanded participation in ..."
+          },
+          {
+            "url": "https://archives.lib.virginia.edu/repositories/uva-sc/archival_objects/oral_histories",
+            "excerpts": [
+              "Original digital media (floppy disks, zip disks, thumb drives, born-digital files, etc.) and other media formats such as LPs, audiocassettes, videotapes,\u00a0..."
+            ],
+            "title": "Oral Histories - Repositories List | ArchivesSpace Public Interface"
+          },
+          {
+            "url": "https://oralhistory.lib.uci.edu/sites/oralhistory/files/2021-03/The-UCI-Libraries-Oral-History-Toolkit-2021-03-19.pdf",
+            "excerpts": [
+              "The UCI Libraries Oral History Toolkit is a free resource designed by the Special Collections and. Archives Team for our community members, whether you are"
+            ],
+            "title": "The UCI Libraries Oral History Toolkit"
+          },
+          {
+            "url": "https://rva.gov/neighborhood-and-community-services/neighborhood-engagement",
+            "excerpts": [
+              "The City of Richmond's Office of Neighborhood Engagement (ONE) was established in 2024 and plays a vital role in building and maintaining strong relationships"
+            ],
+            "title": "Office of Neighborhood Engagement"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Explore Richmond history using our interactive timeline that features events and stories using objects, documents and images from the Valentine's collection.",
+              "Richmond Stories - The Valentine Museum",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "The Valentine\n1015 East Clay Street\nRichmond, VA 23219-1527\n"
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK539384/",
+            "excerpts": [
+              "by A Grant \u00b7 2019 \u00b7 Cited by 13 \u2014 The chapter focuses on documents as an elicitation tool during interviews, sometimes also known as 'visual methods'."
+            ],
+            "title": "Participant-created documents as an elicitation tool - NCBI - NIH"
+          },
+          {
+            "url": "https://storycorps.org/participate/storycorps-diy/",
+            "excerpts": [
+              "StoryCorps has created a new set of do-it-yourself resources to help organizations develop their own interview collection projects.",
+              "StoryCorps DIY",
+              "With multimedia resources and guides, StoryCorps DIY offer insights and instructions on how to:",
+              "Promote listening:",
+              "Build an archive:",
+              "Create dynamic public programming:",
+              "Partner in new ways with peer organizations:"
+            ],
+            "title": "StoryCorps DIY"
+          },
+          {
+            "url": "https://diy.storycorps.org/",
+            "excerpts": [
+              "StoryCorps DIY is a collection of multimedia resources for educators, libraries, and nonprofit organizations who want to embed StoryCorps practices into their"
+            ],
+            "title": "StoryCorps DIY \u2013 The StoryCorps Learning Hub."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "open_questions.question_text",
+        "reasoning": "The most relevant material directly informs how to frame consent and data handling in a civic storytelling project. Content about photo elicitation describes using visuals to engage participants and can guide consent language around what types of data (photos) are captured, how they are used, and how participants can opt in/out of sharing. The description of document-based elicitation shows how written materials and participant-provided content can be used in interviews, which supports language about capturing, storing, and sharing participant-generated content with appropriate consent terms. StoryCorps DIY examples offer a practical model for community-driven interview projects, including consent considerations for recording, archiving, and potential public sharing. The Virginia privacy law excerpts provide a legal baseline for rights related to personal data and exemptions that may apply to government or nonprofit activities, which in turn informs what consent language needs to mention (e.g., rights to access, correction, deletion, opt-out, and exemptions), and helps to frame ethical best practices within the local regulatory context. Together, these excerpts collectively support constructing language that covers offline capture, local archiving, public sharing, and opt-in tiers, while acknowledging VCDPA exemptions and ethical considerations. The strongest direct connections come from the elicitation-focused sources, which offer concrete practices around data collection methods and consent implications; the legal excerpts provide necessary regulatory guardrails to ensure the consent language aligns with rights, exemptions, and ethical standards.",
+        "citations": [
+          {
+            "url": "https://www.tandfonline.com/doi/full/10.1080/20518196.2020.1793074",
+            "excerpts": [
+              "by E Sesma \u00b7 2021 \u00b7 Cited by 9 \u2014 360-degree panoramic photos can mimic walking interviews, thereby allowing participants to virtually re-inhabit spaces within the study site."
+            ],
+            "title": "Photo elicitation as a tool for expanded participation in ..."
+          },
+          {
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK539384/",
+            "excerpts": [
+              "by A Grant \u00b7 2019 \u00b7 Cited by 13 \u2014 The chapter focuses on documents as an elicitation tool during interviews, sometimes also known as 'visual methods'."
+            ],
+            "title": "Participant-created documents as an elicitation tool - NCBI - NIH"
+          },
+          {
+            "url": "https://storycorps.org/participate/storycorps-diy/",
+            "excerpts": [
+              "StoryCorps has created a new set of do-it-yourself resources to help organizations develop their own interview collection projects."
+            ],
+            "title": "StoryCorps DIY"
+          },
+          {
+            "url": "https://www.ketch.com/regulatory-compliance/virginia-consumer-data-protection-act-vcdpa",
+            "excerpts": [
+              "Enacted on March 2, 2021, and effective from January 1, 2023, the VCDPA grants Virginia residents rights over their personal data, including access, correction, deletion, and the ability to opt out of data processing for targeted advertising and sales. Rating 9.3/10 (123) The Virginia Consumer Data Protection Act (VCDPA) exempts certain entities and data types. Exempt organizations include state and local government bodies"
+            ],
+            "title": "Virginia Consumer Data Protection Act (VCDPA) - Ketch"
+          },
+          {
+            "url": "https://www.oag.state.va.us/consumer-protection/files/tips-and-info/Virginia-Consumer-Data-Protection-Act-Summary-2-2-23.pdf",
+            "excerpts": [
+              "The Virginia Consumer Data Protection Act (\u201cVCDPA\u201d) went into effect on January 1, 2023. This new law provides Virginia residents certain rights Jan 1, 2023 \u00b7 Consumers cannot submit requests relating to data under the VCDPA to state and local governments, nonprofit organizations, institutions of"
+            ],
+            "title": "[PDF] Virginia Consumer Data Protection Act"
+          },
+          {
+            "url": "https://virginia-vcdpa.org/the-virginia-consumer-data-protection-act-summary/",
+            "excerpts": [
+              "This new law provides Virginia residents certain rights for personal data collected by businesses under conditions outlined in the law. Feb 18, 2025 \u00b7 Consumers cannot submit requests relating to data under the VCDPA to state and local governments, nonprofit organizations, institutions of"
+            ],
+            "title": "The Virginia Consumer Data Protection Act Summary"
+          },
+          {
+            "url": "https://law.lis.virginia.gov/vacode/title59.1/chapter53/section59.1-576/",
+            "excerpts": [
+              "The following information and data is exempt from this chapter: 1. Protected health information under HIPAA;. 2. Health records for purposes of Title 32.1;. 3\u00a0...",
+              "B. This chapter shall not apply to any (i) body, authority, board, bureau, commission, district, or agency of the Commonwealth or of any political subdivision of the Commonwealth;",
+              " (iv) nonprofit organization;"
+            ],
+            "title": "\u00a7 59.1-576. Scope; exemptions - Virginia Law"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "jobs_to_be_done_analysis.current_workaround",
+        "reasoning": "The current workaround described in the field value points to ad hoc listening, paper comment cards, scattered survey links, and occasional partner-led oral histories without a standard intake or metadata model. Excerpts describing StoryCorps DIY and its multimedia, step-by-step resources show a proven approach to building own interview collections, offering guidance on processes, archiving, and program design that could help standardize intake and metadata. The mentions of DIY resources and a learning hub highlight practical methods organizations can adopt to structure data capture and sharing practices. Additional elicitation-focused resources illustrate alternative methods for gathering participant input (for example, using documents or photos as prompts), which aligns with the goal of improving data quality and richness beyond scattered tools. While some excerpts focus on broader Richmond storytelling programs, they still provide useful context on existing community storytelling approaches and potential partners or venues for standardized data collection. Collectively, these excerpts support the idea that standardized, DIY-backed, and elicitation-informed workflows can replace the current ad hoc workaround with more consistent intake and metadata practices.",
+        "citations": [
+          {
+            "url": "https://storycorps.org/participate/storycorps-diy/",
+            "excerpts": [
+              "StoryCorps has created a new set of do-it-yourself resources to help organizations develop their own interview collection projects.",
+              "StoryCorps DIY",
+              "With multimedia resources and guides, StoryCorps DIY offer insights and instructions on how to:",
+              "Promote listening:",
+              "Build an archive:",
+              "Create dynamic public programming:",
+              "Partner in new ways with peer organizations:"
+            ],
+            "title": "StoryCorps DIY"
+          },
+          {
+            "url": "https://www.tandfonline.com/doi/full/10.1080/20518196.2020.1793074",
+            "excerpts": [
+              "by E Sesma \u00b7 2021 \u00b7 Cited by 9 \u2014 360-degree panoramic photos can mimic walking interviews, thereby allowing participants to virtually re-inhabit spaces within the study site."
+            ],
+            "title": "Photo elicitation as a tool for expanded participation in ..."
+          },
+          {
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK539384/",
+            "excerpts": [
+              "by A Grant \u00b7 2019 \u00b7 Cited by 13 \u2014 The chapter focuses on documents as an elicitation tool during interviews, sometimes also known as 'visual methods'."
+            ],
+            "title": "Participant-created documents as an elicitation tool - NCBI - NIH"
+          },
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "Explore Richmond history using our interactive timeline that features events and stories using objects, documents and images from the Valentine's collection.",
+              "Richmond Stories - The Valentine Museum",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history.",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "The Valentine\n1015 East Clay Street\nRichmond, VA 23219-1527\n"
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://rva.gov/neighborhood-and-community-services/neighborhood-engagement",
+            "excerpts": [
+              "The City of Richmond's Office of Neighborhood Engagement (ONE) was established in 2024 and plays a vital role in building and maintaining strong relationships"
+            ],
+            "title": "Office of Neighborhood Engagement"
+          },
+          {
+            "url": "https://diy.storycorps.org/",
+            "excerpts": [
+              "StoryCorps DIY is a collection of multimedia resources for educators, libraries, and nonprofit organizations who want to embed StoryCorps practices into their"
+            ],
+            "title": "StoryCorps DIY \u2013 The StoryCorps Learning Hub."
+          },
+          {
+            "url": "https://oralhistory.lib.uci.edu/sites/oralhistory/files/2021-03/The-UCI-Libraries-Oral-History-Toolkit-2021-03-19.pdf",
+            "excerpts": [
+              "The UCI Libraries Oral History Toolkit is a free resource designed by the Special Collections and. Archives Team for our community members, whether you are"
+            ],
+            "title": "The UCI Libraries Oral History Toolkit"
+          },
+          {
+            "url": "https://archives.lib.virginia.edu/repositories/uva-sc/archival_objects/oral_histories",
+            "excerpts": [
+              "Original digital media (floppy disks, zip disks, thumb drives, born-digital files, etc.) and other media formats such as LPs, audiocassettes, videotapes,\u00a0..."
+            ],
+            "title": "Oral Histories - Repositories List | ArchivesSpace Public Interface"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "jobs_to_be_done_analysis.situation",
+        "reasoning": "The fine-grained field value describes a specific situation involving mobile pop-ups at churches and senior centers in Richmond's East End or Southside. While no excerpt directly mentions mobile pop-ups, churches, senior centers, or these specific neighborhoods, several excerpts establish the context of Richmond, Virginia, as the project's location. The Valentine Museum's 'Richmond Stories' initiative is described as exploring Richmond's history and using its collection, with one excerpt providing the museum's Richmond address. Additionally, the City of Richmond's Office of Neighborhood Engagement is mentioned as playing a vital role in building relationships within the city. These excerpts collectively support the geographical context of Richmond, which is a key component of the described situation.",
+        "citations": [
+          {
+            "url": "https://thevalentine.org/explore/richmond-stories/",
+            "excerpts": [
+              "The Valentine\n1015 East Clay Street\nRichmond, VA 23219-1527\n",
+              "Presented by the Valentine, the only museum dedicated to sharing Richmond\u2019s challenging history, Richmond Stories uses conversations with change-makers, advocates, leaders and residents to explore the past, present and future of this (very) complicated place we call home.",
+              "Explore Richmond history using our interactive timeline that features events and stories using objects, documents and images from the Valentine's collection.",
+              "Richmond Stories - The Valentine Museum",
+              "Discover Richmond Stories through educational resources from the Valentine's unique collection of objects, textiles and archival materials that document our region\u2019s complex history."
+            ],
+            "title": "Richmond Stories"
+          },
+          {
+            "url": "https://rva.gov/neighborhood-and-community-services/neighborhood-engagement",
+            "excerpts": [
+              "The City of Richmond's Office of Neighborhood Engagement (ONE) was established in 2024 and plays a vital role in building and maintaining strong relationships"
+            ],
+            "title": "Office of Neighborhood Engagement"
+          }
+        ],
+        "confidence": "low"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "jobs_to_be_done_analysis": {
+          "type": "object",
+          "properties": {
+            "job_type": {
+              "type": "string",
+              "description": "The category of the job story, such as functional, emotional/trust, or systems/coordination."
+            },
+            "situation": {
+              "type": "string",
+              "description": "The context or situation the persona is in ('When...')."
+            },
+            "persona": {
+              "type": "string",
+              "description": "The user persona undertaking the job ('I [persona]...')."
+            },
+            "motivation": {
+              "type": "string",
+              "description": "The action the persona wants to take ('...want to [motivation]...')."
+            },
+            "outcome": {
+              "type": "string",
+              "description": "The desired outcome for the persona ('...so I can [outcome]')."
+            },
+            "current_workaround": {
+              "type": "string",
+              "description": "The current method the persona uses to achieve the outcome."
+            },
+            "core_pain": {
+              "type": "string",
+              "description": "The main problem or frustration with the current workaround."
+            }
+          },
+          "required": [
+            "job_type",
+            "situation",
+            "persona",
+            "motivation",
+            "outcome",
+            "current_workaround",
+            "core_pain"
+          ],
+          "additionalProperties": false
+        },
+        "open_questions": {
+          "type": "object",
+          "properties": {
+            "category": {
+              "type": "string",
+              "description": "The category of the question, such as Data, User, Integration, Equity, or Prior Art."
+            },
+            "question_text": {
+              "type": "string",
+              "description": "The text of the open question itself."
+            }
+          },
+          "required": [
+            "category",
+            "question_text"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "jobs_to_be_done_analysis",
+        "open_questions"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "jtbd_analysis.md"
+  }
+}

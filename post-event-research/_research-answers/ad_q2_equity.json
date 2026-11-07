@@ -1,0 +1,1297 @@
+{
+  "run_id": "trun_1848795af0f24b80aa5e836dd1942d57",
+  "interaction_id": "trun_1848795af0f24b80aa5e836dd1942d57",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b80aa5e836dd1942d57",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "arts_attendance_data_availability",
+        "reasoning": "The most directly relevant excerpt states that Richmond\u2019s southside had lower engagement with the plan as evidenced by community survey demographic data, and more broadly notes that the Cultural Heritage Stewardship Plan uses demographic data to inform stewardship rather than providing event-specific attendance records. This supports the claim that neighborhood-level arts attendance data by race, income, or age is not publicly available as event-specific data, and that planning data (via surveys) are used as proxies rather than exact attendance figures. Another excerpt explicitly ties the Richmond 300 master plan to planning-era demographic data and engagement insights, reinforcing that planning processes provide proxy-level information rather than granular attendance data. An excerpt discussing immigrant engagement and language access provides context for inclusion and demographic considerations that could influence proxy data interpretation, but does not contradict the absence of neighborhood-level arts attendance records. A separate excerpt about RVA planning insights also references data and planning processes, which further supports the proxy-data picture rather than direct event attendance datasets. An additional resource mentioning multilingual health resources and language access reiterates the broader demographic landscape but is not a direct counterpoint to the availability of arts-attendance-by-demographics data. Overall, the strongest support comes from the planning-oriented excerpts indicating reliance on demographic data within planning documents rather than granular attendance datasets, with additional context from related planning reports reinforcing the proxy nature of available data.",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2025-05/CHSP_Final_4.25.25_KC_0.pdf",
+            "excerpts": [
+              "Richmond's southside where there had been lower levels of previous engagement with the plan as evidenced by the community survey demographic data."
+            ],
+            "title": "[PDF] City of Richmond Cultural Heritage Stewardship Plan - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/sites/default/files/2023-01/FullDocumentRVAgreenClimateEquityActionPlan2030.pdf",
+            "excerpts": [
+              "This Plan builds on and seeks to implement many objectives in the Thriving Environment Chapter of. Richmond 300: A Guide for Growth as it envisions a future"
+            ],
+            "title": "[PDF] Climate Equity Action Plan 2030 - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/about",
+            "excerpts": [
+              "Sep 2, 2021 \u2014 Many families moving to Richmond are new arrivals to the country and initially have limited English language skills. The language barrier can be challenging"
+            ],
+            "title": "About | Richmond"
+          },
+          {
+            "url": "https://www.artrabbit.com/about/artrabbit",
+            "excerpts": [
+              "Jul 20, 2023 \u2014 ArtRabbit is an independent digital art platform and community dedicated to promoting, discovering, and appreciating contemporary art and visual culture."
+            ],
+            "title": "About ArtRabbit"
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/health-resources",
+            "excerpts": [
+              "Aug 9, 2022 \u2014 Spanish: Recursos de salud mental para inmigrantes. Arabic: \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0642\u0644\u064a\u0629 \u0644\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646. Dari: \u0645\u0646\u0627\u0628\u0639 \u0628\u0647\u062f\u0627\u0634\u062a \u0631\u0648\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0647\u0627\u062c\u0631\u0627\u0646. Pashto: \u062f \u0645\u0647\u0627\u062c\u0631\u06cc\u0646\u0648 \u0644\u067e\u0627\u0631\u0647 \u062f"
+            ],
+            "title": "Health Resources"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "national_arts_aggregator_models_analysis",
+        "reasoning": "The fine-grained field value for the ArtRabbit profile describes its core features as including community-submitted event listings, professionally curated guides, promotional newsletters, and dedicated mobile apps for discovering art events. It also characterizes engagement drivers as stemming from a specialized focus on the contemporary art world, combining user-generated content with expert curation, and notes that mobile apps enhance accessibility for on-the-go discovery. The provided excerpt directly states these elements for ArtRabbit, making it the most relevant source for validating the ArtRabbit portion of the field value. While the field value also includes DoStuff Media and Eventful, the supplied excerpts do not provide explicit descriptions of these two models, so their corresponding evidence is not supported by the given excerpts. Therefore, the conclusion about the ArtRabbit portion is well-supported, whereas the rest relies on information not present in the excerpts.",
+        "citations": [
+          {
+            "url": "https://www.artrabbit.com/about/artrabbit",
+            "excerpts": [
+              "Jul 20, 2023 \u2014 ArtRabbit is an independent digital art platform and community dedicated to promoting, discovering, and appreciating contemporary art and visual culture."
+            ],
+            "title": "About ArtRabbit"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "cultureworks_technical_issue_assessment",
+        "reasoning": "The most relevant excerpt directly states that the Richmond CultureWorks calendar shows a Liquid syntax error: \u2018Cannot build json - ld tag, event_item is unknown,\u2019 which matches the described issue with generating JSON-LD structured data for events. It also notes that CultureWorks is powered by Localist, which aligns with the field value\u2019s reference to the platform provider and helps explain the root cause and potential implications for how events are surfaced in search results. This excerpt provides explicit evidence of both the type of error (Liquid syntax error preventing proper JSON-LD construction) and the platform context (Localist), which are the core components of the finegrained field value. Other excerpts do not address CultureWorks\u2019 JSON-LD issue or its platform relationship with Localist, so they do not meaningfully support or contextualize the specific field value.",
+        "citations": [
+          {
+            "url": "https://calendar.richmondcultureworks.org/home",
+            "excerpts": [
+              "1 day ago \u2014 Get a personalized list of events in your inbox with our Digest emailer. Liquid syntax error: Cannot build json - ld tag, event_item is unknown. : Liquid error 1 day ago \u2014 Richmond CultureWorks events updated every day . Powered by Localist Event Calendar Software."
+            ],
+            "title": "Richmond CultureWorks Homepage"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "language_requirements_for_inclusion",
+        "reasoning": "The strongest support comes from a source that explicitly lists Arabic, Dari, and Pashto in the context of services for immigrant communities and refugee outreach, underscoring that materials and outreach in these languages are relevant for inclusive arts discovery in Richmond. Additional sources describe immigrant engagement and refugee services in Richmond, which demonstrates an ongoing need for multilingual communication beyond English and Spanish and supports extending language coverage to other languages in arts-related outreach. Resources on English language learning and multilingual health resources further corroborate that non-English communication channels are an important part of serving immigrant populations, thereby justifying consideration of additional languages in arts discovery strategies. The presence of a Spanish-focused example shows that while Spanish is already addressed, other language needs exist and warrant attention, with Arabic, Dari, and Pashto highlighted as particularly pertinent for Afghan communities and Special Immigrant Visa (SIV) related populations. Taken together, these excerpts support the claim that inclusive arts discovery in Richmond should include languages beyond English and Spanish, notably Arabic, Dari, and Pashto, with potential consideration of other languages encountered by refugee communities such as Swahili and East African languages depending on neighborhood context.",
+        "citations": [
+          {
+            "url": "https://www.rescue.org/press-release/irc-launches-groundbreaking-virtual-reception-and-placement-program-support-sivs",
+            "excerpts": [
+              "Mar 26, 2024 \u2014 Currently, VR&P is serving \u201cwalk-in\u201d SIVs, and is staffed by virtual case managers who speak English, Arabic, Dari and Pashto. In March 2022, the IRC, in"
+            ],
+            "title": "IRC launches groundbreaking Virtual Reception and ..."
+          },
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "Feb 26, 2026 \u2014 Our Office of New Americans - Refugee Services exists to address health issues that may influence successful resettlement, identify and intervene on diseases"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City ..."
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/about",
+            "excerpts": [
+              "Sep 2, 2021 \u2014 Many families moving to Richmond are new arrivals to the country and initially have limited English language skills. The language barrier can be challenging"
+            ],
+            "title": "About | Richmond"
+          },
+          {
+            "url": "https://valrc.org/english-language-learning-resources-for-the-refugee-population/",
+            "excerpts": [
+              "Jan 8, 2025 \u2014 The information and resources on this page can be used to support newly arrived refugees , immigrants, and new Americans with accessing English language learning"
+            ],
+            "title": "English Language Learning Resources for Refugees and ..."
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/health-resources",
+            "excerpts": [
+              "Aug 9, 2022 \u2014 Spanish: Recursos de salud mental para inmigrantes. Arabic: \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0642\u0644\u064a\u0629 \u0644\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646. Dari: \u0645\u0646\u0627\u0628\u0639 \u0628\u0647\u062f\u0627\u0634\u062a \u0631\u0648\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0647\u0627\u062c\u0631\u0627\u0646. Pashto: \u062f \u0645\u0647\u0627\u062c\u0631\u06cc\u0646\u0648 \u0644\u067e\u0627\u0631\u0647 \u062f"
+            ],
+            "title": "Health Resources"
+          },
+          {
+            "url": "https://www.vpm.org/news/2024-10-07/sacred-heart-center-ged-richmond-spanish-speakers",
+            "excerpts": [
+              "On Monday and Wednesday nights, classrooms at Sacred Heart Center in Richmond are filled with adult Latino students enrolled in GED prep classes."
+            ],
+            "title": "Sacred Heart has prepared 1,000 Spanish speakers for GED ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_event_submission_portals",
+        "reasoning": "The finegrained field value lists two submission routes: one for Visit Richmond\u2019s Official Richmond Event Calendar and another for Venture Richmond Downtown Events. Excerpts that say: \"Let's get you on the official Richmond event calendar! Submit the details and find everything you need including the event criteria and submission form\" directly corroborate the Visit Richmond submission portal as an official channel for submitting events. Excerpts that state: \"Share your event with Downtown Richmond! Submit your event to be featured on the Venture Richmond site and reach locals looking for activities\" directly corroborate the Venture Richmond submission channel. Both excerpts provide explicit language about submitting events to the respective portals and align with the specified URLs from the field value. There are no excerpts that contradict the described portals, and the two most relevant excerpts precisely match the two portals in the field value, offering direct evidence of their existence and purpose.",
+        "citations": [
+          {
+            "url": "https://www.visitrichmondva.com/events/submit-your-event/",
+            "excerpts": [
+              "Jul 1, 2020 \u2014 Let's get you on the official Richmond event calendar! Submit the details and find everything you need including the event criteria and submission form."
+            ],
+            "title": "Submit Your Event"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/submit-your-event/",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Share your event with Downtown Richmond! Submit your event to be featured on the Venture Richmond site and reach locals looking for activities."
+            ],
+            "title": "Submit Your Event for Our Richmond Calendar"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "event_syndication_tool_feasibility",
+        "reasoning": "The finegrained field value posits that a centralized, submit-once, route-many tool could coordinate submissions for multiple Richmond organizers and downstream platforms. Evidence shows that CultureWorks uses Localist as its event calendar and explicitly notes a Localist feed-related constraint, indicating a downstream format (Localist-compatible feed) that would need to be produced by any central broker. Separate submission pages for official calendars (Visit Richmond) and partner sites (Venture Richmond) demonstrate that each platform currently relies on its own submission path, forms, and criteria, underscoring the lack of a unified ingestion mechanism. Collectively, these excerpts support the idea that a centralized, transform-and-distribute tool would be technically feasible but must address the challenge of mapping fields, images, and taxonomy across multiple downstream systems, and would require governance agreements with publishers to accept automated submissions. The first excerpt confirms the downstream format target (Localist for CultureWorks), while the other two excerpts document the existence of distinct submission workflows for Visit Richmond and Venture Richmond, which a central broker would need to harmonize into a single input and multiple outputs.",
+        "citations": [
+          {
+            "url": "https://calendar.richmondcultureworks.org/home",
+            "excerpts": [
+              "1 day ago \u2014 Get a personalized list of events in your inbox with our Digest emailer. Liquid syntax error: Cannot build json - ld tag, event_item is unknown. : Liquid error 1 day ago \u2014 Richmond CultureWorks events updated every day . Powered by Localist Event Calendar Software."
+            ],
+            "title": "Richmond CultureWorks Homepage"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/submit-your-event/",
+            "excerpts": [
+              "Jul 1, 2020 \u2014 Let's get you on the official Richmond event calendar! Submit the details and find everything you need including the event criteria and submission form."
+            ],
+            "title": "Submit Your Event"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/submit-your-event/",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Share your event with Downtown Richmond! Submit your event to be featured on the Venture Richmond site and reach locals looking for activities."
+            ],
+            "title": "Submit Your Event for Our Richmond Calendar"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "executive_summary",
+        "reasoning": "The most directly supporting element is the note about a live structured data error in a known arts calendar (CultureWorks). This corroborates the field value\u2019s claim that a data/structuring issue exists that affects visibility and data sharing of arts listings. The second strongest support comes from Census/analytic context on internet access and broadband availability, which underpins the field value\u2019s assertion of a digital divide in Richmond that could exclude residents from web-only discovery channels. Context about demographic data availability at the neighborhood level (or lack thereof) reinforces the claim that measuring arts attendance by race, income, or age is difficult in the absence of granular data. The multilingual needs are supported by sources outlining immigrant languages and language resources, which align with the field value\u2019s emphasis on Arabic, Dari, and Pashto alongside Spanish for inclusive arts discovery. References to Spanish-speaking populations directly bolster part of the language considerations in the field value. Additional language and immigrant-support resources (Dari, Arabic, refugee-focused language materials) help corroborate the broader multilingual context and infrastructure needed for inclusive access. Finally, sources discussing broader language access resources and cross-organization coordination (including the feasibility of syndicating listings across multiple platforms) provide supplementary context that the field value mentions as a governance and technical opportunity. Taken together, these excerpts support the central themes of digital exclusion, language inclusivity, elder information channels, data limitations for arts attendance by demographics, and the potential technical solutions for broader access, though some specifics (ZIP-code level broadband rates and exact data gaps by neighborhood) are not fully confirmed in the excerpts themselves.",
+        "citations": [
+          {
+            "url": "https://calendar.richmondcultureworks.org/home",
+            "excerpts": [
+              "1 day ago \u2014 Get a personalized list of events in your inbox with our Digest emailer. Liquid syntax error: Cannot build json - ld tag, event_item is unknown. : Liquid error 1 day ago \u2014 Richmond CultureWorks events updated every day . Powered by Localist Event Calendar Software."
+            ],
+            "title": "Richmond CultureWorks Homepage"
+          },
+          {
+            "url": "https://atcoordinates.info/2018/12/21/mapping-us-census-data-on-internet-access/",
+            "excerpts": [
+              "Dec 21, 2018 \u2014 LISA map of Broad Band Subscription by Household. LISA Map of % of Households that have Access to Broadband Internet by County (2013-2017 ACS). 999 Dec 21, 2018 \u2014 We have complete coverage for computer and internet variables for all counties, ZCTAs, places (cities and towns), and census tracts for the first time."
+            ],
+            "title": "Mapping US Census Data on Internet Access"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-05/CHSP_Final_4.25.25_KC_0.pdf",
+            "excerpts": [
+              "Richmond's southside where there had been lower levels of previous engagement with the plan as evidenced by the community survey demographic data."
+            ],
+            "title": "[PDF] City of Richmond Cultural Heritage Stewardship Plan - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/about",
+            "excerpts": [
+              "Sep 2, 2021 \u2014 Many families moving to Richmond are new arrivals to the country and initially have limited English language skills. The language barrier can be challenging"
+            ],
+            "title": "About | Richmond"
+          },
+          {
+            "url": "https://www.vpm.org/news/2024-10-07/sacred-heart-center-ged-richmond-spanish-speakers",
+            "excerpts": [
+              "On Monday and Wednesday nights, classrooms at Sacred Heart Center in Richmond are filled with adult Latino students enrolled in GED prep classes."
+            ],
+            "title": "Sacred Heart has prepared 1,000 Spanish speakers for GED ..."
+          },
+          {
+            "url": "https://valrc.org/english-language-learning-resources-for-the-refugee-population/",
+            "excerpts": [
+              "Jan 8, 2025 \u2014 The information and resources on this page can be used to support newly arrived refugees , immigrants, and new Americans with accessing English language learning"
+            ],
+            "title": "English Language Learning Resources for Refugees and ..."
+          },
+          {
+            "url": "https://www.rescue.org/press-release/irc-launches-groundbreaking-virtual-reception-and-placement-program-support-sivs",
+            "excerpts": [
+              "Mar 26, 2024 \u2014 Currently, VR&P is serving \u201cwalk-in\u201d SIVs, and is staffed by virtual case managers who speak English, Arabic, Dari and Pashto. In March 2022, the IRC, in"
+            ],
+            "title": "IRC launches groundbreaking Virtual Reception and ..."
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/health-resources",
+            "excerpts": [
+              "Aug 9, 2022 \u2014 Spanish: Recursos de salud mental para inmigrantes. Arabic: \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0642\u0644\u064a\u0629 \u0644\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646. Dari: \u0645\u0646\u0627\u0628\u0639 \u0628\u0647\u062f\u0627\u0634\u062a \u0631\u0648\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0647\u0627\u062c\u0631\u0627\u0646. Pashto: \u062f \u0645\u0647\u0627\u062c\u0631\u06cc\u0646\u0648 \u0644\u067e\u0627\u0631\u0647 \u062f"
+            ],
+            "title": "Health Resources"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "broadband_data_by_zip_code",
+        "reasoning": "The most relevant excerpt discusses a mapping resource that explicitly addresses access to broadband Internet by geographic areas, which is the closest to zip-code-level insight and sets the expectation for how such data are typically reported. The next set of excerpts refer to Census Bureau tables and data products that are the standard sources for broadband/subscription metrics (including the S2801 table family). These sources confirm that broadband adoption data are routinely produced and can be disaggregated by geography (such as ZIP-like geographies or ZIP-related approximations through ZCTA or census tracts), which is precisely the kind of information needed to answer the user\u2019s questions about specific Richmond ZIP codes. Additional excerpts point to broader Census data and general internet access resources, which provide context on where such figures come from and how they are typically accessed, but do not provide the exact ZIP-level values themselves. Taken together, these excerpts support the conclusion that, while broadband data exist in geographic forms, the provided excerpts do not include the requested Richmond ZIP-code adoption rates, nor explicit web-only arts discovery implications for those neighborhoods. The field value remains an empty list because no direct zip-code broadband adoption figures are present in the excerpts.",
+        "citations": [
+          {
+            "url": "https://atcoordinates.info/2018/12/21/mapping-us-census-data-on-internet-access/",
+            "excerpts": [
+              "Dec 21, 2018 \u2014 LISA map of Broad Band Subscription by Household. LISA Map of % of Households that have Access to Broadband Internet by County (2013-2017 ACS). 999 Dec 21, 2018 \u2014 We have complete coverage for computer and internet variables for all counties, ZCTAs, places (cities and towns), and census tracts for the first time."
+            ],
+            "title": "Mapping US Census Data on Internet Access"
+          },
+          {
+            "url": "https://data.census.gov/table/ACSST5Y2021.S2801",
+            "excerpts": [
+              "Census Bureau data table S2801 - TYPES OF COMPUTERS AND INTERNET SUBSCRIPTIONS. Table from ACS 5-Year Estimates Subject Tables, released by American"
+            ],
+            "title": "S2801: TYPES OF COMPUTERS AND ... - Census Bureau Table"
+          },
+          {
+            "url": "https://data.census.gov/table/ACSST5Y2024.S2801?g=010XX00US$0400000",
+            "excerpts": [
+              "Table ID: S2801. Results (5417). View: 102550 ... Questions on how to use data.census.gov or to provide feedback, please contact census.data@census.gov."
+            ],
+            "title": "S2801: Census Bureau Table"
+          },
+          {
+            "url": "https://data.census.gov/table/ACSST5Y2023.S2801?q=ZCTA5+87116+Housing",
+            "excerpts": [
+              "Census Bureau data table S2801 - Types of Computers and Internet Subscriptions. Table from ACS 5-Year Estimates Subject Tables, released by American"
+            ],
+            "title": "S2801: Types of Computers and ... - Census Bureau Table"
+          },
+          {
+            "url": "https://data.census.gov/table/ACSST1Y2022.S2801?q=Housing&g=160XX00US0427820,0457450",
+            "excerpts": [
+              "Note: This is a modified view of the original table produced by the U.S. Census Bureau. This download or printed version may have missing information from the"
+            ],
+            "title": "S2801: Census Bureau Table"
+          },
+          {
+            "url": "https://censusreporter.org/topics/table-codes/",
+            "excerpts": [
+              "Jul 27, 2021 \u2014 Percent Of Children Without Health Insurance Coverage [GCT 1yr] [R2702.xlsx]; GCT2801: Percent Of Households With A Broadband Internet Subscription [GCT 1yr]"
+            ],
+            "title": "Table Codes - Census Reporter"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "key_immigrant_support_organizations",
+        "reasoning": "The field value enumerates three organizations with described primary focuses and languages supported. The most directly supportive excerpt identifies the Office of New Americans - Refugee Services in Richmond City Health District as existing to address health issues and influence successful refugee resettlement, which aligns with the idea of immigrant support services. Another excerpt describes the Sacred Heart Center as a community hub for the Latino population, offering GED preparation and ESL for Spanish speakers, which maps to language-specific services for immigrants. Additional excerpts reference multilingual support in other organizations: the IRC notes staff languages including English, Arabic, Dari, and Pashto, illustrating the expectation of multilingual engagement with immigrant communities; another excerpt mentions health resources for immigrants with listed languages (Spanish, Arabic, Dari, etc.), supporting the need for multilingual resources; resources about English language learning for refugees further corroborate the emphasis on language bridge programs for newcomers; finally, the Richmond immigration engagement excerpt notes language barriers among new arrivals, reinforcing the broader context of multilingual needs. Collectively, these excerpts support the field value's claim of multiple organizations serving immigrant/refugee communities with varied language support, demonstrating the organizations, their focus, and the languages they serve. ",
+        "citations": [
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "Feb 26, 2026 \u2014 Our Office of New Americans - Refugee Services exists to address health issues that may influence successful resettlement, identify and intervene on diseases"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City ..."
+          },
+          {
+            "url": "https://www.vpm.org/news/2024-10-07/sacred-heart-center-ged-richmond-spanish-speakers",
+            "excerpts": [
+              "On Monday and Wednesday nights, classrooms at Sacred Heart Center in Richmond are filled with adult Latino students enrolled in GED prep classes."
+            ],
+            "title": "Sacred Heart has prepared 1,000 Spanish speakers for GED ..."
+          },
+          {
+            "url": "https://www.rescue.org/press-release/irc-launches-groundbreaking-virtual-reception-and-placement-program-support-sivs",
+            "excerpts": [
+              "Mar 26, 2024 \u2014 Currently, VR&P is serving \u201cwalk-in\u201d SIVs, and is staffed by virtual case managers who speak English, Arabic, Dari and Pashto. In March 2022, the IRC, in"
+            ],
+            "title": "IRC launches groundbreaking Virtual Reception and ..."
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/health-resources",
+            "excerpts": [
+              "Aug 9, 2022 \u2014 Spanish: Recursos de salud mental para inmigrantes. Arabic: \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0642\u0644\u064a\u0629 \u0644\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646. Dari: \u0645\u0646\u0627\u0628\u0639 \u0628\u0647\u062f\u0627\u0634\u062a \u0631\u0648\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0647\u0627\u062c\u0631\u0627\u0646. Pashto: \u062f \u0645\u0647\u0627\u062c\u0631\u06cc\u0646\u0648 \u0644\u067e\u0627\u0631\u0647 \u062f"
+            ],
+            "title": "Health Resources"
+          },
+          {
+            "url": "https://valrc.org/english-language-learning-resources-for-the-refugee-population/",
+            "excerpts": [
+              "Jan 8, 2025 \u2014 The information and resources on this page can be used to support newly arrived refugees , immigrants, and new Americans with accessing English language learning"
+            ],
+            "title": "English Language Learning Resources for Refugees and ..."
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/about",
+            "excerpts": [
+              "Sep 2, 2021 \u2014 Many families moving to Richmond are new arrivals to the country and initially have limited English language skills. The language barrier can be challenging"
+            ],
+            "title": "About | Richmond"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "recommendations_for_inclusive_arts_discovery",
+        "reasoning": "The recommendation to audit and repair the technical infrastructure for structured data is directly supported by a source noting a Liquid syntax error on the CultureWorks calendar and a need to ensure proper schema.org/Event structured data so events are discoverable and can be scraped by services. This establishes the technical prerequisite for improved inclusivity through machine-readable data. The idea of a \"Submit-Once, Route-Many\" broker is echoed by pages that describe submitting events to the Richmond calendar ecosystems (Submit Your Event and Submit Your Event for Our Richmond Calendar), which provide concrete avenues for centralized submission and cross-platform distribution. The multilingual outward-facing strategy is reinforced by examples of languages used in immigrant outreach and summaries of language barriers: content showing multiple languages used in health and immigrant services, and explicit references to partnerships with community hubs to disseminate information in languages beyond English and Spanish. Together, these excerpts support the need for: (a) fixing structural data so discovery systems can correctly ingest event information, (b) implementing a broker-like submission workflow to feed VisitRichmond, Venture Richmond, CultureWorks, and Style Weekly, and (c) expanding multilingual and multi-channel outreach to reach immigrant communities and older residents, with concrete language targets and organizational partnerships. The broader context on neighborhoods and equity is supported by references to language access needs and community outreach practices, indicating why neighborhood-level, multilingual data collection and partnerships matter for inclusive arts discovery. The broadband/access-oriented item provides rationale for non-digital outreach channels, underscoring the importance of print and radio in a multi-channel strategy. Overall, the cited items together substantiate the proposed actionable recommendations by demonstrating existing infrastructure, gaps, and practical multilingual outreach pathways that Richmond can leverage to improve inclusivity in arts discovery.",
+        "citations": [
+          {
+            "url": "https://calendar.richmondcultureworks.org/home",
+            "excerpts": [
+              "1 day ago \u2014 Get a personalized list of events in your inbox with our Digest emailer. Liquid syntax error: Cannot build json - ld tag, event_item is unknown. : Liquid error 1 day ago \u2014 Richmond CultureWorks events updated every day . Powered by Localist Event Calendar Software."
+            ],
+            "title": "Richmond CultureWorks Homepage"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/submit-your-event/",
+            "excerpts": [
+              "Jul 1, 2020 \u2014 Let's get you on the official Richmond event calendar! Submit the details and find everything you need including the event criteria and submission form."
+            ],
+            "title": "Submit Your Event"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/submit-your-event/",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Share your event with Downtown Richmond! Submit your event to be featured on the Venture Richmond site and reach locals looking for activities."
+            ],
+            "title": "Submit Your Event for Our Richmond Calendar"
+          },
+          {
+            "url": "https://www.rescue.org/press-release/irc-launches-groundbreaking-virtual-reception-and-placement-program-support-sivs",
+            "excerpts": [
+              "Mar 26, 2024 \u2014 Currently, VR&P is serving \u201cwalk-in\u201d SIVs, and is staffed by virtual case managers who speak English, Arabic, Dari and Pashto. In March 2022, the IRC, in"
+            ],
+            "title": "IRC launches groundbreaking Virtual Reception and ..."
+          },
+          {
+            "url": "https://www.vpm.org/news/2024-10-07/sacred-heart-center-ged-richmond-spanish-speakers",
+            "excerpts": [
+              "On Monday and Wednesday nights, classrooms at Sacred Heart Center in Richmond are filled with adult Latino students enrolled in GED prep classes."
+            ],
+            "title": "Sacred Heart has prepared 1,000 Spanish speakers for GED ..."
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/about",
+            "excerpts": [
+              "Sep 2, 2021 \u2014 Many families moving to Richmond are new arrivals to the country and initially have limited English language skills. The language barrier can be challenging"
+            ],
+            "title": "About | Richmond"
+          },
+          {
+            "url": "https://atcoordinates.info/2018/12/21/mapping-us-census-data-on-internet-access/",
+            "excerpts": [
+              "Dec 21, 2018 \u2014 LISA map of Broad Band Subscription by Household. LISA Map of % of Households that have Access to Broadband Internet by County (2013-2017 ACS). 999 Dec 21, 2018 \u2014 We have complete coverage for computer and internet variables for all counties, ZCTAs, places (cities and towns), and census tracts for the first time."
+            ],
+            "title": "Mapping US Census Data on Internet Access"
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/health-resources",
+            "excerpts": [
+              "Aug 9, 2022 \u2014 Spanish: Recursos de salud mental para inmigrantes. Arabic: \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0642\u0644\u064a\u0629 \u0644\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646. Dari: \u0645\u0646\u0627\u0628\u0639 \u0628\u0647\u062f\u0627\u0634\u062a \u0631\u0648\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0647\u0627\u062c\u0631\u0627\u0646. Pashto: \u062f \u0645\u0647\u0627\u062c\u0631\u06cc\u0646\u0648 \u0644\u067e\u0627\u0631\u0647 \u062f"
+            ],
+            "title": "Health Resources"
+          },
+          {
+            "url": "https://valrc.org/english-language-learning-resources-for-the-refugee-population/",
+            "excerpts": [
+              "Jan 8, 2025 \u2014 The information and resources on this page can be used to support newly arrived refugees , immigrants, and new Americans with accessing English language learning"
+            ],
+            "title": "English Language Learning Resources for Refugees and ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "cultureworks_technical_issue_assessment.issue_summary",
+        "reasoning": "The field value describes a visible technical error on the CultureWorks calendar pages, specifically a Liquid syntax error that prevents proper JSON-LD construction for events. The excerpt explicitly notes a Liquid syntax error related to building JSON-LD data and mentions that the CultureWorks events calendar is updated daily and is powered by Localist, which ties directly to the issue of structured data generation. Therefore, this excerpt provides direct evidence of a template-induced JSON-LD generation problem affecting the CultureWorks calendar, aligning with the described issue. Other aspects of the broader query (broader broadband data, demographics, or other providers) are not addressed in the excerpt, so they are not supported here.",
+        "citations": [
+          {
+            "url": "https://calendar.richmondcultureworks.org/home",
+            "excerpts": [
+              "1 day ago \u2014 Get a personalized list of events in your inbox with our Digest emailer. Liquid syntax error: Cannot build json - ld tag, event_item is unknown. : Liquid error 1 day ago \u2014 Richmond CultureWorks events updated every day . Powered by Localist Event Calendar Software."
+            ],
+            "title": "Richmond CultureWorks Homepage"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "cultureworks_technical_issue_assessment.platform_provider",
+        "reasoning": "The targeted field is cultureworks_technical_issue_assessment.platform_provider, and the value we are validating is 'Localist'. The excerpt explicitly states that the events are 'Powered by Localist Event Calendar Software', which directly identifies Localist as the platform provider. This is a direct, unambiguous match to the field value. The mention of a Liquid syntax error related to building JSON is ancillary context about the feed, but it does not contradict or alter the platform provider identification, since the key assertion about the provider remains: Localist.",
+        "citations": [
+          {
+            "url": "https://calendar.richmondcultureworks.org/home",
+            "excerpts": [
+              "1 day ago \u2014 Get a personalized list of events in your inbox with our Digest emailer. Liquid syntax error: Cannot build json - ld tag, event_item is unknown. : Liquid error 1 day ago \u2014 Richmond CultureWorks events updated every day . Powered by Localist Event Calendar Software."
+            ],
+            "title": "Richmond CultureWorks Homepage"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "broadband_adoption_analysis",
+        "reasoning": "The finegrained field value asserts a broadband adoption analysis for specific Richmond ZIPs based on ACS five-year estimates and argues that web-only arts discovery would exclude residents with limited broadband, especially where mobile-only access is prevalent. To support this, excerpts that describe broadband access and internet subscription indicators are most directly relevant. A map-based or data-driven understanding of internet access at small-area geographies (like ZIP codes or ZCTAs) provides the methodological basis for such a claim. The excerpts describing broadband-related metrics and their sources show how such an analysis can be grounded in official data sources. For instance, the map resource discusses broadband access by household, which aligns with using geographic broadband indicators to assess digital divides. Documents explicitly titled as Census Bureau broadband tables (Types of Computers and Internet Subscriptions) provide concrete metrics that can be used to quantify subscription rates. The table codes and the Census data platform describe the exact measures (broadband subscription) that would underpin the analysis. Supporting this, references to the Census Bureau\u2019s data platform and the S2801 table highlight where the broadband metrics originate and how they are interpreted. Collectively, these excerpts establish the data provenance and geographic granularity required to substantiate a claim that certain neighborhoods have lower household broadband subscription rates, which in turn informs the risk of exclusion when relying solely on web-based arts discovery. The remaining excerpts touch on related topics (general data platforms, language resources, or event submission) but do not directly provide the broadband metrics or methodological basis needed for the finegrained field value. ",
+        "citations": [
+          {
+            "url": "https://atcoordinates.info/2018/12/21/mapping-us-census-data-on-internet-access/",
+            "excerpts": [
+              "Dec 21, 2018 \u2014 LISA map of Broad Band Subscription by Household. LISA Map of % of Households that have Access to Broadband Internet by County (2013-2017 ACS). 999 Dec 21, 2018 \u2014 We have complete coverage for computer and internet variables for all counties, ZCTAs, places (cities and towns), and census tracts for the first time."
+            ],
+            "title": "Mapping US Census Data on Internet Access"
+          },
+          {
+            "url": "https://data.census.gov/table/ACSST5Y2021.S2801",
+            "excerpts": [
+              "Census Bureau data table S2801 - TYPES OF COMPUTERS AND INTERNET SUBSCRIPTIONS. Table from ACS 5-Year Estimates Subject Tables, released by American"
+            ],
+            "title": "S2801: TYPES OF COMPUTERS AND ... - Census Bureau Table"
+          },
+          {
+            "url": "https://data.census.gov/table/ACSST5Y2023.S2801?q=ZCTA5+87116+Housing",
+            "excerpts": [
+              "Census Bureau data table S2801 - Types of Computers and Internet Subscriptions. Table from ACS 5-Year Estimates Subject Tables, released by American"
+            ],
+            "title": "S2801: Types of Computers and ... - Census Bureau Table"
+          },
+          {
+            "url": "https://data.census.gov/table/ACSST5Y2024.S2801?g=010XX00US$0400000",
+            "excerpts": [
+              "Table ID: S2801. Results (5417). View: 102550 ... Questions on how to use data.census.gov or to provide feedback, please contact census.data@census.gov."
+            ],
+            "title": "S2801: Census Bureau Table"
+          },
+          {
+            "url": "https://data.census.gov/table/ACSST1Y2022.S2801?q=Housing&g=160XX00US0427820,0457450",
+            "excerpts": [
+              "Note: This is a modified view of the original table produced by the U.S. Census Bureau. This download or printed version may have missing information from the"
+            ],
+            "title": "S2801: Census Bureau Table"
+          },
+          {
+            "url": "https://censusreporter.org/topics/table-codes/",
+            "excerpts": [
+              "Jul 27, 2021 \u2014 Percent Of Children Without Health Insurance Coverage [GCT 1yr] [R2702.xlsx]; GCT2801: Percent Of Households With A Broadband Internet Subscription [GCT 1yr]"
+            ],
+            "title": "Table Codes - Census Reporter"
+          },
+          {
+            "url": "https://data.census.gov/",
+            "excerpts": [
+              "Learn about America's People and Economy on the official United States Census Bureau data platform. Explore, customize, and download Census data tables,"
+            ],
+            "title": "Census Bureau Data"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "cultureworks_technical_issue_assessment.error_message",
+        "reasoning": "The finegrained field value captures a Liquid syntax error message: 'Liquid syntax error: Cannot build json - ld tag, event_item is unknown. : Liquid error'. The excerpt explicitly contains this exact phrasing, including the reference to a Liquid syntax error, an inability to build JSON, and an 'ld tag' with 'event_item' being unknown. This directly supports the idea that there is a syntax/templating issue within the CultureWorks setup related to rendering JSON-LD or event items in the Localist-powered calendar. Additional context in the excerpt confirms the error occurs in the cultureworks/Localist integration timeline ('1 day ago'), reinforcing that this is the relevant error description for the specified field value. Hence, this excerpt provides direct, contextual evidence for the existence and nature of the reported issue.",
+        "citations": [
+          {
+            "url": "https://calendar.richmondcultureworks.org/home",
+            "excerpts": [
+              "1 day ago \u2014 Get a personalized list of events in your inbox with our Digest emailer. Liquid syntax error: Cannot build json - ld tag, event_item is unknown. : Liquid error 1 day ago \u2014 Richmond CultureWorks events updated every day . Powered by Localist Event Calendar Software."
+            ],
+            "title": "Richmond CultureWorks Homepage"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_immigrant_support_organizations.1",
+        "reasoning": "The finegrained field value specifies the organization name Sacred Heart Center and that it serves the Latino population with educational programs such as GED preparation and ESL classes for Spanish speakers. The most relevant excerpt directly states that Sacred Heart Center in Richmond hosts classrooms filled with adult Latino students enrolled in GED prep classes, which confirms both the organization\u2019s role as a community hub for the Latino population and its GED-focused activity. It also explicitly references Spanish speakers in the context of the program, which maps to the languages_supported field. Related context about immigrant-oriented resources and language access in Richmond provides supporting background on language needs in the community, but does not name Sacred Heart Center or detail its GED/ESL offerings, so it is less directly relevant to the specific field value.\n",
+        "citations": [
+          {
+            "url": "https://www.vpm.org/news/2024-10-07/sacred-heart-center-ged-richmond-spanish-speakers",
+            "excerpts": [
+              "On Monday and Wednesday nights, classrooms at Sacred Heart Center in Richmond are filled with adult Latino students enrolled in GED prep classes."
+            ],
+            "title": "Sacred Heart has prepared 1,000 Spanish speakers for GED ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "cultureworks_technical_issue_assessment.implication",
+        "reasoning": "The most relevant part states there is a Liquid syntax error: Cannot build json - ld tag, event_item is unknown. This directly describes a failure to generate a JSON-LD structured data block for events on the CultureWorks calendar, which is the mechanism used by search engines to understand and potentially feature event details. Since the finegrained field value describes how such a failure would negatively impact discoverability and SEO, the excerpt provides direct evidence of the root cause (failure to produce JSON-LD) that would lead to reduced visibility in search results. The explicit mention of an error in building the json-ld tag ties the issue to structured data, supporting the claim that discoverability would be impacted due to the defect.",
+        "citations": [
+          {
+            "url": "https://calendar.richmondcultureworks.org/home",
+            "excerpts": [
+              "1 day ago \u2014 Get a personalized list of events in your inbox with our Digest emailer. Liquid syntax error: Cannot build json - ld tag, event_item is unknown. : Liquid error 1 day ago \u2014 Richmond CultureWorks events updated every day . Powered by Localist Event Calendar Software."
+            ],
+            "title": "Richmond CultureWorks Homepage"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "national_arts_aggregator_models_analysis.0",
+        "reasoning": "The extracted field value describes ArtRabbit as an independent digital art platform with a niche focus on visual and contemporary art, listing core features such as community-submitted event listings, professionally curated guides, promotional newsletters, and dedicated mobile apps for discovering art events. The excerpt explicitly states these exact features, which directly corroborate the 'core features' portion of the field value. It also characterizes sustained engagement as being driven by the platform's specialized focus and the combination of user-generated content with expert curation, which aligns with the 'engagement_drivers' portion of the field value. The field value notes that there are no mentioned failure factors; while the excerpt does not enumerate failures, its absence of such factors in the described context is consistent with the claim. Overall, the excerpt provides direct support for the described features and engagement rationale, with no conflicting information present in the excerpt.",
+        "citations": [
+          {
+            "url": "https://www.artrabbit.com/about/artrabbit",
+            "excerpts": [
+              "Jul 20, 2023 \u2014 ArtRabbit is an independent digital art platform and community dedicated to promoting, discovering, and appreciating contemporary art and visual culture."
+            ],
+            "title": "About ArtRabbit"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_event_submission_portals.1",
+        "reasoning": "The field value specifies an organization name (Venture Richmond), a portal name (Venture Richmond Downtown Events), and a submission URL (https://venturerichmond.com/our-events/submit-your-event/). The most relevant excerpt explicitly discusses submitting an event to be featured on the Venture Richmond site and provides the submission URL associated with that site, which aligns with the portal behavior and the URL in the field value. The other excerpt discusses submitting to the official Richmond events calendar and locating submission criteria and a form, which is related to event submissions in Richmond but pertains to a different portal (the city\u2019s official calendar) and does not mention Venture Richmond or the exact submission URL, thus providing weaker support for the exact portal identity and URL in the field value.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/our-events/submit-your-event/",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Share your event with Downtown Richmond! Submit your event to be featured on the Venture Richmond site and reach locals looking for activities."
+            ],
+            "title": "Submit Your Event for Our Richmond Calendar"
+          },
+          {
+            "url": "https://www.visitrichmondva.com/events/submit-your-event/",
+            "excerpts": [
+              "Jul 1, 2020 \u2014 Let's get you on the official Richmond event calendar! Submit the details and find everything you need including the event criteria and submission form."
+            ],
+            "title": "Submit Your Event"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_immigrant_support_organizations.0",
+        "reasoning": "The target field value specifies an organization name (ReEstablish Richmond) and the languages it supports (Arabic, Dari, Pashto, Spanish) in the context of resources for immigrant and refugee communities. The excerpt clearly states that ReEstablish Richmond provides health resources and other support to help with successful resettlement, and it lists the languages supported as Arabic, Dari, Pashto, and Spanish. This directly confirms both the organization\u2019s involvement in immigrant/refugee resettlement and the exact set of languages associated with that organization. Other excerpts discuss immigrant-related topics (e.g., language resources for refugees, multilingual health resources) but do not mention ReEstablish Richmond or provide the same explicit languages list for that organization, making them only tangentially relevant to the precise field value. Therefore, the most relevant evidence is the excerpt that explicitly links ReEstablish Richmond to the specified languages, ensuring a precise match to the finegrained field value.",
+        "citations": [
+          {
+            "url": "https://www.reestablishrichmond.org/health-resources",
+            "excerpts": [
+              "Aug 9, 2022 \u2014 Spanish: Recursos de salud mental para inmigrantes. Arabic: \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0642\u0644\u064a\u0629 \u0644\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646. Dari: \u0645\u0646\u0627\u0628\u0639 \u0628\u0647\u062f\u0627\u0634\u062a \u0631\u0648\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0647\u0627\u062c\u0631\u0627\u0646. Pashto: \u062f \u0645\u0647\u0627\u062c\u0631\u06cc\u0646\u0648 \u0644\u067e\u0627\u0631\u0647 \u062f"
+            ],
+            "title": "Health Resources"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_immigrant_support_organizations.2",
+        "reasoning": "The most relevant excerpt directly references the Office of New Americans \u2013 Refugee Services in Richmond City, aligning with the finegrained field value\u2019s organization name and its mission to address health and resettlement factors for refugees. This establishes the core entity and its government office status in the Richmond area. A closely aligned excerpt discusses immigrant-engagement in Richmond, which reinforces the broader context of local institutions serving immigrant communities and the multilingual considerations that the field value highlights. Excerpts describing languages such as Arabic, Dari, and Pashto present in the Richmond context provide concrete evidence for the multilingual needs identified in the field value. Additional excerpts detailing health resources and language-access resources in Richmond demonstrate the broader ecosystem of immigrant support and language accessibility, including Spanish-speaking education and English-language resources, which supplement the multilingual landscape though they are less directly tied to the named organization. Collectively, these excerpts support the existence of a Richmond-based refugee services office and the multilingual service environment relevant to inclusive arts discovery and immigrant support in Richmond.",
+        "citations": [
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "Feb 26, 2026 \u2014 Our Office of New Americans - Refugee Services exists to address health issues that may influence successful resettlement, identify and intervene on diseases"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City ..."
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/about",
+            "excerpts": [
+              "Sep 2, 2021 \u2014 Many families moving to Richmond are new arrivals to the country and initially have limited English language skills. The language barrier can be challenging"
+            ],
+            "title": "About | Richmond"
+          },
+          {
+            "url": "https://www.rescue.org/press-release/irc-launches-groundbreaking-virtual-reception-and-placement-program-support-sivs",
+            "excerpts": [
+              "Mar 26, 2024 \u2014 Currently, VR&P is serving \u201cwalk-in\u201d SIVs, and is staffed by virtual case managers who speak English, Arabic, Dari and Pashto. In March 2022, the IRC, in"
+            ],
+            "title": "IRC launches groundbreaking Virtual Reception and ..."
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/health-resources",
+            "excerpts": [
+              "Aug 9, 2022 \u2014 Spanish: Recursos de salud mental para inmigrantes. Arabic: \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0642\u0644\u064a\u0629 \u0644\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646. Dari: \u0645\u0646\u0627\u0628\u0639 \u0628\u0647\u062f\u0627\u0634\u062a \u0631\u0648\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0647\u0627\u062c\u0631\u0627\u0646. Pashto: \u062f \u0645\u0647\u0627\u062c\u0631\u06cc\u0646\u0648 \u0644\u067e\u0627\u0631\u0647 \u062f"
+            ],
+            "title": "Health Resources"
+          },
+          {
+            "url": "https://www.vpm.org/news/2024-10-07/sacred-heart-center-ged-richmond-spanish-speakers",
+            "excerpts": [
+              "On Monday and Wednesday nights, classrooms at Sacred Heart Center in Richmond are filled with adult Latino students enrolled in GED prep classes."
+            ],
+            "title": "Sacred Heart has prepared 1,000 Spanish speakers for GED ..."
+          },
+          {
+            "url": "https://valrc.org/english-language-learning-resources-for-the-refugee-population/",
+            "excerpts": [
+              "Jan 8, 2025 \u2014 The information and resources on this page can be used to support newly arrived refugees , immigrants, and new Americans with accessing English language learning"
+            ],
+            "title": "English Language Learning Resources for Refugees and ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "richmond_event_submission_portals.0",
+        "reasoning": "The most relevant excerpt explicitly describes submitting an event to the official Richmond event calendar and provides the submission URL that matches the Visit Richmond site (https://www.visitrichmondva.com/events/submit-your-event/). This directly supports the field value that the organization is Visit Richmond, the portal name is the Official Richmond Event Calendar, and the submission URL points to Visit Richmond\u2019s event submission page. A second excerpt discusses submitting to a Richmond calendar on the Venture Richmond site, which indicates a different portal and therefore provides contextual relevance but does not confirm the exact official calendar entry or the Visit Richmond association specified in the field value. Overall, the first excerpt directly corroborates the core elements of the field value, while the second offers peripheral context without confirming the same portal details.",
+        "citations": [
+          {
+            "url": "https://www.visitrichmondva.com/events/submit-your-event/",
+            "excerpts": [
+              "Jul 1, 2020 \u2014 Let's get you on the official Richmond event calendar! Submit the details and find everything you need including the event criteria and submission form."
+            ],
+            "title": "Submit Your Event"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/submit-your-event/",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Share your event with Downtown Richmond! Submit your event to be featured on the Venture Richmond site and reach locals looking for activities."
+            ],
+            "title": "Submit Your Event for Our Richmond Calendar"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "information_channels_for_seniors",
+        "reasoning": "The claim that print media, such as senior-focused resources like the Seniors Guide, remains a key channel for older adults is supported by the excerpt describing Seniors Guide as a trusted resource used by older adults for important decisions. This provides explicit alignment with print and trusted community resources as channels for seniors. The observation that word-of-mouth, local papers, and neighborhood-focused channels are relevant to event promotion in various locales is directly echoed in the excerpt discussing how people promote events, including word of mouth and local papers as part of the typical channels, which aligns with the notion that seniors commonly receive information through these traditional channels. The mention of an email-based digest as a channel for event updates illustrates another channel (email/newsletters) that may be used to reach audiences, including those who are engaged with local cultural calendars, though it is less directly tied to the 65+ demographic in the excerpt than the explicit seniors-focused resource. Taken together, these excerpts support a blended picture of traditional (print, word of mouth) and targeted resources (Seniors Guide) as relevant channels for seniors learning about arts events, with some role for email digests as supplementary channels.",
+        "citations": [
+          {
+            "url": "https://www.dnj.com/press-release/story/61971/seniors-guide-providing-resources-for-important-decisions/",
+            "excerpts": [
+              "Mar 11, 2026 \u2014 For 25 years, older adults and their families have used Seniors Guide as a trusted resource to inform life's most important decisions."
+            ],
+            "title": "Seniors Guide: Providing Resources for Important Decisions"
+          },
+          {
+            "url": "https://www.facebook.com/groups/235814466274117/posts/752405734614985/",
+            "excerpts": [
+              "Depends on your location. In a small town, word of mouth, local paper, neighbourhood apps. In large cities FB groups, flyer in yoga centers, shopping centers,"
+            ],
+            "title": "How to promote events effectively? - Facebook"
+          },
+          {
+            "url": "https://calendar.richmondcultureworks.org/home",
+            "excerpts": [
+              "1 day ago \u2014 Get a personalized list of events in your inbox with our Digest emailer. Liquid syntax error: Cannot build json - ld tag, event_item is unknown. : Liquid error 1 day ago \u2014 Richmond CultureWorks events updated every day . Powered by Localist Event Calendar Software."
+            ],
+            "title": "Richmond CultureWorks Homepage"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "key_immigrant_support_organizations.1.languages_supported",
+        "reasoning": "The excerpt explicitly references 'Spanish speakers' in the context of GED preparation at the Sacred Heart Center in Richmond, highlighting that Spanish is a language used in programming for immigrant communities. This directly supports the notion that Spanish is a language supported by local immigrant-focused organizations, which matches the requested finegrained field value of 'Spanish'. The content also notes that the programs target adult Latino students, reinforcing the relevance to immigrant support and language access efforts in Richmond.",
+        "citations": [
+          {
+            "url": "https://www.vpm.org/news/2024-10-07/sacred-heart-center-ged-richmond-spanish-speakers",
+            "excerpts": [
+              "On Monday and Wednesday nights, classrooms at Sacred Heart Center in Richmond are filled with adult Latino students enrolled in GED prep classes."
+            ],
+            "title": "Sacred Heart has prepared 1,000 Spanish speakers for GED ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_immigrant_support_organizations.1.primary_focus",
+        "reasoning": "The excerpt demonstrates a community hub in Richmond serving Latino immigrants with concrete educational offerings (GED preparation) for Spanish speakers, which aligns with the described primary focus of the immigrant-support organization in the field value. This shows organizational activity centered on education for Spanish-speaking Latinos, confirming the field value\u2019s claim about services like GED and ESL for that population. The evidence is limited to this instance but directly corroborates the core components: geographic location (Richmond), community hub role, Latino population focus, and educational programs for Spanish speakers.",
+        "citations": [
+          {
+            "url": "https://www.vpm.org/news/2024-10-07/sacred-heart-center-ged-richmond-spanish-speakers",
+            "excerpts": [
+              "On Monday and Wednesday nights, classrooms at Sacred Heart Center in Richmond are filled with adult Latino students enrolled in GED prep classes."
+            ],
+            "title": "Sacred Heart has prepared 1,000 Spanish speakers for GED ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "national_arts_aggregator_models_analysis.0.key_features",
+        "reasoning": "The finegrained field value claims that ArtRabbit is an independent digital art platform with a niche focus on visual and contemporary art, and lists core discovery-related features: community-submitted event listings, curated guides, promotional newsletters, and dedicated mobile apps. The excerpt states that ArtRabbit is an independent digital art platform focused on promoting, discovering, and appreciating contemporary art and visual culture, and explicitly mentions the same features: community-submitted event listings, professionally curated guides, promotional newsletters, and dedicated mobile applications for discovering art events. Therefore, this excerpt directly supports all aspects of the finegrained field value that pertain to ArtRabbit's identity and its key features for discovering art events.",
+        "citations": [
+          {
+            "url": "https://www.artrabbit.com/about/artrabbit",
+            "excerpts": [
+              "Jul 20, 2023 \u2014 ArtRabbit is an independent digital art platform and community dedicated to promoting, discovering, and appreciating contemporary art and visual culture."
+            ],
+            "title": "About ArtRabbit"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_immigrant_support_organizations.1.organization_name",
+        "reasoning": "The excerpt explicitly mentions a Sacred Heart Center located in Richmond, contextualized as a site where Spanish-speaking adult learners participate in GED preparation. This directly supports the finegrained field value, which captures the organization name for the second immigrant support organization entry. The content confirms both the name (Sacred Heart Center) and its geographical association (Richmond), aligning with the path key_immigrant_support_organizations.1.organization_name by illustrating a concrete instance of the organization name that would appear at that location in the nested structure.",
+        "citations": [
+          {
+            "url": "https://www.vpm.org/news/2024-10-07/sacred-heart-center-ged-richmond-spanish-speakers",
+            "excerpts": [
+              "On Monday and Wednesday nights, classrooms at Sacred Heart Center in Richmond are filled with adult Latino students enrolled in GED prep classes."
+            ],
+            "title": "Sacred Heart has prepared 1,000 Spanish speakers for GED ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_immigrant_support_organizations.0.primary_focus",
+        "reasoning": "The selected excerpt describes health resources specifically aimed at immigrants and includes multilingual health-related guidance, which directly supports the field value\u2019s claim about providing health resources and other forms of support to assist immigrant and refugee communities in their resettlement. The emphasis on health resources is a core component of the stated primary focus, and the multilingual aspect reinforces inclusivity for immigrant groups. This directly aligns with the intended purpose of offering support to facilitate successful resettlement.",
+        "citations": [
+          {
+            "url": "https://www.reestablishrichmond.org/health-resources",
+            "excerpts": [
+              "Aug 9, 2022 \u2014 Spanish: Recursos de salud mental para inmigrantes. Arabic: \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0642\u0644\u064a\u0629 \u0644\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646. Dari: \u0645\u0646\u0627\u0628\u0639 \u0628\u0647\u062f\u0627\u0634\u062a \u0631\u0648\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0647\u0627\u062c\u0631\u0627\u0646. Pashto: \u062f \u0645\u0647\u0627\u062c\u0631\u06cc\u0646\u0648 \u0644\u067e\u0627\u0631\u0647 \u062f"
+            ],
+            "title": "Health Resources"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "national_arts_aggregator_models_analysis.0.platform_name",
+        "reasoning": "The field value we are evaluating is the name of a national arts aggregator platform. The excerpt states that ArtRabbit is an independent digital art platform and community dedicated to promoting, discovering, and appreciating contemporary art and visual culture, which directly confirms the platform's name and its role as a platform in the arts aggregator space. This directly supports the finegrained field value for the specified path, as it provides evidence about the platform identity referenced by the field.",
+        "citations": [
+          {
+            "url": "https://www.artrabbit.com/about/artrabbit",
+            "excerpts": [
+              "Jul 20, 2023 \u2014 ArtRabbit is an independent digital art platform and community dedicated to promoting, discovering, and appreciating contemporary art and visual culture."
+            ],
+            "title": "About ArtRabbit"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_immigrant_support_organizations.2.primary_focus",
+        "reasoning": "The target field describes a government office dedicated to refugee resettlement-related health issues and other factors influencing successful resettlement in the Richmond area. The most relevant excerpt directly states: 'Office of New Americans - Refugee Services exists to address health issues that may influence successful resettlement, identify and intervene on diseases.' This aligns precisely with the field value, identifying the office as a government entity focused on health-related aspects and broader resettlement factors for refugees in Richmond. Other excerpts discuss immigrant language access, engagement, or resources but do not explicitly define the primary focus as resettlement health issues, so they are only tangential context rather than direct support for the field value.",
+        "citations": [
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "Feb 26, 2026 \u2014 Our Office of New Americans - Refugee Services exists to address health issues that may influence successful resettlement, identify and intervene on diseases"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_immigrant_support_organizations.0.languages_supported",
+        "reasoning": "To support the finegrained field value, I look for explicit mention of the languages Arabic, Dari, Pashto, and Spanish in connection with immigrant communities. The excerpt shows multilingual resources labeled with Spanish, Arabic, Dari, and Pashto, indicating that these languages are indeed used in materials intended for immigrant populations. This aligns with the field value that these languages are supported or relevant for inclusive outreach. While the excerpt centers on health resources rather than arts discovery, the language covers the same immigrant community context and demonstrates existing multilingual engagement, which is relevant evidence for language support considerations in inclusive arts discovery in Richmond.",
+        "citations": [
+          {
+            "url": "https://www.reestablishrichmond.org/health-resources",
+            "excerpts": [
+              "Aug 9, 2022 \u2014 Spanish: Recursos de salud mental para inmigrantes. Arabic: \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0642\u0644\u064a\u0629 \u0644\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646. Dari: \u0645\u0646\u0627\u0628\u0639 \u0628\u0647\u062f\u0627\u0634\u062a \u0631\u0648\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0647\u0627\u062c\u0631\u0627\u0646. Pashto: \u062f \u0645\u0647\u0627\u062c\u0631\u06cc\u0646\u0648 \u0644\u067e\u0627\u0631\u0647 \u062f"
+            ],
+            "title": "Health Resources"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "national_arts_aggregator_models_analysis.0.failure_factors",
+        "reasoning": "The excerpt describes ArtRabbit as an independent digital art platform focused on promoting, discovering, and appreciating contemporary art and visual culture. This information confirms the existence and nature of ArtRabbit but does not address whether there are any failure factors or sustained engagement claims. Since the field value asserts that there are no failure factors mentioned for ArtRabbit, the excerpt neither confirms nor denies that assertion; it simply provides contextual background about the platform without evaluating its success or failure factors. Therefore, this excerpt offers minimal direct support for the finegrained field value and serves mainly as contextual background rather than evidence of failure or success factors.",
+        "citations": [
+          {
+            "url": "https://www.artrabbit.com/about/artrabbit",
+            "excerpts": [
+              "Jul 20, 2023 \u2014 ArtRabbit is an independent digital art platform and community dedicated to promoting, discovering, and appreciating contemporary art and visual culture."
+            ],
+            "title": "About ArtRabbit"
+          }
+        ],
+        "confidence": "low"
+      },
+      {
+        "field": "richmond_event_submission_portals.0.submission_url",
+        "reasoning": "The exact field value corresponds to the URL for submitting an event to the Visit Richmond calendar. The first excerpt directly provides the exact URL in the submission context, demonstrating a portal that uses that specific submission URL. The second excerpt references a submission portal for Venture Richmond, which is clearly a different site and does not contain the exact URL specified by the field value, but it is contextually relevant as it relates to Richmond event submission processes. Therefore, the most relevant content is the excerpt that contains the exact URL, and a closely related but distinct submission portal provides contextual support about similar submission workflows in Richmond.",
+        "citations": [
+          {
+            "url": "https://www.visitrichmondva.com/events/submit-your-event/",
+            "excerpts": [
+              "Jul 1, 2020 \u2014 Let's get you on the official Richmond event calendar! Submit the details and find everything you need including the event criteria and submission form."
+            ],
+            "title": "Submit Your Event"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/submit-your-event/",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Share your event with Downtown Richmond! Submit your event to be featured on the Venture Richmond site and reach locals looking for activities."
+            ],
+            "title": "Submit Your Event for Our Richmond Calendar"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_event_submission_portals.1.submission_url",
+        "reasoning": "The target field is the submission_url within a Richmond event submission portal. The excerpt that begins with 'Submit Your Event for Our Richmond Calendar' explicitly contains the exact URL 'https://venturerichmond.com/our-events/submit-your-event/', which directly matches the finegrained field value. The other excerpt references a different submission URL for Visit Richmond and therefore does not support the specific field value. Since the field value is an exact match to the first excerpt's URL, that excerpt is highly relevant, providing direct evidence for the requested field value.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/our-events/submit-your-event/",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Share your event with Downtown Richmond! Submit your event to be featured on the Venture Richmond site and reach locals looking for activities."
+            ],
+            "title": "Submit Your Event for Our Richmond Calendar"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_event_submission_portals.0.portal_name",
+        "reasoning": "The field value indicates a connection to the 'Official Richmond Event Calendar'. The most compelling excerpt explicitly discusses submitting an event to the official Richmond event calendar, stating: 'Let's get you on the official Richmond event calendar! Submit the details ...'. This directly supports the notion of an official calendar and submission process tied to Richmond. A second excerpt discusses submitting an event to be featured on the Venture Richmond site, which relates to coordinating events with a local organization but does not explicitly claim it is the official calendar. Therefore, it provides contextual support about Richmond event submission ecosystems but is a weaker match to the precise field value.",
+        "citations": [
+          {
+            "url": "https://www.visitrichmondva.com/events/submit-your-event/",
+            "excerpts": [
+              "Jul 1, 2020 \u2014 Let's get you on the official Richmond event calendar! Submit the details and find everything you need including the event criteria and submission form."
+            ],
+            "title": "Submit Your Event"
+          },
+          {
+            "url": "https://venturerichmond.com/our-events/submit-your-event/",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Share your event with Downtown Richmond! Submit your event to be featured on the Venture Richmond site and reach locals looking for activities."
+            ],
+            "title": "Submit Your Event for Our Richmond Calendar"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_immigrant_support_organizations.2.languages_supported",
+        "reasoning": "The most relevant excerpts directly confirm multilingual support or the need for language services for refugees. One excerpt notes that virtual reception and placement staff speak English, Arabic, Dari, and Pashto, directly aligning with the field value\u2019s emphasis on multiple languages for refugee populations. A closely related excerpt reinforces the same set of languages (Arabic, Dari, Pashto) and shows explicit multilingual capacity in the context of immigrant services. Another excerpt discusses resources that help newly arrived refugees with English language learning, which supports the broader need for language accessibility in refugee-focused programs. Additional excerpts mention language barriers and limited English skills among immigrant communities, underscoring why multilingual support is necessary. Excerpts mentioning Spanish language resources for health or GED prep provide contextual relevance about language diversity in refugee/immigrant contexts, though they are less directly tied to the specific set of languages highlighted in the field value. An excerpt focusing on general refugee services without specific languages is the least direct but still part of the broader language-accessibility landscape.",
+        "citations": [
+          {
+            "url": "https://www.rescue.org/press-release/irc-launches-groundbreaking-virtual-reception-and-placement-program-support-sivs",
+            "excerpts": [
+              "Mar 26, 2024 \u2014 Currently, VR&P is serving \u201cwalk-in\u201d SIVs, and is staffed by virtual case managers who speak English, Arabic, Dari and Pashto. In March 2022, the IRC, in"
+            ],
+            "title": "IRC launches groundbreaking Virtual Reception and ..."
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/health-resources",
+            "excerpts": [
+              "Aug 9, 2022 \u2014 Spanish: Recursos de salud mental para inmigrantes. Arabic: \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0642\u0644\u064a\u0629 \u0644\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646. Dari: \u0645\u0646\u0627\u0628\u0639 \u0628\u0647\u062f\u0627\u0634\u062a \u0631\u0648\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0647\u0627\u062c\u0631\u0627\u0646. Pashto: \u062f \u0645\u0647\u0627\u062c\u0631\u06cc\u0646\u0648 \u0644\u067e\u0627\u0631\u0647 \u062f"
+            ],
+            "title": "Health Resources"
+          },
+          {
+            "url": "https://valrc.org/english-language-learning-resources-for-the-refugee-population/",
+            "excerpts": [
+              "Jan 8, 2025 \u2014 The information and resources on this page can be used to support newly arrived refugees , immigrants, and new Americans with accessing English language learning"
+            ],
+            "title": "English Language Learning Resources for Refugees and ..."
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/about",
+            "excerpts": [
+              "Sep 2, 2021 \u2014 Many families moving to Richmond are new arrivals to the country and initially have limited English language skills. The language barrier can be challenging"
+            ],
+            "title": "About | Richmond"
+          },
+          {
+            "url": "https://www.vpm.org/news/2024-10-07/sacred-heart-center-ged-richmond-spanish-speakers",
+            "excerpts": [
+              "On Monday and Wednesday nights, classrooms at Sacred Heart Center in Richmond are filled with adult Latino students enrolled in GED prep classes."
+            ],
+            "title": "Sacred Heart has prepared 1,000 Spanish speakers for GED ..."
+          },
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "Feb 26, 2026 \u2014 Our Office of New Americans - Refugee Services exists to address health issues that may influence successful resettlement, identify and intervene on diseases"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City ..."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_event_submission_portals.0.organization_name",
+        "reasoning": "The field value identifies the organization name for the first submission portal as Visit Richmond. The first excerpt describes submitting events to Richmond\u2019s official event calendar and points to the Visit Richmond domain, which aligns with the concept of the Visit Richmond organization operating the primary calendar portal. It implies an official, centralized channel for event submissions, which is consistent with an organization named Visit Richmond. The second excerpt discusses a different local portal ( Venture Richmond ) for submitting events, which, while related to Richmond\u2019s event ecosystem, does not directly corroborate the specific organization name in the first portal. Thus, the first excerpt provides direct alignment to the target organization name, while the second offers peripheral context without confirming the exact field value.",
+        "citations": [
+          {
+            "url": "https://www.visitrichmondva.com/events/submit-your-event/",
+            "excerpts": [
+              "Jul 1, 2020 \u2014 Let's get you on the official Richmond event calendar! Submit the details and find everything you need including the event criteria and submission form."
+            ],
+            "title": "Submit Your Event"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "richmond_event_submission_portals.1.organization_name",
+        "reasoning": "The target field value is the organization name at a specific position within the Richmond event submission portals. The most relevant excerpt directly states that you can submit your event to be featured on the Venture Richmond site, clearly identifying Venture Richmond as the hosting organization for event submissions. This directly supports the field value. The second excerpt mentions submitting to the official Richmond event calendar and provides general submission information but does not mention Venture Richmond by name, so it offers contextual support but not direct confirmation of the specific organization at the target path.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/our-events/submit-your-event/",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Share your event with Downtown Richmond! Submit your event to be featured on the Venture Richmond site and reach locals looking for activities."
+            ],
+            "title": "Submit Your Event for Our Richmond Calendar"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "richmond_event_submission_portals.1.portal_name",
+        "reasoning": "The field value refers to a specific portal name tied to Richmond event submissions. The most directly relevant excerpt states: \"Submit your event to be featured on the Venture Richmond site and reach locals looking for activities.\" This explicitly identifies the Venture Richmond site as a submission portal, aligning with the target portal name that would occupy the position richmond_event_submission_portals.1.portal_name. The other excerpt discusses submitting to Visit Richmond's official calendar but does not mention Venture Richmond, thus provides contextual corroboration of the submission-portal ecosystem without supporting the exact field value.",
+        "citations": [
+          {
+            "url": "https://venturerichmond.com/our-events/submit-your-event/",
+            "excerpts": [
+              "Sep 22, 2025 \u2014 Share your event with Downtown Richmond! Submit your event to be featured on the Venture Richmond site and reach locals looking for activities."
+            ],
+            "title": "Submit Your Event for Our Richmond Calendar"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "key_immigrant_support_organizations.2.organization_name",
+        "reasoning": "The field value refers to a specific office: the VDH Office of New Americans \u2013 Refugee Services, as part of the Richmond City Health District. The clearest supporting evidence is an excerpt that explicitly names the Office of New Americans - Refugee Services and describes its mission related to health and refugee resettlement needs. This directly supports the existence and framing of the organization in the requested field value. Other excerpts discuss immigrant-related topics (e.g., language access, immigrant engagement) but do not name this exact office or confirm its affiliation with the Richmond City Health District, so they provide only contextual relevance rather than direct confirmation of the precise organizational label.",
+        "citations": [
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "Feb 26, 2026 \u2014 Our Office of New Americans - Refugee Services exists to address health issues that may influence successful resettlement, identify and intervene on diseases"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City ..."
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "digital_divide_impact_on_arts_access",
+        "reasoning": "The digital divide in Richmond significantly impacts arts discovery due to disparities in broadband access, language barriers, and generational media preferences. Geographic disparities in broadband access are evident, with lower rates of household broadband subscriptions in areas like the East End, Southside, and Northside, suggesting that web-only arts discovery could exclude residents. This is supported by data mapping broadband access by ZCTA and information on broadband subscription percentages. Furthermore, the divide is linguistic; inclusive arts discovery must cater to diverse immigrant communities. Resources and services are highlighted in languages such as Arabic, Dari, Pashto, and Spanish, indicating a need to serve these populations. The presence of a large Spanish-speaking community and the need for language support for refugees and immigrants underscore this point. Finally, an 'analog divide' affects older adults who may not rely on digital platforms for event information. Evidence suggests a continued reliance on traditional media like print publications, radio, and word-of-mouth communication among this demographic, with some older adults not digitizing critical records.",
+        "citations": [
+          {
+            "url": "https://atcoordinates.info/2018/12/21/mapping-us-census-data-on-internet-access/",
+            "excerpts": [
+              "Dec 21, 2018 \u2014 LISA map of Broad Band Subscription by Household. LISA Map of % of Households that have Access to Broadband Internet by County (2013-2017 ACS). 999 Dec 21, 2018 \u2014 We have complete coverage for computer and internet variables for all counties, ZCTAs, places (cities and towns), and census tracts for the first time."
+            ],
+            "title": "Mapping US Census Data on Internet Access"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/about",
+            "excerpts": [
+              "Sep 2, 2021 \u2014 Many families moving to Richmond are new arrivals to the country and initially have limited English language skills. The language barrier can be challenging"
+            ],
+            "title": "About | Richmond"
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/health-resources",
+            "excerpts": [
+              "Aug 9, 2022 \u2014 Spanish: Recursos de salud mental para inmigrantes. Arabic: \u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0642\u0644\u064a\u0629 \u0644\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646. Dari: \u0645\u0646\u0627\u0628\u0639 \u0628\u0647\u062f\u0627\u0634\u062a \u0631\u0648\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0647\u0627\u062c\u0631\u0627\u0646. Pashto: \u062f \u0645\u0647\u0627\u062c\u0631\u06cc\u0646\u0648 \u0644\u067e\u0627\u0631\u0647 \u062f"
+            ],
+            "title": "Health Resources"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2025-05/CHSP_Final_4.25.25_KC_0.pdf",
+            "excerpts": [
+              "Richmond's southside where there had been lower levels of previous engagement with the plan as evidenced by the community survey demographic data."
+            ],
+            "title": "[PDF] City of Richmond Cultural Heritage Stewardship Plan - RVA.gov"
+          },
+          {
+            "url": "https://www.vpm.org/news/2024-10-07/sacred-heart-center-ged-richmond-spanish-speakers",
+            "excerpts": [
+              "On Monday and Wednesday nights, classrooms at Sacred Heart Center in Richmond are filled with adult Latino students enrolled in GED prep classes."
+            ],
+            "title": "Sacred Heart has prepared 1,000 Spanish speakers for GED ..."
+          },
+          {
+            "url": "https://www.rescue.org/press-release/irc-launches-groundbreaking-virtual-reception-and-placement-program-support-sivs",
+            "excerpts": [
+              "Mar 26, 2024 \u2014 Currently, VR&P is serving \u201cwalk-in\u201d SIVs, and is staffed by virtual case managers who speak English, Arabic, Dari and Pashto. In March 2022, the IRC, in"
+            ],
+            "title": "IRC launches groundbreaking Virtual Reception and ..."
+          },
+          {
+            "url": "https://censusreporter.org/topics/table-codes/",
+            "excerpts": [
+              "Jul 27, 2021 \u2014 Percent Of Children Without Health Insurance Coverage [GCT 1yr] [R2702.xlsx]; GCT2801: Percent Of Households With A Broadband Internet Subscription [GCT 1yr]"
+            ],
+            "title": "Table Codes - Census Reporter"
+          },
+          {
+            "url": "https://dl.acm.org/doi/full/10.1145/3715275.3732175",
+            "excerpts": [
+              "by JC Perdomo \u00b7 2025 \u00b7 Cited by 49 \u2014 Percent of total households with a broadband Internet subscription. DP02_0059PE, Percent of population 25 years or older with less than a 9th grade education."
+            ],
+            "title": "Difficult Lessons on Social Prediction from Wisconsin ..."
+          },
+          {
+            "url": "https://www.facebook.com/groups/235814466274117/posts/752405734614985/",
+            "excerpts": [
+              "Depends on your location. In a small town, word of mouth, local paper, neighbourhood apps. In large cities FB groups, flyer in yoga centers, shopping centers,"
+            ],
+            "title": "How to promote events effectively? - Facebook"
+          },
+          {
+            "url": "https://www.dnj.com/press-release/story/61971/seniors-guide-providing-resources-for-important-decisions/",
+            "excerpts": [
+              "Mar 11, 2026 \u2014 For 25 years, older adults and their families have used Seniors Guide as a trusted resource to inform life's most important decisions."
+            ],
+            "title": "Seniors Guide: Providing Resources for Important Decisions"
+          },
+          {
+            "url": "https://www.facebook.com/13NewsNow/videos/getting-your-digital-house-in-order/1613155806326155/",
+            "excerpts": [
+              "A recent AARP survey finds that nearly two-thirds of adults aged 50 and older have not digitized critical records, from financial documents to medical files."
+            ],
+            "title": "A recent AARP survey finds that nearly two-thirds of adults ..."
+          },
+          {
+            "url": "https://data.census.gov/table/ACSST5Y2021.S2801",
+            "excerpts": [
+              "Census Bureau data table S2801 - TYPES OF COMPUTERS AND INTERNET SUBSCRIPTIONS. Table from ACS 5-Year Estimates Subject Tables, released by American"
+            ],
+            "title": "S2801: TYPES OF COMPUTERS AND ... - Census Bureau Table"
+          },
+          {
+            "url": "https://data.census.gov/table/ACSST5Y2023.S2801?q=ZCTA5+87116+Housing",
+            "excerpts": [
+              "Census Bureau data table S2801 - Types of Computers and Internet Subscriptions. Table from ACS 5-Year Estimates Subject Tables, released by American"
+            ],
+            "title": "S2801: Types of Computers and ... - Census Bureau Table"
+          },
+          {
+            "url": "https://data.census.gov/table/ACSST5Y2024.S2801?g=010XX00US$0400000",
+            "excerpts": [
+              "Table ID: S2801. Results (5417). View: 102550 ... Questions on how to use data.census.gov or to provide feedback, please contact census.data@census.gov."
+            ],
+            "title": "S2801: Census Bureau Table"
+          },
+          {
+            "url": "https://data.census.gov/table/ACSST1Y2022.S2801?q=Housing&g=160XX00US0427820,0457450",
+            "excerpts": [
+              "Note: This is a modified view of the original table produced by the U.S. Census Bureau. This download or printed version may have missing information from the"
+            ],
+            "title": "S2801: Census Bureau Table"
+          },
+          {
+            "url": "https://data.census.gov/",
+            "excerpts": [
+              "Learn about America's People and Economy on the official United States Census Bureau data platform. Explore, customize, and download Census data tables,"
+            ],
+            "title": "Census Bureau Data"
+          },
+          {
+            "url": "https://valrc.org/english-language-learning-resources-for-the-refugee-population/",
+            "excerpts": [
+              "Jan 8, 2025 \u2014 The information and resources on this page can be used to support newly arrived refugees , immigrants, and new Americans with accessing English language learning"
+            ],
+            "title": "English Language Learning Resources for Refugees and ..."
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "executive_summary": {
+          "type": "string",
+          "description": "A high-level summary of the key findings regarding arts discovery, digital equity, and technical infrastructure in Richmond, VA."
+        },
+        "broadband_adoption_analysis": {
+          "type": "string",
+          "description": "Analysis of broadband adoption rates in Richmond ZIP codes 23222, 23223, and 23224, and an assessment of whether web-only arts discovery models risk excluding residents in these neighborhoods."
+        },
+        "broadband_data_by_zip_code": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "zip_code": {
+                "type": "string",
+                "description": "The 5-digit ZIP code for the area."
+              },
+              "neighborhood_name": {
+                "type": "string",
+                "description": "The common name for the neighborhood(s) covered by the ZIP code (e.g., Northside, East End)."
+              },
+              "broadband_subscription_rate_percent": {
+                "type": "number",
+                "description": "The percentage of households within the ZIP code that have a broadband internet subscription."
+              },
+              "data_source": {
+                "type": "string",
+                "description": "The source of the data, including the specific survey and year (e.g., ACS 2022 5-Year Estimates)."
+              }
+            },
+            "required": [
+              "zip_code",
+              "neighborhood_name",
+              "broadband_subscription_rate_percent",
+              "data_source"
+            ],
+            "additionalProperties": false
+          },
+          "description": "Specific broadband adoption rate data for the requested Richmond ZIP codes. Each entry should detail the ZIP code, the percentage of households with a broadband internet subscription, and the data source (e.g., ACS 2022 5-Year Estimates)."
+        },
+        "arts_attendance_data_availability": {
+          "type": "string",
+          "description": "An assessment of whether Richmond has neighborhood-level data on arts event attendance broken down by race, income, or age, and clarification on whether the Richmond 300 survey is the only available proxy."
+        },
+        "language_requirements_for_inclusion": {
+          "type": "string",
+          "description": "Identifies languages beyond English and Spanish needed for inclusive arts discovery in Richmond, based on data about local immigrant and refugee communities. Includes languages such as Dari, Pashto, and Arabic."
+        },
+        "information_channels_for_seniors": {
+          "type": "string",
+          "description": "An overview of how elderly Richmond residents (65+) currently learn about arts and cultural events, covering channels like print media, radio, community newsletters, and word-of-mouth."
+        },
+        "national_arts_aggregator_models_analysis": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "platform_name": {
+                "type": "string",
+                "description": "The name of the national arts aggregator platform being analyzed."
+              },
+              "key_features": {
+                "type": "string",
+                "description": "A summary of the platform's core features, such as community guides, RSVP functionality, or user-driven demand."
+              },
+              "engagement_drivers": {
+                "type": "string",
+                "description": "An analysis of the features or strategies that successfully drove sustained user engagement."
+              },
+              "failure_factors": {
+                "type": "string",
+                "description": "For discontinued models like Eventful's 'Demand It!', an analysis of the factors that led to its failure or discontinuation."
+              }
+            },
+            "required": [
+              "platform_name",
+              "key_features",
+              "engagement_drivers",
+              "failure_factors"
+            ],
+            "additionalProperties": false
+          },
+          "description": "An analysis of national arts aggregator models, including ArtRabbit, DoStuff, and the former Eventful 'Demand It!' feature. Each entry will detail the platform, its key features, and factors that drove or hindered sustained user engagement."
+        },
+        "cultureworks_technical_issue_assessment": {
+          "type": "object",
+          "properties": {
+            "issue_summary": {
+              "type": "string",
+              "description": "A summary of the technical issue observed on the CultureWorks calendar."
+            },
+            "platform_provider": {
+              "type": "string",
+              "description": "The name of the third-party software provider for the calendar, identified as Localist."
+            },
+            "error_message": {
+              "type": "string",
+              "description": "The specific error message found, such as 'Liquid syntax error: Cannot build json - ld tag'."
+            },
+            "implication": {
+              "type": "string",
+              "description": "The potential impact of this error on search engine optimization (SEO) and event data discoverability."
+            }
+          },
+          "required": [
+            "issue_summary",
+            "platform_provider",
+            "error_message",
+            "implication"
+          ],
+          "additionalProperties": false
+        },
+        "event_syndication_tool_feasibility": {
+          "type": "string",
+          "description": "An analysis of the feasibility and potential for a 'submit-once, route-many' event submission tool for Richmond arts organizers to syndicate event listings across multiple platforms like VisitRichmond, Venture Richmond, and Style Weekly."
+        },
+        "richmond_event_submission_portals": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "organization_name": {
+                "type": "string",
+                "description": "The name of the organization that hosts the event calendar (e.g., Visit Richmond, Venture Richmond)."
+              },
+              "portal_name": {
+                "type": "string",
+                "description": "The name or title of the event calendar."
+              },
+              "submission_url": {
+                "type": "string",
+                "description": "The direct URL to the event submission form or page."
+              }
+            },
+            "required": [
+              "organization_name",
+              "portal_name",
+              "submission_url"
+            ],
+            "additionalProperties": false
+          },
+          "description": "A list of the primary event calendar submission portals for organizations in Richmond, VA, including their names and a brief note on their function."
+        },
+        "key_immigrant_support_organizations": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "organization_name": {
+                "type": "string",
+                "description": "The name of the organization supporting immigrant and refugee communities."
+              },
+              "primary_focus": {
+                "type": "string",
+                "description": "The main services or focus of the organization, such as refugee resettlement, health services, or education."
+              },
+              "languages_supported": {
+                "type": "string",
+                "description": "A list of key languages, besides English and Spanish, that are relevant to the communities served by the organization (e.g., Dari, Pashto, Arabic)."
+              }
+            },
+            "required": [
+              "organization_name",
+              "primary_focus",
+              "languages_supported"
+            ],
+            "additionalProperties": false
+          },
+          "description": "A list of key organizations in Richmond that support immigrant and refugee communities, providing insight into the linguistic and cultural diversity of the area. Includes organizations like ReEstablish Richmond and Sacred Heart Center."
+        },
+        "digital_divide_impact_on_arts_access": {
+          "type": "string",
+          "description": "A broader analysis of how the digital divide, encompassing both broadband access and language barriers, impacts equitable access to arts and culture discovery in Richmond."
+        },
+        "recommendations_for_inclusive_arts_discovery": {
+          "type": "string",
+          "description": "Actionable recommendations for arts organizations in Richmond to improve the equity and inclusivity of their event discovery process, based on the report's findings."
+        }
+      },
+      "required": [
+        "executive_summary",
+        "broadband_adoption_analysis",
+        "broadband_data_by_zip_code",
+        "arts_attendance_data_availability",
+        "language_requirements_for_inclusion",
+        "information_channels_for_seniors",
+        "national_arts_aggregator_models_analysis",
+        "cultureworks_technical_issue_assessment",
+        "event_syndication_tool_feasibility",
+        "richmond_event_submission_portals",
+        "key_immigrant_support_organizations",
+        "digital_divide_impact_on_arts_access",
+        "recommendations_for_inclusive_arts_discovery"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "ad_q2_equity.md"
+  }
+}
